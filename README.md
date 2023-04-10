@@ -22,7 +22,7 @@ The list of URLs that publish the aggregate statistics are maintained in `DataUR
 * Following is summary of metrics published by Namma Yatri.
 
 | S.No | File Name  | Aggregation Level | Attributes  | Update Frequency |
-|------|-----------------------------|------------------------|---------------------------------------------------------------------------------|------------------|
+|------|-----------------------------|------------------------|----------------------|------------------|
 | 1    | cumulative_stats.json       | Network Instance level | date_created,drivers_registered,no_of_completed_rides,no_of_ongoing_rides,no_of_search_request,riders_registered,total_earning  | Daily            |
 | 2    | daily_stats_v2.json         | Network Instance level | no_of_search_request, no_of_completed_rides, total_earning                | Hourly           |
 | 3    | driver_eda_ca.json          | Assembly Constituency  | AC_CODE,AC_NAME,active,total_active_drivers,total_active_drivers_notonride,total_drivers_on_ride| |
