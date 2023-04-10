@@ -19,6 +19,7 @@ jobs:
       run: |
         mkdir -p raw-data
         while read -r url; do
+          echo $url
           curl -L "$url" -o "raw-data/$(basename "$url")"
         done < DataURLs.txt
         
