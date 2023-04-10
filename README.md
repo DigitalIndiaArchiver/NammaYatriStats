@@ -13,7 +13,9 @@ Technology behind Namma Yatri is powered by *[Beckn Protocol](https://becknproto
 
 ## Namma Yatri Stats Archiver
 
-Namma Yatri publishes a set of open meta data aggregated by Assembly Constituency / Municipal Ward. This archiver runs daily to archive the published stats to enable a time-series visualisation of the data in mobility network Namma Yatri
+Namma Yatri publishes a set of open meta data aggregated by Assembly Constituency / Municipal Ward. This archiver runs daily to archive the published stats to enable a time-series visualisation of the data in mobility network Namma Yatri.
+
+The list of URLs that publish the aggregate statistics are maintained in `DataURLs.txt` and the archived data is stored in `raw-data` sub-directory.
 
 ### About Aggregate Statistics
 
