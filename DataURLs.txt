@@ -1,0 +1,12 @@
+https://d11gklsvr97l1g.cloudfront.net/open/json-data/funnel_cumulative_ca.json
+https://d11gklsvr97l1g.cloudfront.net/open/json-data/funnel_cumulative_ward.json
+https://d11gklsvr97l1g.cloudfront.net/open/json-data/funnel_live_ca.json
+https://d11gklsvr97l1g.cloudfront.net/open/json-data/funnel_live_ward.json
+https://d11gklsvr97l1g.cloudfront.net/open/json-data/trends_cumulative_ca.json
+https://d11gklsvr97l1g.cloudfront.net/open/json-data/trends_cumulative_ward.json
+https://d11gklsvr97l1g.cloudfront.net/open/json-data/trends_live_ca.json
+https://d11gklsvr97l1g.cloudfront.net/open/json-data/trends_live_ward.json
+https://d11gklsvr97l1g.cloudfront.net/open/json-data/driver_eda_ca.json
+https://d11gklsvr97l1g.cloudfront.net/open/json-data/driver_eda_ward.json
+https://d11gklsvr97l1g.cloudfront.net/open/json-data/cumulative_stats.json
+https://d11gklsvr97l1g.cloudfront.net/open/json-data/daily_stats_v2.json

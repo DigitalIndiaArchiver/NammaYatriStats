@@ -1,0 +1,30 @@
+name: Download JSON files
+
+on:
+  workflow_dispatch:
+  push:
+    branches: ["main"]
+    paths: ["DataURLs.txt"]
+  schedule:
+    - cron:  '30 18 * * *'
+
+jobs:
+  download-json-files:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3.5.0
+      
+    - name: Download JSON files
+      run: |
+        mkdir -p raw-data
+        while read -r url; do
+          curl -L "$url" -o "raw-data/$(basename "$url")"
+        done < DataURLs.txt
+        
+    - name: Commit and push changes
+      uses: stefanzweifel/git-auto-commit-action@v4.16.0
+      with:
+        commit_message: "Add new JSON files"
+        commit_options: '--no-verify'
+        file_pattern: 'raw-data/*.json'
