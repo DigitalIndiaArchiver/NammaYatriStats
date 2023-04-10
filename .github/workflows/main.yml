@@ -6,7 +6,7 @@ on:
     branches: ["main"]
     paths: ["DataURLs.txt"]
   schedule:
-    - cron:  '30 18 * * *'
+    - cron:  '29 18 * * *'
 
 jobs:
   download-json-files:
