@@ -1,4 +1,4 @@
-name: Download JSON files
+name: Download NammaYatri Stats
 
 on:
   workflow_dispatch:
