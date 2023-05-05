@@ -1,9 +1,8 @@
 # NammaYatriStats
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![FlatGithub](https://img.shields.io/badge/FlatGithub-View%20Data-green?style=flat-square&logo=github)](https://flatgithub.com/srikanthlogic/NammaYatriStats)
-[![Open in Gitpod](https://img.shields.io/badge/Open%20in-Gitpod-blue?logo=gitpod)](https://gitpod.io/#https://github.com/srikanthlogic/NammaYatriStats)
-![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/srikanthlogic/NammaYatriStats/main.yml)
+[![FlatGithub](https://img.shields.io/badge/FlatGithub-View%20Data-green?style=flat-square&logo=github)](https://flatgithub.com/DigitalIndiaArchiver/NammaYatriStats)
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/DigitalIndiaArchiver/NammaYatriStats/main.yml)
 
 ## NammaYatri
 
