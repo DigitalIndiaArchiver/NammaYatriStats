@@ -75,6 +75,7 @@ def save_app_reviews(app_id: str) -> None:
     upto_date = (datetime.today() - timedelta(days=1)).date()
     reviews = extract_all_reviews(app_id, upto_date) if existing_reviews else extract_all_reviews(app_id)
     all_reviews = remove_duplicates(existing_reviews + reviews)
+    all_reviews = sorted(all_reviews, key=lambda x: (datetime.strptime(x["date"], "%Y-%m-%d"), x["id"]), reverse=True)
 
     with open(review_filename, 'w') as file:
         json.dump(all_reviews, file, indent=4)
