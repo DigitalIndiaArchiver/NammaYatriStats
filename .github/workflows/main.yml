@@ -17,7 +17,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout code
-      uses: actions/checkout@v3.5.3
+      uses: actions/checkout@v4.1.1
       
     - name: Download JSON files
       run: |
@@ -26,10 +26,16 @@ jobs:
           echo $url
           curl -L "$url" -o "raw-data/$(basename "$url")"
         done < DataURLs.txt
+    
+    - name: Extract Reviews
+      run: |
+        mkdir -p raw-data/reviews
+        cd script
+        python ExtractReviews.py
         
     - name: Commit and push changes
-      uses: stefanzweifel/git-auto-commit-action@v4.16.0
+      uses: stefanzweifel/git-auto-commit-action@v5
       with:
         commit_message: "Add new JSON files"
         commit_options: '--no-verify'
-        file_pattern: 'raw-data/*.json'
+        file_pattern: 'raw-data/*.json raw-data/reviews/*.json'
