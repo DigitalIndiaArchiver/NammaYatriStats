@@ -74,7 +74,7 @@ def save_app_reviews(app_id: str) -> None:
 
     upto_date = (datetime.today() - timedelta(days=7)).date()
     reviews = extract_all_reviews(app_id, upto_date) if existing_reviews else extract_all_reviews(app_id)
-    print(len(reviews))
+    logging.debug('Count of all reviews', len(reviews))
     all_reviews = remove_duplicates(existing_reviews + reviews)
     all_reviews = sorted(all_reviews, key=lambda x: (datetime.strptime(x["date"], "%Y-%m-%d"), x["id"]), reverse=True)
     with open(review_filename, 'w') as file:
@@ -118,14 +118,16 @@ def save_app_review_criterias(app_id: str) -> None:
         for key in single_review:
             if key.startswith("vaf"):
                 criteria_counts[key] = criteria_counts.get(key, 0) + 1
-    print(criterias_filename)
     with open(criterias_filename, 'w') as file:
         json.dump(criteria_counts, file, indent=4)
 
 
 if __name__ == "__main__":
-    app_ids = ["in.juspay.nammayatri", "in.juspay.nammayatripartner", "net.openkochi.yatri", "net.openkochi.yatripartner"]
-    logging.basicConfig(filename='ExtractReviews' + time.strftime("%Y%m%d-%H%M%S") + '.log', format='%(asctime)s %(message)s', level=logging.INFO)
+    app_ids = ["in.juspay.nammayatri", "in.juspay.nammayatripartner", "net.openkochi.yatri", 
+               "net.openkochi.yatripartner","in.juspay.jatrisaathi", "in.juspay.jatrisaathidriver",
+               "com.yaary.consumer.android", "com.yaary.partner"]
+    logging.basicConfig(filename='ExtractReviews' + time.strftime("%Y%m%d-%H%M%S") + '.log', 
+                        format='%(asctime)s %(message)s', level=logging.INFO)
     
     for app_id in app_ids:
         save_app_reviews(app_id)
