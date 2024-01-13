@@ -1,5 +1,453 @@
 [
     {
+        "id": "f3fe19ff-bbc6-4dab-bf4f-c5b8355fb632",
+        "date": "2024-01-11",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good service \ud83d\udc4d"
+    },
+    {
+        "id": "298d266d-3360-4b18-ae83-38cade1e1a6f",
+        "date": "2024-01-11",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "I'm not able to sign up now, shows there is some error. Plus, once I booked for a cab through another number, and the app was updating, the cab came and I couldn't see the details as the app was not opening. Since updates, there has been issues with this app."
+    },
+    {
+        "id": "94a4408a-03b3-4d85-8ba7-610371ba7b43",
+        "date": "2024-01-09",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good service"
+    },
+    {
+        "id": "06b4e58b-ac0e-48a2-a111-a94fe73b29fa",
+        "date": "2024-01-09",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "excellent"
+    },
+    {
+        "id": "2d444502-4507-4fe8-a2fd-0b8b579c614e",
+        "date": "2024-01-02",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "It is nice"
+    },
+    {
+        "id": "28a326e0-cffc-4f86-8443-5fbebdc74647",
+        "date": "2023-12-31",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "very difficult to get vehicle"
+    },
+    {
+        "id": "461cbe76-0569-46ef-ac21-bba3ca813d50",
+        "date": "2023-12-30",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "I had a very bad experience from yatri. I booked a cab using yatri but the rates were on higher side so I canceled it. Again when I tried to book the cab got the same. Immediately the cab driver called me and shouted at me for canceling the cab earlier. This is very very bad behavior. This app is only supporting cab drivers not the users. Cab driver's mostly misuse the option of adding extra charge and users are not allowed to cancel the cab if they are not ok with the rates. Dispointed !!!!!"
+    },
+    {
+        "id": "3c35f5a6-9d38-43b9-b802-7b18d6161a3a",
+        "date": "2023-12-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "usually we choose Uber. first time in yathri. felt very much good"
+    },
+    {
+        "id": "9c4afdf0-c3bd-4e6a-8db6-5cab3640bb00",
+        "date": "2023-12-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good service"
+    },
+    {
+        "id": "fea6d7f4-0d8b-437d-988a-def4f94b3b95",
+        "date": "2023-12-27",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Horrible experience. Got fooled by the initial price while booking. It showed me 1600 for my trip when started, so I booked it since ola was showing 1800. But after reaching my place, the fair changed to 2060. 400rs more. Never seen such a drastic change in the price in any of the apps. Used it for the first time, and that would be the last as well. Should have gone for ola, atleast I could have saved 200rs. Don't fall for the fake reviews in play store"
+    },
+    {
+        "id": "0a9c304f-d759-477d-a0ff-469376600654",
+        "date": "2023-12-27",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Waste of time"
+    },
+    {
+        "id": "127e8762-b613-4c11-97cf-7e48b14c1098",
+        "date": "2023-12-25",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Very good connectivity"
+    },
+    {
+        "id": "95f6d16b-7d64-4b31-8cac-26782a3e2421",
+        "date": "2023-12-18",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "not all locations has access"
+    },
+    {
+        "id": "860f612b-c779-4d07-8228-931215c0a9ce",
+        "date": "2023-12-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good app.. recommended to everyone"
+    },
+    {
+        "id": "958f76b0-fac4-49e9-be67-d092a32b9828",
+        "date": "2023-12-16",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very comfortable driving"
+    },
+    {
+        "id": "7f4b7636-8b09-4415-ac85-9acf1acf4825",
+        "date": "2023-12-16",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Very good"
+    },
+    {
+        "id": "9f6dd963-42c7-4f22-be59-d8cb23187d59",
+        "date": "2023-12-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "on time"
+    },
+    {
+        "id": "d4746336-b255-4442-9dc2-76e9c624dc07",
+        "date": "2023-12-13",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Right from the inception of this app, I have been a consumer. And at first the rates were very competitive and sensible. Now the rates have been increased and compared to Uber, it is very much on the higher side."
+    },
+    {
+        "id": "c4b7af0d-9900-4725-a368-aac23d9ec095",
+        "date": "2023-12-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Quick & Economical service"
+    },
+    {
+        "id": "3263488d-1e51-4547-8227-11d34105168b",
+        "date": "2023-12-11",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "When internet is on App is auto online issue"
+    },
+    {
+        "id": "097b33f3-1761-439a-9d11-d0f0d8e5c79d",
+        "date": "2023-12-09",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very well!!"
+    },
+    {
+        "id": "52cfd946-fcfa-4984-8afb-0616e64583a9",
+        "date": "2023-12-08",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice"
+    },
+    {
+        "id": "50249b81-d251-4d54-8963-cbed3009c1a8",
+        "date": "2023-12-07",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Am very satisfied, safe yaatra and fair price \ud83d\ude4f\ud83d\ude4fthank you Yatri \ud83e\udd70"
+    },
+    {
+        "id": "d4f48f81-8d68-42bf-a686-681ddcc26ace",
+        "date": "2023-12-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good, friendly and competitively priced."
+    },
+    {
+        "id": "7c676eb0-dfa9-4bdd-a3f0-397e94d974c5",
+        "date": "2023-12-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "need bike and cab ride also for all over india."
+    },
+    {
+        "id": "771c771f-277c-451f-ac60-bf062c8783fb",
+        "date": "2023-12-03",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Useless app...the drivers keep on cancelling the ride"
+    },
+    {
+        "id": "2d8ccf73-4cd8-4f42-b8fb-56177a8aafce",
+        "date": "2023-12-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Great app very budget friendly"
+    },
+    {
+        "id": "18ac4cad-eb35-4f2b-a453-6191a2f8516b",
+        "date": "2023-11-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "if this is continuing in this matter, I would love to go to the heights, best alternative for the cab drivers n the general public..... hope the app gets upgraded to be more user friendly."
+    },
+    {
+        "id": "5e9da3bf-bb40-4cd4-9e60-c96f7f7d65b6",
+        "date": "2023-11-28",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "It says fare does not change with surge, but the fare always increases by the end of the trip. There is no system present to compensate for this. All they say when you call customer support is that we will give the drivers a slap on the wrist. How is that fixing the problem?"
+    },
+    {
+        "id": "409d74bc-a546-48de-b45d-f8d2d70c7a3f",
+        "date": "2023-11-28",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Actual fare was higher than shown.. bad experience"
+    },
+    {
+        "id": "20539e3b-c46d-436f-a20c-18a4384e54f3",
+        "date": "2023-11-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good service"
+    },
+    {
+        "id": "24447043-56e8-48b2-b9b9-7cb9920fddfe",
+        "date": "2023-11-27",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "Not only once But the fare has raised four times for me. Not for 10/-. It goes more than 70 80/-. It looks like scam now. Shows something but while drop it increases like anything. There's no option for complaint. It's my 4th time since I did not get any refund of the excess money cut also. Knowingly drives take the longer rout. If you tell to follow the map, they will say road issue or traffic issue is there and they will take other root. Initially it was good but not these days."
+    },
+    {
+        "id": "5a2e842e-990f-49d0-9b5c-d4a678e60b84",
+        "date": "2023-11-23",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good \ud83d\udc4d job"
+    },
+    {
+        "id": "45971709-d280-4026-8e84-1dcaeeebaf42",
+        "date": "2023-11-23",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "The amount shown after the trip is Rs 30/- to Rs 40/- more than at the time of booking."
+    },
+    {
+        "id": "e6521189-7636-49e2-a70e-7d17afe38c36",
+        "date": "2023-11-22",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Charging extra amount after dropping..... Totaly dissatisfied.... If i had any option for zero rating i would give that"
+    },
+    {
+        "id": "d36b0aee-3f4f-422f-8d18-5c24f6184dde",
+        "date": "2023-11-21",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good morning"
+    },
+    {
+        "id": "8e3df08b-7c79-4726-ac84-4a2df6153694",
+        "date": "2023-11-21",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Competitive rates compared to Uber."
+    },
+    {
+        "id": "2fca5984-66d0-4a6f-94e2-f7b836316847",
+        "date": "2023-11-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Recommend"
+    },
+    {
+        "id": "5af4321d-008a-4ebb-aaa9-8a5f26e9ba5b",
+        "date": "2023-11-11",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "safety and reasonable rides"
+    },
+    {
+        "id": "bedc5ba5-16cb-4d10-a7f5-37d4ac74e651",
+        "date": "2023-11-10",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "auto payment needed"
+    },
+    {
+        "id": "3808c7d0-a97d-4f3f-ad80-b614b96171bd",
+        "date": "2023-11-09",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good price"
+    },
+    {
+        "id": "25c76c08-29cb-4bac-8829-2a84f81a06b5",
+        "date": "2023-11-08",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "gd service"
+    },
+    {
+        "id": "df5cc897-0eb3-4704-973f-40a8e4b08271",
+        "date": "2023-11-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "done"
+    },
+    {
+        "id": "5fccb73c-b68c-4b00-bf33-0235feeadd5f",
+        "date": "2023-11-04",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "Cheaper charges ! But you MUST improve your destination suggestions. Its so hard to find a place."
+    },
+    {
+        "id": "d2322960-56bc-4986-939f-172e07789c72",
+        "date": "2023-11-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super"
+    },
+    {
+        "id": "e74b275e-63f6-4124-b1ec-a2be4008a24f",
+        "date": "2023-10-31",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Drivers are always taking different routes and final amount gets added every single time. Uninstalling this app."
+    },
+    {
+        "id": "2373df70-1828-433a-aa32-98d3a8b42329",
+        "date": "2023-10-31",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "drivers are demanding more cash for their rides, last time one driver made.rash comments after I objected his request at the airport, and he asked me to quit the car."
+    },
+    {
+        "id": "a0a46f68-2913-41bd-84f7-a98f8e192922",
+        "date": "2023-10-30",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good service"
+    },
+    {
+        "id": "42c05cae-ee30-4a63-bc54-07f7ce124784",
+        "date": "2023-10-30",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "safe Travel"
+    },
+    {
+        "id": "93a0dc10-59f8-4d1d-aaf8-e35ccaa63523",
+        "date": "2023-10-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "\ud83d\udc4d"
+    },
+    {
+        "id": "591f0827-94fc-4883-b0b9-412b5d12d772",
+        "date": "2023-10-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Well maintained in all the manner.."
+    },
+    {
+        "id": "a25ce6db-7877-4d62-b599-a552647f0ace",
+        "date": "2023-10-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f"
+    },
+    {
+        "id": "fe397e03-729c-4c46-8e95-bd13352d3f09",
+        "date": "2023-10-25",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "drivers are not available in this app"
+    },
+    {
+        "id": "c17e6eaf-d16e-4905-a32f-501aa33632b2",
+        "date": "2023-10-25",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "You should add feature to your app, to include add mobile no (attached to particular ride) at time of booking, so cab can be booked on behalf of guests and visitors whose mobile no can be included for that specific ride to get directly updated once ride is confirmed and booked."
+    },
+    {
+        "id": "ba7863f8-e1e1-4b0a-837e-c5f6b4f2104c",
+        "date": "2023-10-25",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good service"
+    },
+    {
+        "id": "73e6c1d2-32e8-4c7f-8169-cd3952b45419",
+        "date": "2023-10-24",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "sometimes pick -up location gone wrong"
+    },
+    {
         "id": "cca2c93f-1708-4863-bf04-ac0fa3d6e2e1",
         "date": "2023-10-21",
         "score": 1,

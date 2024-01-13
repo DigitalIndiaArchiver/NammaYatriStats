@@ -72,11 +72,11 @@ def save_app_reviews(app_id: str) -> None:
     else:
         existing_reviews = []
 
-    upto_date = (datetime.today() - timedelta(days=1)).date()
+    upto_date = (datetime.today() - timedelta(days=7)).date()
     reviews = extract_all_reviews(app_id, upto_date) if existing_reviews else extract_all_reviews(app_id)
+    print(len(reviews))
     all_reviews = remove_duplicates(existing_reviews + reviews)
     all_reviews = sorted(all_reviews, key=lambda x: (datetime.strptime(x["date"], "%Y-%m-%d"), x["id"]), reverse=True)
-
     with open(review_filename, 'w') as file:
         json.dump(all_reviews, file, indent=4)
 
@@ -107,7 +107,7 @@ def save_app_review_criterias(app_id: str) -> None:
     criterias_filename = '../raw-data/reviews/' + f"Criterias_{app_id}.json"
 
     if os.path.exists(review_filename):
-        with open(review_filename) as review_file:
+        with open(review_filename, 'r') as review_file:
             existing_reviews = json.load(review_file)
     else:
         existing_reviews = []
@@ -118,7 +118,7 @@ def save_app_review_criterias(app_id: str) -> None:
         for key in single_review:
             if key.startswith("vaf"):
                 criteria_counts[key] = criteria_counts.get(key, 0) + 1
-
+    print(criterias_filename)
     with open(criterias_filename, 'w') as file:
         json.dump(criteria_counts, file, indent=4)
 
