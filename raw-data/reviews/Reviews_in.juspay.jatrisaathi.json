@@ -1,5 +1,221 @@
 [
     {
+        "id": "f3bc1b5d-2e82-4916-932d-743d008158fd",
+        "date": "2024-01-14",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Ver poor and full of bugs. Especially one bug which anaws most is after the OTP expires unable to book again and no way to re generate the OTP. The OTP showing screen jush crashes. Please fix all of the bugs and test the application thoroughly."
+    },
+    {
+        "id": "f144f220-8367-4be6-a0dc-eab10971d00c",
+        "date": "2024-01-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very nice application."
+    },
+    {
+        "id": "e858542a-5056-4ed2-b443-e4d2064012cb",
+        "date": "2024-01-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "e2ffdcf2-a8b0-490e-aaaa-9614d52e9582",
+        "date": "2024-01-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good \ud83d\udc4d"
+    },
+    {
+        "id": "d1a28de1-0832-4c8e-b94c-c9a9123a64f6",
+        "date": "2024-01-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "c508bee9-8733-4fc0-97b0-f0fee65ea70a",
+        "date": "2024-01-14",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "quick and lite"
+    },
+    {
+        "id": "c4cac9f7-f5e9-4db8-8e16-54c42d97d024",
+        "date": "2024-01-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good"
+    },
+    {
+        "id": "a26dc4e2-63bb-45d0-85f7-36c2b20e48fd",
+        "date": "2024-01-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "price is very fair"
+    },
+    {
+        "id": "9af51290-b9fd-4456-8e99-ea5e7f4b03f4",
+        "date": "2024-01-14",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Worst app cab service..Rate is low but you have to wait for more than 30-40 min to get into the queue. Very few cabs available . Moreover you have to run from gate 1 to gate 4 to find a cab and after reaching there you will find only a queue of 50 people..."
+    },
+    {
+        "id": "91061db7-298b-42b0-86ac-8959b548d95c",
+        "date": "2024-01-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "856608a8-70e4-4669-8e93-3dab1fc0525e",
+        "date": "2024-01-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very useful apps"
+    },
+    {
+        "id": "83e8b2e2-f947-4114-a74a-e337c56853a6",
+        "date": "2024-01-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "when I need to go howrah from my residence , I never get Yatri sathi though I try to booked it . need to make it easy"
+    },
+    {
+        "id": "72c8069b-62c1-4154-9fed-ef27753b4ee5",
+        "date": "2024-01-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "6ddb1bfb-4d08-4ce2-bdda-9a6ea1d46d3d",
+        "date": "2024-01-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very nice service and ontime service"
+    },
+    {
+        "id": "6867c391-a389-4aff-8fd4-cbcdb177d240",
+        "date": "2024-01-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "excellent"
+    },
+    {
+        "id": "5d51a04f-6533-4da4-af6a-b0b3b0b0bffd",
+        "date": "2024-01-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Ok"
+    },
+    {
+        "id": "59e58835-03a5-431d-b945-7cce1ad35b0a",
+        "date": "2024-01-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good"
+    },
+    {
+        "id": "55ccae34-c2f6-47e5-9a1d-86288612d475",
+        "date": "2024-01-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Very well"
+    },
+    {
+        "id": "4bdda085-eacb-4a9d-a513-bca06862a3ca",
+        "date": "2024-01-14",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "When I checked out the app to reach my destination then it showed me the destination fare which was Rs.154 so I took that but when I reached the destination the driver refused me to take that fare he charged Rs.198 so we had an argument. Then I checked the app but then the app too showed me Rs.198 which was too ridiculous. I checked out Uber also there the fare was Rs. 190 and that's why I choosed yatri sathi... But at the end of the day I have to pay more than the uber fare. So it was disgusted"
+    },
+    {
+        "id": "466463a6-5fe8-4ddc-b36a-b56c57320464",
+        "date": "2024-01-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "awesome"
+    },
+    {
+        "id": "4498ef7b-7099-42b9-be8c-6962466e26ea",
+        "date": "2024-01-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very very helpful app yatri Sathi is the best and cheap app"
+    },
+    {
+        "id": "3a50337e-56d5-4a7a-9e17-f44b9520ed36",
+        "date": "2024-01-14",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Worst app ever.Drop location name and actual location gets changed along the ride.Had to pay extra to come to my location and customer support was also useless.Never using the app again"
+    },
+    {
+        "id": "37edcfca-e90a-4315-b3d4-3c1e6fdc6cb4",
+        "date": "2024-01-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "superb"
+    },
+    {
+        "id": "21835fae-f2e1-41bb-af35-cae5bf8ff154",
+        "date": "2024-01-14",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Very bad service. We give one location, but the driver said it's showing different location to him."
+    },
+    {
+        "id": "148d0809-6368-407d-b9e7-96656b21e773",
+        "date": "2024-01-14",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Most worst service....."
+    },
+    {
+        "id": "0ba65ed2-2b32-4213-8fa4-94462f5fd91b",
+        "date": "2024-01-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good\ud83d\udc4d"
+    },
+    {
+        "id": "01ce9a7a-cfac-47d9-afeb-ae94c03d23ae",
+        "date": "2024-01-14",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "Apps not work properly"
+    },
+    {
         "id": "eb4cbaa1-4577-46e3-8b29-8b7d1b4c7093",
         "date": "2024-01-13",
         "score": 5,
@@ -22,6 +238,14 @@
         "scoreText": "5",
         "title": null,
         "text": "Goodbye"
+    },
+    {
+        "id": "c2bee874-70d5-4298-be4c-a72f8a88e81e",
+        "date": "2024-01-13",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Worst"
     },
     {
         "id": "c0974bf6-1909-414a-bd91-964242db22ec",
