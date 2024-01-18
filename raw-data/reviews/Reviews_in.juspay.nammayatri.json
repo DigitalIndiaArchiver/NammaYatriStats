@@ -1,5 +1,181 @@
 [
     {
+        "id": "e0c280aa-70aa-48b8-ae5f-1f26be36e2c2",
+        "date": "2024-01-17",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice"
+    },
+    {
+        "id": "deea0dd4-4351-4c4b-9cb0-222dd9a36b4e",
+        "date": "2024-01-17",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "First the driver eccepted the ride and when they are near the pick point they'll cancel the ride, it happened many time.. not only that the drivers will ask extra fare."
+    },
+    {
+        "id": "c64695c1-a0f5-4dbc-8cc2-4471f6cf0f8e",
+        "date": "2024-01-17",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "excellent"
+    },
+    {
+        "id": "c38beafd-cb43-4a06-9c9f-cb548185dc30",
+        "date": "2024-01-17",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Trying to login to the app but it never sends OTP to the number.. Update-- apparently if you cancel 3 times because the prices are unreasonably high,they block your number and never send the OTP to login into the app Using from other phone, update on app there's no manual selecting so auto drivers choose high price which is literally equal to ola,Uber,rapidi prices. What's even the point,it's just like any other app now Waste of time They didn't respond to emails either."
+    },
+    {
+        "id": "be22fabd-bbb0-490f-b0d1-eb54fbfa703d",
+        "date": "2024-01-17",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "price is higher than uber, ola."
+    },
+    {
+        "id": "ae86e613-db76-4a4c-bee4-7e8f54b52be7",
+        "date": "2024-01-17",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good"
+    },
+    {
+        "id": "aafbfebc-7324-4625-82a6-8fb113907242",
+        "date": "2024-01-17",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "the amount for the trip shows less and when the trip ends it shows more"
+    },
+    {
+        "id": "a16653f8-ecf5-4121-b36f-6c9482cd1408",
+        "date": "2024-01-17",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Not able to register. Not able to receive OTP SMS. Tried several times over many months. Something is wrong. Bad onboarding."
+    },
+    {
+        "id": "9dd75a21-b6e2-4329-a8e3-d69dbcc5dad1",
+        "date": "2024-01-17",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Very rude auto drivers. Take extra money after drop"
+    },
+    {
+        "id": "9729c9f0-fccb-4c45-ac42-9a4ed6b8708f",
+        "date": "2024-01-17",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Terrible experience , uninstalled the app."
+    },
+    {
+        "id": "939a2f30-8b77-4b3b-b713-266d6b6703fe",
+        "date": "2024-01-17",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "really it's a good experience"
+    },
+    {
+        "id": "849a7056-a073-4605-96c8-a27e3691d13a",
+        "date": "2024-01-17",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "Good app for the most part. However, drivers keep cancelling after they say they will come. But worst part is that if the fare increases because they have taken a long route or wrong turn, customer suffers and there's no way to report this or get a refund."
+    },
+    {
+        "id": "8023b906-7b5c-417b-8e4d-b17f488225cd",
+        "date": "2024-01-17",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "great service"
+    },
+    {
+        "id": "52d0354c-2d8e-45a9-8821-8c1243d99e38",
+        "date": "2024-01-17",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "High charges given to passenger"
+    },
+    {
+        "id": "4aeed57e-d63b-456b-b5f5-47123e488f8c",
+        "date": "2024-01-17",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "economical"
+    },
+    {
+        "id": "45dcb40c-5c20-46e4-a490-13c0b46802ee",
+        "date": "2024-01-17",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good experience"
+    },
+    {
+        "id": "411b9c56-c2ba-4499-b6b9-2cbd10b5d9b9",
+        "date": "2024-01-17",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "App aHangs after booking"
+    },
+    {
+        "id": "3d093f8f-aacf-466c-bb38-598829f6820c",
+        "date": "2024-01-17",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "it was very easy to go and access"
+    },
+    {
+        "id": "1e967cfc-978a-4f6c-b223-d72fdaf6944c",
+        "date": "2024-01-17",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "Bist"
+    },
+    {
+        "id": "1374de67-3d26-47e6-9dce-3b3e0b9449b2",
+        "date": "2024-01-17",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "some drives cheating"
+    },
+    {
+        "id": "12a03646-2652-4435-a8a6-85e500dae469",
+        "date": "2024-01-17",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Worst app. The drivers will go somewhere and park their vehicle and if u ask them to come to ur location they will tell u to cancel the ride. Ride drivers. Worst app"
+    },
+    {
+        "id": "0fc412d5-379c-42c5-b04f-b1f519fd9a27",
+        "date": "2024-01-17",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good"
+    },
+    {
         "id": "e668d763-98ba-48cd-9ba3-95a41acb6b93",
         "date": "2024-01-16",
         "score": 5,
