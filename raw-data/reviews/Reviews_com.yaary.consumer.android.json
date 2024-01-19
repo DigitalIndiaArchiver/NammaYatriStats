@@ -1,5 +1,301 @@
 [
     {
+        "id": "fdb9b568-3bc4-476a-a151-cd543e33ede2",
+        "date": "2024-01-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good service"
+    },
+    {
+        "id": "da63d80f-2168-4702-b2d5-20b32eb9467d",
+        "date": "2024-01-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Nice"
+    },
+    {
+        "id": "d3a7d93a-510f-49d7-857d-4798ec925680",
+        "date": "2024-01-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good"
+    },
+    {
+        "id": "ce51fc5a-668c-461a-a15c-7dd23d884ccb",
+        "date": "2024-01-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good"
+    },
+    {
+        "id": "bf492d8b-2751-43fe-9351-c47fc1d9b4f6",
+        "date": "2024-01-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice"
+    },
+    {
+        "id": "bbf7263c-abf6-44b3-96e6-52cd7a198f56",
+        "date": "2024-01-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Nice"
+    },
+    {
+        "id": "b9dd6873-4032-413e-ad76-8c26d4a00e8c",
+        "date": "2024-01-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good services"
+    },
+    {
+        "id": "b418341f-951a-4da3-bb71-0ca26d40a97e",
+        "date": "2024-01-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "The prices are too less and got the autos faster than other platforms :)"
+    },
+    {
+        "id": "aa556a3d-a8bf-495c-8c75-a6abe9b48bf4",
+        "date": "2024-01-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good"
+    },
+    {
+        "id": "a2a6d02a-969c-4994-a308-b41043f26a5d",
+        "date": "2024-01-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good"
+    },
+    {
+        "id": "9f0b3bc6-bc60-4eed-b8bf-34a80bdeb336",
+        "date": "2024-01-18",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "I installed Yaary after seeing their ads claiming to be India's first driver-focused mobility app. I was hoping to find a cheap and convenient ride-hailing service in Hyderabad. But I was very disappointed by how expensive and unreliable Yaary was. I tried to book a ride with Yaary from my office to home, which is only 4.5 km away. The app showed me a fare of Rs 200, which is 40% more than what other apps charge for the same distance. I thought it was a mistake, so I refreshed the app and tried"
+    },
+    {
+        "id": "9ed95910-6f1d-491c-a291-f9d3d0fb99dc",
+        "date": "2024-01-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Nice"
+    },
+    {
+        "id": "9c6f1138-7036-4c3c-af6a-4d790072de6a",
+        "date": "2024-01-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good"
+    },
+    {
+        "id": "98baf144-a43e-43ce-b1fb-26b962eb5590",
+        "date": "2024-01-18",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "I just tested. Yaary auto charges are more than Ola autos."
+    },
+    {
+        "id": "98b9f446-58f1-4fd2-a7fc-703657e43ed4",
+        "date": "2024-01-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Nice"
+    },
+    {
+        "id": "983ddcfa-799a-4b05-81c1-961466c1428c",
+        "date": "2024-01-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Nice"
+    },
+    {
+        "id": "85b4854f-2c82-4af6-8d68-7990eaf54161",
+        "date": "2024-01-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Nice"
+    },
+    {
+        "id": "80b42c0b-9edf-4db4-be13-b0e8cac7a77c",
+        "date": "2024-01-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Nice"
+    },
+    {
+        "id": "791adc1c-62c6-4da0-bce2-6c00f73b5b1c",
+        "date": "2024-01-18",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "Price is higher than rapido and uber"
+    },
+    {
+        "id": "78dde4f8-b3b0-41a2-8d27-6b0f3790cc03",
+        "date": "2024-01-18",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Not showing fares before booking"
+    },
+    {
+        "id": "775b2e88-8b7c-4d39-be09-d8e2f6eaa0af",
+        "date": "2024-01-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Nice"
+    },
+    {
+        "id": "733b3803-291a-4b03-8b36-5c80f50c2a61",
+        "date": "2024-01-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Nice"
+    },
+    {
+        "id": "708a0756-dd4c-44fa-8bfb-7f2319237ac6",
+        "date": "2024-01-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good"
+    },
+    {
+        "id": "5cc112af-0ef8-462c-a1dd-5de9ab1dfc6d",
+        "date": "2024-01-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good"
+    },
+    {
+        "id": "56630102-eee0-41d5-a949-be387ae13821",
+        "date": "2024-01-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Nice"
+    },
+    {
+        "id": "46642ff2-cc34-47d9-9964-0e85ef3cb5d1",
+        "date": "2024-01-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Nice"
+    },
+    {
+        "id": "450445e5-ddfe-45c1-b3cd-7750339ab8ff",
+        "date": "2024-01-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Nice"
+    },
+    {
+        "id": "41e6e167-bda8-4814-a858-a50110820533",
+        "date": "2024-01-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Nice"
+    },
+    {
+        "id": "3e60ffe7-fed5-4814-83b8-e45789e753f8",
+        "date": "2024-01-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Nice"
+    },
+    {
+        "id": "3acc9ffa-8ee5-41a4-9295-6233a065156c",
+        "date": "2024-01-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Nice"
+    },
+    {
+        "id": "37a1fbf8-46e1-469f-a255-edce51540bdf",
+        "date": "2024-01-18",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Worst experience. Local autowalas asks for the location and cancel the ride."
+    },
+    {
+        "id": "35a79064-c4af-44c8-a9a3-9ca09216e6f7",
+        "date": "2024-01-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Nice"
+    },
+    {
+        "id": "24b40558-5335-48ce-bcc1-b6901e571898",
+        "date": "2024-01-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good service"
+    },
+    {
+        "id": "20bff863-5b33-47b1-9f25-092cf53c3c2f",
+        "date": "2024-01-18",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "Not showing the amount ,before booking a ride"
+    },
+    {
+        "id": "15758a7f-0c6c-47d6-aebe-47434ba99f65",
+        "date": "2024-01-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good nice"
+    },
+    {
+        "id": "0cb6c9be-8d14-4d93-b435-d560c814c101",
+        "date": "2024-01-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Nice"
+    },
+    {
+        "id": "098cb2e0-b1b0-4d7a-8b2b-420558969bb6",
+        "date": "2024-01-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Nice"
+    },
+    {
         "id": "fb88f302-7ff3-4ad2-a361-e29b77a8cc38",
         "date": "2024-01-17",
         "score": 5,

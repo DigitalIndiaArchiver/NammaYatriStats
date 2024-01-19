@@ -1,5 +1,149 @@
 [
     {
+        "id": "fd5d8072-62fb-466d-9170-a113f5b5f9f0",
+        "date": "2024-01-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good \ud83d\udc4d"
+    },
+    {
+        "id": "dc4cb061-7c72-4fa7-ad44-18093291a525",
+        "date": "2024-01-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "best on time service"
+    },
+    {
+        "id": "b0fb25ae-43d0-4277-8733-73f3b9b21914",
+        "date": "2024-01-18",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Always frozen. Please fix this."
+    },
+    {
+        "id": "a1b209e4-2d87-4fd6-89bc-0b20086c059d",
+        "date": "2024-01-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good \ud83d\udc4d"
+    },
+    {
+        "id": "93472d90-ac03-4efe-a201-e59ba2fce553",
+        "date": "2024-01-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good app"
+    },
+    {
+        "id": "8bc99a83-b7c5-4b78-8130-7bf409d463e7",
+        "date": "2024-01-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "thank you for your supporting \ud83d\ude4f"
+    },
+    {
+        "id": "8a7c440a-ca21-4896-87af-586a8df0267d",
+        "date": "2024-01-18",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "No customer service , auto drivers do what they want. Its same as getting local autos"
+    },
+    {
+        "id": "7bffcc12-cfd4-4541-882a-111da66c2d3d",
+        "date": "2024-01-18",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "drivers are arriving at location, starting the timer, and then driving away."
+    },
+    {
+        "id": "7b2dc466-bb90-4a18-a5ee-c32fe9cf7dc2",
+        "date": "2024-01-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice"
+    },
+    {
+        "id": "5e7cd18f-d46b-4e93-91a4-992a2372c074",
+        "date": "2024-01-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "it is very good app & booking is fast ,on time."
+    },
+    {
+        "id": "464679e4-cf56-4cad-b994-bbc30b50e343",
+        "date": "2024-01-18",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "I have been using the Namma Yatri app for some time now, and while I appreciate its potential as a useful tool for travelers, I have encountered several issues that are impacting my user experience. Here are some specific issues I have encountered: (1)-Difficulties logging in or signing up for an account (2)-Issues with booking or canceling tickets etc.... I think Namma Yatri has the potential to be a valuable resource for travelers, but these issues are currently distracting from its usefulness"
+    },
+    {
+        "id": "37533ac0-a704-4075-b7ec-ecb970f4e224",
+        "date": "2024-01-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "amazing"
+    },
+    {
+        "id": "33c5b504-3940-40e0-97ae-465960780a90",
+        "date": "2024-01-18",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Had a terrible experience with the ride booked on this app. With not giving in app payment option, the app has provided free will to drivers to harass the customer to pay more than the amount shown on the app. Would definitely not recommend this app!!"
+    },
+    {
+        "id": "2f7ede1e-8f57-4495-88ce-2187df0a00e0",
+        "date": "2024-01-18",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Not receiving the OTP to login..... trying from last 2 month but still not receiving"
+    },
+    {
+        "id": "21e6d0b7-72e1-4b4e-ad0a-57ee46e4136f",
+        "date": "2024-01-18",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "nice drive"
+    },
+    {
+        "id": "0d8b8073-1359-4477-8c76-483ed2c68dbd",
+        "date": "2024-01-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good driving"
+    },
+    {
+        "id": "083553ff-5727-48b5-8e62-357a119c292a",
+        "date": "2024-01-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "thank you"
+    },
+    {
+        "id": "037126e6-01e6-4a67-87ea-c980c44eb844",
+        "date": "2024-01-18",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Showing more fare than ola and uber"
+    },
+    {
         "id": "e0c280aa-70aa-48b8-ae5f-1f26be36e2c2",
         "date": "2024-01-17",
         "score": 5,
@@ -174,6 +318,14 @@
         "scoreText": "5",
         "title": null,
         "text": "Good"
+    },
+    {
+        "id": "0d69a411-e34e-4a02-9d32-4b0cbd82a82e",
+        "date": "2024-01-17",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good performance"
     },
     {
         "id": "e668d763-98ba-48cd-9ba3-95a41acb6b93",
