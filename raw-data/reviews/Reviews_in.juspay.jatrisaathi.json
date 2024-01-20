@@ -1,5 +1,189 @@
 [
     {
+        "id": "e982b054-411f-4a0a-81c3-032933f27037",
+        "date": "2024-01-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good service"
+    },
+    {
+        "id": "e5dec49e-dbad-4793-8619-271e142723d8",
+        "date": "2024-01-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good app"
+    },
+    {
+        "id": "d04030d7-71ed-415c-a450-040138e63118",
+        "date": "2024-01-19",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Blatantly denied , first they accepted the ride they also talked on the phone and then they just cancel the right even after saying that they are on their way to pick up point , it's no other than the competitors,it's just like ola , I don't like Uber either since their drivers are fraud not all but many but I can still get a cab in uber when compared to ola and this"
+    },
+    {
+        "id": "cdfe385d-eb42-44e5-8b65-c27045bc901c",
+        "date": "2024-01-19",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Compared fare between Yatri and Uber, Uber is much cheaper than yatri. Don't think people of Bengal are fool by saying if it's govt thn it should be cheaper...it's not cheaper. Not even money view, in service view is also very bad"
+    },
+    {
+        "id": "b378462c-dfcf-4528-b0c5-95441099d8ab",
+        "date": "2024-01-19",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "total process should be online ."
+    },
+    {
+        "id": "b1e03fb2-bd57-4a43-9da7-d4d61d9c9a6a",
+        "date": "2024-01-19",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "vehicles should be more properly maintained to give comfort."
+    },
+    {
+        "id": "9f341f0a-cf85-477b-8153-44cc709d57e3",
+        "date": "2024-01-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good"
+    },
+    {
+        "id": "93a9c28f-176f-4b95-bba8-8d87a9af693c",
+        "date": "2024-01-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice"
+    },
+    {
+        "id": "901c5aff-9c68-4cdb-8e4d-069d31f5934a",
+        "date": "2024-01-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "82dc12dd-12c2-49c5-9306-e53353f8bb39",
+        "date": "2024-01-19",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Driver is not well trained.. they don't know how to use Google maps"
+    },
+    {
+        "id": "7e99528e-6f8f-4be7-931e-3400141a8274",
+        "date": "2024-01-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good"
+    },
+    {
+        "id": "7bd4c930-3c65-4186-836f-131eac23edb2",
+        "date": "2024-01-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "v good"
+    },
+    {
+        "id": "741b5874-3d2a-418f-ba2f-52ae09950b18",
+        "date": "2024-01-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "availability of vehicle is satisfactory with rather cheap and reasonable fare. Recommend for availing yatri Sathi when required for these reasons."
+    },
+    {
+        "id": "5d68ec06-19e4-4930-be5b-855f3069c45c",
+        "date": "2024-01-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good service"
+    },
+    {
+        "id": "5c34ec1a-7be9-4793-bb15-2a16ce5f0706",
+        "date": "2024-01-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice"
+    },
+    {
+        "id": "5954fca4-2fce-43ac-bffe-ca062b08ca6e",
+        "date": "2024-01-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good Service"
+    },
+    {
+        "id": "57d5c9ec-0d3a-4274-a87c-5435b2ab16b0",
+        "date": "2024-01-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "3de10796-6579-4ced-93fe-8762ef891bdb",
+        "date": "2024-01-19",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "app not opening properly, clicks not working, after booking OTP page is not coming."
+    },
+    {
+        "id": "2ebc61eb-9cb9-4de3-b0c1-fa1272a77b15",
+        "date": "2024-01-19",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "Ride fees changed without any reason."
+    },
+    {
+        "id": "1f8a7608-3744-4e84-90f1-53c4c948db9e",
+        "date": "2024-01-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good aap"
+    },
+    {
+        "id": "14a57fc6-6087-4601-a4e8-4c828b7afe9e",
+        "date": "2024-01-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good"
+    },
+    {
+        "id": "089cdd4d-ad15-46c5-ab0a-1cbca1f1fac4",
+        "date": "2024-01-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Very cool nd comfortable service"
+    },
+    {
+        "id": "00056639-32bd-479a-b21a-f6676123e28e",
+        "date": "2024-01-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Outstanding service!! World-class!!"
+    },
+    {
         "id": "efc4e397-014f-4671-957e-c88f35fb7e09",
         "date": "2024-01-18",
         "score": 5,
@@ -24,6 +208,14 @@
         "text": "Simple and user friendly 'Yatri Sathi' App. The taxi fares are reasonable and cheaper than by other popular apps!"
     },
     {
+        "id": "a36ecdd9-b6f9-42cb-8929-f6423fd2f4b7",
+        "date": "2024-01-18",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "UI is polished. Seems like it has taken inspiration from UBER, but it works fine. Price is cheaper as compared to OLA and UBER . AFAIK ,it charges less commission from the drivers than uber , so it is beneficial both for the driver and passenger."
+    },
+    {
         "id": "a1d1186f-be6d-4407-8059-eb793460ca19",
         "date": "2024-01-18",
         "score": 5,
@@ -46,6 +238,14 @@
         "scoreText": "2",
         "title": null,
         "text": "Safety and security of a passenger is not protected."
+    },
+    {
+        "id": "7d3cf1a3-6e8e-48f8-b7b7-20f138de4393",
+        "date": "2024-01-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good exp"
     },
     {
         "id": "5bb5c6fd-0777-48ac-9849-da23d15c2560",
