@@ -1,5 +1,125 @@
 [
     {
+        "id": "fbdfb4c0-c65d-4a3d-a9b1-f6dbd0cc9a29",
+        "date": "2024-01-20",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "This is my 1st trip with YATRI SATHI. Experience is good. I've un install other cab app. Thanks to team YATRI SATHI."
+    },
+    {
+        "id": "e0cdef73-fa7a-4e0d-b8dc-3f7beb48a6a0",
+        "date": "2024-01-20",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "polite driver"
+    },
+    {
+        "id": "ce8b9d9a-bbe9-401e-a9d7-c2b200edb9fa",
+        "date": "2024-01-20",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Unable to login its asking otp again and again"
+    },
+    {
+        "id": "bc568065-6be2-46bf-8730-3e2f1886778c",
+        "date": "2024-01-20",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "first time Good Experience Save Drive"
+    },
+    {
+        "id": "b2bb778c-27c4-4b2b-8446-5cd80d6a6f98",
+        "date": "2024-01-20",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "thanks for your service.."
+    },
+    {
+        "id": "ad91a285-8b89-41e1-a60a-5f215737149b",
+        "date": "2024-01-20",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "From Airport rides are great, but the yellow taxies are not using the app enough. You cannot book them even though you see 10s of them around you. Make it compulsory for every taxi rider to use the app. Do random checks from the passenger if the cab denied app booking"
+    },
+    {
+        "id": "a7cf2cb3-f796-4881-8fa5-0e21a10ea53d",
+        "date": "2024-01-20",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Satisfactory"
+    },
+    {
+        "id": "a3900bcd-ff5c-44ab-ad72-53a38a843536",
+        "date": "2024-01-20",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "922f1b02-51db-4e16-b595-6b1e6bb829b2",
+        "date": "2024-01-20",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "I was worried to install this application because of negative reviews but i booked the yellow cab twice on the day of installation and both the rides were very comfortable as well as affordable. I have given a 4 star just because the tracking the cab could be done more better as it does not moves on real time basis otherwise everything is ok."
+    },
+    {
+        "id": "8f6c4f7c-961e-413d-a714-37a47d9ac6c9",
+        "date": "2024-01-20",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good Service.... till now...."
+    },
+    {
+        "id": "6e7a7148-10ae-47a3-8227-8d1647e67f0c",
+        "date": "2024-01-20",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "Majority of the drivers are not interested to use this app"
+    },
+    {
+        "id": "48bfd50d-6b19-4601-9314-9a24033f1276",
+        "date": "2024-01-20",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Driver not closed ride after dropping me"
+    },
+    {
+        "id": "468fca16-153a-4ee2-9b54-7b1b629e9f63",
+        "date": "2024-01-20",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "used 2 times, looks good."
+    },
+    {
+        "id": "1d69d6ee-ac5c-4c0d-a33e-d9ae5972cab6",
+        "date": "2024-01-20",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "This app is very good. Now we can forget uber/ola. Pricing is OK compared to bideshi app. Let's hope this service will keep it's good standard."
+    },
+    {
+        "id": "0d56e81f-fcee-4312-9c76-827043cb1770",
+        "date": "2024-01-20",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Very poor service i was queue in sealdah raliway station at least 30 minutes but no yatri sathi driver picke up me when i complain regarding this issue with yatri sathi counter staff they also not provide any solution"
+    },
+    {
         "id": "e982b054-411f-4a0a-81c3-032933f27037",
         "date": "2024-01-19",
         "score": 5,
@@ -14,6 +134,14 @@
         "scoreText": "5",
         "title": null,
         "text": "very good app"
+    },
+    {
+        "id": "d41fe048-5f9a-4a7b-9f6f-d6da07000bc7",
+        "date": "2024-01-19",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "nice"
     },
     {
         "id": "d04030d7-71ed-415c-a450-040138e63118",
