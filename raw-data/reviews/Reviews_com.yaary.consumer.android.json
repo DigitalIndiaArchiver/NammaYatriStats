@@ -1,5 +1,21 @@
 [
     {
+        "id": "fe3acc94-65d5-4a16-b21a-a881e74a3abd",
+        "date": "2024-01-21",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Fraud"
+    },
+    {
+        "id": "b99e7710-74ad-4b83-9dcf-910761e62a33",
+        "date": "2024-01-21",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good app"
+    },
+    {
         "id": "fb9c7157-4459-48ef-beca-16d4457ea62e",
         "date": "2024-01-20",
         "score": 5,
