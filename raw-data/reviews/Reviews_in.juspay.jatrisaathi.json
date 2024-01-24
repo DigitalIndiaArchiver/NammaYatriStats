@@ -1,5 +1,125 @@
 [
     {
+        "id": "f84fe67e-e1ce-4f30-b60b-f4030685aca2",
+        "date": "2024-01-23",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Apart from the Cab Driver's occasionally cancelling rides, it's been good so far."
+    },
+    {
+        "id": "ecf53f67-e49c-4db6-aa70-c75193149f7a",
+        "date": "2024-01-23",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "Good app but the booking doesnt get accepted quickly"
+    },
+    {
+        "id": "c25788bd-5a72-457e-baa3-326e4ead1f3e",
+        "date": "2024-01-23",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good"
+    },
+    {
+        "id": "a3b7bbf9-9115-46cf-8e09-19390dc732e9",
+        "date": "2024-01-23",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "8e4ac0b4-5047-44e8-a02b-d022e35c7332",
+        "date": "2024-01-23",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "79b8fa3d-3565-494c-bca6-117ab9abced7",
+        "date": "2024-01-23",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Great Experience, \ud83d\udc4d"
+    },
+    {
+        "id": "6fcdc4b9-33c6-4540-a3e4-1ff768585f61",
+        "date": "2024-01-23",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "not satisfied"
+    },
+    {
+        "id": "6c981dcf-2932-4d34-92db-2706a564dff5",
+        "date": "2024-01-23",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good app competitive ride prices"
+    },
+    {
+        "id": "6974658d-123b-45b1-abb8-a3a447f14b08",
+        "date": "2024-01-23",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very happy with the yatri sathi app service at the cab booking kiosk at railway station"
+    },
+    {
+        "id": "5eab1f9b-4f8b-4475-8444-46858fa0b904",
+        "date": "2024-01-23",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "51e1ecd9-fd47-4b4b-b469-113404411093",
+        "date": "2024-01-23",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "received prompt service today"
+    },
+    {
+        "id": "515412b9-1700-41c0-8a58-954a3d2a3bea",
+        "date": "2024-01-23",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "xclent"
+    },
+    {
+        "id": "227aa3dc-aec4-45e1-a1c5-fba7aec986a5",
+        "date": "2024-01-23",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "wonderful app"
+    },
+    {
+        "id": "20d299ae-5c93-4833-baaa-be1da08de150",
+        "date": "2024-01-23",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "\ud83d\udc4c"
+    },
+    {
+        "id": "0c53b325-3a66-464a-92cd-ae77886c9e82",
+        "date": "2024-01-23",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very nice"
+    },
+    {
         "id": "f3fba22a-3a34-4500-a8e4-bbb3fd2113f0",
         "date": "2024-01-22",
         "score": 3,
@@ -30,6 +150,14 @@
         "scoreText": "1",
         "title": null,
         "text": "Very slow app."
+    },
+    {
+        "id": "d4419113-cb4a-4d75-9068-f09e55c334ca",
+        "date": "2024-01-22",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "EXCELLENT"
     },
     {
         "id": "d336494e-69fc-4bbf-844e-700212d70400",
@@ -78,6 +206,14 @@
         "scoreText": "4",
         "title": null,
         "text": "Is not sufficient car"
+    },
+    {
+        "id": "88976563-7273-4715-a949-bcbf50eb22ac",
+        "date": "2024-01-22",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good service"
     },
     {
         "id": "7ec4a803-4e47-4dd5-9d0d-64c257454466",
