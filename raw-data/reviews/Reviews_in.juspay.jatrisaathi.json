@@ -1,5 +1,149 @@
 [
     {
+        "id": "e50f1db9-75a6-482d-8040-afbd67cf06b7",
+        "date": "2024-01-28",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "It should try to function like Uber or Ola etc."
+    },
+    {
+        "id": "d9882962-0b94-4508-ace2-0323fdde029a",
+        "date": "2024-01-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "THANKYOU"
+    },
+    {
+        "id": "ca05237d-d440-4c5d-ad5c-2a9884a9ae71",
+        "date": "2024-01-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "The rates of Yatri Sathi are far better than the other services. Glad that the it's the only option now at howrah station.. Just book by app and you get a taxi without much hassle."
+    },
+    {
+        "id": "c1798e0b-5316-4cc9-b6c1-bedf804c2fd0",
+        "date": "2024-01-28",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "Sometimes the app wrongly shows that it is offline."
+    },
+    {
+        "id": "bc9b4d46-6a9f-45b7-9644-08cedb70cac8",
+        "date": "2024-01-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Excellent"
+    },
+    {
+        "id": "b81c3f25-c4d3-4a1b-b300-4d56fa41f4c6",
+        "date": "2024-01-28",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Very bad experience...I booked a cab...and was waiting...and the next moment the ride got cancelled by the driver itself....I tried again..then the app kept on serching for the driver ...and finally I booked one yellow regular taxi...this app is not useful if you are in a hurry...I was going to howrah railway station from tollygung...it's quite busy route...but then also it was hard to book a cab with this app...the fair it shows is not acceptable to the drivers..so they cancel the ride..."
+    },
+    {
+        "id": "b4962ddc-6b70-4522-84b4-592ea496f3ac",
+        "date": "2024-01-28",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Worst app. Drivers after confirmation either don't come up to pick up, do not even pick up calls and just waste time. Some drivers randomly cancel after making us wait for a long time. Extremely bad app. This app does not even show the location of cabs while booking like Ola, Uber and Rapido do. Please improve this."
+    },
+    {
+        "id": "95c4c136-680b-4174-b65b-1d6a3e561b90",
+        "date": "2024-01-28",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "very slow work"
+    },
+    {
+        "id": "8495579f-9b49-4c55-8308-ec535bd678bb",
+        "date": "2024-01-28",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "First ride, it's fine, enjoyed."
+    },
+    {
+        "id": "80b8f2da-fd55-4d2f-9bac-11c3c87841d5",
+        "date": "2024-01-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good app for prepaid taxi in Howrah station"
+    },
+    {
+        "id": "7a0682af-d83b-4dc5-ae98-708174db8319",
+        "date": "2024-01-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Value for money"
+    },
+    {
+        "id": "5ba6270e-4a20-4b8d-9192-125e7241bba6",
+        "date": "2024-01-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very effective"
+    },
+    {
+        "id": "2fe4d9b6-c690-4a7b-8b73-c58fa1c72eea",
+        "date": "2024-01-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "They won't leave an inch without a fight. Reply: you must have missed my 5 star rating. \"Yatri Sathi\" won't leave an inch without a fight with the likes of \"Ola\" & \"Uber\" \ud83d\ude00"
+    },
+    {
+        "id": "2e6a4d65-cc5e-407c-aa61-71adf1ce574d",
+        "date": "2024-01-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Just need to option to pay in the app only... It seems the yellow taxi drivers are not keen to use upi payment after the ride"
+    },
+    {
+        "id": "2525a507-044b-4593-8b8d-98b4b5e38cb5",
+        "date": "2024-01-28",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "average"
+    },
+    {
+        "id": "11fdd12d-9cac-4f39-82a4-3f3776da5dd2",
+        "date": "2024-01-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Don't go for ola when there's yatri sathi"
+    },
+    {
+        "id": "0ef570b8-3e6c-47d3-b182-35c8e76b8f6e",
+        "date": "2024-01-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good app"
+    },
+    {
+        "id": "057115a4-e2f1-4304-95c3-4b52d370abe3",
+        "date": "2024-01-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "pilot driver"
+    },
+    {
         "id": "f47d8b53-4795-4030-b764-eed1a4554b42",
         "date": "2024-01-27",
         "score": 5,
@@ -94,6 +238,14 @@
         "scoreText": "5",
         "title": null,
         "text": "verry Good"
+    },
+    {
+        "id": "09a32e35-54f3-41ae-8536-b798423d3d05",
+        "date": "2024-01-27",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Not a user friendly app. Cab no. not generated automatically. Fare higher than Ola , UBer"
     },
     {
         "id": "061711eb-9617-4f5f-8e39-4aec4cb4c9d2",
