@@ -1,11 +1,99 @@
 [
     {
+        "id": "fcc3fcda-4a6f-40ad-9fbe-32b769605b4d",
+        "date": "2024-01-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good"
+    },
+    {
+        "id": "b66ea07f-fe6b-4029-acb4-1d8872a551f7",
+        "date": "2024-01-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good"
+    },
+    {
+        "id": "9e3a07a2-ee25-42ec-8c5e-5ebaa9ade0b0",
+        "date": "2024-01-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good \ud83d\udc4d\ud83d\ude0a"
+    },
+    {
+        "id": "7ff767e9-392e-46f6-9592-cd8538f9183b",
+        "date": "2024-01-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Very Nice \ud83d\ude42"
+    },
+    {
+        "id": "4e2777b5-e698-4402-8d62-d7f7eb627ed9",
+        "date": "2024-01-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Nice"
+    },
+    {
+        "id": "4849481e-1f57-4fdd-b766-cc3425a878b9",
+        "date": "2024-01-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Too Good \ud83d\udc4d"
+    },
+    {
+        "id": "40a4d27d-da4a-4d50-8668-694273731390",
+        "date": "2024-01-29",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "I downloaded the app from the play store, but I was very disappointed with its performance. The app is not working properly at all. Every time I open the app, it keeps loading to get my current location, even though I have turned on the location GPS. This is very frustrating and annoying. I think the app developers should fix this bug as soon as possible, or else I will uninstall the app and give it a one-star rating"
+    },
+    {
+        "id": "407e421e-81d9-419d-b443-137ffe988ff9",
+        "date": "2024-01-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Very nice"
+    },
+    {
+        "id": "3ba90707-7d54-4e9c-85ff-5729e75a22fa",
+        "date": "2024-01-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "\u090f\u0915\u094d\u0938\u0947\u0932\u0947\u0902\u091f."
+    },
+    {
+        "id": "11366b18-e210-4e9e-94a7-31a40292a6ce",
+        "date": "2024-01-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Very nice \ud83d\udc4d"
+    },
+    {
         "id": "e4b868c1-8457-4957-81eb-dc4db22c4fa0",
         "date": "2024-01-28",
         "score": 5,
         "scoreText": "5",
         "title": null,
         "text": "Good app"
+    },
+    {
+        "id": "dedb2bf9-42e4-443a-993b-974cb4874439",
+        "date": "2024-01-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Thank you so much Yaary"
     },
     {
         "id": "b5b14d95-df35-4e84-8ba8-9ed377e6a184",

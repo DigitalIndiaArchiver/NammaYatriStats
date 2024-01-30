@@ -1,5 +1,181 @@
 [
     {
+        "id": "fa305dbd-49a4-44d9-8487-7d283c1a339d",
+        "date": "2024-01-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Excellent"
+    },
+    {
+        "id": "e1a4730e-2055-4662-a36a-d20dc9396ad1",
+        "date": "2024-01-29",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Not available in Ghaziabad."
+    },
+    {
+        "id": "d75efbc1-bb8d-4709-bef1-921fba7868fb",
+        "date": "2024-01-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Got auto ride from this app when uber and ola were not accepting at all Good app!"
+    },
+    {
+        "id": "d36f0058-9093-43dc-9e04-eafa3faf8854",
+        "date": "2024-01-29",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Driver added extra charges for traffic and after trip ended I got to know that pickup charges was also added which was not displayed earlier. So displaying low prices to users and then charging more when the trip ends is pathetic. Never using the app again."
+    },
+    {
+        "id": "bd476111-b5f4-4fef-a899-7f1d583de864",
+        "date": "2024-01-29",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "I tried to use this app on 28 Jan 2024 at about 12.30 pm from Rohini, but no auto was available. That s why giving just one star."
+    },
+    {
+        "id": "bc990d47-cfcc-4552-8daa-f181e4747118",
+        "date": "2024-01-29",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Don't download it's a trap"
+    },
+    {
+        "id": "b8a0119f-99a8-4275-ab69-38c41d577886",
+        "date": "2024-01-29",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Not getting sms OTP"
+    },
+    {
+        "id": "a53121df-ff94-4d25-8dee-40077fa3215e",
+        "date": "2024-01-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "963b76b3-9b03-4eef-9999-207b86667855",
+        "date": "2024-01-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "911c22b4-f7fb-4029-84ed-071539364815",
+        "date": "2024-01-29",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "Excellent"
+    },
+    {
+        "id": "8be07533-2322-4bf9-94a1-2ae7b963a745",
+        "date": "2024-01-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "its awesome"
+    },
+    {
+        "id": "8bbd0db4-8071-49ee-8bb7-6f6442c53b18",
+        "date": "2024-01-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "lightening response. My first ride gave Best impression."
+    },
+    {
+        "id": "6a2f20a0-1f11-4cda-b98d-c0ee955bc131",
+        "date": "2024-01-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Very Nice Open Source Project. This app Lag free while zooming in compare to Ola."
+    },
+    {
+        "id": "5d81f169-4b99-448b-b947-dbf5142a52eb",
+        "date": "2024-01-29",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "Very good safe .timing fare good"
+    },
+    {
+        "id": "519d1bb4-2952-4abb-a1af-f150b2b807a8",
+        "date": "2024-01-29",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Worst app In Hyderabad It's Fake And Froud"
+    },
+    {
+        "id": "3ccadb3e-ccb4-485e-8381-00e196d8f80b",
+        "date": "2024-01-29",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Horrible app and even worse service. I have been trying to raise an issue on the app with the customer support and there has been no effort to resolve the issue by namma yatri. They claim to protect out privacy, but Mr. Chaitanya gave me the auto driver's private number. Despite the safety and privacy concerns, I was forced to call the driver to check and resolve the issue. The driver responded once and hence not called back and is unreachable. It's been 2 days and my issue isn't resolved yet."
+    },
+    {
+        "id": "33c16a08-0f0f-41ad-b8f6-8c55cc5a8a65",
+        "date": "2024-01-29",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Drivers charge as they want and the support help desk won't respond to our grievances"
+    },
+    {
+        "id": "284700de-b1fd-43b3-985a-46b9b565905e",
+        "date": "2024-01-29",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "even after raising fare disputes via app, there is no support, that too mutiple trips faced same issue, more than 100rs coming extra because driver uses different route which we have not requested, more than money we need to worry about the time can we reach on time for train or bus like that, never ever use this app, it seems like auto drivers are not deserved to get full money to their account."
+    },
+    {
+        "id": "1d518fc8-04b0-4c64-8075-da1e604d7cea",
+        "date": "2024-01-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice app"
+    },
+    {
+        "id": "0693fd3c-d8f8-44c4-a398-4f1343af7ad3",
+        "date": "2024-01-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "ok"
+    },
+    {
+        "id": "04bc05c0-a43e-40e0-b5fe-d3091d67e6c1",
+        "date": "2024-01-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "90% you'll get auto booked very soon"
+    },
+    {
+        "id": "01ee808b-7795-438d-8cb9-1a01426c06d3",
+        "date": "2024-01-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very nice"
+    },
+    {
         "id": "e24926e6-da80-4338-846a-0479c9ed0842",
         "date": "2024-01-28",
         "score": 5,
@@ -54,6 +230,14 @@
         "scoreText": "5",
         "title": null,
         "text": "overall good. i am having good experience in namma yatri rides."
+    },
+    {
+        "id": "86aecbc9-f672-44b8-8428-2f7cfd7d20e7",
+        "date": "2024-01-28",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "'ve mentioned b4 'bout the refund bt did nt gt any.2day again it hapend.It ws from Nexus whitefield to sgr dental college Marathahalli. Amount ws 145/- initially.Driver took the wrong root knowingly or unknowingly don't know.We guided hm 2 the way back home and after drop he showed 350+ to pay.@ 12:30AM he argued on the road to pay the money.I denied to give.He called the customer care and after 20min of long arguemeI paid 145/-.But as per the safety of a girl there's no number mentioned."
     },
     {
         "id": "7c6d0ced-787b-4025-81af-b708143e39de",
