@@ -1,5 +1,149 @@
 [
     {
+        "id": "e86dd75c-a25f-4905-bfae-eaf7a5274cd8",
+        "date": "2024-02-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "helpful app"
+    },
+    {
+        "id": "c0d93274-fd5e-400a-95aa-a5614fd4dee7",
+        "date": "2024-02-03",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "bdd25482-f311-4e74-ba02-306efe7b4aba",
+        "date": "2024-02-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice"
+    },
+    {
+        "id": "b9b0343a-e9c9-49c7-9f39-77fecb5e7c89",
+        "date": "2024-02-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "the taxi was old but the driver was nice"
+    },
+    {
+        "id": "b1dff198-e6e6-440c-b080-604e75451d0a",
+        "date": "2024-02-03",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "driver don't response or pick up phone secondly gari nahi milta"
+    },
+    {
+        "id": "9c9f8196-2459-4986-9225-5272ce78ec12",
+        "date": "2024-02-03",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Just typical yellow taxi driver behavior.. NO response. Pathetic and disgusting app. Don't try it. Totally fraud"
+    },
+    {
+        "id": "8a283118-17ae-4fc0-80a8-90d044b3533e",
+        "date": "2024-02-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "87493355-a53b-4a2a-aaa4-aa75a56ad3ae",
+        "date": "2024-02-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Nice!"
+    },
+    {
+        "id": "7c64723b-3aff-4da8-b0cb-a49c515cc8b3",
+        "date": "2024-02-03",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "citroadpadapukur"
+    },
+    {
+        "id": "5f564b8b-8be4-4399-b9d8-38a00a4dc838",
+        "date": "2024-02-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice"
+    },
+    {
+        "id": "55bdc6cf-c942-4c92-969b-9804539a9da6",
+        "date": "2024-02-03",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "Cancellation charges should be imposed on both driver partners and users who will cancel after a ride is matched. Recently, approximately 7 out of 10 rides are ending in cancellations or non arrival of the drivers. Yellow taxis are the worst of the lot with no training and perception of how app based services work."
+    },
+    {
+        "id": "431486a0-cc1d-4cf1-b69e-6068717ee68e",
+        "date": "2024-02-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "low cost price in kolkata"
+    },
+    {
+        "id": "38605978-96b0-4bc9-8218-1e7081378a6e",
+        "date": "2024-02-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good"
+    },
+    {
+        "id": "3543d2b0-5bb2-429b-8762-c8567a5472a1",
+        "date": "2024-02-03",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "dada giri at howrah railway station"
+    },
+    {
+        "id": "302ba66d-cdfd-4a9d-baa2-08ef3f44ef1b",
+        "date": "2024-02-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "2ee6efec-e18a-4c35-a7cd-7aaf47ac0736",
+        "date": "2024-02-03",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "sometime booking problem"
+    },
+    {
+        "id": "1de47983-c6f7-4642-b159-6623c85e66f8",
+        "date": "2024-02-03",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "nice"
+    },
+    {
+        "id": "1bbe2084-e214-4017-8801-c8ad5e64b036",
+        "date": "2024-02-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "awesome"
+    },
+    {
         "id": "f3438b93-36eb-48f4-ba84-730086f1af8e",
         "date": "2024-02-02",
         "score": 5,
@@ -22,6 +166,22 @@
         "scoreText": "5",
         "title": null,
         "text": "good service"
+    },
+    {
+        "id": "b3a9f6e9-82c8-4545-9e1e-90fcbe10132c",
+        "date": "2024-02-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good"
+    },
+    {
+        "id": "a8627caf-5061-4acc-b47c-fbdb59fbde30",
+        "date": "2024-02-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Ok"
     },
     {
         "id": "9af26b78-fd04-4195-b34b-6b6694c9419e",
@@ -64,6 +224,14 @@
         "text": "good"
     },
     {
+        "id": "5aee6307-7815-4268-b8c1-d37981ec51ed",
+        "date": "2024-02-02",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "a very long hours of wait. less number of taxi."
+    },
+    {
         "id": "50e12c5a-406d-4e16-8738-0dd2ba97fdeb",
         "date": "2024-02-02",
         "score": 5,
@@ -86,6 +254,14 @@
         "scoreText": "5",
         "title": null,
         "text": "very nice"
+    },
+    {
+        "id": "13d7300c-8e80-4e49-8020-f0b9c9b0298e",
+        "date": "2024-02-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good app and helps me a lot in Kolkata"
     },
     {
         "id": "11f7b64d-8006-40d6-bc05-f9431e887628",
