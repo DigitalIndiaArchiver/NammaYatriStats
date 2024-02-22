@@ -1,5 +1,245 @@
 [
     {
+        "id": "e72593eb-6bf5-42c6-96ca-6dfde38ddcdc",
+        "date": "2024-02-21",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "Always locater wrong navigation. Please improve. Otherwise Good."
+    },
+    {
+        "id": "e6cde25c-a22c-4767-9077-be696ea1282e",
+        "date": "2024-02-21",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "a good driver and timely service"
+    },
+    {
+        "id": "d87b3421-3681-4058-b289-1cfb45c3f9ac",
+        "date": "2024-02-21",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Ignores user selected pickup location and selects what's on the gps, created a lot of problems"
+    },
+    {
+        "id": "ccfe39c0-8d3f-4bea-8694-6e783db5dfaa",
+        "date": "2024-02-21",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "Too expensive ride."
+    },
+    {
+        "id": "c6f46a53-447f-4e23-9cf7-0529635a7f88",
+        "date": "2024-02-21",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "namma yatri nice sarvise"
+    },
+    {
+        "id": "c39c1b94-8671-47e7-b21c-7dee414d41df",
+        "date": "2024-02-21",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "taking time to get a trip/auto"
+    },
+    {
+        "id": "c2f5fc9f-cf0e-4539-8927-a00c67ffd5c8",
+        "date": "2024-02-21",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Great"
+    },
+    {
+        "id": "c051eaff-45b5-4978-94a5-da2b4049b791",
+        "date": "2024-02-21",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "safe raide"
+    },
+    {
+        "id": "c00dd91b-56d7-4f2c-b799-55e3f4f471b2",
+        "date": "2024-02-21",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "need app improvements .it stuck on during rides"
+    },
+    {
+        "id": "bcc2ed6f-fd66-4088-a05e-12ff5a857abb",
+        "date": "2024-02-21",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "I requested for ride, driver also arrived to my location but he took another ride without my permission and he didn't cancel the ride. I asked for a reason he said I took long time but after he comes to location within 2mins I came to pick up spot but he boarded another passenger and went. Such a terrible experience, Waste of time!!!!!WILL NEVER RECOMMED THIS APP!!!!!!"
+    },
+    {
+        "id": "b86610eb-1d33-4779-b428-ebee401244b5",
+        "date": "2024-02-21",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "b6028b8f-7b1d-443d-a358-580b2cd214c9",
+        "date": "2024-02-21",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "excellent"
+    },
+    {
+        "id": "b0e543f2-e96f-44f8-81ba-950314c27b57",
+        "date": "2024-02-21",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "smooth app. Able secure rides quickly."
+    },
+    {
+        "id": "a2b71876-4c42-4c6a-91ae-b03dfdc3b4b7",
+        "date": "2024-02-21",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good initiative for autos"
+    },
+    {
+        "id": "950bd69f-ad3c-4dee-8a5e-c52ff1e4bd23",
+        "date": "2024-02-21",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super"
+    },
+    {
+        "id": "94f69c5a-4ea3-4f50-8365-a7d57ffefdf1",
+        "date": "2024-02-21",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "App doesn't show booking details when a ride is booked only a notification sound is heard. But still on screen the ride search is going on"
+    },
+    {
+        "id": "8d995ee3-6dff-47e3-9d43-60a87bcda650",
+        "date": "2024-02-21",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Worst drivers they have worst experience"
+    },
+    {
+        "id": "872bda6d-5c1c-43a5-8fad-8f5d38e82f6a",
+        "date": "2024-02-21",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good experience"
+    },
+    {
+        "id": "7683ebda-555a-40e7-ba0b-02ef82c672e0",
+        "date": "2024-02-21",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "6d637eee-4c52-443b-a0e0-0db2739df1c6",
+        "date": "2024-02-21",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "652b6476-fc23-409a-a021-9eecff751b77",
+        "date": "2024-02-21",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "52bb03d7-734e-49a2-ad66-f20e7dc5a58d",
+        "date": "2024-02-21",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Women are unsafe with the auto drivers. Recently my wife was harrassed during her trip."
+    },
+    {
+        "id": "43c0718e-1789-49b6-83c0-7ce03dfaa0bf",
+        "date": "2024-02-21",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "location km be added 2km to give extra rs.30.to avoid excess fare"
+    },
+    {
+        "id": "433c36a0-1662-4815-8864-3c49d387a52e",
+        "date": "2024-02-21",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Totale wast No drivers are available All paid promotions in social media I was waiting for more than 30 minutes A program was spoiled Total waste Just trash \ud83d\uddd1"
+    },
+    {
+        "id": "3d38061c-d45e-4181-9285-dff826b28dc7",
+        "date": "2024-02-21",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "thankyou"
+    },
+    {
+        "id": "3a74e5bd-bc41-4601-b576-4f4dd1abcbce",
+        "date": "2024-02-21",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "great app"
+    },
+    {
+        "id": "35197156-0d7f-4c1e-a06f-92f3aff6f91a",
+        "date": "2024-02-21",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very user friendly"
+    },
+    {
+        "id": "27926049-a98b-416f-b71c-f962646a8b60",
+        "date": "2024-02-21",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "12ad4ba9-b9fa-416c-8443-317728c96b39",
+        "date": "2024-02-21",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "thanku"
+    },
+    {
+        "id": "0b24b71e-8a57-48c5-8043-9d4609cbad5b",
+        "date": "2024-02-21",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Worst ride ever experienced it has a lot of bugs and payment issue it's literally overrated"
+    },
+    {
         "id": "dfd82d84-53aa-4a03-904d-aa16620f1618",
         "date": "2024-02-20",
         "score": 1,
@@ -30,6 +270,14 @@
         "scoreText": "5",
         "title": null,
         "text": "Honest driver and ever grateful as he returned my purse which I left in the auto. Driver like him pride for the company as well as for the Nation. I offered his deserving prize but he politely refused. I am thankful and grateful to him . \ud83d\ude4f"
+    },
+    {
+        "id": "a19ce30c-a12f-4efe-92b8-d41ee62e1d35",
+        "date": "2024-02-20",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "This app is not good. Drivers accept rides after a while, but then refuse them. It's simply a waste of our time."
     },
     {
         "id": "9ca3e900-9291-41a8-9d8b-539b74acd4df",
