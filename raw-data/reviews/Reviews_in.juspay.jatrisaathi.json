@@ -1,5 +1,109 @@
 [
     {
+        "id": "d172b100-c494-41f3-83ef-b1a38e61565c",
+        "date": "2024-02-24",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Ok \ud83c\udd97"
+    },
+    {
+        "id": "c338d476-81ee-4673-b4fd-8e4e9d843a23",
+        "date": "2024-02-24",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "b4cbd1f9-52e4-4ade-ab36-f24fad53b4dc",
+        "date": "2024-02-24",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Horrible \ud83d\ude1e"
+    },
+    {
+        "id": "b35aa4b9-55a8-4344-ba57-538bbced6d4f",
+        "date": "2024-02-24",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Efficient service."
+    },
+    {
+        "id": "ac38fc4f-8aaa-4e6a-91e9-41f85d41cc39",
+        "date": "2024-02-24",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "After few days,the app became of no use because drivers refused to go or demand extra money or simply turn off their app and wanted to go only at their demanded fare. The same old story of Kolkata taxi continues."
+    },
+    {
+        "id": "a86bb2c9-23e9-4229-9d91-319575b72156",
+        "date": "2024-02-24",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Ok"
+    },
+    {
+        "id": "a0adbe76-49eb-4dcc-b8bc-7deb33b0ed01",
+        "date": "2024-02-24",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "awesome experience"
+    },
+    {
+        "id": "8ecb27ea-6355-4800-94d0-51412cf7a007",
+        "date": "2024-02-24",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Worst app... They give you broken cars and drivers are reluctant to move and the ac doesn't work I was charged for Ac and did not get ac cab. I'm uninstalling"
+    },
+    {
+        "id": "8e5d6c59-36f0-4d9e-ba97-91cd58495300",
+        "date": "2024-02-24",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Does not even open."
+    },
+    {
+        "id": "4036ca59-077b-4ab7-b366-3b5ce0dc0b44",
+        "date": "2024-02-24",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "This is a rubbish app. It keeps crashing."
+    },
+    {
+        "id": "33865b7a-89c0-450d-af0a-b64ffeb4b525",
+        "date": "2024-02-24",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "it's good and safe"
+    },
+    {
+        "id": "0bc04789-119a-494e-a9fb-968f66be4ec4",
+        "date": "2024-02-24",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good service \ud83d\udc4d"
+    },
+    {
+        "id": "016c431e-39d9-4492-b5a6-18db547cf3ba",
+        "date": "2024-02-24",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Very good service \ud83d\udc4d\ud83c\udffb\ud83d\udc4d\ud83c\udffb"
+    },
+    {
         "id": "ff62fced-fdb9-42ac-816c-5a845a3ef730",
         "date": "2024-02-23",
         "score": 5,
@@ -102,6 +206,14 @@
         "scoreText": "5",
         "title": null,
         "text": "Excellent Experience ...."
+    },
+    {
+        "id": "3d6ad1d9-ecfe-4677-8664-f2457b5c1a19",
+        "date": "2024-02-23",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "Yatri Sathi is cheaper and easier to avail."
     },
     {
         "id": "259681c6-4b6c-4ec8-985f-a8d021e401f3",
