@@ -21,16 +21,17 @@ jobs:
       
     - name: Download JSON files
       run: |
-        mkdir -p raw-data  # Creates a directory named "raw-data" if it doesn't exist
-        while IFS= read -r url; do  # Reads each line (URL) from the file "DataURLs.txt"
-          echo "$url"  # Outputs the URL being processed
-          filename=$(basename "$url")  # Extracts the filename from the URL
-          folder=$(dirname "$url")  # Extracts the folder path from the URL
-          mkdir -p "raw-data/$folder"  # Creates the folder structure in "raw-data"
-          curl -L "$url" -o "raw-data/$folder/$filename"  # Downloads the file using curl and saves it with the same filename into the corresponding folder in the "raw-data" directory
-        done < DataURLs.txt  # Specifies the file from which to read the URLs
+        mkdir -p raw-data
+        cat DataURLs.txt | parallel -j 4 --progress --joblog download.log '
+          url={1}
+          clean_url=$(echo "$url" | sed "s#https://d11gklsvr97l1g.cloudfront.net/open/json-data/#opendata/#")
+          filename=$(basename "$clean_url")
+          folder=$(dirname "$clean_url")
+          mkdir -p "raw-data/$folder"
+          curl -L "$url" -o "raw-data/$folder/$filename"
+        '
 
-    
+
     - name: Extract Reviews
       run: |
         mkdir -p raw-data/reviews
