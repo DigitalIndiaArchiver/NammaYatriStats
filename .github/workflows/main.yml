@@ -21,11 +21,15 @@ jobs:
       
     - name: Download JSON files
       run: |
-        mkdir -p raw-data
-        while read -r url; do
-          echo $url
-          curl -L "$url" -o "raw-data/$(basename "$url")"
-        done < DataURLs.txt
+        mkdir -p raw-data  # Creates a directory named "raw-data" if it doesn't exist
+        while read -r url; do  # Reads each line (URL) from the file "DataURLs.txt"
+          echo $url  # Outputs the URL being processed
+          filename=$(basename "$url")  # Extracts the filename from the URL
+          folder=$(dirname "$url")  # Extracts the folder path from the URL
+          mkdir -p "raw-data/$folder"  # Creates the folder structure in "raw-data"
+          curl -L "$url" -o "raw-data/$folder/$filename"  # Downloads the file using curl and saves it with the same filename into the corresponding folder in the "raw-data" directory
+        done < DataURLs.txt  # Specifies the file from which to read the URLs
+
     
     - name: Extract Reviews
       run: |
