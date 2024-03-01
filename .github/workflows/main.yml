@@ -21,7 +21,7 @@ jobs:
       
     - name: Download JSON files
       run: |
-        mkdir -p raw-data
+        mkdir -p raw-data/opendata
         cat DataURLs.txt | parallel -j 4 --progress --joblog download.log '
           url={1}
           clean_url=$(echo "$url" | sed "s#https://d11gklsvr97l1g.cloudfront.net/open/json-data/#opendata/#")
@@ -30,7 +30,7 @@ jobs:
           mkdir -p "raw-data/$folder"
           curl -L "$url" -o "raw-data/$folder/$filename"
         '
-
+    
 
     - name: Extract Reviews
       run: |
