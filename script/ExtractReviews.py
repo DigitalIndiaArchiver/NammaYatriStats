@@ -123,9 +123,11 @@ def save_app_review_criterias(app_id: str) -> None:
 
 
 if __name__ == "__main__":
-    app_ids = ["in.juspay.nammayatri", "in.juspay.nammayatripartner", "net.openkochi.yatri", 
-               "net.openkochi.yatripartner","in.juspay.jatrisaathi", "in.juspay.jatrisaathidriver",
-               "com.yaary.consumer.android", "com.yaary.partner"]
+    app_ids = ["in.juspay.nammayatri", "in.juspay.nammayatripartner",
+                "net.openkochi.yatri", "net.openkochi.yatripartner",
+                "in.juspay.jatrisaathi", "in.juspay.jatrisaathidriver",
+                "com.yaary.consumer.android", "com.yaary.partner",
+                "in.mobility.manayatripartner", "in.mobility.manayatri"]
     logging.basicConfig(filename='ExtractReviews' + time.strftime("%Y%m%d-%H%M%S") + '.log', 
                         format='%(asctime)s %(message)s', level=logging.INFO)
     
