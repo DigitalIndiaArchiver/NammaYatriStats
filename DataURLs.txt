@@ -1,4 +1,3 @@
-
 https://d11gklsvr97l1g.cloudfront.net/open/json-data/city_agg_cumulative_funnel_new_key.json
 https://d11gklsvr97l1g.cloudfront.net/open/json-data/city_agg_cumulative_stats_new_key.json
 https://d11gklsvr97l1g.cloudfront.net/open/json-data/city_agg_cumulative_trends_new_key.json.gz
