@@ -1,0 +1,48 @@
+{
+    "results": {
+        "sharedData": [],
+        "collectedData": [
+            {
+                "data": "Device or other IDs",
+                "optional": false,
+                "purpose": "Fraud prevention, security, and compliance, Account management",
+                "type": "Device or other IDs"
+            },
+            {
+                "data": "Name",
+                "optional": false,
+                "purpose": "App functionality",
+                "type": "Personal info"
+            },
+            {
+                "data": "Phone number",
+                "optional": false,
+                "purpose": "App functionality, Fraud prevention, security, and compliance, Account management",
+                "type": "Personal info"
+            },
+            {
+                "data": "Other info",
+                "optional": false,
+                "purpose": "App functionality",
+                "type": "Personal info"
+            },
+            {
+                "data": "Photos",
+                "optional": false,
+                "purpose": "App functionality, Fraud prevention, security, and compliance",
+                "type": "Photos and videos"
+            }
+        ],
+        "securityPractices": [
+            {
+                "practice": "Data is encrypted in transit",
+                "description": "Your data is transferred over a secure connection"
+            },
+            {
+                "practice": "You can request that data be deleted",
+                "description": "The developer provides a way for you to request that your data be deleted"
+            }
+        ],
+        "privacyPolicyUrl": "https://yaary.in/privacy-policy"
+    }
+}

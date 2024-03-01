@@ -1,0 +1,58 @@
+{
+    "results": {
+        "sharedData": [],
+        "collectedData": [
+            {
+                "data": "Phone number",
+                "optional": false,
+                "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance",
+                "type": "Personal info"
+            },
+            {
+                "data": "Crash logs",
+                "optional": false,
+                "purpose": "Analytics",
+                "type": "App info and performance"
+            },
+            {
+                "data": "Diagnostics",
+                "optional": false,
+                "purpose": "App functionality, Analytics, Developer communications",
+                "type": "App info and performance"
+            },
+            {
+                "data": "Other app performance data",
+                "optional": true,
+                "purpose": "App functionality, Analytics",
+                "type": "App info and performance"
+            },
+            {
+                "data": "App interactions",
+                "optional": false,
+                "purpose": "App functionality, Analytics, Advertising or marketing",
+                "type": "App activity"
+            },
+            {
+                "data": "Installed apps",
+                "optional": true,
+                "purpose": "Analytics",
+                "type": "App activity"
+            }
+        ],
+        "securityPractices": [
+            {
+                "practice": "Data is encrypted in transit",
+                "description": "Your data is transferred over a secure connection"
+            },
+            {
+                "practice": "You can request that data be deleted",
+                "description": "The developer provides a way for you to request that your data be deleted"
+            },
+            {
+                "practice": "Committed to follow the Play Families Policy",
+                "description": "The developer has committed to follow the Play Families Policy for this app. <a href=\"https://support.google.com/googleplay/android-developer/answer/9893335\" target=\"_blank\">See the policy</a>"
+            }
+        ],
+        "privacyPolicyUrl": "https://docs.google.com/document/d/1whw7xFO0nGs6rz_RyJpSjx8fhQwyN_cds1wGro6GWu4"
+    }
+}

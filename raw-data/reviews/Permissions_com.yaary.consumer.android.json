@@ -1,0 +1,48 @@
+{
+    "results": [
+        {
+            "permission": "read the contents of your USB storage",
+            "type": "Photos/Media/Files"
+        },
+        {
+            "permission": "modify or delete the contents of your USB storage",
+            "type": "Photos/Media/Files"
+        },
+        {
+            "permission": "read the contents of your USB storage",
+            "type": "Storage"
+        },
+        {
+            "permission": "modify or delete the contents of your USB storage",
+            "type": "Storage"
+        },
+        {
+            "permission": "precise location (GPS and network-based)",
+            "type": "Location"
+        },
+        {
+            "permission": "approximate location (network-based)",
+            "type": "Location"
+        },
+        {
+            "permission": "full network access",
+            "type": "Other"
+        },
+        {
+            "permission": "prevent device from sleeping",
+            "type": "Other"
+        },
+        {
+            "permission": "run at startup",
+            "type": "Other"
+        },
+        {
+            "permission": "disable your screen lock",
+            "type": "Other"
+        },
+        {
+            "permission": "view network connections",
+            "type": "Other"
+        }
+    ]
+}
