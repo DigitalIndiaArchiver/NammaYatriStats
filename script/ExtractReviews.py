@@ -6,8 +6,25 @@ import requests
 import json
 from datetime import datetime, timedelta
 
+GPLAY_BASE_URL = "https://gplayapi.cashlessconsumer.in"
+
+def get_appinfo(app_id):
+    url = f"{GPLAY_BASE_URL}/api/apps/{app_id}"
+    response = requests.get(url)
+    return response.json() if response.status_code == 200 else None
+
+def get_permissions(app_id):
+    url = f"{GPLAY_BASE_URL}/api/apps/{app_id}/permissions"
+    response = requests.get(url)
+    return response.json() if response.status_code == 200 else None
+
+def get_datasafety(app_id):
+    url = f"{GPLAY_BASE_URL}/api/apps/{app_id}/datasafety"
+    response = requests.get(url)
+    return response.json() if response.status_code == 200 else None
+
 def get_reviews(app_id, next_pagination_token=None):
-    url = f"https://gplayapi.cashlessconsumer.in/api/apps/{app_id}/reviews"
+    url = f"{GPLAY_BASE_URL}/api/apps/{app_id}/reviews"
     params = {"nextPaginationToken": next_pagination_token} if next_pagination_token else {}
     response = requests.get(url, params=params)
     return response.json() if response.status_code == 200 else None
@@ -122,6 +139,86 @@ def save_app_review_criterias(app_id: str) -> None:
         json.dump(criteria_counts, file, indent=4)
 
 
+def generate_markdown_table_with_max_installs(app_package_names):
+    # Markdown table header
+    markdown_table = "# ONDC Mobility Tracker\n\n"
+    markdown_table += "| S.No | App Name | Version | maxInstalls | Score | Ratings | 1 Star | 5 Star | Google Play Reviews |\n"
+    markdown_table += "|------|----------|---------|-------------|-------|---------|--------|--------|---------------------|\n"
+
+    for i, package_name in enumerate(app_package_names, start=1):
+        data = get_appinfo(package_name)
+        if data:
+            # Extract relevant information
+            app_name = data.get('title', 'N/A')
+            max_installs = data.get('maxInstalls', 'N/A')
+            score = data.get('score', 'N/A')
+            ratings = data.get('ratings', 'N/A')
+            one_star = data.get('histogram', {}).get('1', 'N/A')
+            five_star = data.get('histogram', {}).get('5', 'N/A')
+            version = data.get('version', 'N/A')
+
+            # Generate Google Play and reviews links
+            google_play_link = f"[{app_name}](https://play.google.com/store/apps/details?id={package_name})"
+            reviews_link = f"[Google Play reviews](https://flatgithub.com/DigitalIndiaArchiver/NammaYatriStats?filename=raw-data%2Freviews%2FReviews_{package_name}.json)"
+
+            # Add row to Markdown table
+            markdown_table += f"| {i} | {google_play_link} | {version} | {max_installs} | {score} | {ratings} | {one_star} | {five_star} | {reviews_link} |\n"
+
+    # Write Markdown table to file
+    with open('../APPS.md', 'w') as file:
+        file.write(markdown_table)
+
+
+def save_app_permissions(app_id: str) -> None:
+    """
+    This function saves app permissions to a JSON file.
+
+    Args:
+        app_id (str): The ID of the app for which the permissions need to be saved.
+
+    Returns:
+        None: The function saves the app permissions to a JSON file.
+    """
+    logging.log(logging.DEBUG, 'start of save_app_review_criterias')
+    permission_filename = '../raw-data/reviews/' + f"Permissions_{app_id}.json"
+    data = get_permissions(app_id)
+    with open(permission_filename, 'w') as file:
+        json.dump(data, file, indent=4)
+
+
+def save_app_info(app_id: str) -> None:
+    """
+    This function saves app info to a JSON file.
+
+    Args:
+        app_id (str): The ID of the app for which the appinfo need to be saved.
+
+    Returns:
+        None: The function saves the app info to a JSON file.
+    """
+    logging.log(logging.DEBUG, 'start of save_app_review_criterias')
+    permission_filename = '../raw-data/reviews/' + f"AppInfo_{app_id}.json"
+    data = get_appinfo(app_id)
+    with open(permission_filename, 'w') as file:
+        json.dump(data, file, indent=4)
+
+def save_app_datasafety(app_id: str) -> None:
+    """
+    This function saves app datasafety to a JSON file.
+
+    Args:
+        app_id (str): The ID of the app for which the datasafety need to be saved.
+
+    Returns:
+        None: The function saves the app datasafety to a JSON file.
+    """
+    logging.log(logging.DEBUG, 'start of save_app_review_criterias')
+    datasafety_filename = '../raw-data/reviews/' + f"DataSafety_{app_id}.json"
+    data = get_datasafety(app_id)
+    with open(datasafety_filename, 'w') as file:
+        json.dump(data, file, indent=4)
+
+
 if __name__ == "__main__":
     app_ids = ["in.juspay.nammayatri", "in.juspay.nammayatripartner",
                 "net.openkochi.yatri", "net.openkochi.yatripartner",
@@ -132,5 +229,9 @@ if __name__ == "__main__":
                         format='%(asctime)s %(message)s', level=logging.INFO)
     
     for app_id in app_ids:
+        save_app_datasafety(app_id=app_id)
+        save_app_info(app_id=app_id)
+        save_app_permissions(app_id=app_id)
         save_app_reviews(app_id)
         save_app_review_criterias(app_id)
+    generate_markdown_table_with_max_installs(app_ids)
