@@ -7,6 +7,8 @@ import json
 from datetime import datetime, timedelta
 
 GPLAY_BASE_URL = "https://gplayapi.cashlessconsumer.in"
+PLAYDATA_PATH = '../raw-data/reviews/'
+REPO_NAME = 'https://flatgithub.com/DigitalIndiaArchiver/NammaYatriStats'
 
 def get_appinfo(app_id):
     url = f"{GPLAY_BASE_URL}/api/apps/{app_id}"
@@ -80,7 +82,7 @@ def save_app_reviews(app_id: str) -> None:
     Returns:
         None: The function does not return any value. It only saves the reviews into a file.
     """
-    review_filename = '../raw-data/reviews/' + f"Reviews_{app_id}.json"
+    review_filename = f"{PLAYDATA_PATH}Reviews_{app_id}.json"
     existing_reviews = []
 
     if os.path.exists(review_filename):
@@ -120,8 +122,8 @@ def save_app_review_criterias(app_id: str) -> None:
         None: The function saves the criteria counts to a JSON file.
     """
     logging.log(logging.INFO, 'start of save_app_review_criterias')
-    review_filename = '../raw-data/reviews/' + f"Reviews_{app_id}.json"
-    criterias_filename = '../raw-data/reviews/' + f"Criterias_{app_id}.json"
+    review_filename = f"{PLAYDATA_PATH}Reviews_{app_id}.json"
+    criterias_filename = f"{PLAYDATA_PATH}Criterias_{app_id}.json"
 
     if os.path.exists(review_filename):
         with open(review_filename, 'r') as review_file:
@@ -142,11 +144,11 @@ def save_app_review_criterias(app_id: str) -> None:
 def generate_markdown_table_with_max_installs(app_package_names):
     # Markdown table header
     markdown_table = "# ONDC Mobility Tracker\n\n"
-    markdown_table += "| S.No | App Name | Version | maxInstalls | Score | Ratings | 1 Star | 5 Star | Google Play Reviews |\n"
-    markdown_table += "|------|----------|---------|-------------|-------|---------|--------|--------|---------------------|\n"
+    markdown_table += "| S.No | App Name | Version | maxInstalls | Score | Ratings | 1 Star | 5 Star | Google Play Info |\n"
+    markdown_table += "|------|----------|---------|-------------|-------|---------|--------|--------|------------------|\n"
 
-    for i, package_name in enumerate(app_package_names, start=1):
-        data = get_appinfo(package_name)
+    for i, app_id in enumerate(app_package_names, start=1):
+        data = get_appinfo(app_id)
         if data:
             # Extract relevant information
             app_name = data.get('title', 'N/A')
@@ -156,13 +158,17 @@ def generate_markdown_table_with_max_installs(app_package_names):
             one_star = data.get('histogram', {}).get('1', 'N/A')
             five_star = data.get('histogram', {}).get('5', 'N/A')
             version = data.get('version', 'N/A')
+            
+            review_count = len(json.load(open(f"{PLAYDATA_PATH}Reviews_{app_id}.json")))
+            permission_count = len(json.load(open(f"{PLAYDATA_PATH}Permissions_{app_id}.json"))['results'])
 
             # Generate Google Play and reviews links
-            google_play_link = f"[{app_name}](https://play.google.com/store/apps/details?id={package_name})"
-            reviews_link = f"[Google Play reviews](https://flatgithub.com/DigitalIndiaArchiver/NammaYatriStats?filename=raw-data%2Freviews%2FReviews_{package_name}.json)"
+            google_play_link = f"[{app_name}](https://play.google.com/store/apps/details?id={app_id})"
+            play_info = f"[Reviews ({review_count})]({REPO_NAME}?filename=raw-data%2Freviews%2FReviews_{app_id}.json)"
+            play_info += f" - [Permissions ({permission_count})]({REPO_NAME}?filename=raw-data%2Freviews%2FPermissions_{app_id}.json)"
 
             # Add row to Markdown table
-            markdown_table += f"| {i} | {google_play_link} | {version} | {max_installs} | {score} | {ratings} | {one_star} | {five_star} | {reviews_link} |\n"
+            markdown_table += f"| {i} | {google_play_link} | {version} | {max_installs} | {score} | {ratings} | {one_star} | {five_star} | {play_info} |\n"
 
     # Write Markdown table to file
     with open('../APPS.md', 'w') as file:
@@ -180,7 +186,7 @@ def save_app_permissions(app_id: str) -> None:
         None: The function saves the app permissions to a JSON file.
     """
     logging.log(logging.DEBUG, 'start of save_app_review_criterias')
-    permission_filename = '../raw-data/reviews/' + f"Permissions_{app_id}.json"
+    permission_filename = f"{PLAYDATA_PATH}Permissions_{app_id}.json"
     data = get_permissions(app_id)
     with open(permission_filename, 'w') as file:
         json.dump(data, file, indent=4)
@@ -197,7 +203,7 @@ def save_app_info(app_id: str) -> None:
         None: The function saves the app info to a JSON file.
     """
     logging.log(logging.DEBUG, 'start of save_app_review_criterias')
-    permission_filename = '../raw-data/reviews/' + f"AppInfo_{app_id}.json"
+    permission_filename = f"{PLAYDATA_PATH}AppInfo_{app_id}.json"
     data = get_appinfo(app_id)
     with open(permission_filename, 'w') as file:
         json.dump(data, file, indent=4)
@@ -213,10 +219,42 @@ def save_app_datasafety(app_id: str) -> None:
         None: The function saves the app datasafety to a JSON file.
     """
     logging.log(logging.DEBUG, 'start of save_app_review_criterias')
-    datasafety_filename = '../raw-data/reviews/' + f"DataSafety_{app_id}.json"
+    datasafety_filename = f"{PLAYDATA_PATH}DataSafety_{app_id}.json"
     data = get_datasafety(app_id)
     with open(datasafety_filename, 'w') as file:
         json.dump(data, file, indent=4)
+
+
+def generate_data_safety_comparison_table(folder_path):
+    # Find all DataSafety* files in the folder
+    files = [os.path.join(folder_path, file) for file in os.listdir(folder_path) if file.startswith('DataSafety') and file.endswith('.json')]
+
+    # Extract unique types from collectedData across all files
+    types = set()
+    for file in files:
+        with open(file, 'r') as f:
+            data = json.load(f)
+            types.update(item['type'] for item in data['results']['collectedData'])
+
+    # Group types by main headings
+    main_headings = {type.split(' / ')[0] if ' / ' in type else type for type in types}
+
+    # Markdown table header
+    markdown_table = "# DataSafety Contents Comparison\n\n| App Name |" + "|".join(f" {main_heading} |" + " ".join(f" {sub_type} |" for sub_type in {type.split(' / ')[1] for type in types if ' / ' in type and type.split(' / ')[0] == main_heading}) for main_heading in main_headings) + "\n| --- |" + "|".join(" --- |" for _ in range(sum(1 + len({type.split(' / ')[1] for type in types if ' / ' in type}) for _ in main_headings))) + "\n"
+
+    # Dictionary to store collectedData items grouped by type for each app
+    app_data = {file.replace('.json', ''): {item['type']: item['optional'] for item in json.load(open(file))['results']['collectedData']} for file in files}
+
+    # Iterate through each app and add data to Markdown table
+    for app_name, items in app_data.items():
+        markdown_table += f"| {app_name} |"
+        for main_heading in main_headings:
+            for sub_type in {type.split(' / ')[1] for type in types if ' / ' in type and type.split(' / ')[0] == main_heading}:
+                type_name = f"{main_heading} / {sub_type}" if sub_type else main_heading
+                markdown_table += f" {'Optional' if any(items.get(type_name, {}).values()) else 'Mandatory'} |"
+    markdown_table += "\n"
+    with open('../APPS2.md', 'w') as file:
+        file.write(markdown_table)
 
 
 if __name__ == "__main__":
@@ -235,3 +273,4 @@ if __name__ == "__main__":
         save_app_reviews(app_id)
         save_app_review_criterias(app_id)
     generate_markdown_table_with_max_installs(app_ids)
+    #markdown_table = generate_data_safety_comparison_table(PLAYDATA_PATH)

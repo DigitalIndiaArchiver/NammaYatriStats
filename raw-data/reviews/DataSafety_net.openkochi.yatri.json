@@ -9,12 +9,6 @@
                 "type": "Device or other IDs"
             },
             {
-                "data": "App interactions",
-                "optional": false,
-                "purpose": "App functionality, Analytics",
-                "type": "App activity"
-            },
-            {
                 "data": "Approximate location",
                 "optional": true,
                 "purpose": "App functionality, Analytics",
@@ -43,6 +37,12 @@
                 "optional": false,
                 "purpose": "App functionality, Account management",
                 "type": "Personal info"
+            },
+            {
+                "data": "App interactions",
+                "optional": false,
+                "purpose": "App functionality, Analytics",
+                "type": "App activity"
             },
             {
                 "data": "Crash logs",

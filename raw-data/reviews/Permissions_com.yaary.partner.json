@@ -13,15 +13,11 @@
             "type": "Location"
         },
         {
-            "permission": "run at startup",
+            "permission": "control vibration",
             "type": "Other"
         },
         {
             "permission": "draw over other apps",
-            "type": "Other"
-        },
-        {
-            "permission": "disable your screen lock",
             "type": "Other"
         },
         {
@@ -33,7 +29,11 @@
             "type": "Other"
         },
         {
-            "permission": "control vibration",
+            "permission": "run at startup",
+            "type": "Other"
+        },
+        {
+            "permission": "disable your screen lock",
             "type": "Other"
         },
         {
