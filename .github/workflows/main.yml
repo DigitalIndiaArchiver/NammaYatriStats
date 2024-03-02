@@ -43,4 +43,4 @@ jobs:
       with:
         commit_message: "Add new JSON files"
         commit_options: '--no-verify'
-        file_pattern: 'raw-data/*.json raw-data/reviews/*.json'
+        file_pattern: 'raw-data/*.json raw-data/reviews/*.json APP*.md'
