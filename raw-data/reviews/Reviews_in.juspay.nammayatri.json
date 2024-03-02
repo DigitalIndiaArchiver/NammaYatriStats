@@ -1,11 +1,59 @@
 [
     {
+        "id": "fb597a80-97b3-4ac7-9651-c4e62407c63f",
+        "date": "2024-03-01",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Unable to download the app"
+    },
+    {
+        "id": "df3841a7-0c4c-48dd-8062-2c8b4281a46f",
+        "date": "2024-03-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "\u2764\ufe0f"
+    },
+    {
+        "id": "d83a6c75-8f7f-4307-912f-9928e918ba89",
+        "date": "2024-03-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good \ud83d\udc4d"
+    },
+    {
+        "id": "d590231b-1f8a-4cef-ab5c-1db0e92a1619",
+        "date": "2024-03-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "d5830f2d-e555-4089-b78b-ce81111e7d83",
+        "date": "2024-03-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
         "id": "cd3dee85-082b-495a-9bd5-5da19a155e39",
         "date": "2024-03-01",
         "score": 5,
         "scoreText": "5",
         "title": null,
         "text": "thanks to namma yatri"
+    },
+    {
+        "id": "cba95fc5-c7f0-40d7-9c76-18e72dc671ab",
+        "date": "2024-03-01",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Disgusting Service. No one take booking when you trying to book auto or taxi."
     },
     {
         "id": "c72ed876-a530-4e20-881d-f54632246b5f",
@@ -16,6 +64,78 @@
         "text": "IT was a good ride"
     },
     {
+        "id": "c0b4f289-7f35-4ea5-9ed2-1ab53ba22876",
+        "date": "2024-03-01",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Waste app. No drivers available to any location."
+    },
+    {
+        "id": "c04618a5-75b9-444f-9838-10681fe7d5fa",
+        "date": "2024-03-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Super Fast"
+    },
+    {
+        "id": "b90e886a-6716-4ab5-ad31-7c744c90c195",
+        "date": "2024-03-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good service mysore"
+    },
+    {
+        "id": "a539c859-ccf3-489e-aa53-402929600165",
+        "date": "2024-03-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Came across this app by chance. Simple and efficient!! I was delighted by the quick response and prompt arrival by the auto drivers. When I asked the driver about this app and Ola app. They seemed to be very happy about Namma Yatri."
+    },
+    {
+        "id": "9d952f50-9331-4692-8c82-4b17f1e6ad57",
+        "date": "2024-03-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "great app"
+    },
+    {
+        "id": "96d9665c-8c65-43df-bcd2-ed59590947ba",
+        "date": "2024-03-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good driving"
+    },
+    {
+        "id": "95fc750c-bfe4-4294-ba8b-5be326529e48",
+        "date": "2024-03-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "enjoy the trip"
+    },
+    {
+        "id": "8af78d60-1075-44cf-ba36-04913b583fac",
+        "date": "2024-03-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "safe, secure and comfortable ride"
+    },
+    {
+        "id": "69f1f33f-3176-486f-9f50-7fa3344564e5",
+        "date": "2024-03-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "This wasy first time using this app. Rate was fine. Hope they don't increase the price slowly unlike other app"
+    },
+    {
         "id": "67358bb7-edca-4bf2-b46f-61e01eef0d92",
         "date": "2024-03-01",
         "score": 5,
@@ -24,12 +144,92 @@
         "text": "prompt"
     },
     {
+        "id": "666e8b59-211a-4ac9-901c-d5cace92f63d",
+        "date": "2024-03-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "try it \u2764\ufe0f\u200d\ud83e\ude79"
+    },
+    {
+        "id": "4ea0970c-4f6f-4977-9d3f-9d726875b197",
+        "date": "2024-03-01",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Recent ride was really bad the location where we wanted our drop is not shown properly in the app and the driver droped us almost 1 to 2 km behind"
+    },
+    {
+        "id": "4827f780-e4b4-4b5b-ab83-e0eced4880a6",
+        "date": "2024-03-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "43615311-42b1-4db0-adc5-a492aae0a769",
+        "date": "2024-03-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "navigation not working"
+    },
+    {
+        "id": "417dc2ee-e59d-4327-9720-a38fbc768099",
+        "date": "2024-03-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "thanks sbbssb"
+    },
+    {
+        "id": "39d6d4b0-0561-4b08-b849-b0415a0d1eb4",
+        "date": "2024-03-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice"
+    },
+    {
+        "id": "357338be-c7e7-46eb-b2df-3cdb1a5ae38c",
+        "date": "2024-03-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "amount showing different me and drive mobile"
+    },
+    {
+        "id": "1a0ddb9c-7fe6-48fe-94bd-ab499c2af319",
+        "date": "2024-03-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super app"
+    },
+    {
         "id": "1794f060-dff3-4c0b-9ab7-c6b8a932b907",
         "date": "2024-03-01",
         "score": 1,
         "scoreText": "1",
         "title": null,
         "text": "Not getting OTP to login"
+    },
+    {
+        "id": "0b07b9f5-4bea-46a0-9c05-b1bf62a9a268",
+        "date": "2024-03-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "excellent service"
+    },
+    {
+        "id": "08a226da-36fe-4a82-8f0b-7bc389245a9b",
+        "date": "2024-03-01",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "cost high"
     },
     {
         "id": "d6d5b470-2da6-453e-a0db-66ad33e8385c",

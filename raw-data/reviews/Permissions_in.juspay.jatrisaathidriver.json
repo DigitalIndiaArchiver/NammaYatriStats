@@ -1,28 +1,32 @@
 {
     "results": [
         {
-            "permission": "read your contacts",
-            "type": "Contacts"
-        },
-        {
-            "permission": "find accounts on the device",
-            "type": "Contacts"
-        },
-        {
-            "permission": "modify or delete the contents of your USB storage",
-            "type": "Photos/Media/Files"
+            "permission": "read phone status and identity",
+            "type": "Device ID & call information"
         },
         {
             "permission": "read the contents of your USB storage",
-            "type": "Photos/Media/Files"
+            "type": "Storage"
+        },
+        {
+            "permission": "modify or delete the contents of your USB storage",
+            "type": "Storage"
+        },
+        {
+            "permission": "take pictures and videos",
+            "type": "Camera"
         },
         {
             "permission": "find accounts on the device",
             "type": "Identity"
         },
         {
+            "permission": "directly call phone numbers",
+            "type": "Phone"
+        },
+        {
             "permission": "read phone status and identity",
-            "type": "Device ID & call information"
+            "type": "Phone"
         },
         {
             "permission": "approximate location (network-based)",
@@ -33,55 +37,31 @@
             "type": "Location"
         },
         {
-            "permission": "record audio",
-            "type": "Microphone"
-        },
-        {
-            "permission": "read phone status and identity",
-            "type": "Phone"
-        },
-        {
-            "permission": "directly call phone numbers",
-            "type": "Phone"
-        },
-        {
-            "permission": "take pictures and videos",
-            "type": "Camera"
+            "permission": "read the contents of your USB storage",
+            "type": "Photos/Media/Files"
         },
         {
             "permission": "modify or delete the contents of your USB storage",
-            "type": "Storage"
-        },
-        {
-            "permission": "read the contents of your USB storage",
-            "type": "Storage"
+            "type": "Photos/Media/Files"
         },
         {
             "permission": "view Wi-Fi connections",
             "type": "Wi-Fi connection information"
         },
         {
-            "permission": "view network connections",
-            "type": "Other"
+            "permission": "read your contacts",
+            "type": "Contacts"
         },
         {
-            "permission": "full network access",
-            "type": "Other"
+            "permission": "find accounts on the device",
+            "type": "Contacts"
+        },
+        {
+            "permission": "record audio",
+            "type": "Microphone"
         },
         {
             "permission": "draw over other apps",
-            "type": "Other"
-        },
-        {
-            "permission": "run at startup",
-            "type": "Other"
-        },
-        {
-            "permission": "control vibration",
-            "type": "Other"
-        },
-        {
-            "permission": "change your audio settings",
             "type": "Other"
         },
         {
@@ -93,7 +73,27 @@
             "type": "Other"
         },
         {
+            "permission": "view network connections",
+            "type": "Other"
+        },
+        {
             "permission": "change network connectivity",
+            "type": "Other"
+        },
+        {
+            "permission": "run at startup",
+            "type": "Other"
+        },
+        {
+            "permission": "full network access",
+            "type": "Other"
+        },
+        {
+            "permission": "control vibration",
+            "type": "Other"
+        },
+        {
+            "permission": "change your audio settings",
             "type": "Other"
         }
     ]
