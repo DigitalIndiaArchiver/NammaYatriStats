@@ -1,11 +1,11 @@
 {
     "results": [
         {
-            "permission": "approximate location (network-based)",
+            "permission": "precise location (GPS and network-based)",
             "type": "Location"
         },
         {
-            "permission": "precise location (GPS and network-based)",
+            "permission": "approximate location (network-based)",
             "type": "Location"
         },
         {
@@ -13,19 +13,15 @@
             "type": "Camera"
         },
         {
-            "permission": "disable your screen lock",
+            "permission": "full network access",
             "type": "Other"
         },
         {
-            "permission": "prevent device from sleeping",
+            "permission": "run at startup",
             "type": "Other"
         },
         {
             "permission": "control vibration",
-            "type": "Other"
-        },
-        {
-            "permission": "full network access",
             "type": "Other"
         },
         {
@@ -37,7 +33,11 @@
             "type": "Other"
         },
         {
-            "permission": "run at startup",
+            "permission": "prevent device from sleeping",
+            "type": "Other"
+        },
+        {
+            "permission": "disable your screen lock",
             "type": "Other"
         }
     ]
