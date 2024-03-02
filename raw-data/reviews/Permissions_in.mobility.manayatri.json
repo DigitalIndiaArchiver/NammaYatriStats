@@ -1,20 +1,48 @@
 {
     "results": [
         {
+            "permission": "read your contacts",
+            "type": "Contacts"
+        },
+        {
             "permission": "take pictures and videos",
             "type": "Camera"
         },
         {
-            "permission": "read your contacts",
-            "type": "Contacts"
+            "permission": "read the contents of your USB storage",
+            "type": "Photos/Media/Files"
+        },
+        {
+            "permission": "modify or delete the contents of your USB storage",
+            "type": "Photos/Media/Files"
+        },
+        {
+            "permission": "approximate location (network-based)",
+            "type": "Location"
         },
         {
             "permission": "precise location (GPS and network-based)",
             "type": "Location"
         },
         {
-            "permission": "approximate location (network-based)",
-            "type": "Location"
+            "permission": "read the contents of your USB storage",
+            "type": "Storage"
+        },
+        {
+            "permission": "modify or delete the contents of your USB storage",
+            "type": "Storage"
+        },
+        {
+            "permission": "directly call phone numbers",
+            "type": "Phone"
+        },
+        {
+            "permission": "read phone status and identity",
+            "type": "Phone"
+        },
+        {
+            "permission": "view Wi-Fi connections",
+            "type": "Wi-Fi connection information"
         },
         {
             "permission": "record audio",
@@ -22,43 +50,7 @@
         },
         {
             "permission": "read phone status and identity",
-            "type": "Phone"
-        },
-        {
-            "permission": "directly call phone numbers",
-            "type": "Phone"
-        },
-        {
-            "permission": "read the contents of your USB storage",
-            "type": "Photos/Media/Files"
-        },
-        {
-            "permission": "modify or delete the contents of your USB storage",
-            "type": "Photos/Media/Files"
-        },
-        {
-            "permission": "view Wi-Fi connections",
-            "type": "Wi-Fi connection information"
-        },
-        {
-            "permission": "read phone status and identity",
             "type": "Device ID & call information"
-        },
-        {
-            "permission": "read the contents of your USB storage",
-            "type": "Storage"
-        },
-        {
-            "permission": "modify or delete the contents of your USB storage",
-            "type": "Storage"
-        },
-        {
-            "permission": "control vibration",
-            "type": "Other"
-        },
-        {
-            "permission": "view network connections",
-            "type": "Other"
         },
         {
             "permission": "full network access",
@@ -73,7 +65,15 @@
             "type": "Other"
         },
         {
+            "permission": "view network connections",
+            "type": "Other"
+        },
+        {
             "permission": "run at startup",
+            "type": "Other"
+        },
+        {
+            "permission": "control vibration",
             "type": "Other"
         }
     ]
