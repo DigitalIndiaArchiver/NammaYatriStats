@@ -9,18 +9,6 @@
                 "type": "Personal info"
             },
             {
-                "data": "App interactions",
-                "optional": false,
-                "purpose": "App functionality, Analytics, Advertising or marketing",
-                "type": "App activity"
-            },
-            {
-                "data": "Installed apps",
-                "optional": true,
-                "purpose": "Analytics",
-                "type": "App activity"
-            },
-            {
                 "data": "Crash logs",
                 "optional": false,
                 "purpose": "Analytics",
@@ -37,6 +25,18 @@
                 "optional": true,
                 "purpose": "App functionality, Analytics",
                 "type": "App info and performance"
+            },
+            {
+                "data": "App interactions",
+                "optional": false,
+                "purpose": "App functionality, Analytics, Advertising or marketing",
+                "type": "App activity"
+            },
+            {
+                "data": "Installed apps",
+                "optional": true,
+                "purpose": "Analytics",
+                "type": "App activity"
             }
         ],
         "securityPractices": [

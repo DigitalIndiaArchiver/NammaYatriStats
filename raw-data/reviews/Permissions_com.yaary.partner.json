@@ -1,10 +1,6 @@
 {
     "results": [
         {
-            "permission": "take pictures and videos",
-            "type": "Camera"
-        },
-        {
             "permission": "precise location (GPS and network-based)",
             "type": "Location"
         },
@@ -13,15 +9,15 @@
             "type": "Location"
         },
         {
+            "permission": "take pictures and videos",
+            "type": "Camera"
+        },
+        {
             "permission": "control vibration",
             "type": "Other"
         },
         {
-            "permission": "draw over other apps",
-            "type": "Other"
-        },
-        {
-            "permission": "prevent device from sleeping",
+            "permission": "full network access",
             "type": "Other"
         },
         {
@@ -33,11 +29,15 @@
             "type": "Other"
         },
         {
-            "permission": "view network connections",
+            "permission": "prevent device from sleeping",
             "type": "Other"
         },
         {
-            "permission": "full network access",
+            "permission": "draw over other apps",
+            "type": "Other"
+        },
+        {
+            "permission": "view network connections",
             "type": "Other"
         }
     ]

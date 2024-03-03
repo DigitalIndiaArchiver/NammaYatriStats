@@ -5,17 +5,17 @@
     "summary": "App for the drivers. Zero Commission. 100% Transparent.",
     "installs": "50,000+",
     "minInstalls": 50000,
-    "maxInstalls": 94847,
-    "score": 4.699764,
+    "maxInstalls": 94941,
+    "score": 4.7219625,
     "scoreText": "4.7",
-    "ratings": 4240,
+    "ratings": 4257,
     "reviews": "http://gplayapi.cashlessconsumer.in/api/apps/net.openkochi.yatripartner/reviews",
     "histogram": {
-        "1": 200,
-        "2": 40,
-        "3": 70,
-        "4": 210,
-        "5": 3717
+        "1": 188,
+        "2": 39,
+        "3": 59,
+        "4": 188,
+        "5": 3778
     },
     "price": 0,
     "free": true,
@@ -70,8 +70,8 @@
     "recentChanges": "Minor bug fixes and UI improvements",
     "comments": [
         "App is great, and reasonable fares too But ... I am an online taxi driver, in my opinion the app should add a cancellation fee if the rider cancel the trip before the pickup . I got cancelled 3 times today on the way to the pickup location, my time and fuel gone for nothing. Please try to find a solution for this Thank you",
-        "its very difficult to get a trip on Yatri, still you guys are sending one trip request to more than one driver. please stop this.",
         "Hi,   I just want to let you know that the Switch button that turn on the online status of the yatri service doesn't toggle when we swipe to turn on or off. Only click event is toggling the service.  Maybe using onCheckedChangedListener instead of onClickListener for the Switch will fix the problem.",
+        "its very difficult to get a trip on Yatri, still you guys are sending one trip request to more than one driver. please stop this.",
         "I using a 4g phone I didn't get any trips from yatri, trips are only for iPhone users and 5g smartphones. Please change this system",
         "ADVERTISING IN HYDERABAD,BUT THERE IS NO CHANCE FOR TS VEHICLES? NEED ONLY KL VEHICLE FOR REGISTRATION? GIVE ME CLARITY"
     ],

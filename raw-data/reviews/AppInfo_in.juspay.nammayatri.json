@@ -5,17 +5,17 @@
     "summary": "Auto Booking App - Low Cancellations, Fast Pickups &amp; Affordable Fares",
     "installs": "1,000,000+",
     "minInstalls": 1000000,
-    "maxInstalls": 3115944,
-    "score": 4.757465,
+    "maxInstalls": 3129194,
+    "score": 4.757721,
     "scoreText": "4.8",
-    "ratings": 148859,
+    "ratings": 149403,
     "reviews": "http://gplayapi.cashlessconsumer.in/api/apps/in.juspay.nammayatri/reviews",
     "histogram": {
-        "1": 4196,
-        "2": 991,
-        "3": 2192,
-        "4": 11954,
-        "5": 129521
+        "1": 4116,
+        "2": 1023,
+        "3": 2286,
+        "4": 12081,
+        "5": 129891
     },
     "price": 0,
     "free": true,
@@ -73,10 +73,10 @@
     "version": "1.3.12",
     "comments": [
         "When it started, the app was very convenient, the drivers would accept on time and the fare was reasonable. Now the drivers have started demanding extra fee. They either take a longer route so that the end fare shows more or they demand extra when the trip ends and are rude when you don't agree to give. Sometimes the location shown to the driver and the user has some discrepancy. Have been using this for around 2 months now and not liking it at all. EDIT: GOT SCAMMED AGAIN. GOOGLE SHOULD BAN",
-        "Absolutely no value for the passengers. It has happened multiple times that the driver takes a longer route unnecessarily and fare is updated at the end saying that the trip was longer by so much distance. There's no support and no use raising a ticket. You never get a response. Existence of proper support on apps like Uber make them much better.",
-        "Starting they were easily available but nowdays they are charging more compared to Ola. Suddenly at the end point they charge higher cost . Even the auto drivers take a longer route . Upon that issue with address ,it doesn't take the right address only when we add in it. Ola or Uber was better with rates atleast they used not change the rates all of sudden",
+        "There are issues with the app as such, but the experiences having with the drivers accepting rides and cancelling is an issue. I am not sure if there's any penalty against or penalty for the drivers for them cancelling rides, not picking calls, and so on. When it's urgent, it wastes even more time. Accepting rides and cancelling them is worse than better than not accepting at all. It would be good if there are some sort of penalties against cancelling in certain cases.",
         "First off, this app is so damn buggy. I open it to book an auto and voila, it's frozen. Have to close it from recents and then open again. Second, it should have an option to book without the location enabled. Sometimes we don't book from our current location. What a stupid feature. Third, I booked from a specific location, confirmed it 2-3 times and after booking also it was showing the pickup location I entered. But the driver is shown a location somewhere 10 kms far. What stupidity. 0 star\ud83d\udc4e",
-        "Hey, why did you stop giving the option to choose multiple drivers while booking? Multiple drivers used to quote multiple fares and customer had the option to choose the lower fare. Now it's pretty straight forward and no option to choose. It's not an useful update. The one thing that separated you guys from other auto booking app is this feature. Now I do not have any reason to book from your app. I'd like this reviewed and bring back the old option."
+        "Hey, why did you stop giving the option to choose multiple drivers while booking? Multiple drivers used to quote multiple fares and customer had the option to choose the lower fare. Now it's pretty straight forward and no option to choose. It's not an useful update. The one thing that separated you guys from other auto booking app is this feature. Now I do not have any reason to book from your app. I'd like this reviewed and bring back the old option.",
+        "The fare displayed in the app is unreasonably high, benefiting only auto drivers. Even for a short ride of approximately 9 to 10 kilometers, the app shows an excessive increase of around 50 to 60 rupees, which is completely unacceptable. Moreover, if the driver takes a different route, the fare increases considerably. It would be better to address these issues, provide transparency, and avoid favoring only auto drivers. You don't have customer care also. One of the worst app for people."
     ],
     "preregister": false,
     "earlyAccessEnabled": false,
