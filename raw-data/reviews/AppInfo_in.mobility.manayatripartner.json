@@ -5,17 +5,17 @@
     "summary": "Zero Commission app for Drivers, with Direct Payment from Customers",
     "installs": "1,000+",
     "minInstalls": 1000,
-    "maxInstalls": 1534,
-    "score": 4.6842103,
-    "scoreText": "4.7",
-    "ratings": 19,
+    "maxInstalls": 1831,
+    "score": 4.76,
+    "scoreText": "4.8",
+    "ratings": 25,
     "reviews": "http://gplayapi.cashlessconsumer.in/api/apps/in.mobility.manayatripartner/reviews",
     "histogram": {
         "1": 0,
         "2": 0,
         "3": 0,
         "4": 0,
-        "5": 16
+        "5": 22
     },
     "price": 0,
     "free": true,
@@ -57,7 +57,10 @@
     "updated": 1709098128000,
     "version": "1.0.0",
     "comments": [
-        "last night i installed this app for become a mana yatri partner,but the app is not open and totally stuck. so it deserve 1star."
+        "last night i installed this app for become a mana yatri partner,but the app is not open and totally stuck. so it deserve 1star.",
+        "Very nice app",
+        "Every thing is good",
+        "Please update bike taxi also"
     ],
     "preregister": false,
     "earlyAccessEnabled": false,

@@ -1,30 +1,6 @@
 {
     "results": [
         {
-            "permission": "find accounts on the device",
-            "type": "Identity"
-        },
-        {
-            "permission": "approximate location (network-based)",
-            "type": "Location"
-        },
-        {
-            "permission": "precise location (GPS and network-based)",
-            "type": "Location"
-        },
-        {
-            "permission": "record audio",
-            "type": "Microphone"
-        },
-        {
-            "permission": "take pictures and videos",
-            "type": "Camera"
-        },
-        {
-            "permission": "view Wi-Fi connections",
-            "type": "Wi-Fi connection information"
-        },
-        {
             "permission": "read the contents of your USB storage",
             "type": "Photos/Media/Files"
         },
@@ -34,7 +10,23 @@
         },
         {
             "permission": "read phone status and identity",
+            "type": "Phone"
+        },
+        {
+            "permission": "directly call phone numbers",
+            "type": "Phone"
+        },
+        {
+            "permission": "read phone status and identity",
             "type": "Device ID & call information"
+        },
+        {
+            "permission": "read the contents of your USB storage",
+            "type": "Storage"
+        },
+        {
+            "permission": "modify or delete the contents of your USB storage",
+            "type": "Storage"
         },
         {
             "permission": "find accounts on the device",
@@ -45,31 +37,47 @@
             "type": "Contacts"
         },
         {
-            "permission": "read the contents of your USB storage",
-            "type": "Storage"
+            "permission": "find accounts on the device",
+            "type": "Identity"
         },
         {
-            "permission": "modify or delete the contents of your USB storage",
-            "type": "Storage"
+            "permission": "precise location (GPS and network-based)",
+            "type": "Location"
         },
         {
-            "permission": "directly call phone numbers",
-            "type": "Phone"
+            "permission": "approximate location (network-based)",
+            "type": "Location"
         },
         {
-            "permission": "read phone status and identity",
-            "type": "Phone"
+            "permission": "take pictures and videos",
+            "type": "Camera"
+        },
+        {
+            "permission": "record audio",
+            "type": "Microphone"
+        },
+        {
+            "permission": "view Wi-Fi connections",
+            "type": "Wi-Fi connection information"
         },
         {
             "permission": "view network connections",
             "type": "Other"
         },
         {
-            "permission": "change network connectivity",
+            "permission": "run at startup",
             "type": "Other"
         },
         {
-            "permission": "run at startup",
+            "permission": "full network access",
+            "type": "Other"
+        },
+        {
+            "permission": "change your audio settings",
+            "type": "Other"
+        },
+        {
+            "permission": "control vibration",
             "type": "Other"
         },
         {
@@ -81,19 +89,11 @@
             "type": "Other"
         },
         {
+            "permission": "change network connectivity",
+            "type": "Other"
+        },
+        {
             "permission": "prevent device from sleeping",
-            "type": "Other"
-        },
-        {
-            "permission": "control vibration",
-            "type": "Other"
-        },
-        {
-            "permission": "change your audio settings",
-            "type": "Other"
-        },
-        {
-            "permission": "full network access",
             "type": "Other"
         }
     ]
