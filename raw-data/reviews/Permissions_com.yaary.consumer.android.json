@@ -1,12 +1,20 @@
 {
     "results": [
         {
+            "permission": "modify or delete the contents of your USB storage",
+            "type": "Storage"
+        },
+        {
             "permission": "read the contents of your USB storage",
             "type": "Storage"
         },
         {
             "permission": "modify or delete the contents of your USB storage",
-            "type": "Storage"
+            "type": "Photos/Media/Files"
+        },
+        {
+            "permission": "read the contents of your USB storage",
+            "type": "Photos/Media/Files"
         },
         {
             "permission": "approximate location (network-based)",
@@ -17,12 +25,12 @@
             "type": "Location"
         },
         {
-            "permission": "read the contents of your USB storage",
-            "type": "Photos/Media/Files"
+            "permission": "view network connections",
+            "type": "Other"
         },
         {
-            "permission": "modify or delete the contents of your USB storage",
-            "type": "Photos/Media/Files"
+            "permission": "run at startup",
+            "type": "Other"
         },
         {
             "permission": "disable your screen lock",
@@ -34,14 +42,6 @@
         },
         {
             "permission": "prevent device from sleeping",
-            "type": "Other"
-        },
-        {
-            "permission": "view network connections",
-            "type": "Other"
-        },
-        {
-            "permission": "run at startup",
             "type": "Other"
         }
     ]

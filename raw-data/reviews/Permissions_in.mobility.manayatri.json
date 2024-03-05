@@ -1,11 +1,35 @@
 {
     "results": [
         {
+            "permission": "view Wi-Fi connections",
+            "type": "Wi-Fi connection information"
+        },
+        {
             "permission": "read phone status and identity",
-            "type": "Phone"
+            "type": "Device ID & call information"
+        },
+        {
+            "permission": "take pictures and videos",
+            "type": "Camera"
+        },
+        {
+            "permission": "read your contacts",
+            "type": "Contacts"
+        },
+        {
+            "permission": "read the contents of your USB storage",
+            "type": "Photos/Media/Files"
+        },
+        {
+            "permission": "modify or delete the contents of your USB storage",
+            "type": "Photos/Media/Files"
         },
         {
             "permission": "directly call phone numbers",
+            "type": "Phone"
+        },
+        {
+            "permission": "read phone status and identity",
             "type": "Phone"
         },
         {
@@ -21,22 +45,6 @@
             "type": "Location"
         },
         {
-            "permission": "view Wi-Fi connections",
-            "type": "Wi-Fi connection information"
-        },
-        {
-            "permission": "read the contents of your USB storage",
-            "type": "Photos/Media/Files"
-        },
-        {
-            "permission": "modify or delete the contents of your USB storage",
-            "type": "Photos/Media/Files"
-        },
-        {
-            "permission": "read your contacts",
-            "type": "Contacts"
-        },
-        {
             "permission": "read the contents of your USB storage",
             "type": "Storage"
         },
@@ -45,23 +53,7 @@
             "type": "Storage"
         },
         {
-            "permission": "read phone status and identity",
-            "type": "Device ID & call information"
-        },
-        {
-            "permission": "take pictures and videos",
-            "type": "Camera"
-        },
-        {
-            "permission": "run at startup",
-            "type": "Other"
-        },
-        {
-            "permission": "read Google service configuration",
-            "type": "Other"
-        },
-        {
-            "permission": "view network connections",
+            "permission": "control vibration",
             "type": "Other"
         },
         {
@@ -73,7 +65,15 @@
             "type": "Other"
         },
         {
-            "permission": "control vibration",
+            "permission": "read Google service configuration",
+            "type": "Other"
+        },
+        {
+            "permission": "view network connections",
+            "type": "Other"
+        },
+        {
+            "permission": "run at startup",
             "type": "Other"
         }
     ]
