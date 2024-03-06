@@ -5,17 +5,17 @@
     "summary": "Zero commission ride booking app for fast &amp; affordable auto &amp; cab rides",
     "installs": "10,000+",
     "minInstalls": 10000,
-    "maxInstalls": 37219,
-    "score": 4.8023257,
+    "maxInstalls": 42612,
+    "score": 4.7831326,
     "scoreText": "4.8",
-    "ratings": 86,
+    "ratings": 83,
     "reviews": "http://gplayapi.cashlessconsumer.in/api/apps/in.mobility.manayatri/reviews",
     "histogram": {
         "1": 1,
         "2": 1,
         "3": 0,
-        "4": 0,
-        "5": 79
+        "4": 1,
+        "5": 75
     },
     "price": 0,
     "free": true,
@@ -54,11 +54,11 @@
     "updated": 1708653854000,
     "version": "1.0.0",
     "comments": [
+        "The rates are almost the same when compared with other providers in the Hyderabad city. As a customer don't see any benefit in pricing by preferring this app over Uber/Ola/Rapido. Just hope it will provide quick booking and very very less cancellation by drivers saving time of customer.",
         "Can get auto very quickly. Smooth user experience.",
         "Most convenient ride hailing app. For both customers and drivers.",
         "best app for booking auto rides across many different cities in India",
-        "Good app for booking, low rates compared to so called ride booking apps.",
-        "The best app to get quick rides in Hyderabad."
+        "Good app for booking, low rates compared to so called ride booking apps."
     ],
     "preregister": false,
     "earlyAccessEnabled": false,

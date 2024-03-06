@@ -1,19 +1,11 @@
 {
     "results": [
         {
-            "permission": "modify or delete the contents of your USB storage",
-            "type": "Storage"
-        },
-        {
             "permission": "read the contents of your USB storage",
-            "type": "Storage"
-        },
-        {
-            "permission": "modify or delete the contents of your USB storage",
             "type": "Photos/Media/Files"
         },
         {
-            "permission": "read the contents of your USB storage",
+            "permission": "modify or delete the contents of your USB storage",
             "type": "Photos/Media/Files"
         },
         {
@@ -25,11 +17,19 @@
             "type": "Location"
         },
         {
-            "permission": "view network connections",
-            "type": "Other"
+            "permission": "read the contents of your USB storage",
+            "type": "Storage"
+        },
+        {
+            "permission": "modify or delete the contents of your USB storage",
+            "type": "Storage"
         },
         {
             "permission": "run at startup",
+            "type": "Other"
+        },
+        {
+            "permission": "view network connections",
             "type": "Other"
         },
         {
