@@ -5,15 +5,15 @@
             "type": "Camera"
         },
         {
-            "permission": "approximate location (network-based)",
-            "type": "Location"
-        },
-        {
             "permission": "precise location (GPS and network-based)",
             "type": "Location"
         },
         {
-            "permission": "control vibration",
+            "permission": "approximate location (network-based)",
+            "type": "Location"
+        },
+        {
+            "permission": "run at startup",
             "type": "Other"
         },
         {
@@ -33,11 +33,11 @@
             "type": "Other"
         },
         {
-            "permission": "run at startup",
+            "permission": "full network access",
             "type": "Other"
         },
         {
-            "permission": "full network access",
+            "permission": "control vibration",
             "type": "Other"
         }
     ]
