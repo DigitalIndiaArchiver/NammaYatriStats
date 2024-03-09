@@ -17,18 +17,6 @@
             "type": "Other"
         },
         {
-            "permission": "view network connections",
-            "type": "Other"
-        },
-        {
-            "permission": "full network access",
-            "type": "Other"
-        },
-        {
-            "permission": "control vibration",
-            "type": "Other"
-        },
-        {
             "permission": "disable your screen lock",
             "type": "Other"
         },
@@ -38,6 +26,18 @@
         },
         {
             "permission": "draw over other apps",
+            "type": "Other"
+        },
+        {
+            "permission": "full network access",
+            "type": "Other"
+        },
+        {
+            "permission": "view network connections",
+            "type": "Other"
+        },
+        {
+            "permission": "control vibration",
             "type": "Other"
         }
     ]

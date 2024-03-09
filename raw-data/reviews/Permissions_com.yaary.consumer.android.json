@@ -25,7 +25,7 @@
             "type": "Storage"
         },
         {
-            "permission": "run at startup",
+            "permission": "disable your screen lock",
             "type": "Other"
         },
         {
@@ -41,7 +41,7 @@
             "type": "Other"
         },
         {
-            "permission": "disable your screen lock",
+            "permission": "run at startup",
             "type": "Other"
         }
     ]

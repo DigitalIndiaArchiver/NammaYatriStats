@@ -1,44 +1,20 @@
 {
     "results": [
         {
-            "permission": "read the contents of your USB storage",
-            "type": "Storage"
-        },
-        {
-            "permission": "modify or delete the contents of your USB storage",
-            "type": "Storage"
-        },
-        {
-            "permission": "view Wi-Fi connections",
-            "type": "Wi-Fi connection information"
-        },
-        {
-            "permission": "take pictures and videos",
-            "type": "Camera"
-        },
-        {
-            "permission": "read phone status and identity",
-            "type": "Device ID & call information"
-        },
-        {
             "permission": "record audio",
             "type": "Microphone"
         },
         {
+            "permission": "read your contacts",
+            "type": "Contacts"
+        },
+        {
             "permission": "read the contents of your USB storage",
-            "type": "Photos/Media/Files"
+            "type": "Storage"
         },
         {
             "permission": "modify or delete the contents of your USB storage",
-            "type": "Photos/Media/Files"
-        },
-        {
-            "permission": "approximate location (network-based)",
-            "type": "Location"
-        },
-        {
-            "permission": "precise location (GPS and network-based)",
-            "type": "Location"
+            "type": "Storage"
         },
         {
             "permission": "directly call phone numbers",
@@ -49,8 +25,32 @@
             "type": "Phone"
         },
         {
-            "permission": "read your contacts",
-            "type": "Contacts"
+            "permission": "take pictures and videos",
+            "type": "Camera"
+        },
+        {
+            "permission": "read phone status and identity",
+            "type": "Device ID & call information"
+        },
+        {
+            "permission": "read the contents of your USB storage",
+            "type": "Photos/Media/Files"
+        },
+        {
+            "permission": "modify or delete the contents of your USB storage",
+            "type": "Photos/Media/Files"
+        },
+        {
+            "permission": "precise location (GPS and network-based)",
+            "type": "Location"
+        },
+        {
+            "permission": "approximate location (network-based)",
+            "type": "Location"
+        },
+        {
+            "permission": "view Wi-Fi connections",
+            "type": "Wi-Fi connection information"
         },
         {
             "permission": "full network access",
@@ -61,11 +61,11 @@
             "type": "Other"
         },
         {
-            "permission": "run at startup",
+            "permission": "read Google service configuration",
             "type": "Other"
         },
         {
-            "permission": "view network connections",
+            "permission": "run at startup",
             "type": "Other"
         },
         {
@@ -73,7 +73,7 @@
             "type": "Other"
         },
         {
-            "permission": "read Google service configuration",
+            "permission": "view network connections",
             "type": "Other"
         }
     ]
