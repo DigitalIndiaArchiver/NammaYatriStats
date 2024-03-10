@@ -1,10 +1,6 @@
 {
     "results": [
         {
-            "permission": "take pictures and videos",
-            "type": "Camera"
-        },
-        {
             "permission": "precise location (GPS and network-based)",
             "type": "Location"
         },
@@ -13,19 +9,11 @@
             "type": "Location"
         },
         {
-            "permission": "prevent device from sleeping",
-            "type": "Other"
+            "permission": "take pictures and videos",
+            "type": "Camera"
         },
         {
-            "permission": "disable your screen lock",
-            "type": "Other"
-        },
-        {
-            "permission": "run at startup",
-            "type": "Other"
-        },
-        {
-            "permission": "draw over other apps",
+            "permission": "control vibration",
             "type": "Other"
         },
         {
@@ -33,11 +21,23 @@
             "type": "Other"
         },
         {
+            "permission": "run at startup",
+            "type": "Other"
+        },
+        {
+            "permission": "disable your screen lock",
+            "type": "Other"
+        },
+        {
             "permission": "view network connections",
             "type": "Other"
         },
         {
-            "permission": "control vibration",
+            "permission": "draw over other apps",
+            "type": "Other"
+        },
+        {
+            "permission": "prevent device from sleeping",
             "type": "Other"
         }
     ]

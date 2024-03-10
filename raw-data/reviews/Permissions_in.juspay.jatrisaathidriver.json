@@ -5,44 +5,12 @@
             "type": "Device ID & call information"
         },
         {
-            "permission": "find accounts on the device",
-            "type": "Identity"
-        },
-        {
-            "permission": "view Wi-Fi connections",
-            "type": "Wi-Fi connection information"
-        },
-        {
-            "permission": "read the contents of your USB storage",
-            "type": "Storage"
-        },
-        {
-            "permission": "modify or delete the contents of your USB storage",
-            "type": "Storage"
-        },
-        {
-            "permission": "record audio",
-            "type": "Microphone"
-        },
-        {
             "permission": "take pictures and videos",
             "type": "Camera"
         },
         {
-            "permission": "directly call phone numbers",
-            "type": "Phone"
-        },
-        {
-            "permission": "read phone status and identity",
-            "type": "Phone"
-        },
-        {
-            "permission": "read the contents of your USB storage",
-            "type": "Photos/Media/Files"
-        },
-        {
-            "permission": "modify or delete the contents of your USB storage",
-            "type": "Photos/Media/Files"
+            "permission": "record audio",
+            "type": "Microphone"
         },
         {
             "permission": "precise location (GPS and network-based)",
@@ -54,6 +22,18 @@
         },
         {
             "permission": "find accounts on the device",
+            "type": "Identity"
+        },
+        {
+            "permission": "read the contents of your USB storage",
+            "type": "Storage"
+        },
+        {
+            "permission": "modify or delete the contents of your USB storage",
+            "type": "Storage"
+        },
+        {
+            "permission": "find accounts on the device",
             "type": "Contacts"
         },
         {
@@ -61,15 +41,31 @@
             "type": "Contacts"
         },
         {
-            "permission": "full network access",
-            "type": "Other"
+            "permission": "directly call phone numbers",
+            "type": "Phone"
         },
         {
-            "permission": "run at startup",
-            "type": "Other"
+            "permission": "read phone status and identity",
+            "type": "Phone"
+        },
+        {
+            "permission": "view Wi-Fi connections",
+            "type": "Wi-Fi connection information"
+        },
+        {
+            "permission": "read the contents of your USB storage",
+            "type": "Photos/Media/Files"
+        },
+        {
+            "permission": "modify or delete the contents of your USB storage",
+            "type": "Photos/Media/Files"
         },
         {
             "permission": "control vibration",
+            "type": "Other"
+        },
+        {
+            "permission": "change network connectivity",
             "type": "Other"
         },
         {
@@ -77,7 +73,19 @@
             "type": "Other"
         },
         {
+            "permission": "full network access",
+            "type": "Other"
+        },
+        {
+            "permission": "read Google service configuration",
+            "type": "Other"
+        },
+        {
             "permission": "view network connections",
+            "type": "Other"
+        },
+        {
+            "permission": "run at startup",
             "type": "Other"
         },
         {
@@ -86,14 +94,6 @@
         },
         {
             "permission": "prevent device from sleeping",
-            "type": "Other"
-        },
-        {
-            "permission": "read Google service configuration",
-            "type": "Other"
-        },
-        {
-            "permission": "change network connectivity",
             "type": "Other"
         }
     ]
