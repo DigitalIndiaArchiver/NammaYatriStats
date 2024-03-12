@@ -5,17 +5,17 @@
     "summary": "Zero commission auto booking. 100% Direct payment to drivers. 100% Open-source.",
     "installs": "100,000+",
     "minInstalls": 100000,
-    "maxInstalls": 403002,
-    "score": 4.8233213,
+    "maxInstalls": 403058,
+    "score": 4.8245616,
     "scoreText": "4.8",
-    "ratings": 5667,
+    "ratings": 5672,
     "reviews": "http://gplayapi.cashlessconsumer.in/api/apps/net.openkochi.yatri/reviews",
     "histogram": {
-        "1": 109,
+        "1": 108,
         "2": 9,
         "3": 79,
-        "4": 369,
-        "5": 5096
+        "4": 367,
+        "5": 5104
     },
     "price": 0,
     "free": true,
@@ -73,9 +73,9 @@
     "version": "2.2.2",
     "recentChanges": "Yatri is now in new colors to make your commute seamlessly. And as usual, bugs have been shown the door.",
     "comments": [
+        "I'm not able to sign up now, shows there is some error. Plus, once I booked for a cab through another number, and the app was updating, the cab came and I couldn't see the details as the app was not opening. Since updates, there has been issues with this app.",
         "This app recommends 2 wheeler routes for a cab and when you take the actual route, it overcharges you. Customer service gives blunt replies like We will look into it or we are trying to fix the maps! Your money wasted. No refunds, not even an offer of refund! Uninstalling. Update: Thank you for automated reply but where are my refunds?",
         "Not even good for one star. They had charged my extra 60 rupees stating the ride is 2.3 km longer although the destination location is correct. I really fed up with this app and don't recommend anyone to use this fraudulent app.",
-        "I'm not able to sign up now, shows there is some error. Plus, once I booked for a cab through another number, and the app was updating, the cab came and I couldn't see the details as the app was not opening. Since updates, there has been issues with this app.",
         "Horrible experience. Got fooled by the initial price while booking. It showed me 1600 for my trip when started, so I booked it since ola was showing 1800. But after reaching my place, the fair changed to 2060. 400rs more. Never seen such a drastic change in the price in any of the apps. Used it for the first time, and that would be the last as well. Should have gone for ola, atleast I could have saved 200rs. Don't fall for the fake reviews in play store",
         "Driver charged more than the fare shown in app. Emailed the support team of app but no response even after 2 days. No use of support team. Please don't use this app. Edit: Their support email id is invalid."
     ],
