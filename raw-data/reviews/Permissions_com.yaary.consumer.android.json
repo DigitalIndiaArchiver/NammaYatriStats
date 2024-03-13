@@ -1,22 +1,14 @@
 {
     "results": [
         {
-            "permission": "read the contents of your USB storage",
-            "type": "Storage"
-        },
-        {
-            "permission": "modify or delete the contents of your USB storage",
-            "type": "Storage"
+            "permission": "approximate location (network-based)",
+            "type": "Location"
         },
         {
             "permission": "precise location (GPS and network-based)",
             "type": "Location"
         },
         {
-            "permission": "approximate location (network-based)",
-            "type": "Location"
-        },
-        {
             "permission": "read the contents of your USB storage",
             "type": "Photos/Media/Files"
         },
@@ -25,15 +17,15 @@
             "type": "Photos/Media/Files"
         },
         {
-            "permission": "full network access",
-            "type": "Other"
+            "permission": "read the contents of your USB storage",
+            "type": "Storage"
         },
         {
-            "permission": "prevent device from sleeping",
-            "type": "Other"
+            "permission": "modify or delete the contents of your USB storage",
+            "type": "Storage"
         },
         {
-            "permission": "run at startup",
+            "permission": "view network connections",
             "type": "Other"
         },
         {
@@ -41,7 +33,15 @@
             "type": "Other"
         },
         {
-            "permission": "view network connections",
+            "permission": "full network access",
+            "type": "Other"
+        },
+        {
+            "permission": "run at startup",
+            "type": "Other"
+        },
+        {
+            "permission": "prevent device from sleeping",
             "type": "Other"
         }
     ]

@@ -3,6 +3,12 @@
         "sharedData": [],
         "collectedData": [
             {
+                "data": "Phone number",
+                "optional": false,
+                "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance",
+                "type": "Personal info"
+            },
+            {
                 "data": "Crash logs",
                 "optional": false,
                 "purpose": "Analytics",
@@ -31,12 +37,6 @@
                 "optional": true,
                 "purpose": "Analytics",
                 "type": "App activity"
-            },
-            {
-                "data": "Phone number",
-                "optional": false,
-                "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance",
-                "type": "Personal info"
             }
         ],
         "securityPractices": [

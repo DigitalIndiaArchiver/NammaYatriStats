@@ -5,17 +5,17 @@
     "summary": "Auto/Cab Booking App - Low Cancellations, Fast Pickups &amp; Affordable Fares",
     "installs": "1,000,000+",
     "minInstalls": 1000000,
-    "maxInstalls": 3220810,
-    "score": 4.7551465,
+    "maxInstalls": 3229993,
+    "score": 4.7539425,
     "scoreText": "4.8",
-    "ratings": 153501,
+    "ratings": 153881,
     "reviews": "http://gplayapi.cashlessconsumer.in/api/apps/in.juspay.nammayatri/reviews",
     "histogram": {
-        "1": 4273,
-        "2": 892,
-        "3": 2478,
-        "4": 12851,
-        "5": 133002
+        "1": 4306,
+        "2": 874,
+        "3": 2545,
+        "4": 12919,
+        "5": 133233
     },
     "price": 0,
     "free": true,
@@ -72,11 +72,11 @@
     "updated": 1706813611000,
     "version": "1.3.12",
     "comments": [
+        "SCAM= This application. First is their drivers are very rude. The application lags all the time. The route the application shows while booking and the route it shows to driver after OTP is different. The fare is never the same when booked and it always goes higher after reaching same destination point. The location you search and set for destination differs when the ride starts and driver denies to go 100mts as well. Please don't fall for this and go for better alternatives like Uber, Rapido.",
         "When it started, the app was very convenient, the drivers would accept on time and the fare was reasonable. Now the drivers have started demanding extra fee. They either take a longer route so that the end fare shows more or they demand extra when the trip ends and are rude when you don't agree to give. Sometimes the location shown to the driver and the user has some discrepancy. Have been using this for around 2 months now and not liking it at all. EDIT: GOT SCAMMED AGAIN. GOOGLE SHOULD BAN",
         "There are issues with the app as such, but the experiences having with the drivers accepting rides and cancelling is an issue. I am not sure if there's any penalty against or penalty for the drivers for them cancelling rides, not picking calls, and so on. When it's urgent, it wastes even more time. Accepting rides and cancelling them is worse than better than not accepting at all. It would be good if there are some sort of penalties against cancelling in certain cases.",
         "First off, this app is so damn buggy. I open it to book an auto and voila, it's frozen. Have to close it from recents and then open again. Second, it should have an option to book without the location enabled. Sometimes we don't book from our current location. What a stupid feature. Third, I booked from a specific location, confirmed it 2-3 times and after booking also it was showing the pickup location I entered. But the driver is shown a location somewhere 10 kms far. What stupidity. 0 star\ud83d\udc4e",
-        "Hey, why did you stop giving the option to choose multiple drivers while booking? Multiple drivers used to quote multiple fares and customer had the option to choose the lower fare. Now it's pretty straight forward and no option to choose. It's not an useful update. The one thing that separated you guys from other auto booking app is this feature. Now I do not have any reason to book from your app. I'd like this reviewed and bring back the old option.",
-        "The fare displayed in the app is unreasonably high, benefiting only auto drivers. Even for a short ride of approximately 9 to 10 kilometers, the app shows an excessive increase of around 50 to 60 rupees, which is completely unacceptable. Moreover, if the driver takes a different route, the fare increases considerably. It would be better to address these issues, provide transparency, and avoid favoring only auto drivers. You don't have customer care also. One of the worst app for people."
+        "Hey, why did you stop giving the option to choose multiple drivers while booking? Multiple drivers used to quote multiple fares and customer had the option to choose the lower fare. Now it's pretty straight forward and no option to choose. It's not an useful update. The one thing that separated you guys from other auto booking app is this feature. Now I do not have any reason to book from your app. I'd like this reviewed and bring back the old option."
     ],
     "preregister": false,
     "earlyAccessEnabled": false,
