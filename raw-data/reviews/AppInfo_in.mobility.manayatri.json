@@ -5,17 +5,17 @@
     "summary": "Zero commission ride booking app for fast &amp; affordable auto &amp; cab rides",
     "installs": "50,000+",
     "minInstalls": 50000,
-    "maxInstalls": 87435,
-    "score": 4.5882354,
+    "maxInstalls": 92924,
+    "score": 4.6019416,
     "scoreText": "4.6",
-    "ratings": 143,
+    "ratings": 160,
     "reviews": "http://gplayapi.cashlessconsumer.in/api/apps/in.mobility.manayatri/reviews",
     "histogram": {
         "1": 8,
-        "2": 3,
+        "2": 2,
         "3": 0,
-        "4": 8,
-        "5": 118
+        "4": 13,
+        "5": 131
     },
     "price": 0,
     "free": true,
@@ -58,7 +58,7 @@
         "Much better than getting an Ola or Uber auto. Overall, happy with the experience.",
         "Can get auto very quickly. Smooth user experience.",
         "Most convenient ride hailing app. For both customers and drivers.",
-        "best app for booking auto rides across many different cities in India"
+        "Respected developer & team,App excellent, can provide you bike services."
     ],
     "preregister": false,
     "earlyAccessEnabled": false,

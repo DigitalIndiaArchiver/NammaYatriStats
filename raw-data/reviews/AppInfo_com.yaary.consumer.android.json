@@ -5,17 +5,17 @@
     "summary": "Find driver nearby! Request a ride - Book taxi, auto &amp; book cabs online",
     "installs": "100,000+",
     "minInstalls": 100000,
-    "maxInstalls": 282423,
-    "score": 4.5510206,
+    "maxInstalls": 283462,
+    "score": 4.5562916,
     "scoreText": "4.6",
-    "ratings": 1361,
+    "ratings": 1364,
     "reviews": "http://gplayapi.cashlessconsumer.in/api/apps/com.yaary.consumer.android/reviews",
     "histogram": {
-        "1": 128,
+        "1": 125,
         "2": 17,
         "3": 8,
-        "4": 17,
-        "5": 1184
+        "4": 26,
+        "5": 1182
     },
     "price": 0,
     "free": true,
@@ -57,9 +57,9 @@
     "comments": [
         "I downloaded the app from the play store, but I was very disappointed with its performance. The app is not working properly at all. Every time I open the app, it keeps loading to get my current location, even though I have turned on the location GPS. This is very frustrating and annoying. I think the app developers should fix this bug as soon as possible, or else I will uninstall the app and give it a one-star rating",
         "Kudos to the yaary app team . Overall great experience using this app although i noticed some issues using the app which i hope gets fixed asap - 1. Driver location is not accurate 2.Ride fare before and after the ride isn't same 3. Map shows incorrect directions 4. Change the vehicle icon for better visibility Apart from this i'll suggest to keep an option for the user to give his own ride fare price before booking a ride",
-        "This app is a disappointment. It's very bad, charging extra fees beyond the estimated price. Moreover, the customer service is painfully slow, making problem resolution a frustrating experience. Overall, I do not recommend this app.",
         "I installed Yaary after seeing their ads claiming to be India's first driver-focused mobility app. I was hoping to find a cheap and convenient ride-hailing service in Hyderabad. But I was very disappointed by how expensive and unreliable Yaary was. I tried to book a ride with Yaary from my office to home, which is only 4.5 km away. The app showed me a fare of Rs 200, which is 40% more than what other apps charge for the same distance. I thought it was a mistake, so I refreshed the app and tried",
-        "Please do not force to turn on GPS signal. Try asking 2-3 times post which let users manually enter pickup and drop locations. Turning ON GPS drains away battery and all other apps like Ola/Uber/Rapido do not force users to turn on GPS to book a ride. Hence please implement the same."
+        "Please do not force to turn on GPS signal. Try asking 2-3 times post which let users manually enter pickup and drop locations. Turning ON GPS drains away battery and all other apps like Ola/Uber/Rapido do not force users to turn on GPS to book a ride. Hence please implement the same.",
+        "This app is a disappointment. It's very bad, charging extra fees beyond the estimated price. Moreover, the customer service is painfully slow, making problem resolution a frustrating experience. Overall, I do not recommend this app."
     ],
     "preregister": false,
     "earlyAccessEnabled": false,
