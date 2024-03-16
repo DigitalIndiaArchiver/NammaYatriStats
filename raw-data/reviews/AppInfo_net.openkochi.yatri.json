@@ -5,17 +5,17 @@
     "summary": "Zero commission auto booking. 100% Direct payment to drivers. 100% Open-source.",
     "installs": "100,000+",
     "minInstalls": 100000,
-    "maxInstalls": 403123,
-    "score": 4.826855,
+    "maxInstalls": 403289,
+    "score": 4.82662,
     "scoreText": "4.8",
-    "ratings": 5689,
+    "ratings": 5694,
     "reviews": "http://gplayapi.cashlessconsumer.in/api/apps/net.openkochi.yatri/reviews",
     "histogram": {
         "1": 109,
         "2": 9,
         "3": 69,
-        "4": 371,
-        "5": 5125
+        "4": 378,
+        "5": 5124
     },
     "price": 0,
     "free": true,
