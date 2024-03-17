@@ -1,16 +1,16 @@
 {
     "results": [
         {
+            "permission": "modify or delete the contents of your USB storage",
+            "type": "Photos/Media/Files"
+        },
+        {
+            "permission": "read the contents of your USB storage",
+            "type": "Photos/Media/Files"
+        },
+        {
             "permission": "read your contacts",
             "type": "Contacts"
-        },
-        {
-            "permission": "approximate location (network-based)",
-            "type": "Location"
-        },
-        {
-            "permission": "precise location (GPS and network-based)",
-            "type": "Location"
         },
         {
             "permission": "directly call phone numbers",
@@ -21,47 +21,39 @@
             "type": "Phone"
         },
         {
-            "permission": "read the contents of your USB storage",
-            "type": "Photos/Media/Files"
-        },
-        {
             "permission": "modify or delete the contents of your USB storage",
-            "type": "Photos/Media/Files"
+            "type": "Storage"
         },
         {
             "permission": "read the contents of your USB storage",
             "type": "Storage"
         },
         {
-            "permission": "modify or delete the contents of your USB storage",
-            "type": "Storage"
+            "permission": "precise location (GPS and network-based)",
+            "type": "Location"
         },
         {
-            "permission": "take pictures and videos",
-            "type": "Camera"
+            "permission": "approximate location (network-based)",
+            "type": "Location"
         },
         {
             "permission": "record audio",
             "type": "Microphone"
         },
         {
-            "permission": "view Wi-Fi connections",
-            "type": "Wi-Fi connection information"
-        },
-        {
             "permission": "read phone status and identity",
             "type": "Device ID & call information"
         },
         {
+            "permission": "take pictures and videos",
+            "type": "Camera"
+        },
+        {
+            "permission": "view Wi-Fi connections",
+            "type": "Wi-Fi connection information"
+        },
+        {
             "permission": "view network connections",
-            "type": "Other"
-        },
-        {
-            "permission": "full network access",
-            "type": "Other"
-        },
-        {
-            "permission": "run at startup",
             "type": "Other"
         },
         {
@@ -69,7 +61,15 @@
             "type": "Other"
         },
         {
+            "permission": "full network access",
+            "type": "Other"
+        },
+        {
             "permission": "prevent device from sleeping",
+            "type": "Other"
+        },
+        {
+            "permission": "run at startup",
             "type": "Other"
         },
         {
