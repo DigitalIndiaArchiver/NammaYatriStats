@@ -5,28 +5,12 @@
             "type": "Identity"
         },
         {
-            "permission": "find accounts on the device",
-            "type": "Contacts"
+            "permission": "record audio",
+            "type": "Microphone"
         },
         {
-            "permission": "read your contacts",
-            "type": "Contacts"
-        },
-        {
-            "permission": "approximate location (network-based)",
-            "type": "Location"
-        },
-        {
-            "permission": "precise location (GPS and network-based)",
-            "type": "Location"
-        },
-        {
-            "permission": "directly call phone numbers",
-            "type": "Phone"
-        },
-        {
-            "permission": "read phone status and identity",
-            "type": "Phone"
+            "permission": "view Wi-Fi connections",
+            "type": "Wi-Fi connection information"
         },
         {
             "permission": "read the contents of your USB storage",
@@ -49,16 +33,52 @@
             "type": "Camera"
         },
         {
-            "permission": "record audio",
-            "type": "Microphone"
+            "permission": "read phone status and identity",
+            "type": "Device ID & call information"
         },
         {
-            "permission": "view Wi-Fi connections",
-            "type": "Wi-Fi connection information"
+            "permission": "precise location (GPS and network-based)",
+            "type": "Location"
+        },
+        {
+            "permission": "approximate location (network-based)",
+            "type": "Location"
+        },
+        {
+            "permission": "find accounts on the device",
+            "type": "Contacts"
+        },
+        {
+            "permission": "read your contacts",
+            "type": "Contacts"
+        },
+        {
+            "permission": "directly call phone numbers",
+            "type": "Phone"
         },
         {
             "permission": "read phone status and identity",
-            "type": "Device ID & call information"
+            "type": "Phone"
+        },
+        {
+            "permission": "change your audio settings",
+            "type": "Other"
+        },
+        {
+            "permission": "control vibration",
+            "type": "Other"
+        },
+        {
+            "permission": "draw over other apps",
+            "type": "Other"
+        },
+        {
+            "permission": "prevent device from sleeping",
+            "type": "Other"
+        },
+        {
+            "permission": "run at startup",
+            "type": "Other"
         },
         {
             "permission": "view network connections",
@@ -69,31 +89,11 @@
             "type": "Other"
         },
         {
-            "permission": "full network access",
-            "type": "Other"
-        },
-        {
-            "permission": "change your audio settings",
-            "type": "Other"
-        },
-        {
-            "permission": "run at startup",
-            "type": "Other"
-        },
-        {
-            "permission": "draw over other apps",
-            "type": "Other"
-        },
-        {
-            "permission": "control vibration",
-            "type": "Other"
-        },
-        {
-            "permission": "prevent device from sleeping",
-            "type": "Other"
-        },
-        {
             "permission": "read Google service configuration",
+            "type": "Other"
+        },
+        {
+            "permission": "full network access",
             "type": "Other"
         }
     ]
