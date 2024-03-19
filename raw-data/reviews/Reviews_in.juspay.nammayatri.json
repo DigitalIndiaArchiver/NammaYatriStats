@@ -1,5 +1,237 @@
 [
     {
+        "id": "f9d041c7-5c24-491b-8fba-5fc7c82ccf62",
+        "date": "2024-03-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Excellent"
+    },
+    {
+        "id": "f30c8a10-764a-483a-9769-9d6ea85670cc",
+        "date": "2024-03-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "e78be8a3-9b5f-42db-a384-9eceab16ca9c",
+        "date": "2024-03-18",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Zero quality control. All driver rude and ask extra money always. Some time abouse as well."
+    },
+    {
+        "id": "d9791d8a-9661-4f4f-aa34-0c6a5dac238b",
+        "date": "2024-03-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "great app for rides and affordable prices"
+    },
+    {
+        "id": "d2ae5f6d-5461-4491-beaf-ecf1c703b2cb",
+        "date": "2024-03-18",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "It's such a trouble to book an auto. Useless app. Whenever a person wants an auto in an emergency namma yatri never fails to disappoint us. Also,what's the point of chatting with the driver when he doesn't know what to respond. Neither they pick up a call."
+    },
+    {
+        "id": "d0253954-b4bc-43ac-b564-5735289a6463",
+        "date": "2024-03-18",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Worst application"
+    },
+    {
+        "id": "c353d273-5698-415a-9735-8f4175803acd",
+        "date": "2024-03-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good \ud83d\udcaf"
+    },
+    {
+        "id": "c2dc67c5-6724-46c7-a417-8c7e0c539e08",
+        "date": "2024-03-18",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Worst app. If any issue arises there is no customer support to complain. I feel it is auto drivers own app so they won't bother."
+    },
+    {
+        "id": "b5e718d5-e8d5-4ff5-b076-868233453c98",
+        "date": "2024-03-18",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Nowadays I am facing fare discrepancy in the ride, this app misleading the customers, while booking ride it shows less price but after completion they charge more, unethical practice by namm yatri and auto drivers of namm yatri!!!! I think namm yatri also started doing same thing as rapido!!!!"
+    },
+    {
+        "id": "a95df5c6-96f7-4bab-904b-1a1f4f332e9c",
+        "date": "2024-03-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super service"
+    },
+    {
+        "id": "96ca1212-2c19-48f7-8f6f-dfe18568e54b",
+        "date": "2024-03-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Dependable service"
+    },
+    {
+        "id": "856a61a3-23e1-4a66-821f-da46852a522f",
+        "date": "2024-03-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "83039d2d-d610-403c-a613-805c96ba3989",
+        "date": "2024-03-18",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "after booking cancellation more in this"
+    },
+    {
+        "id": "7c62eb93-b153-4208-839a-d0a1215f51cf",
+        "date": "2024-03-18",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "Auto drivers keep cancelling even after calling and confirming the ride ... Do pls keep a review box for in the app do that we do file cases Rather than that Good app"
+    },
+    {
+        "id": "707c77c0-5dc1-42fd-8dcc-0013f71c79e9",
+        "date": "2024-03-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super"
+    },
+    {
+        "id": "6012ca34-7589-427b-a0c4-431acf1311d8",
+        "date": "2024-03-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "5bacd3e4-b08e-464e-8da3-a4185f32a251",
+        "date": "2024-03-18",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Drivers are worst everyone demanding extra...no quality drivers"
+    },
+    {
+        "id": "56ee99ac-d434-410d-98de-d68f88c6ae1e",
+        "date": "2024-03-18",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "4606817d-f37e-464a-95ef-e457c9386154",
+        "date": "2024-03-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good"
+    },
+    {
+        "id": "4242397d-ed5d-4c7b-a1a4-e574d4f9ca7f",
+        "date": "2024-03-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "\u2764\ufe0f\u2764\ufe0f"
+    },
+    {
+        "id": "3fbfeab1-6059-43db-8655-2ac9f2512d9f",
+        "date": "2024-03-18",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "App, seems fine.. But no drivers in coimbatore use it"
+    },
+    {
+        "id": "3ec73d26-aee7-4902-88f6-cb463dd0b013",
+        "date": "2024-03-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "compared to other service providers, Namma Yatri offers excellent service, and you're feeling satisfied with your first trip with them."
+    },
+    {
+        "id": "3bfa17b3-6a30-4f2e-9538-08e0709e88a3",
+        "date": "2024-03-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "low price good service use namma yatri to bypass commission \ud83d\udcaf"
+    },
+    {
+        "id": "3bc54a61-abcc-4d10-ab3e-232a80ccd86e",
+        "date": "2024-03-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "superb."
+    },
+    {
+        "id": "32db3d8e-d8c9-4ef9-8ab3-9362c7c978ad",
+        "date": "2024-03-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice"
+    },
+    {
+        "id": "327ff3f7-555f-4792-870b-df404cd0938d",
+        "date": "2024-03-18",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "This app is very high charges comparative other app"
+    },
+    {
+        "id": "30173205-a02f-4512-9e7b-68c9bc8bab8e",
+        "date": "2024-03-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Every place going to low cost amount so everything is fine \u2764\ufe0f"
+    },
+    {
+        "id": "2d228845-4d58-4dad-bb94-733c27d59204",
+        "date": "2024-03-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good driving"
+    },
+    {
+        "id": "02485fb2-c5f8-4c1d-bba0-1f56715069a1",
+        "date": "2024-03-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
         "id": "f8d90f8b-bf78-41c1-bd05-40b8d0515132",
         "date": "2024-03-17",
         "score": 5,
@@ -46,6 +278,14 @@
         "scoreText": "1",
         "title": null,
         "text": "Horrible customer care. You guys don't even care if the driver is misbehaving with the passanger. No one will help you incase there is an issue. This app doesn't deserve one star also"
+    },
+    {
+        "id": "c2407942-aefb-4326-b5c3-e126381a53ac",
+        "date": "2024-03-17",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Just giving five stars because they don't take commission from drivers."
     },
     {
         "id": "bf5acfb7-c6e0-477f-a5b8-6fd637d6fe31",

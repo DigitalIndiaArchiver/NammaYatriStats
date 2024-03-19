@@ -5,17 +5,17 @@
     "summary": "Zero Commission app for Drivers, with Direct Payment from Customers",
     "installs": "10,000+",
     "minInstalls": 10000,
-    "maxInstalls": 10411,
-    "score": 4.742857,
-    "scoreText": "4.7",
-    "ratings": 229,
+    "maxInstalls": 11054,
+    "score": 4.6407766,
+    "scoreText": "4.6",
+    "ratings": 245,
     "reviews": "http://gplayapi.cashlessconsumer.in/api/apps/in.mobility.manayatripartner/reviews",
     "histogram": {
-        "1": 8,
-        "2": 3,
-        "3": 1,
+        "1": 9,
+        "2": 9,
+        "3": 6,
         "4": 6,
-        "5": 206
+        "5": 210
     },
     "price": 0,
     "free": true,
@@ -58,10 +58,10 @@
     "version": "1.0.0",
     "comments": [
         "last night i installed this app for become a mana yatri partner,but the app is not open and totally stuck. so it deserve 1star.",
+        "Yesterday install the app but not open something is wrong also phone is hang",
         "wrong direction showing fraud app, never trust this app",
         "Please update bike also",
-        "Please update bike taxi also",
-        "Very nic app. Thanks congress government thanks to revanth reddy anna. (CM sir )"
+        "Please update bike taxi also"
     ],
     "preregister": false,
     "earlyAccessEnabled": false,

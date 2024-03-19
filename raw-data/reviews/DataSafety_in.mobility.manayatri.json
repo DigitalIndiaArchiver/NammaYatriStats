@@ -3,24 +3,6 @@
         "sharedData": [],
         "collectedData": [
             {
-                "data": "App interactions",
-                "optional": false,
-                "purpose": "App functionality, Analytics, Advertising or marketing",
-                "type": "App activity"
-            },
-            {
-                "data": "Installed apps",
-                "optional": true,
-                "purpose": "Analytics",
-                "type": "App activity"
-            },
-            {
-                "data": "Phone number",
-                "optional": false,
-                "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance",
-                "type": "Personal info"
-            },
-            {
                 "data": "Crash logs",
                 "optional": false,
                 "purpose": "Analytics",
@@ -37,6 +19,24 @@
                 "optional": true,
                 "purpose": "App functionality, Analytics",
                 "type": "App info and performance"
+            },
+            {
+                "data": "App interactions",
+                "optional": false,
+                "purpose": "App functionality, Analytics, Advertising or marketing",
+                "type": "App activity"
+            },
+            {
+                "data": "Installed apps",
+                "optional": true,
+                "purpose": "Analytics",
+                "type": "App activity"
+            },
+            {
+                "data": "Phone number",
+                "optional": false,
+                "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance",
+                "type": "Personal info"
             }
         ],
         "securityPractices": [
@@ -53,6 +53,6 @@
                 "description": "The developer has committed to follow the Play Families Policy for this app. <a href=\"https://support.google.com/googleplay/android-developer/answer/9893335\" target=\"_blank\">See the policy</a>"
             }
         ],
-        "privacyPolicyUrl": "https://docs.google.com/document/d/1whw7xFO0nGs6rz_RyJpSjx8fhQwyN_cds1wGro6GWu4"
+        "privacyPolicyUrl": "https://www.manayatri.in/privacy-policy/"
     }
 }
