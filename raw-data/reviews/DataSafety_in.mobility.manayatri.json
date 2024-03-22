@@ -3,16 +3,10 @@
         "sharedData": [],
         "collectedData": [
             {
-                "data": "App interactions",
+                "data": "Phone number",
                 "optional": false,
-                "purpose": "App functionality, Analytics, Advertising or marketing",
-                "type": "App activity"
-            },
-            {
-                "data": "Installed apps",
-                "optional": true,
-                "purpose": "Analytics",
-                "type": "App activity"
+                "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance",
+                "type": "Personal info"
             },
             {
                 "data": "Crash logs",
@@ -33,10 +27,16 @@
                 "type": "App info and performance"
             },
             {
-                "data": "Phone number",
+                "data": "App interactions",
                 "optional": false,
-                "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance",
-                "type": "Personal info"
+                "purpose": "App functionality, Analytics, Advertising or marketing",
+                "type": "App activity"
+            },
+            {
+                "data": "Installed apps",
+                "optional": true,
+                "purpose": "Analytics",
+                "type": "App activity"
             }
         ],
         "securityPractices": [
