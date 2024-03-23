@@ -1,5 +1,133 @@
 [
     {
+        "id": "fce7888e-cbd9-4882-8c9a-bd1126a84080",
+        "date": "2024-03-22",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Third Class Service, uneducated and non trained driver don't know GPS and technical things..... Yellow taxi wala kidhar jana hai sahab?"
+    },
+    {
+        "id": "f6d2b0d7-ca70-4a6e-bad7-5117c2802928",
+        "date": "2024-03-22",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "GOOD PLANING"
+    },
+    {
+        "id": "e9ca8a99-db18-4e30-8c0d-994e617d29d3",
+        "date": "2024-03-22",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "ok"
+    },
+    {
+        "id": "deeed5eb-ce54-41d6-a86d-e321136c84ba",
+        "date": "2024-03-22",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "I recently used the Yatti Sathi cab booking app for a ride, and unfortunately, my experience was far from satisfactory. The app initially displayed varying fares for the same route at the same time while booking from different phone, which was already concerning. Despite selecting the seemingly lower fare option, I was shocked to find that the final fare displayed after completing the ride was significantly higher than what was initially shown."
+    },
+    {
+        "id": "ceffa0e9-1c3a-4cbf-9e8f-fdc889c4e83a",
+        "date": "2024-03-22",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "c29324eb-1b0d-4640-b57d-e59a698817bd",
+        "date": "2024-03-22",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Today I booked a cab from this app for the first time and had a poor experience... The driver purposefully took a 2 km longer route saying that it will take less time to reach and at the end I had to pay 45 extra than at the time of booking the cab, even I paid extra for toll. Ola is way more better."
+    },
+    {
+        "id": "af72b35e-76ae-4ec6-9c86-682dc910a574",
+        "date": "2024-03-22",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good service"
+    },
+    {
+        "id": "aef326c2-888b-4ad7-8c26-be8f69a38ca9",
+        "date": "2024-03-22",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "excellent"
+    },
+    {
+        "id": "9a75312f-b52b-49b6-8e06-464279683677",
+        "date": "2024-03-22",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "please apply share option ride"
+    },
+    {
+        "id": "7ee1e026-d550-4cec-883e-90b2654516ba",
+        "date": "2024-03-22",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Nice app"
+    },
+    {
+        "id": "6fcf5de1-d9ab-4311-a194-a24c253a1ea9",
+        "date": "2024-03-22",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Fab UI"
+    },
+    {
+        "id": "5c1bda5b-78e5-49ec-bdd9-ba9b39a48cd4",
+        "date": "2024-03-22",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Unable to login in this app otp doesn't work."
+    },
+    {
+        "id": "516440ad-1e0b-473f-b6e6-e583680ade4e",
+        "date": "2024-03-22",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "Provide an option for online payment. Drivers don't return your balance. This should be stopped."
+    },
+    {
+        "id": "3e360851-8d33-404b-95e1-5ae02235e3cd",
+        "date": "2024-03-22",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "Fair is too high in comparison to Ola cab.Pls go for Ola rather than Yatri Sathi"
+    },
+    {
+        "id": "2eb852c1-a65d-42cb-91da-6990e26460e8",
+        "date": "2024-03-22",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "ok"
+    },
+    {
+        "id": "2344aca9-e71e-40a8-a215-2f482ff16448",
+        "date": "2024-03-22",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Worst app. It doesn't open after installation."
+    },
+    {
         "id": "f55a1f2c-587a-4bfa-9d8d-a8e0edd7b1ff",
         "date": "2024-03-21",
         "score": 5,

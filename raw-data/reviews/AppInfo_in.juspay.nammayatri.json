@@ -5,17 +5,17 @@
     "summary": "Auto/Cab Booking App - Low Cancellations, Fast Pickups &amp; Affordable Fares",
     "installs": "1,000,000+",
     "minInstalls": 1000000,
-    "maxInstalls": 3324870,
-    "score": 4.7450204,
+    "maxInstalls": 3331579,
+    "score": 4.7432237,
     "scoreText": "4.7",
-    "ratings": 157597,
+    "ratings": 158032,
     "reviews": "http://gplayapi.cashlessconsumer.in/api/apps/in.juspay.nammayatri/reviews",
     "histogram": {
-        "1": 4618,
-        "2": 824,
-        "3": 2682,
-        "4": 13867,
-        "5": 135602
+        "1": 4623,
+        "2": 852,
+        "3": 2678,
+        "4": 14164,
+        "5": 135710
     },
     "price": 0,
     "free": true,
@@ -72,11 +72,11 @@
     "updated": 1710321343000,
     "version": "1.4.14",
     "comments": [
-        "App has lots of lag & there is no update for same. Everytime I get a prompt for the update & I go ahead with it the app just gets stuck & never goes through. 14 - March Namma Yatri really needs to do something about their app. My destination was 2.2km away but the map made sure to take another longer route. My fare which was \u20b963 got increased to \u20b983. I cannot blame the driver for same. It has happened in past as well.",
         "When it started, the app was very convenient, the drivers would accept on time and the fare was reasonable. Now the drivers have started demanding extra fee. They either take a longer route so that the end fare shows more or they demand extra when the trip ends and are rude when you don't agree to give. Sometimes the location shown to the driver and the user has some discrepancy. Have been using this for around 2 months now and not liking it at all. EDIT: GOT SCAMMED AGAIN. GOOGLE SHOULD BAN",
-        "There are issues with the app as such, but the experiences having with the drivers accepting rides and cancelling is an issue. I am not sure if there's any penalty against or penalty for the drivers for them cancelling rides, not picking calls, and so on. When it's urgent, it wastes even more time. Accepting rides and cancelling them is worse than better than not accepting at all. It would be good if there are some sort of penalties against cancelling in certain cases.",
         "SCAM= This application. First is their drivers are very rude. The application lags all the time. The route the application shows while booking and the route it shows to driver after OTP is different. The fare is never the same when booked and it always goes higher after reaching same destination point. The location you search and set for destination differs when the ride starts and driver denies to go 100mts as well. Please don't fall for this and go for better alternatives like Uber, Rapido.",
-        "It was good at the beginning. Now there is hardly any quality control. Rides are much more expensive and the good drivers are a rarity. Auto drivers will accept the rides and then don't show up and continue going on some other routes. Ride acceptance is very low unless you add tips. Even with tips it's not much better. Sad demise of an application that worked really well in the past but doesn't anymore."
+        "It was good at the beginning. Now there is hardly any quality control. Rides are much more expensive and the good drivers are a rarity. Auto drivers will accept the rides and then don't show up and continue going on some other routes. Ride acceptance is very low unless you add tips. Even with tips it's not much better. Sad demise of an application that worked really well in the past but doesn't anymore.",
+        "App is still good. No lags, works well. It's the drivers now asking for extra. My initial 3-4 rides was fixed rates no questions asked. But now the drivers are asking 60-70 rupees more than the shown rate. I would like to know why the sudden change in cost. It is supposed commision free for the drivers. Please keep a fixed rate that suits the drivers and doesn't change or vary this much.",
+        "There are issues with the app as such, but the experiences having with the drivers accepting rides and cancelling is an issue. I am not sure if there's any penalty against or penalty for the drivers for them cancelling rides, not picking calls, and so on. When it's urgent, it wastes even more time. Accepting rides and cancelling them is worse than better than not accepting at all. It would be good if there are some sort of penalties against cancelling in certain cases."
     ],
     "preregister": false,
     "earlyAccessEnabled": false,
