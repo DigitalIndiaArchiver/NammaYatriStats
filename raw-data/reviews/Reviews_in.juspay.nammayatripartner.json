@@ -1,5 +1,29 @@
 [
     {
+        "id": "cda7fde3-9714-40ac-8fb5-fba0515667ec",
+        "date": "2024-03-23",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super"
+    },
+    {
+        "id": "2d7d8e61-2f27-4f04-b839-4b7cb3c19d7b",
+        "date": "2024-03-23",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good Apps"
+    },
+    {
+        "id": "171daf04-4883-4bc1-965b-70600de727b8",
+        "date": "2024-03-23",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "best"
+    },
+    {
         "id": "de10ba38-8dda-475b-9015-5f5b25399bf8",
         "date": "2024-03-22",
         "score": 4,
@@ -48,6 +72,16 @@
         "text": "very nice"
     },
     {
+        "id": "a2c6f0db-cb63-4514-a7d7-57fe5316af20",
+        "date": "2024-03-22",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Very bad response customer care app is very good",
+        "vaf_never_display_ease_of_use": null,
+        "vaf_never_display_ads_experience": null
+    },
+    {
         "id": "7be73420-00a0-4185-955e-79be9070e82a",
         "date": "2024-03-22",
         "score": 5,
@@ -78,6 +112,22 @@
         "scoreText": "5",
         "title": null,
         "text": "my first ride"
+    },
+    {
+        "id": "34deeb93-8ef3-4645-ae4a-e58f2f6e7eda",
+        "date": "2024-03-22",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Chetta app permission lekunda on avutundi background lo data lagestundi."
+    },
+    {
+        "id": "2461c467-3bf8-4bc7-b43b-88af6dd071ac",
+        "date": "2024-03-22",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super expensive"
     },
     {
         "id": "0f067412-495b-4fe5-aa7a-5d75f4908ba7",
