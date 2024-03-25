@@ -5,17 +5,17 @@
     "summary": "Reliable, Affordable, and Safe Cabs in Kolkata",
     "installs": "1,000,000+",
     "minInstalls": 1000000,
-    "maxInstalls": 1454400,
-    "score": 4.782677,
+    "maxInstalls": 1459343,
+    "score": 4.786359,
     "scoreText": "4.8",
-    "ratings": 62618,
+    "ratings": 62827,
     "reviews": "http://gplayapi.cashlessconsumer.in/api/apps/in.juspay.jatrisaathi/reviews",
     "histogram": {
-        "1": 1123,
-        "2": 344,
-        "3": 1163,
-        "4": 5748,
-        "5": 54235
+        "1": 1082,
+        "2": 337,
+        "3": 1132,
+        "4": 5805,
+        "5": 54465
     },
     "price": 0,
     "free": true,
@@ -72,11 +72,11 @@
     "version": "0.1.8",
     "recentChanges": "- Introducing Hourly Rental and Intercity Rides<br>- Minor improvements and bug fixes",
     "comments": [
+        "I recently used the Yatti Sathi cab booking app for a ride, and unfortunately, my experience was far from satisfactory. The app initially displayed varying fares for the same route at the same time while booking from different phone, which was already concerning. Despite selecting the seemingly lower fare option, I was shocked to find that the final fare displayed after completing the ride was significantly higher than what was initially shown.",
         "It initially was a great app. But after few good trips, things started getting bad. First, the driver will call and find out your destination and if he doesn't like it, he will cancel the ride. App has a help and support center, but only for specific issues. There is no section where one can lodge a general complaint about this repeated canceling by drivers.",
         "I thought of trying the app for the 1st first time today. And the first experience itself was bad. The driver charged more than the actual fare because he took a detour since he didn't know the location well (which is not the passenger's fault). If you want the passengers to have a carefree ride please make it mandatory for the drivers to use the GPS and have an android phone which enables the function. It was very disappointing.",
         "Horrible! They would keep you standing infront of their kiosk at the airport as the drivers are only looking for convenient routes. I should not even provide a single star for their service. Also, these drivers need a lot of trainings. They seemd unsafe, rude, annoying. These days everybody is coming up with an app, and have zero idea how to run a business! Ultimately if this continues, the product would fail anyway.",
-        "The app is actually very useful. But it lacks proper tracking, but it lacks many features! Like adding stops, altering the pick up point to a few meters. Please add an option where we can order any cab and whatever is available can come irrespective of ac or not, keep the price at optimum with whatever answers. But the tracking ie a huge issue, I don't see the cab moving, then suddenly its approaching.",
-        "Horrible Experience. I booked Yellow taxi for promoting the services. But the services are horrible as of now. Drivers don't have smartphone. They are carrying basic phone. As such they are checking the location in text sms. The driver unnecessarily argued with me saying that I have given wrong location for cheap fare. I have shown the app, but still he argued and ultimately I have to board down at a wrong location and I walked 800 metre with two heavy luggage. So book cab at your risk."
+        "The app is actually very useful. But it lacks proper tracking, but it lacks many features! Like adding stops, altering the pick up point to a few meters. Please add an option where we can order any cab and whatever is available can come irrespective of ac or not, keep the price at optimum with whatever answers. But the tracking ie a huge issue, I don't see the cab moving, then suddenly its approaching."
     ],
     "preregister": false,
     "earlyAccessEnabled": false,
