@@ -6,16 +6,16 @@
     "installs": "500,000+",
     "minInstalls": 500000,
     "maxInstalls": 639437,
-    "score": 4.5772686,
+    "score": 4.5813713,
     "scoreText": "4.6",
-    "ratings": 96766,
+    "ratings": 97027,
     "reviews": "http://gplayapi.cashlessconsumer.in/api/apps/in.juspay.nammayatripartner/reviews",
     "histogram": {
-        "1": 5869,
-        "2": 1835,
-        "3": 3544,
-        "4": 4824,
-        "5": 80688
+        "1": 5824,
+        "2": 1815,
+        "3": 3560,
+        "4": 4747,
+        "5": 81076
     },
     "price": 0,
     "free": true,
@@ -71,9 +71,9 @@
     "recentChanges": "Minor bug fixes and UI Improvements",
     "comments": [
         "The app is good now a days but the thing is the customer is booking more and cancelling at the same time please don't allow to book again keep away from timepass customer i just get angry when I reach to there location and get it cancelled and infront of me they r going to another auto and please check km sometime it doesn't get calculated some how thank you so much for the app namma yatri",
-        "When ever I want to come online I have to restart my phone everytime Once we accept trip it takes too long to open map for pickup and drop location More over time it just blinks or we're unable to see which duty we missed No cancellation fee If we put go home it always shows pickup more than 2/3 kilometre and if we accept and go to pick up location duty gets cancelled by customer",
         "It's very irritating issue in this app, am going to offline but this app automatically going to online, this is not one time, every time same issue, so please check and rectify the issue.",
         "This app is ridiculous Ola & rapido are itself charging the platform fees free & less these fellows are charging 25 who the heck drivers will drive this app please look out for some cheap amount as less than 10 bcoz Ola is just charging 2 rupees rapido is free",
+        "When ever I want to come online I have to restart my phone everytime Once we accept trip it takes too long to open map for pickup and drop location More over time it just blinks or we're unable to see which duty we missed No cancellation fee If we put go home it always shows pickup more than 2/3 kilometre and if we accept and go to pick up location duty gets cancelled by customer",
         "Entire night didn't received any order , if I received order that would be gonna cancelled all the time and there is no cancellation charge also ... Sooooo disappointed. . and most important things is that customer care people are always rude and doesn't have a proper knowledge .. My humble request to all drivers that dont use this application, if we are focusing only on this particular application, literally we are spoiling our life... Waste of time and energy , money, fuel ..don't use this app"
     ],
     "preregister": false,
