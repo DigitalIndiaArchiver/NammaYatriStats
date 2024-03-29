@@ -10,6 +10,24 @@
         ],
         "collectedData": [
             {
+                "data": "Contacts",
+                "optional": true,
+                "purpose": "App functionality, Fraud prevention, security, and compliance, Personalization",
+                "type": "Contacts"
+            },
+            {
+                "data": "Files and docs",
+                "optional": true,
+                "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance, Personalization, Account management",
+                "type": "Files and docs"
+            },
+            {
+                "data": "Calendar events",
+                "optional": true,
+                "purpose": "App functionality, Personalization",
+                "type": "Calendar"
+            },
+            {
                 "data": "Emails",
                 "optional": true,
                 "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Personalization, Account management",
@@ -22,16 +40,10 @@
                 "type": "Messages"
             },
             {
-                "data": "Files and docs",
+                "data": "Device or other IDs",
                 "optional": true,
-                "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance, Personalization, Account management",
-                "type": "Files and docs"
-            },
-            {
-                "data": "Contacts",
-                "optional": true,
-                "purpose": "App functionality, Fraud prevention, security, and compliance, Personalization",
-                "type": "Contacts"
+                "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance, Personalization",
+                "type": "Device or other IDs"
             },
             {
                 "data": "Name",
@@ -50,18 +62,6 @@
                 "optional": true,
                 "purpose": "App functionality",
                 "type": "Personal info"
-            },
-            {
-                "data": "Calendar events",
-                "optional": true,
-                "purpose": "App functionality, Personalization",
-                "type": "Calendar"
-            },
-            {
-                "data": "Device or other IDs",
-                "optional": true,
-                "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance, Personalization",
-                "type": "Device or other IDs"
             }
         ],
         "securityPractices": [

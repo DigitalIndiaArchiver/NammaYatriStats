@@ -1,5 +1,141 @@
 [
     {
+        "id": "fc801f7b-a8e6-4304-ab16-f389612d316e",
+        "date": "2024-03-28",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Not a app, it's a scam"
+    },
+    {
+        "id": "f6964c8e-5b8f-4f52-ba07-d3ed0766c19c",
+        "date": "2024-03-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very greatfull yatri sathi thank you"
+    },
+    {
+        "id": "8f2e5643-74e9-493f-bdc8-c28cdfd24621",
+        "date": "2024-03-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "on time"
+    },
+    {
+        "id": "8bfd974e-9de6-41d4-8a28-0731a86e90ec",
+        "date": "2024-03-28",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Very unprofessional driver and also rude driver work here that's why I am giving this star."
+    },
+    {
+        "id": "7821b810-2c2b-4c53-b3e0-5db94014024d",
+        "date": "2024-03-28",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Not open the qppapp is not opening"
+    },
+    {
+        "id": "76a75091-211e-4c15-9df9-cc67cd35a0ac",
+        "date": "2024-03-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good"
+    },
+    {
+        "id": "6b52f889-1890-49ef-a366-4c1ffed4f494",
+        "date": "2024-03-28",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "I was compelled to book taxi at Howrah station through the app. The initial amount was shown as 280 and the driver did not say anything till I reached my destiny. When reached, the driver asked me to pay 380. I tried to convince him for the booking amount but he was completely adamant and cited the reference of CM Mamata Banerjee. Being new to city, I realised there was no point arguing with a rookie especially politically influenced community. Thanks a lot for the wonderful experience."
+    },
+    {
+        "id": "61f5dbbc-5e4b-401e-9e21-bf8d7192709d",
+        "date": "2024-03-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "satisfied"
+    },
+    {
+        "id": "56750cb5-486e-4387-ad0d-8a707a406eed",
+        "date": "2024-03-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good"
+    },
+    {
+        "id": "4efd4526-dc17-4f5a-8625-24de0377e349",
+        "date": "2024-03-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very nice"
+    },
+    {
+        "id": "46b07bb6-09e2-4dfa-a12a-ce9f3d1933b3",
+        "date": "2024-03-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good"
+    },
+    {
+        "id": "35d71341-0c64-4979-9fe5-29a350104733",
+        "date": "2024-03-28",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "First-time user from Howrah Station to Kolkata Airport. Faced 2 major issues: 1. Unjustified waiting charge of 74, despite prompt boarding and deboarding. 2. Fare discrepancy - app showed 331, but driver demanded 400. Driver's actions felt like a complete rip-off. Disappointed with the experience. It's being 1 months since I raised my complaint and sent an email, still waiting for a reply, I believe this is the reason why yatri sathi drivers harasses passengers"
+    },
+    {
+        "id": "2bdfd385-fde8-4103-86b5-db95871fd4a5",
+        "date": "2024-03-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good"
+    },
+    {
+        "id": "2072a85a-b00f-4132-b7d8-f568bbe691b2",
+        "date": "2024-03-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very nice trip. The behaviour of Mr. Laltu is very friendly and co-operative. Thanks to all members of Yatri-sathi family."
+    },
+    {
+        "id": "1b5d1d8c-40f3-4b40-9025-2148ee9a5c19",
+        "date": "2024-03-28",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Frawd app service. Fare gets increased even there is no traffic congestion or stop or deviation. False excuse shown and there is no help. Don't recommend!"
+    },
+    {
+        "id": "147c0bf8-8d84-40f4-b6d1-1af152174ebb",
+        "date": "2024-03-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good service!!"
+    },
+    {
+        "id": "0deaa4b1-533b-4de1-ba61-d8524c98c01e",
+        "date": "2024-03-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good app works good in stations while booking a taxi all you have to do is book a cab and vove code to the office of taxis and they will allocate a car And you pay after reaching your destination..."
+    },
+    {
         "id": "feca19d7-edd8-4c0e-9d58-b7241021c25a",
         "date": "2024-03-27",
         "score": 5,
@@ -30,6 +166,14 @@
         "scoreText": "5",
         "title": null,
         "text": "Awesome"
+    },
+    {
+        "id": "e87677a7-22b0-4d71-935b-4c7a174b8cb6",
+        "date": "2024-03-27",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "App is not responding when required"
     },
     {
         "id": "d85cf6ef-a46d-4ecc-ab85-7d92c75dbb56",
@@ -70,6 +214,22 @@
         "scoreText": "3",
         "title": null,
         "text": "good service"
+    },
+    {
+        "id": "9c402e0f-3d63-4d10-bd61-69a8b072aa55",
+        "date": "2024-03-27",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "969ea4cb-b853-45b7-9ff5-6d25441a9fb7",
+        "date": "2024-03-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
     },
     {
         "id": "8ee83252-b34d-45e8-9d49-66530657f104",
@@ -126,6 +286,14 @@
         "scoreText": "4",
         "title": null,
         "text": "Good experience"
+    },
+    {
+        "id": "1cfcfd9b-a677-4f2d-9ebc-35fa6ee366c9",
+        "date": "2024-03-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good"
     },
     {
         "id": "12ff34bb-d9eb-49a8-b899-3a98c820ce31",

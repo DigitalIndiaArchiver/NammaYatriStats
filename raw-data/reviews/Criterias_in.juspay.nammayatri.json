@@ -1,8 +1,8 @@
 {
+    "vaf_never_display_visually_good": 15,
+    "vaf_never_display_considerate_of_time": 12,
     "vaf_never_display_ease_of_use": 275,
     "vaf_never_display_ads_experience": 254,
-    "vaf_never_display_visually_good": 14,
-    "vaf_never_display_considerate_of_time": 11,
     "vaf_never_display_deceptive_ads": 17,
     "vaf_never_display_difficult_to_use": 18,
     "vaf_never_display_useful_notifications": 13,

@@ -6,16 +6,16 @@
     "installs": "100,000+",
     "minInstalls": 100000,
     "maxInstalls": 123006,
-    "score": 4.598039,
+    "score": 4.6037736,
     "scoreText": "4.6",
-    "ratings": 293,
+    "ratings": 303,
     "reviews": "http://gplayapi.cashlessconsumer.in/api/apps/in.mobility.manayatri/reviews",
     "histogram": {
         "1": 19,
-        "2": 1,
-        "3": 4,
-        "4": 16,
-        "5": 246
+        "2": 2,
+        "3": 5,
+        "4": 19,
+        "5": 254
     },
     "price": 0,
     "free": true,
@@ -58,8 +58,8 @@
         "The rates are almost the same when compared with other providers in the Hyderabad city. As a customer don't see any benefit in pricing by preferring this app over Uber/Ola/Rapido. Just hope it will provide quick booking and very very less cancellation by drivers saving time of customer.",
         "Showing wrong destination address. Had very bad experience. Will not use this app again",
         "Much better than getting an Ola or Uber auto. Overall, happy with the experience.",
-        "Most convenient ride hailing app. For both customers and drivers.",
-        "Can get auto very quickly. Smooth user experience."
+        "Respected developer & team,App excellent, can provide you bike services.",
+        "Try to start bike services also it will be helpful... Overall it is good \ud83c\udf89\ud83c\udf89"
     ],
     "preregister": false,
     "earlyAccessEnabled": false,
