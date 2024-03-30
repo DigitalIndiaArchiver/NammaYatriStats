@@ -1,5 +1,133 @@
 [
     {
+        "id": "fda758c9-ba4b-480e-bff6-763d1944b4ac",
+        "date": "2024-03-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "ok"
+    },
+    {
+        "id": "f9aaf361-7202-4082-9a6e-f2476fe98797",
+        "date": "2024-03-29",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "very costly. it's more of an auto driver friendly app rathar than customer friendly. I prefer some other apps also sometimes"
+    },
+    {
+        "id": "f5ce6812-eb91-4048-a1a8-990e6f72ece4",
+        "date": "2024-03-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Very good app no peak price no cancellation no asking extra money drivers are very respectful \ud83d\udc4d"
+    },
+    {
+        "id": "e2d0fda6-778d-4f4c-b269-b0fe217ce163",
+        "date": "2024-03-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good and reasonable"
+    },
+    {
+        "id": "cf139e75-d0d2-442f-817c-3c7d1a5f76f1",
+        "date": "2024-03-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Superb"
+    },
+    {
+        "id": "c8a7b679-901e-4bca-87cd-669eb07fb272",
+        "date": "2024-03-29",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Worst app.. not even one single ride have been accepted by the drivers Rather try rapido and ola"
+    },
+    {
+        "id": "c7e06223-a984-43c9-9383-910fbf211e8c",
+        "date": "2024-03-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "You will get auto early compare to other app very good app for auto users u can update for cab \ud83d\ude97"
+    },
+    {
+        "id": "ae9f8917-d3cd-4290-9462-14fa1dbacff2",
+        "date": "2024-03-29",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "map direction is worst, showing wrong direction. there is no option to cancel the ride"
+    },
+    {
+        "id": "a7a63a64-19bf-4ebf-bc02-806ff70aff75",
+        "date": "2024-03-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "The best and most cost-effective app to use to travel around Chennai. I recommend that most people to download and use this ride service. This app helps the driver to receive all the money which the customer pay."
+    },
+    {
+        "id": "a123fdc4-4dc8-44bf-9da4-538c0bce72eb",
+        "date": "2024-03-29",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Worst experience The driver keeps on cancelling I was waiting half an hour to book an auto The driver adds extra 50 or 60 rupees"
+    },
+    {
+        "id": "8d4a3a5b-3d1a-4648-8ef7-bf41199adac6",
+        "date": "2024-03-29",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "This app offers great fares, often cheaper than competitors. The interface is user-friendly, but the real-time tracking needs improvement - it feels clunky."
+    },
+    {
+        "id": "861f1f85-668a-43d1-9599-87109c925f3d",
+        "date": "2024-03-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Much better app compared to Uber & Ola."
+    },
+    {
+        "id": "805f8399-9bd0-450f-81ac-1ec9beaa135e",
+        "date": "2024-03-29",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "Please make a dark mode option for the app"
+    },
+    {
+        "id": "684f62ce-1fd1-48a3-bbe4-a02832c94e57",
+        "date": "2024-03-29",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "takes too long to book an auto"
+    },
+    {
+        "id": "41b3d76e-f2df-4fff-a62e-39a94605724e",
+        "date": "2024-03-29",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "The worst service, auto wala not accepting rides when booking on a very emergency time worst worst worst service auto app"
+    },
+    {
+        "id": "176adba9-9da0-4a2d-a9dd-add58a1be879",
+        "date": "2024-03-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good response and correct time reached driver"
+    },
+    {
         "id": "d714e04b-5f3b-4917-8ae3-dfcfdca13213",
         "date": "2024-03-28",
         "score": 1,
@@ -24,6 +152,14 @@
         "scoreText": "5",
         "title": null,
         "text": "well done"
+    },
+    {
+        "id": "c099711d-c631-45c5-b8dd-3c9611659d0a",
+        "date": "2024-03-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "safe driving for driver"
     },
     {
         "id": "b8606753-92d5-4676-83fc-2e5667bdba44",
@@ -72,6 +208,14 @@
         "scoreText": "5",
         "title": null,
         "text": "How to win ipl ticket"
+    },
+    {
+        "id": "7143c395-9d70-4a24-bcdb-a0cd8e0ff80a",
+        "date": "2024-03-28",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Over cost"
     },
     {
         "id": "6d864bf4-809b-4210-99e3-5a368dd33a23",
@@ -128,6 +272,14 @@
         "scoreText": "1",
         "title": null,
         "text": "Unable to login, the OTP sent is never received, tried clearing app data, fresh install, receive via WhatsApp, nothing works."
+    },
+    {
+        "id": "30048d0f-765a-4de2-bc6a-1557e5d63931",
+        "date": "2024-03-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "far better than ola and rapido"
     },
     {
         "id": "2cb27749-f3b9-4b78-b06b-393ff6fde19d",

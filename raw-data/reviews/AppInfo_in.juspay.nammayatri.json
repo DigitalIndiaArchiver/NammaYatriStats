@@ -6,16 +6,16 @@
     "installs": "1,000,000+",
     "minInstalls": 1000000,
     "maxInstalls": 3368858,
-    "score": 4.74297,
+    "score": 4.743054,
     "scoreText": "4.7",
-    "ratings": 160394,
+    "ratings": 160788,
     "reviews": "http://gplayapi.cashlessconsumer.in/api/apps/in.juspay.nammayatri/reviews",
     "histogram": {
-        "1": 4767,
-        "2": 842,
-        "3": 2686,
-        "4": 14253,
-        "5": 137842
+        "1": 4765,
+        "2": 866,
+        "3": 2642,
+        "4": 14359,
+        "5": 138151
     },
     "price": 0,
     "free": true,
@@ -72,11 +72,11 @@
     "updated": 1710321343000,
     "version": "1.4.14",
     "comments": [
+        "The fare displayed in the app is unreasonably high, benefiting only auto drivers. Even for a short ride of approximately 9 to 10 kilometers, the app shows an excessive increase of around 50 to 60 rupees, which is completely unacceptable. Moreover, if the driver takes a different route, the fare increases considerably. It would be better to address these issues, provide transparency, and avoid favoring only auto drivers. You don't have customer care also. One of the worst app for people.",
         "It was good at the beginning. Now there is hardly any quality control. Rides are much more expensive and the good drivers are a rarity. Auto drivers will accept the rides and then don't show up and continue going on some other routes. Ride acceptance is very low unless you add tips. Even with tips it's not much better. Sad demise of an application that worked really well in the past but doesn't anymore.",
         "There are issues with the app as such, but the experiences having with the drivers accepting rides and cancelling is an issue. I am not sure if there's any penalty against or penalty for the drivers for them cancelling rides, not picking calls, and so on. When it's urgent, it wastes even more time. Accepting rides and cancelling them is worse than better than not accepting at all. It would be good if there are some sort of penalties against cancelling in certain cases.",
-        "When it started, the app was very convenient, the drivers would accept on time and the fare was reasonable. Now the drivers have started demanding extra fee. They either take a longer route so that the end fare shows more or they demand extra when the trip ends and are rude when you don't agree to give. Sometimes the location shown to the driver and the user has some discrepancy. Have been using this for around 2 months now and not liking it at all. EDIT: GOT SCAMMED AGAIN. GOOGLE SHOULD BAN",
         "SCAM= This application. First is their drivers are very rude. The application lags all the time. The route the application shows while booking and the route it shows to driver after OTP is different. The fare is never the same when booked and it always goes higher after reaching same destination point. The location you search and set for destination differs when the ride starts and driver denies to go 100mts as well. Please don't fall for this and go for better alternatives like Uber, Rapido.",
-        "App is still good. No lags, works well. It's the drivers now asking for extra. My initial 3-4 rides was fixed rates no questions asked. But now the drivers are asking 60-70 rupees more than the shown rate. I would like to know why the sudden change in cost. It is supposed commision free for the drivers. Please keep a fixed rate that suits the drivers and doesn't change or vary this much."
+        "First off, this app is so damn buggy. I open it to book an auto and voila, it's frozen. Have to close it from recents and then open again. Second, it should have an option to book without the location enabled. Sometimes we don't book from our current location. What a stupid feature. Third, I booked from a specific location, confirmed it 2-3 times and after booking also it was showing the pickup location I entered. But the driver is shown a location somewhere 10 kms far. What stupidity. 0 star\ud83d\udc4e"
     ],
     "preregister": false,
     "earlyAccessEnabled": false,
