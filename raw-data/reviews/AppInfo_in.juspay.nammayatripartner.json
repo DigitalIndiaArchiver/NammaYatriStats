@@ -6,16 +6,16 @@
     "installs": "500,000+",
     "minInstalls": 500000,
     "maxInstalls": 645437,
-    "score": 4.583034,
+    "score": 4.584755,
     "scoreText": "4.6",
-    "ratings": 98160,
+    "ratings": 98445,
     "reviews": "http://gplayapi.cashlessconsumer.in/api/apps/in.juspay.nammayatripartner/reviews",
     "histogram": {
-        "1": 5799,
-        "2": 1880,
-        "3": 3653,
-        "4": 4779,
-        "5": 82044
+        "1": 5873,
+        "2": 1848,
+        "3": 3508,
+        "4": 4819,
+        "5": 82393
     },
     "price": 0,
     "free": true,
