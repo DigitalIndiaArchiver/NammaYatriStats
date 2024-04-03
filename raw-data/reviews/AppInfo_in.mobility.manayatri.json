@@ -5,17 +5,17 @@
     "summary": "Zero commission ride booking app for fast &amp; affordable auto &amp; cab rides",
     "installs": "100,000+",
     "minInstalls": 100000,
-    "maxInstalls": 130553,
-    "score": 4.587156,
+    "maxInstalls": 131968,
+    "score": 4.605263,
     "scoreText": "4.6",
-    "ratings": 349,
+    "ratings": 354,
     "reviews": "http://gplayapi.cashlessconsumer.in/api/apps/in.mobility.manayatri/reviews",
     "histogram": {
         "1": 21,
         "2": 2,
         "3": 11,
         "4": 18,
-        "5": 290
+        "5": 298
     },
     "price": 0,
     "free": true,
@@ -55,11 +55,11 @@
     "version": "1.4.14",
     "recentChanges": "Minor bug fixes and UI Improvements",
     "comments": [
+        "Worst app ever experienced. Google maps location accuracy is worst. Driver has reached my nearest point then he went again to someother route. Cancelled the ride just reaching my location. Even one star is worst for this.",
         "The rates are almost the same when compared with other providers in the Hyderabad city. As a customer don't see any benefit in pricing by preferring this app over Uber/Ola/Rapido. Just hope it will provide quick booking and very very less cancellation by drivers saving time of customer.",
         "Showing wrong destination address. Had very bad experience. Will not use this app again",
         "Much better than getting an Ola or Uber auto. Overall, happy with the experience.",
-        "Respected developer & team,App excellent, can provide you bike services.",
-        "Try to start bike services also it will be helpful... Overall it is good \ud83c\udf89\ud83c\udf89"
+        "Respected developer & team,App excellent, can provide you bike services."
     ],
     "preregister": false,
     "earlyAccessEnabled": false,

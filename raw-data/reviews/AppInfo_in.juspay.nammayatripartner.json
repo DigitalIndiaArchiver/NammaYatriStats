@@ -5,17 +5,17 @@
     "summary": "Zero Commission app for Drivers, with Direct Payment from Customers",
     "installs": "500,000+",
     "minInstalls": 500000,
-    "maxInstalls": 645437,
-    "score": 4.5859985,
+    "maxInstalls": 657004,
+    "score": 4.587391,
     "scoreText": "4.6",
-    "ratings": 98945,
+    "ratings": 99177,
     "reviews": "http://gplayapi.cashlessconsumer.in/api/apps/in.juspay.nammayatripartner/reviews",
     "histogram": {
-        "1": 5877,
-        "2": 1851,
-        "3": 3556,
-        "4": 4780,
-        "5": 82876
+        "1": 5823,
+        "2": 1881,
+        "3": 3573,
+        "4": 4828,
+        "5": 83066
     },
     "price": 0,
     "free": true,
@@ -70,11 +70,11 @@
     "version": "1.4.18",
     "recentChanges": "Minor bug fixes and UI Improvements",
     "comments": [
+        "I attached my car in namma yatri...i didn't get even 1 ride booking.... Busy Chennai but no ride for this app. need to implement and improve service for bookings....",
         "The app is good now a days but the thing is the customer is booking more and cancelling at the same time please don't allow to book again keep away from timepass customer i just get angry when I reach to there location and get it cancelled and infront of me they r going to another auto and please check km sometime it doesn't get calculated some how thank you so much for the app namma yatri",
         "It's very irritating issue in this app, am going to offline but this app automatically going to online, this is not one time, every time same issue, so please check and rectify the issue.",
-        "This app is ridiculous Ola & rapido are itself charging the platform fees free & less these fellows are charging 25 who the heck drivers will drive this app please look out for some cheap amount as less than 10 bcoz Ola is just charging 2 rupees rapido is free",
-        "When ever I want to come online I have to restart my phone everytime Once we accept trip it takes too long to open map for pickup and drop location More over time it just blinks or we're unable to see which duty we missed No cancellation fee If we put go home it always shows pickup more than 2/3 kilometre and if we accept and go to pick up location duty gets cancelled by customer",
-        "One of the use less app customer booking and cancelling the trip need to change for that if i reach the location customers no response"
+        "One of the use less app customer booking and cancelling the trip need to change for that if i reach the location customers no response",
+        "This app is ridiculous Ola & rapido are itself charging the platform fees free & less these fellows are charging 25 who the heck drivers will drive this app please look out for some cheap amount as less than 10 bcoz Ola is just charging 2 rupees rapido is free"
     ],
     "preregister": false,
     "earlyAccessEnabled": false,
