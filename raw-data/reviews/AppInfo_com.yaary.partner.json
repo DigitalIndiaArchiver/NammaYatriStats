@@ -5,17 +5,17 @@
     "summary": "Yaary - zero commission app for drivers",
     "installs": "50,000+",
     "minInstalls": 50000,
-    "maxInstalls": 84097,
-    "score": 4.9475727,
+    "maxInstalls": 84318,
+    "score": 4.942802,
     "scoreText": "4.9",
-    "ratings": 15143,
+    "ratings": 15185,
     "reviews": "http://gplayapi.cashlessconsumer.in/api/apps/com.yaary.partner/reviews",
     "histogram": {
-        "1": 136,
+        "1": 155,
         "2": 28,
-        "3": 48,
+        "3": 47,
         "4": 57,
-        "5": 14867
+        "5": 14891
     },
     "price": 0,
     "free": true,
@@ -50,15 +50,15 @@
     "contentRating": "Rated for 3+",
     "adSupported": false,
     "released": "Sep 29, 2023",
-    "updated": 1712001222000,
+    "updated": 1712155814000,
     "version": "2.2.1",
     "recentChanges": "Yes, we listened and truly sorry for the &#39;Happy Dent&#39; advertisement we did on your  phone displays. The brightness control is now fixed for good.<br>You might also notice the revamp of our ride acceptance screen. Lot of your feedback has been addressed apart from few bug fixes and performance improvements.",
     "comments": [
         "I have a issue with yaary driver app , the screen time is limited ,and the app is closing,.... Please increase the screen time... Expect that The app is good and It's a best app for auto drivers",
         "All documents are verified but it's showing connect with buddy's on WhatsApp if I click to connect there is showing group is full resolve \ud83d\ude15 this trouble ASAP....",
         "I had submitted all documents before 10days but till now my account is not activated to take rides On the screen it's showing simply all done that's it. Don't download it my beloved driver brothers.",
-        "Great initiative made for the auto drivers. I love the interface and easy to understand. I love the concept of 0% commission and tbh it's the real pain point of many auto drivers and passangers who are using other apps. Since they don't take any commission here, The ride rates will be reasonable and affordable and win win for both parties. Will definitely share this app with my friends and family.",
-        "useless app with useless login system. app is totally stuck,dont waste our time so finally i uninstalled this rubbish app."
+        "useless app with useless login system. app is totally stuck,dont waste our time so finally i uninstalled this rubbish app.",
+        "Had a great experience compare to other platforms. This application is useful in many ways ."
     ],
     "preregister": false,
     "earlyAccessEnabled": false,
