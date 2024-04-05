@@ -5,17 +5,17 @@
     "summary": "App for the drivers. Zero Commission. 100% Transparent.",
     "installs": "50,000+",
     "minInstalls": 50000,
-    "maxInstalls": 96818,
-    "score": 4.8240533,
+    "maxInstalls": 96861,
+    "score": 4.825893,
     "scoreText": "4.8",
-    "ratings": 4471,
+    "ratings": 4479,
     "reviews": "http://gplayapi.cashlessconsumer.in/api/apps/net.openkochi.yatripartner/reviews",
     "histogram": {
         "1": 89,
         "2": 49,
         "3": 69,
-        "4": 139,
-        "5": 4122
+        "4": 129,
+        "5": 4138
     },
     "price": 0,
     "free": true,
