@@ -5,17 +5,17 @@
     "summary": "Zero Commission Rides - Low Cancellations, Fast Pickups &amp; Affordable Fares.",
     "installs": "100,000+",
     "minInstalls": 100000,
-    "maxInstalls": 407521,
-    "score": 4.797945,
+    "maxInstalls": 408080,
+    "score": 4.7890224,
     "scoreText": "4.8",
-    "ratings": 5845,
+    "ratings": 5862,
     "reviews": "http://gplayapi.cashlessconsumer.in/api/apps/net.openkochi.yatri/reviews",
     "histogram": {
-        "1": 119,
+        "1": 129,
         "2": 19,
         "3": 89,
-        "4": 459,
-        "5": 5154
+        "4": 471,
+        "5": 5147
     },
     "price": 0,
     "free": true,
@@ -73,11 +73,11 @@
     "version": "2.2.3",
     "recentChanges": "Yatri is now in new colors to make your commute seamlessly. And as usual, bugs have been shown the door.",
     "comments": [
+        "Not only once But the fare has raised four times for me. Not for 10/-. It goes more than 70 80/-. It looks like scam now. Shows something but while drop it increases like anything. There's no option for complaint. It's my 4th time since I did not get any refund of the excess money cut also. Knowingly drives take the longer rout. If you tell to follow the map, they will say road issue or traffic issue is there and they will take other root. Initially it was good but not these days.",
         "I'm not able to sign up now, shows there is some error. Plus, once I booked for a cab through another number, and the app was updating, the cab came and I couldn't see the details as the app was not opening. Since updates, there has been issues with this app.",
         "This app recommends 2 wheeler routes for a cab and when you take the actual route, it overcharges you. Customer service gives blunt replies like We will look into it or we are trying to fix the maps! Your money wasted. No refunds, not even an offer of refund! Uninstalling. Update: Thank you for automated reply but where are my refunds?",
         "Not even good for one star. They had charged my extra 60 rupees stating the ride is 2.3 km longer although the destination location is correct. I really fed up with this app and don't recommend anyone to use this fraudulent app.",
-        "Driver charged more than the fare shown in app. Emailed the support team of app but no response even after 2 days. No use of support team. Please don't use this app. Edit: Their support email id is invalid.",
-        "Best app to use in Kochi cab rides. No issues of cancelling . cabs are available all the time. UI exp is on par with uber and ola"
+        "Driver charged more than the fare shown in app. Emailed the support team of app but no response even after 2 days. No use of support team. Please don't use this app. Edit: Their support email id is invalid."
     ],
     "preregister": false,
     "earlyAccessEnabled": false,
