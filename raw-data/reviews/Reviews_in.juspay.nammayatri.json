@@ -1,5 +1,141 @@
 [
     {
+        "id": "f9ffdcf9-e024-4639-b70e-0cb9b6f11491",
+        "date": "2024-04-08",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very nice app"
+    },
+    {
+        "id": "ed7b64a2-3889-4f4d-8d50-9a1f9fc40125",
+        "date": "2024-04-08",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "The Best service provider. Salute your service."
+    },
+    {
+        "id": "e100480d-baa9-4dc0-8527-7e4020fd5b10",
+        "date": "2024-04-08",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good."
+    },
+    {
+        "id": "dfa56b1e-1dd0-40fe-ab49-451b3f8e1972",
+        "date": "2024-04-08",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good and reliable app"
+    },
+    {
+        "id": "daaa7c3a-055e-4527-8a21-2b7d3e607e1d",
+        "date": "2024-04-08",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "OTP remains the same for all rides. Driver arrival time not mentioned. The driver's estimated distance s not correct. 90% of the times, it's misleading."
+    },
+    {
+        "id": "c8a79dde-19fa-41ae-a792-19f3d017b0b2",
+        "date": "2024-04-08",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Wrost app"
+    },
+    {
+        "id": "c479c818-96c2-49eb-945c-a7a3f58009ff",
+        "date": "2024-04-08",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "b46cb58c-1671-453e-977f-57c18bcc4a3f",
+        "date": "2024-04-08",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good driver... the ride went smoothly!!"
+    },
+    {
+        "id": "b403fc49-ff77-48f8-8f49-ddcc2d18c754",
+        "date": "2024-04-08",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "85a70a5e-28d6-49eb-a1b0-889b479270f0",
+        "date": "2024-04-08",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "need a wallet options for payment where we do not have to pay everytime."
+    },
+    {
+        "id": "7c6dcd1b-9ad8-43c8-be1a-8bf3e6db9089",
+        "date": "2024-04-08",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "app is good but drives cancels the short trip no improvement as I feel ola and uber is better option"
+    },
+    {
+        "id": "78f7b2cf-cade-488c-85be-c8e9232bb16f",
+        "date": "2024-04-08",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Much higher rates than other apps"
+    },
+    {
+        "id": "4dba4b21-5ae0-4450-9263-cab3c6010962",
+        "date": "2024-04-08",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super app"
+    },
+    {
+        "id": "30f4fbfd-d3eb-44fa-9e62-5f932c1e62f8",
+        "date": "2024-04-08",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "2fa8ee9a-fe22-45d9-83af-3870071e127c",
+        "date": "2024-04-08",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good sieves"
+    },
+    {
+        "id": "2e64d954-0b1e-4d08-8774-5203330b0f1d",
+        "date": "2024-04-08",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "gud service"
+    },
+    {
+        "id": "206ee123-8ebe-4593-83d6-0d966812f7ce",
+        "date": "2024-04-08",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Worst \ud83d\udc4e"
+    },
+    {
         "id": "f9d88b95-70b0-4518-8c0c-303c5b0138d0",
         "date": "2024-04-07",
         "score": 1,
@@ -70,6 +206,14 @@
         "scoreText": "5",
         "title": null,
         "text": "super fast booking app. I lov it.."
+    },
+    {
+        "id": "7088146c-def0-44e3-83a7-b3afa0f4d06f",
+        "date": "2024-04-07",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "Please add bike service it would be very helpful"
     },
     {
         "id": "6d756266-83a9-4526-835d-c47277583003",
