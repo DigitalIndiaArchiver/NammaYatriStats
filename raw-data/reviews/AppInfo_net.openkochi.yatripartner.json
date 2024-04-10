@@ -5,17 +5,17 @@
     "summary": "App for Auto &amp; Cab Drivers. 0% Commission. 100% Transparent.",
     "installs": "50,000+",
     "minInstalls": 50000,
-    "maxInstalls": 97092,
-    "score": 4.8333335,
+    "maxInstalls": 97166,
+    "score": 4.834061,
     "scoreText": "4.8",
-    "ratings": 4495,
+    "ratings": 4497,
     "reviews": "http://gplayapi.cashlessconsumer.in/api/apps/net.openkochi.yatripartner/reviews",
     "histogram": {
         "1": 88,
-        "2": 49,
+        "2": 48,
         "3": 68,
         "4": 107,
-        "5": 4178
+        "5": 4181
     },
     "price": 0,
     "free": true,
@@ -69,7 +69,11 @@
     "version": "2.3.2",
     "recentChanges": "Minor bug fixes and UI improvements",
     "comments": [
-        null
+        "App is great, and reasonable fares too But ... I am an online taxi driver, in my opinion the app should add a cancellation fee if the rider cancel the trip before the pickup . I got cancelled 3 times today on the way to the pickup location, my time and fuel gone for nothing. Please try to find a solution for this Thank you",
+        "Notification goes to more than one driver at the same time. Making it difficult for drivers to get a ride",
+        "Hi,   I just want to let you know that the Switch button that turn on the online status of the yatri service doesn't toggle when we swipe to turn on or off. Only click event is toggling the service.  Maybe using onCheckedChangedListener instead of onClickListener for the Switch will fix the problem.",
+        "its very difficult to get a trip on Yatri, still you guys are sending one trip request to more than one driver. please stop this.",
+        "I using a 4g phone I didn't get any trips from yatri, trips are only for iPhone users and 5g smartphones. Please change this system"
     ],
     "preregister": false,
     "earlyAccessEnabled": false,
