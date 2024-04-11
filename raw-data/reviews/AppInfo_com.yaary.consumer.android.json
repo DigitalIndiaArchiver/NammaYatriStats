@@ -5,17 +5,17 @@
     "summary": "Find driver nearby! Request a ride - Book taxi, auto &amp; book cabs online",
     "installs": "100,000+",
     "minInstalls": 100000,
-    "maxInstalls": 293288,
-    "score": 4.474026,
+    "maxInstalls": 293740,
+    "score": 4.4671054,
     "scoreText": "4.5",
-    "ratings": 1507,
+    "ratings": 1511,
     "reviews": "http://gplayapi.cashlessconsumer.in/api/apps/com.yaary.consumer.android/reviews",
     "histogram": {
-        "1": 137,
+        "1": 138,
         "2": 29,
         "3": 19,
-        "4": 117,
-        "5": 1203
+        "4": 119,
+        "5": 1202
     },
     "price": 0,
     "free": true,
