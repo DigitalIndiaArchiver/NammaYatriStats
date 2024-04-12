@@ -5,17 +5,17 @@
     "summary": "App for Auto &amp; Cab Drivers. 0% Commission. 100% Transparent.",
     "installs": "50,000+",
     "minInstalls": 50000,
-    "maxInstalls": 97308,
-    "score": 4.8326087,
+    "maxInstalls": 97414,
+    "score": 4.821429,
     "scoreText": "4.8",
-    "ratings": 4499,
+    "ratings": 4502,
     "reviews": "http://gplayapi.cashlessconsumer.in/api/apps/net.openkochi.yatripartner/reviews",
     "histogram": {
-        "1": 87,
-        "2": 48,
-        "3": 68,
-        "4": 116,
-        "5": 4175
+        "1": 90,
+        "2": 60,
+        "3": 70,
+        "4": 120,
+        "5": 4159
     },
     "price": 0,
     "free": true,
@@ -72,8 +72,8 @@
         "App is great, and reasonable fares too But ... I am an online taxi driver, in my opinion the app should add a cancellation fee if the rider cancel the trip before the pickup . I got cancelled 3 times today on the way to the pickup location, my time and fuel gone for nothing. Please try to find a solution for this Thank you",
         "Notification goes to more than one driver at the same time. Making it difficult for drivers to get a ride",
         "Hi,   I just want to let you know that the Switch button that turn on the online status of the yatri service doesn't toggle when we swipe to turn on or off. Only click event is toggling the service.  Maybe using onCheckedChangedListener instead of onClickListener for the Switch will fix the problem.",
-        "its very difficult to get a trip on Yatri, still you guys are sending one trip request to more than one driver. please stop this.",
-        "I using a 4g phone I didn't get any trips from yatri, trips are only for iPhone users and 5g smartphones. Please change this system"
+        "Usually for Uber price is around 800 rs . for 45 KM .it the rate of Uber go . But yatri charged 1502 rs for 45 KM . When I called customer service ,they told no change is possible. I didn't get a mail id to give a complaint.",
+        "ADVERTISING IN HYDERABAD,BUT THERE IS NO CHANCE FOR TS VEHICLES? NEED ONLY KL VEHICLE FOR REGISTRATION? GIVE ME CLARITY"
     ],
     "preregister": false,
     "earlyAccessEnabled": false,

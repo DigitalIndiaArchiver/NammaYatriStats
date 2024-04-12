@@ -5,17 +5,17 @@
     "summary": "Reliable, Affordable, and Safe Cabs in Kolkata",
     "installs": "1,000,000+",
     "minInstalls": 1000000,
-    "maxInstalls": 1521230,
-    "score": 4.78166,
+    "maxInstalls": 1524726,
+    "score": 4.7792897,
     "scoreText": "4.8",
-    "ratings": 66657,
+    "ratings": 66865,
     "reviews": "http://gplayapi.cashlessconsumer.in/api/apps/in.juspay.jatrisaathi/reviews",
     "histogram": {
-        "1": 1316,
-        "2": 392,
-        "3": 1277,
-        "4": 5552,
-        "5": 58116
+        "1": 1324,
+        "2": 424,
+        "3": 1304,
+        "4": 5567,
+        "5": 58239
     },
     "price": 0,
     "free": true,
@@ -74,9 +74,9 @@
     "comments": [
         "It initially was a great app. But after few good trips, things started getting bad. First, the driver will call and find out your destination and if he doesn't like it, he will cancel the ride. App has a help and support center, but only for specific issues. There is no section where one can lodge a general complaint about this repeated canceling by drivers.",
         "I recently used the Yatti Sathi cab booking app for a ride, and unfortunately, my experience was far from satisfactory. The app initially displayed varying fares for the same route at the same time while booking from different phone, which was already concerning. Despite selecting the seemingly lower fare option, I was shocked to find that the final fare displayed after completing the ride was significantly higher than what was initially shown.",
-        "Charges is double after ending the trip. Poorest cab booking app ever. Please don't use if u want to save time and money both. Here we don't have option for image upload otherwise I need show my screenshots. I will never use this app. Customer support is very bad. They are giving me unnecessary excuses. I never faced this kind of issue in Uber, Ola and quick ride. Rapido is better than this app, at least you can reach to your destination by rapido on time. from me for yatri sathi-\ud83d\udc4e\ud83d\udc4e\ud83d\udc4e\ud83d\udc4e\ud83d\udc4e\ud83d\udc4e\ud83d\udc4e",
         "I thought of trying the app for the 1st first time today. And the first experience itself was bad. The driver charged more than the actual fare because he took a detour since he didn't know the location well (which is not the passenger's fault). If you want the passengers to have a carefree ride please make it mandatory for the drivers to use the GPS and have an android phone which enables the function. It was very disappointing.",
-        "Horrible! They would keep you standing infront of their kiosk at the airport as the drivers are only looking for convenient routes. I should not even provide a single star for their service. Also, these drivers need a lot of trainings. They seemd unsafe, rude, annoying. These days everybody is coming up with an app, and have zero idea how to run a business! Ultimately if this continues, the product would fail anyway."
+        "Horrible! They would keep you standing infront of their kiosk at the airport as the drivers are only looking for convenient routes. I should not even provide a single star for their service. Also, these drivers need a lot of trainings. They seemd unsafe, rude, annoying. These days everybody is coming up with an app, and have zero idea how to run a business! Ultimately if this continues, the product would fail anyway.",
+        "The app is actually very useful. But it lacks proper tracking, but it lacks many features! Like adding stops, altering the pick up point to a few meters. Please add an option where we can order any cab and whatever is available can come irrespective of ac or not, keep the price at optimum with whatever answers. But the tracking ie a huge issue, I don't see the cab moving, then suddenly its approaching."
     ],
     "preregister": false,
     "earlyAccessEnabled": false,
