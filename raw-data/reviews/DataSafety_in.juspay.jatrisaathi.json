@@ -9,30 +9,6 @@
                 "type": "Device or other IDs"
             },
             {
-                "data": "App interactions",
-                "optional": false,
-                "purpose": "App functionality, Analytics",
-                "type": "App activity"
-            },
-            {
-                "data": "User IDs",
-                "optional": false,
-                "purpose": "App functionality, Analytics",
-                "type": "Personal info"
-            },
-            {
-                "data": "Address",
-                "optional": true,
-                "purpose": "App functionality",
-                "type": "Personal info"
-            },
-            {
-                "data": "Phone number",
-                "optional": false,
-                "purpose": "App functionality, Account management",
-                "type": "Personal info"
-            },
-            {
                 "data": "Crash logs",
                 "optional": false,
                 "purpose": "Analytics",
@@ -55,6 +31,30 @@
                 "optional": true,
                 "purpose": "App functionality, Analytics",
                 "type": "Location"
+            },
+            {
+                "data": "App interactions",
+                "optional": false,
+                "purpose": "App functionality, Analytics",
+                "type": "App activity"
+            },
+            {
+                "data": "User IDs",
+                "optional": false,
+                "purpose": "App functionality, Analytics",
+                "type": "Personal info"
+            },
+            {
+                "data": "Address",
+                "optional": true,
+                "purpose": "App functionality",
+                "type": "Personal info"
+            },
+            {
+                "data": "Phone number",
+                "optional": false,
+                "purpose": "App functionality, Account management",
+                "type": "Personal info"
             }
         ],
         "securityPractices": [

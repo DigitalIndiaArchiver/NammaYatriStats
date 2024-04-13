@@ -5,17 +5,17 @@
     "summary": "Join the Government of West Bengal's Cab Service and Earn with Yatri Sathi",
     "installs": "50,000+",
     "minInstalls": 50000,
-    "maxInstalls": 73948,
-    "score": 4.556866,
+    "maxInstalls": 74043,
+    "score": 4.557003,
     "scoreText": "4.6",
-    "ratings": 11833,
+    "ratings": 11873,
     "reviews": "http://gplayapi.cashlessconsumer.in/api/apps/in.juspay.jatrisaathidriver/reviews",
     "histogram": {
-        "1": 827,
-        "2": 209,
-        "3": 308,
-        "4": 687,
-        "5": 9799
+        "1": 830,
+        "2": 202,
+        "3": 309,
+        "4": 705,
+        "5": 9823
     },
     "price": 0,
     "free": true,
@@ -69,11 +69,7 @@
     "version": "0.1.15",
     "recentChanges": "New Update Highlights:<br><br>    - Intercity Bookings: Now accept trips to different cities, expanding your earning potential.<br>    - Rental Bookings: Offer your services for extended periods, ensuring more consistent income.<br><br>Why Update?<br><br>    - Access a wider variety of bookings.<br>    - Enjoy increased flexibility and earnings.<br>    - Improved app performance and bug fixes.<br><br>Update now and make the most of these opportunities designed to enhance your driving experience!",
     "comments": [
-        "1.There should be trip cancellation compensation fees. 2.Waiting charge for the customer should be increased. 3.Fare rate for short trip should be increased.",
-        "Very good app and I satisfy..but please booking increase more and more..and please service withdraw Indriver and ola",
-        "Well I must say that booking fliw have incrrased and app operations is very simple and user friendly. Please I request everyone to use Yatri Sathi this initiative have been taken by West Bengal Govt for betterment of passenger transport industry workers. Stop driving Indrive, Ola and Uber these companies have been looting us from the very begining of their operations.",
-        "this is the most secure app cab , and service needs to more improve . this is the future app. use only yatri saathi. Using this app Indian currency and economy will grow upward. don't use other countries app. because our money our wealth, no other country will be occupying.",
-        "A fabulous app made by the govt of West Bengal, this app should be encouraged and promoted more. I am waiting for the developers to add the home location feature as soon as possible."
+        null
     ],
     "preregister": false,
     "earlyAccessEnabled": false,

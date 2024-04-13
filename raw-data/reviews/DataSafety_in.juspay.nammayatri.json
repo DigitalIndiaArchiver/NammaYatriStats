@@ -16,18 +16,6 @@
                 "type": "Contacts"
             },
             {
-                "data": "Emails",
-                "optional": true,
-                "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Personalization, Account management",
-                "type": "Messages"
-            },
-            {
-                "data": "SMS or MMS",
-                "optional": true,
-                "purpose": "App functionality, Account management",
-                "type": "Messages"
-            },
-            {
                 "data": "Name",
                 "optional": false,
                 "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Account management",
@@ -50,6 +38,18 @@
                 "optional": true,
                 "purpose": "App functionality, Personalization",
                 "type": "Calendar"
+            },
+            {
+                "data": "Emails",
+                "optional": true,
+                "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Personalization, Account management",
+                "type": "Messages"
+            },
+            {
+                "data": "SMS or MMS",
+                "optional": true,
+                "purpose": "App functionality, Account management",
+                "type": "Messages"
             },
             {
                 "data": "Device or other IDs",
