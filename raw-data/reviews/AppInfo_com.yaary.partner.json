@@ -5,17 +5,17 @@
     "summary": "Yaary - zero commission app for drivers",
     "installs": "50,000+",
     "minInstalls": 50000,
-    "maxInstalls": 86095,
-    "score": 4.9469414,
+    "maxInstalls": 86338,
+    "score": 4.9491205,
     "scoreText": "4.9",
-    "ratings": 15465,
+    "ratings": 15515,
     "reviews": "http://gplayapi.cashlessconsumer.in/api/apps/com.yaary.partner/reviews",
     "histogram": {
-        "1": 134,
-        "2": 37,
+        "1": 125,
+        "2": 38,
         "3": 47,
-        "4": 66,
-        "5": 15174
+        "4": 67,
+        "5": 15232
     },
     "price": 0,
     "free": true,
@@ -58,7 +58,7 @@
         "I have a issue with yaary driver app , the screen time is limited ,and the app is closing,.... Please increase the screen time... Expect that The app is good and It's a best app for auto drivers",
         "All documents are verified but it's showing connect with buddy's on WhatsApp if I click to connect there is showing group is full resolve \ud83d\ude15 this trouble ASAP....",
         "I had submitted all documents before 10days but till now my account is not activated to take rides On the screen it's showing simply all done that's it. Don't download it my beloved driver brothers.",
-        "useless app with useless login system. app is totally stuck,dont waste our time so finally i uninstalled this rubbish app."
+        "Last battery option not going to access. Its very bad experience & process to operate this application."
     ],
     "preregister": false,
     "earlyAccessEnabled": false,

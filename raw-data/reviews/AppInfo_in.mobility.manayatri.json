@@ -5,17 +5,17 @@
     "summary": "Zero commission ride booking app for fast &amp; affordable auto &amp; cab rides",
     "installs": "100,000+",
     "minInstalls": 100000,
-    "maxInstalls": 142253,
-    "score": 4.705357,
-    "scoreText": "4.7",
-    "ratings": 431,
+    "maxInstalls": 143612,
+    "score": 4.754902,
+    "scoreText": "4.8",
+    "ratings": 441,
     "reviews": "http://gplayapi.cashlessconsumer.in/api/apps/in.mobility.manayatri/reviews",
     "histogram": {
-        "1": 18,
-        "2": 2,
-        "3": 6,
-        "4": 22,
-        "5": 376
+        "1": 12,
+        "2": 3,
+        "3": 3,
+        "4": 34,
+        "5": 384
     },
     "price": 0,
     "free": true,
@@ -57,9 +57,9 @@
     "comments": [
         "Worst app ever experienced. Google maps location accuracy is worst. Driver has reached my nearest point then he went again to someother route. Cancelled the ride just reaching my location. Even one star is worst for this.",
         "The rates are almost the same when compared with other providers in the Hyderabad city. As a customer don't see any benefit in pricing by preferring this app over Uber/Ola/Rapido. Just hope it will provide quick booking and very very less cancellation by drivers saving time of customer.",
-        "Tried to book a cab from Secunderabad railway station thrice, but no use, even after tried with a \"tip\".",
         "Showing wrong destination address. Had very bad experience. Will not use this app again",
-        "Try to start bike services also it will be helpful... Overall it is good \ud83c\udf89\ud83c\udf89"
+        "Tried to book a cab from Secunderabad railway station thrice, but no use, even after tried with a \"tip\".",
+        "Much better than getting an Ola or Uber auto. Overall, happy with the experience."
     ],
     "preregister": false,
     "earlyAccessEnabled": false,
