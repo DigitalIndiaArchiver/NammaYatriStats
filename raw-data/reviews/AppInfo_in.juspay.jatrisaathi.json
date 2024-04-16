@@ -5,17 +5,17 @@
     "summary": "Reliable, Affordable, and Safe Cabs in Kolkata",
     "installs": "1,000,000+",
     "minInstalls": 1000000,
-    "maxInstalls": 1535778,
-    "score": 4.781837,
+    "maxInstalls": 1539842,
+    "score": 4.782155,
     "scoreText": "4.8",
-    "ratings": 67654,
+    "ratings": 67915,
     "reviews": "http://gplayapi.cashlessconsumer.in/api/apps/in.juspay.jatrisaathi/reviews",
     "histogram": {
-        "1": 1280,
-        "2": 436,
-        "3": 1319,
-        "4": 5686,
-        "5": 58928
+        "1": 1276,
+        "2": 449,
+        "3": 1296,
+        "4": 5740,
+        "5": 59148
     },
     "price": 0,
     "free": true,
@@ -72,11 +72,7 @@
     "version": "0.1.8",
     "recentChanges": "- Introducing Hourly Rental and Intercity Rides<br>- Minor improvements and bug fixes",
     "comments": [
-        "It initially was a great app. But after few good trips, things started getting bad. First, the driver will call and find out your destination and if he doesn't like it, he will cancel the ride. App has a help and support center, but only for specific issues. There is no section where one can lodge a general complaint about this repeated canceling by drivers.",
-        "I recently used the Yatti Sathi cab booking app for a ride, and unfortunately, my experience was far from satisfactory. The app initially displayed varying fares for the same route at the same time while booking from different phone, which was already concerning. Despite selecting the seemingly lower fare option, I was shocked to find that the final fare displayed after completing the ride was significantly higher than what was initially shown.",
-        "Worst App Pros: Reduces ticket counter queue time. Cons: Drivers dont have UPI even in 2024. The first ride was very poor, and it did not even drop me on the right side of the street. Drivers are not trained to use the app. There is no accountability. The driver didn't even complete the ride on the app, so I am unable to make any other booking. There is no feature to stop the ride, also cant view the current ride in myride list. The app is still at an early stage. Needs a lot of improvements.",
-        "I thought of trying the app for the 1st first time today. And the first experience itself was bad. The driver charged more than the actual fare because he took a detour since he didn't know the location well (which is not the passenger's fault). If you want the passengers to have a carefree ride please make it mandatory for the drivers to use the GPS and have an android phone which enables the function. It was very disappointing.",
-        "Horrible! They would keep you standing infront of their kiosk at the airport as the drivers are only looking for convenient routes. I should not even provide a single star for their service. Also, these drivers need a lot of trainings. They seemd unsafe, rude, annoying. These days everybody is coming up with an app, and have zero idea how to run a business! Ultimately if this continues, the product would fail anyway."
+        null
     ],
     "preregister": false,
     "earlyAccessEnabled": false,

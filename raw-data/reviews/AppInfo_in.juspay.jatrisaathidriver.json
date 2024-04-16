@@ -5,17 +5,17 @@
     "summary": "Join the Government of West Bengal's Cab Service and Earn with Yatri Sathi",
     "installs": "50,000+",
     "minInstalls": 50000,
-    "maxInstalls": 74422,
-    "score": 4.5610747,
+    "maxInstalls": 74639,
+    "score": 4.5531564,
     "scoreText": "4.6",
-    "ratings": 11933,
+    "ratings": 11965,
     "reviews": "http://gplayapi.cashlessconsumer.in/api/apps/in.juspay.jatrisaathidriver/reviews",
     "histogram": {
-        "1": 825,
-        "2": 203,
-        "3": 310,
-        "4": 699,
-        "5": 9891
+        "1": 863,
+        "2": 198,
+        "3": 297,
+        "4": 695,
+        "5": 9907
     },
     "price": 0,
     "free": true,
@@ -68,11 +68,7 @@
     "updated": 1712836835000,
     "version": "1.4.20",
     "comments": [
-        "Very good app and I satisfy..but please booking increase more and more..and please service withdraw Indriver and ola",
-        "1.There should be trip cancellation compensation fees. 2.Waiting charge for the customer should be increased. 3.Fare rate for short trip should be increased.",
-        "Well I must say that booking fliw have incrrased and app operations is very simple and user friendly. Please I request everyone to use Yatri Sathi this initiative have been taken by West Bengal Govt for betterment of passenger transport industry workers. Stop driving Indrive, Ola and Uber these companies have been looting us from the very begining of their operations.",
-        "this is the most secure app cab , and service needs to more improve . this is the future app. use only yatri saathi. Using this app Indian currency and economy will grow upward. don't use other countries app. because our money our wealth, no other country will be occupying.",
-        "A fabulous app made by the govt of West Bengal, this app should be encouraged and promoted more. I am waiting for the developers to add the home location feature as soon as possible."
+        null
     ],
     "preregister": false,
     "earlyAccessEnabled": false,
