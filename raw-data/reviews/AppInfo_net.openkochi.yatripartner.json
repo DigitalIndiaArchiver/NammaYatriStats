@@ -5,17 +5,17 @@
     "summary": "App for Auto &amp; Cab Drivers. 0% Commission. 100% Transparent.",
     "installs": "50,000+",
     "minInstalls": 50000,
-    "maxInstalls": 98523,
-    "score": 4.827051,
+    "maxInstalls": 98711,
+    "score": 4.8278146,
     "scoreText": "4.8",
-    "ratings": 4521,
+    "ratings": 4522,
     "reviews": "http://gplayapi.cashlessconsumer.in/api/apps/net.openkochi.yatripartner/reviews",
     "histogram": {
         "1": 79,
         "2": 59,
         "3": 79,
         "4": 119,
-        "5": 4179
+        "5": 4181
     },
     "price": 0,
     "free": true,
