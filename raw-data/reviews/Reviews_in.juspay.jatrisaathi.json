@@ -1,5 +1,149 @@
 [
     {
+        "id": "ea45a838-c799-4918-a2f5-2591cd218be7",
+        "date": "2024-04-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice"
+    },
+    {
+        "id": "d7ece338-6e06-4bbf-b9c7-74d4363066fe",
+        "date": "2024-04-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "reasonable rate and fully satisfaction"
+    },
+    {
+        "id": "cf9eb97d-c90c-424d-b4b1-40491d0e4667",
+        "date": "2024-04-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "vary gud"
+    },
+    {
+        "id": "c8327ccf-9322-48a9-9f59-fd7e316b7393",
+        "date": "2024-04-18",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "c348ae93-63ec-4677-b07f-86a95b52261f",
+        "date": "2024-04-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "for the newcomers, the direction of the destination should be on map to guide him till his destination."
+    },
+    {
+        "id": "c32a9a16-c3a0-4424-8b28-40bb5bf1b00a",
+        "date": "2024-04-18",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "fare is more than the others cab"
+    },
+    {
+        "id": "b8da1219-ff69-47b9-aa09-fbb40960684f",
+        "date": "2024-04-18",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Not sure how this app can survive. This is not the first time I'm written this trash app review. Today I have booked a cab . There were 18 cabs available at that time on my booking spot. As soon as I booked one driver accepted and soon he cancelled the ride not sure why. Then I again booked one more cab the driver was asking 70 rs more for tips to reach to the spot. I denied and he cancelled.Afterthat I searched almost 1hr but no one accepted my invite. Seems strange as there were more cabs avlb"
+    },
+    {
+        "id": "b831465f-6dfe-45c2-9513-f64d5b9de09e",
+        "date": "2024-04-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good"
+    },
+    {
+        "id": "b2f94274-4f3e-43f4-92d1-fbad8096ed12",
+        "date": "2024-04-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "b101315d-9640-4e10-a468-7ddd1a5887f3",
+        "date": "2024-04-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Howrah station the service is excellent"
+    },
+    {
+        "id": "9fa03f75-0168-404e-ac74-3673c769b61e",
+        "date": "2024-04-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "booking confirmation is intermittently delayed."
+    },
+    {
+        "id": "8cf025c7-bea1-4e20-ba13-6c84ead3342e",
+        "date": "2024-04-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice"
+    },
+    {
+        "id": "866c401c-cfaf-42b1-8b30-52c41689db5b",
+        "date": "2024-04-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Nice App .. Use First Time .. Cheapest Rate"
+    },
+    {
+        "id": "7a15dc1e-e028-45fa-844f-8a18abf75f9c",
+        "date": "2024-04-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "5d1d18e2-cf18-4b9b-8c36-6244903cc943",
+        "date": "2024-04-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice"
+    },
+    {
+        "id": "2f94a1a7-c42a-437b-9a80-d9aed7a4b121",
+        "date": "2024-04-18",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Very bad experience. All drivers are illiterate. Behaviour is very bad and customer support is also very poor they have no resolution for us."
+    },
+    {
+        "id": "2d23a6ad-21ab-40ba-b3ea-73a6db656a9b",
+        "date": "2024-04-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good service"
+    },
+    {
+        "id": "210ca21f-a6ef-41f9-b2ff-bedc9526db56",
+        "date": "2024-04-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
         "id": "fda26556-080a-48e5-abd6-ced7f5874901",
         "date": "2024-04-17",
         "score": 2,
@@ -96,12 +240,28 @@
         "text": "No ridere available Every time... very bad experience."
     },
     {
+        "id": "2bc3fcb6-7894-4166-86ec-a0d525685cb6",
+        "date": "2024-04-17",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good and Excellent"
+    },
+    {
         "id": "1e657431-7cce-4592-860d-38849854f2f0",
         "date": "2024-04-17",
         "score": 4,
         "scoreText": "4",
         "title": null,
         "text": "it's affordable but many times people don't get any cab"
+    },
+    {
+        "id": "0d5ec762-e31f-426c-85c8-9f2a3d6bb3ec",
+        "date": "2024-04-17",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "perfect"
     },
     {
         "id": "f337690e-b7b2-45f9-9c19-1648376760f6",

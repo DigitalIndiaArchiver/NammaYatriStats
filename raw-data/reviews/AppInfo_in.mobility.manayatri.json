@@ -5,17 +5,17 @@
     "summary": "Zero commission ride booking app for fast &amp; affordable auto &amp; cab rides",
     "installs": "100,000+",
     "minInstalls": 100000,
-    "maxInstalls": 148624,
-    "score": 4.6571426,
-    "scoreText": "4.7",
-    "ratings": 469,
+    "maxInstalls": 149862,
+    "score": 4.6310678,
+    "scoreText": "4.6",
+    "ratings": 480,
     "reviews": "http://gplayapi.cashlessconsumer.in/api/apps/in.mobility.manayatri/reviews",
     "histogram": {
-        "1": 21,
+        "1": 27,
         "2": 3,
         "3": 8,
-        "4": 39,
-        "5": 392
+        "4": 32,
+        "5": 405
     },
     "price": 0,
     "free": true,
@@ -55,7 +55,11 @@
     "version": "1.4.16",
     "recentChanges": "UI update and enhancement",
     "comments": [
-        null
+        "Worst app ever experienced. Google maps location accuracy is worst. Driver has reached my nearest point then he went again to someother route. Cancelled the ride just reaching my location. Even one star is worst for this.",
+        "The rates are almost the same when compared with other providers in the Hyderabad city. As a customer don't see any benefit in pricing by preferring this app over Uber/Ola/Rapido. Just hope it will provide quick booking and very very less cancellation by drivers saving time of customer.",
+        "very good app and strong competition to other leading cab aggregators",
+        "Showing wrong destination address. Had very bad experience. Will not use this app again",
+        "Tried to book a cab from Secunderabad railway station thrice, but no use, even after tried with a \"tip\"."
     ],
     "preregister": false,
     "earlyAccessEnabled": false,
