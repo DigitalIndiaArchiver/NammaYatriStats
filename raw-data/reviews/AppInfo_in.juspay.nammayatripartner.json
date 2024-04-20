@@ -5,17 +5,17 @@
     "summary": "Zero Commission app for Drivers, with Direct Payment from Customers",
     "installs": "500,000+",
     "minInstalls": 500000,
-    "maxInstalls": 689556,
-    "score": 4.6877813,
+    "maxInstalls": 691935,
+    "score": 4.693493,
     "scoreText": "4.7",
-    "ratings": 106528,
+    "ratings": 107070,
     "reviews": "http://gplayapi.cashlessconsumer.in/api/apps/in.juspay.nammayatripartner/reviews",
     "histogram": {
-        "1": 4556,
-        "2": 1642,
-        "3": 2835,
-        "4": 4429,
-        "5": 93060
+        "1": 4497,
+        "2": 1608,
+        "3": 2828,
+        "4": 4337,
+        "5": 93794
     },
     "price": 0,
     "free": true,
@@ -70,11 +70,7 @@
     "version": "1.4.20",
     "recentChanges": "Minor bug fixes and UI Improvements",
     "comments": [
-        "this the one of the best app for drivers & customer to, but namma yatri have to do more advertisement become more then more ride !! I'm happy with namma yatri app to excellent. Walde aagirli",
-        "The app is good now a days but the thing is the customer is booking more and cancelling at the same time please don't allow to book again keep away from timepass customer i just get angry when I reach to there location and get it cancelled and infront of me they r going to another auto and please check km sometime it doesn't get calculated some how thank you so much for the app namma yatri",
-        "It's very irritating issue in this app, am going to offline but this app automatically going to online, this is not one time, every time same issue, so please check and rectify the issue.",
-        "I attached my car in namma yatri...i didn't get even 1 ride booking.... Busy Chennai but no ride for this app. need to implement and improve service for bookings....",
-        "One of the use less app customer booking and cancelling the trip need to change for that if i reach the location customers no response"
+        null
     ],
     "preregister": false,
     "earlyAccessEnabled": false,
