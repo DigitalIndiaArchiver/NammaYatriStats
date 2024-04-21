@@ -5,17 +5,17 @@
     "summary": "Zero Commission app for Drivers, with Direct Payment from Customers",
     "installs": "10,000+",
     "minInstalls": 10000,
-    "maxInstalls": 27073,
-    "score": 4.698276,
+    "maxInstalls": 27468,
+    "score": 4.6759257,
     "scoreText": "4.7",
-    "ratings": 1048,
+    "ratings": 1066,
     "reviews": "http://gplayapi.cashlessconsumer.in/api/apps/in.mobility.manayatripartner/reviews",
     "histogram": {
-        "1": 44,
-        "2": 8,
-        "3": 26,
-        "4": 54,
-        "5": 912
+        "1": 58,
+        "2": 9,
+        "3": 19,
+        "4": 38,
+        "5": 937
     },
     "price": 0,
     "free": true,
@@ -59,9 +59,9 @@
     "comments": [
         "last night i installed this app for become a mana yatri partner,but the app is not open and totally stuck. so it deserve 1star.",
         "Yesterday install the app but not open something is wrong also phone is hang",
+        "app everything good but Google maps very slow loading",
         "super app and very easy",
-        "Very good mana yatri app fast booking ondc network",
-        "app everything good but Google maps very slow loading"
+        "Very good mana yatri app fast booking ondc network"
     ],
     "preregister": false,
     "earlyAccessEnabled": false,

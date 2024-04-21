@@ -5,17 +5,17 @@
     "summary": "Yaary - zero commission app for drivers",
     "installs": "50,000+",
     "minInstalls": 50000,
-    "maxInstalls": 87586,
-    "score": 4.9424863,
+    "maxInstalls": 87770,
+    "score": 4.9408536,
     "scoreText": "4.9",
-    "ratings": 15691,
+    "ratings": 15713,
     "reviews": "http://gplayapi.cashlessconsumer.in/api/apps/com.yaary.partner/reviews",
     "histogram": {
-        "1": 135,
-        "2": 47,
-        "3": 67,
-        "4": 76,
-        "5": 15360
+        "1": 142,
+        "2": 46,
+        "3": 66,
+        "4": 75,
+        "5": 15377
     },
     "price": 0,
     "free": true,
@@ -54,11 +54,7 @@
     "version": "2.2.3",
     "recentChanges": "Yes, we listened and truly sorry for the &#39;Happy Dent&#39; advertisement we did on your  phone displays. The brightness control is now fixed for good.<br>You might also notice the revamp of our ride acceptance screen. Lot of your feedback has been addressed apart from few bug fixes and performance improvements.",
     "comments": [
-        "I have downloaded these app before 2 months and I have uploaded all documents but there is no response in the app and again it's is connected to WhatsApp waist of time I think doing some kind of joke waisting public time and riders time so please go on with ola uber rapido and porter there is to much work to earn money \ud83e\udd11\ud83e\udd11\ud83e\udd11",
-        "All documents are verified but it's showing connect with buddy's on WhatsApp if I click to connect there is showing group is full resolve \ud83d\ude15 this trouble ASAP....",
-        "I had submitted all documents before 10days but till now my account is not activated to take rides On the screen it's showing simply all done that's it. Don't download it my beloved driver brothers.",
-        "I have a issue with yaary driver app , the screen time is limited ,and the app is closing,.... Please increase the screen time... Expect that The app is good and It's a best app for auto drivers",
-        "Last battery option not going to access. Its very bad experience & process to operate this application."
+        null
     ],
     "preregister": false,
     "earlyAccessEnabled": false,
