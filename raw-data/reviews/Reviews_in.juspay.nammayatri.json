@@ -1,5 +1,152 @@
 [
     {
+        "id": "c78ab17f-fab6-4dc4-b11a-b0442dce2ee5",
+        "date": "2024-04-21",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super"
+    },
+    {
+        "id": "b8e1cc21-31dd-4c2b-8cf2-bc64fe5e9ffd",
+        "date": "2024-04-21",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "ok"
+    },
+    {
+        "id": "a35ff113-7a1c-4f7b-b556-507807720b92",
+        "date": "2024-04-21",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Prices are high compared to ola rapido & uber..."
+    },
+    {
+        "id": "a17bfc87-02c3-430c-bddc-42a13d2e7e08",
+        "date": "2024-04-21",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Drivers demand more than travel charges. poor customer care"
+    },
+    {
+        "id": "93461db0-dd8d-4cb2-bb11-23c86c752819",
+        "date": "2024-04-21",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "App okay not bad"
+    },
+    {
+        "id": "80cba5ee-9930-4ceb-87c6-3b4e7e65a082",
+        "date": "2024-04-21",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "79dc0f06-6047-47d4-a8c1-ab5c3c21f6fc",
+        "date": "2024-04-21",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Very poor customer care. Mailed thrice for an invoice, no response at all"
+    },
+    {
+        "id": "73ae3e67-dabe-40dd-ad19-65e70773f965",
+        "date": "2024-04-21",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Worst app I've ever used.. Always the drivers use to cancel rides...So disgusting"
+    },
+    {
+        "id": "6f6b995e-17df-4260-b303-b7127f7e4dbf",
+        "date": "2024-04-21",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good app"
+    },
+    {
+        "id": "61157481-2f57-46d4-a5f4-612ef6c7826d",
+        "date": "2024-04-21",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "5e6ca59f-d3e4-437c-87a8-323f37438348",
+        "date": "2024-04-21",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Downgrading to 0 stars, auto drivers are not accepting rides. Prices are expensive than ola, uber! They have new slabs which we haven't heard of. Hence uninstalling app",
+        "vaf_phase1_managing_trips": 1,
+        "vaf_games_subject_car": 2,
+        "vaf_phase1_booking_tours": 2
+    },
+    {
+        "id": "49ffa958-d477-4582-a841-8b50437ba03f",
+        "date": "2024-04-21",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Showing different drop location for driver ..and they increased their cost these days ."
+    },
+    {
+        "id": "390d65e4-73ef-492e-b4b8-b9b3361716d8",
+        "date": "2024-04-21",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "cheaper than ola"
+    },
+    {
+        "id": "2db0f9f4-4118-424c-987b-32df0fac8900",
+        "date": "2024-04-21",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "forgot my water bottle in the Auto"
+    },
+    {
+        "id": "2915c416-5f39-4abe-a965-0fe4f3ba418a",
+        "date": "2024-04-21",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "cost effective ride"
+    },
+    {
+        "id": "23ad1549-1578-42fc-92c9-171f40067be3",
+        "date": "2024-04-21",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "one of the worst app. They always cancel the ride. Most of the drivers are foul mouth morons. I will Never use this again."
+    },
+    {
+        "id": "074806ff-7d8d-49fa-a3f1-9a1580e0773e",
+        "date": "2024-04-21",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "no booking most of the time"
+    },
+    {
+        "id": "00480185-ec19-4e58-949c-fa3410451a01",
+        "date": "2024-04-21",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "It's used to book fast in initial days of app launch. Now a days it's not booking at all for half an hour also. Much disappointed. Better to go with rapido instead. Increasing rides make management careless."
+    },
+    {
         "id": "f79448c1-3a96-40af-8b30-bdeb5a78c6de",
         "date": "2024-04-20",
         "score": 5,
@@ -134,6 +281,14 @@
         "scoreText": "5",
         "title": null,
         "text": "good service"
+    },
+    {
+        "id": "452d0e46-b03e-47fe-a880-830f75ec0340",
+        "date": "2024-04-20",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "compare to other services provider I felt this app the best"
     },
     {
         "id": "3cfd15fa-b4ba-437a-af54-c637c0ddb54b",

@@ -5,17 +5,17 @@
     "summary": "Zero Commission Rides - Low Cancellations, Fast Pickups &amp; Affordable Fares.",
     "installs": "100,000+",
     "minInstalls": 100000,
-    "maxInstalls": 426620,
-    "score": 4.7603307,
+    "maxInstalls": 428131,
+    "score": 4.7683334,
     "scoreText": "4.8",
-    "ratings": 6032,
+    "ratings": 6045,
     "reviews": "http://gplayapi.cashlessconsumer.in/api/apps/net.openkochi.yatri/reviews",
     "histogram": {
-        "1": 159,
-        "2": 9,
-        "3": 128,
-        "4": 517,
-        "5": 5214
+        "1": 151,
+        "2": 10,
+        "3": 120,
+        "4": 523,
+        "5": 5238
     },
     "price": 0,
     "free": true,
@@ -73,11 +73,7 @@
     "version": "2.2.3",
     "recentChanges": "Yatri is now in new colors to make your commute seamlessly. And as usual, bugs have been shown the door.",
     "comments": [
-        "Not only once But the fare has raised four times for me. Not for 10/-. It goes more than 70 80/-. It looks like scam now. Shows something but while drop it increases like anything. There's no option for complaint. It's my 4th time since I did not get any refund of the excess money cut also. Knowingly drives take the longer rout. If you tell to follow the map, they will say road issue or traffic issue is there and they will take other root. Initially it was good but not these days.",
-        "I've been unable to log in to my Namma Yatri account for a while now. Despite multiple attempts, I haven't received the OTP, neither via text message nor through WhatsApp. I've also emailed the official address regarding this issue, but haven't received any response. I would appreciate if the matter could be resolved promptly.",
-        "I just installed this App. After 10 minutes uninstallled. You are not able to provide me the cab in my area That is not the rural area but sector Colony.",
-        "Such an irresponsible driver. There's no appropriate line for customer support. Booked an emergency trip and the driver was travelling to somewhere holding my trip. Very Unprofessional and kept my calls on hold and even if the driver picked he kept me on call without saying anything other than ok ok ok. I messaged the driver and no response. No value for the customers time. Very sad.",
-        "I'm not able to sign up now, shows there is some error. Plus, once I booked for a cab through another number, and the app was updating, the cab came and I couldn't see the details as the app was not opening. Since updates, there has been issues with this app."
+        null
     ],
     "preregister": false,
     "earlyAccessEnabled": false,

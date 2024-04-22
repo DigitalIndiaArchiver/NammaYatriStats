@@ -5,17 +5,17 @@
     "summary": "Auto, Cab &amp; Bike-Taxi Booking App - Travel with ease &amp; Affordable Fares",
     "installs": "100,000+",
     "minInstalls": 100000,
-    "maxInstalls": 297891,
-    "score": 4.2929935,
+    "maxInstalls": 298288,
+    "score": 4.275,
     "scoreText": "4.3",
-    "ratings": 1559,
+    "ratings": 1562,
     "reviews": "http://gplayapi.cashlessconsumer.in/api/apps/com.yaary.consumer.android/reviews",
     "histogram": {
-        "1": 188,
-        "2": 49,
-        "3": 39,
-        "4": 119,
-        "5": 1161
+        "1": 194,
+        "2": 48,
+        "3": 38,
+        "4": 126,
+        "5": 1151
     },
     "price": 0,
     "free": true,
@@ -55,11 +55,7 @@
     "version": "1.2.0",
     "recentChanges": "\u2022 Improvements to driver tracking - We have improved the driver tracking experience even further. Watch out for their fine moves.<br>\u2022 We heard you when you said you don&#39;t like your mobile number exposed while calling the drivers. We have rolled out an anonymous calling feature. <br>\u2022 We are rolling out a new mode of service. It&#39;s a secret until we enable it \ud83e\udd2b.Watch out. <br>\u2022 Bug fixes as usual.",
     "comments": [
-        "I downloaded the app from the play store, but I was very disappointed with its performance. The app is not working properly at all. Every time I open the app, it keeps loading to get my current location, even though I have turned on the location GPS. This is very frustrating and annoying. I think the app developers should fix this bug as soon as possible, or else I will uninstall the app and give it a one-star rating",
-        "Please do not force to turn on GPS signal. Try asking 2-3 times post which let users manually enter pickup and drop locations. Turning ON GPS drains away battery and all other apps like Ola/Uber/Rapido do not force users to turn on GPS to book a ride. Hence please implement the same.",
-        "This app is using more GST and compare to others online booking for travel it's more different to use .don't use this app better to use other app ola and Uber for short distance this app taking charge of 30 for ride after completing it's increasing and show more after ride is completed",
-        "This app is a disappointment. It's very bad, charging extra fees beyond the estimated price. Moreover, the customer service is painfully slow, making problem resolution a frustrating experience. Overall, I do not recommend this app.",
-        "Yaari app needs to update it's services. Not able to track the location properly. Amounts shown higher than the expected ones.. Rides are safe and drivers are polite."
+        null
     ],
     "preregister": false,
     "earlyAccessEnabled": false,

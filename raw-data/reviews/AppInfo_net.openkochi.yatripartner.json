@@ -5,17 +5,17 @@
     "summary": "App for Auto &amp; Cab Drivers. 0% Commission. 100% Transparent.",
     "installs": "50,000+",
     "minInstalls": 50000,
-    "maxInstalls": 99214,
-    "score": 4.8226166,
+    "maxInstalls": 99306,
+    "score": 4.8161926,
     "scoreText": "4.8",
-    "ratings": 4537,
+    "ratings": 4543,
     "reviews": "http://gplayapi.cashlessconsumer.in/api/apps/net.openkochi.yatripartner/reviews",
     "histogram": {
-        "1": 80,
-        "2": 60,
-        "3": 80,
-        "4": 140,
-        "5": 4173
+        "1": 89,
+        "2": 59,
+        "3": 79,
+        "4": 138,
+        "5": 4174
     },
     "price": 0,
     "free": true,
@@ -69,11 +69,7 @@
     "version": "2.3.2",
     "recentChanges": "Minor bug fixes and UI improvements",
     "comments": [
-        "App is great, and reasonable fares too But ... I am an online taxi driver, in my opinion the app should add a cancellation fee if the rider cancel the trip before the pickup . I got cancelled 3 times today on the way to the pickup location, my time and fuel gone for nothing. Please try to find a solution for this Thank you",
-        "Hi,   I just want to let you know that the Switch button that turn on the online status of the yatri service doesn't toggle when we swipe to turn on or off. Only click event is toggling the service.  Maybe using onCheckedChangedListener instead of onClickListener for the Switch will fix the problem.",
-        "Notification goes to more than one driver at the same time. Making it difficult for drivers to get a ride",
-        "Usually for Uber price is around 800 rs . for 45 KM .it the rate of Uber go . But yatri charged 1502 rs for 45 KM . When I called customer service ,they told no change is possible. I didn't get a mail id to give a complaint.",
-        "ADVERTISING IN HYDERABAD,BUT THERE IS NO CHANCE FOR TS VEHICLES? NEED ONLY KL VEHICLE FOR REGISTRATION? GIVE ME CLARITY"
+        null
     ],
     "preregister": false,
     "earlyAccessEnabled": false,
