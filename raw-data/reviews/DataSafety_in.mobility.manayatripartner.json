@@ -3,10 +3,10 @@
         "sharedData": [],
         "collectedData": [
             {
-                "data": "Device or other IDs",
+                "data": "App interactions",
                 "optional": true,
-                "purpose": "App functionality, Analytics, Developer communications",
-                "type": "Device or other IDs"
+                "purpose": "App functionality, Analytics",
+                "type": "App activity"
             },
             {
                 "data": "User IDs",
@@ -21,10 +21,10 @@
                 "type": "Personal info"
             },
             {
-                "data": "App interactions",
+                "data": "Device or other IDs",
                 "optional": true,
-                "purpose": "App functionality, Analytics",
-                "type": "App activity"
+                "purpose": "App functionality, Analytics, Developer communications",
+                "type": "Device or other IDs"
             },
             {
                 "data": "Crash logs",
