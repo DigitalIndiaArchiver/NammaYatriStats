@@ -15,6 +15,12 @@
                 "type": "Personal info"
             },
             {
+                "data": "Device or other IDs",
+                "optional": true,
+                "purpose": "App functionality, Analytics, Developer communications",
+                "type": "Device or other IDs"
+            },
+            {
                 "data": "Crash logs",
                 "optional": true,
                 "purpose": "App functionality, Analytics",
@@ -25,12 +31,6 @@
                 "optional": false,
                 "purpose": "App functionality, Analytics",
                 "type": "App info and performance"
-            },
-            {
-                "data": "Device or other IDs",
-                "optional": true,
-                "purpose": "App functionality, Analytics, Developer communications",
-                "type": "Device or other IDs"
             },
             {
                 "data": "App interactions",
