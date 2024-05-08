@@ -5,17 +5,17 @@
     "summary": "Zero commission ride booking app for fast &amp; affordable auto &amp; cab rides",
     "installs": "100,000+",
     "minInstalls": 100000,
-    "maxInstalls": 176637,
-    "score": 4.592233,
-    "scoreText": "4.6",
-    "ratings": 626,
+    "maxInstalls": 179302,
+    "score": 4.669903,
+    "scoreText": "4.7",
+    "ratings": 632,
     "reviews": "http://gplayapi.cashlessconsumer.in/api/apps/in.mobility.manayatri/reviews",
     "histogram": {
-        "1": 35,
+        "1": 23,
         "2": 5,
         "3": 17,
         "4": 54,
-        "5": 510
+        "5": 527
     },
     "price": 0,
     "free": true,
