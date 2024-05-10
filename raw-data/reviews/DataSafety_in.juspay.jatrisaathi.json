@@ -21,12 +21,6 @@
                 "type": "App info and performance"
             },
             {
-                "data": "App interactions",
-                "optional": false,
-                "purpose": "App functionality, Analytics",
-                "type": "App activity"
-            },
-            {
                 "data": "Approximate location",
                 "optional": true,
                 "purpose": "App functionality, Analytics",
@@ -37,6 +31,12 @@
                 "optional": true,
                 "purpose": "App functionality, Analytics",
                 "type": "Location"
+            },
+            {
+                "data": "App interactions",
+                "optional": false,
+                "purpose": "App functionality, Analytics",
+                "type": "App activity"
             },
             {
                 "data": "User IDs",
