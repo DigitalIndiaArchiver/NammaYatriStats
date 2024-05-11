@@ -1,5 +1,237 @@
 [
     {
+        "id": "f7a5e541-b9d9-4d73-b3c8-30a23141c951",
+        "date": "2024-05-10",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good response"
+    },
+    {
+        "id": "eacf8ab1-b623-4144-8341-89c24a2a26a6",
+        "date": "2024-05-10",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "e03cf5dc-0828-4d16-80fa-eb50a65cf4cc",
+        "date": "2024-05-10",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good man"
+    },
+    {
+        "id": "dd5be8ba-8f5a-4491-aca6-e3438d52242b",
+        "date": "2024-05-10",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "Interface is very bad. UI can be improved considerably. Rides history is not accurate. Doesn't show the rides availed correctly"
+    },
+    {
+        "id": "cdef30aa-2e67-4641-9a0a-4d20b7c0a0c4",
+        "date": "2024-05-10",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "better than commercial apps like ola or uber"
+    },
+    {
+        "id": "b3118f8e-f3be-4988-980f-828518a722bb",
+        "date": "2024-05-10",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super"
+    },
+    {
+        "id": "ae0628dc-46f3-4c9d-8c9b-0796645dc03f",
+        "date": "2024-05-10",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "It was good for few months. but later not even getting ride confirmation even max tips. Several cancellations from auto drivers. Uninstalled.."
+    },
+    {
+        "id": "aa450acf-9535-442f-9e72-3e825215b9eb",
+        "date": "2024-05-10",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "\ud83d\udc34\ud83c\ude35\ud83c\udf87\ud83c\udf87\ud83d\udc92\ud83c\udfe8\ud83d\udc92\ud83c\udf87\ud83c\udf07\ud83c\udf87\ud83c\udf87\ud83c\udf87\ud83c\udf87\ud83c\udf87\ud83d\udea5\ud83d\udea5\ud83d\udea5\ud83d\udea5\ud83d\udea5\ud83d\udea5\ud83d\ude89\ud83d\ude80\ud83d\ude91\ud83d\ude91\ud83d\udea5\ud83d\ude91\ud83d\udea5\ud83c\udd94\ud83c\ude38\u264d\ud83c\ude35\ud83c\ude35"
+    },
+    {
+        "id": "a0d46f83-dd68-4e5e-aca2-8df2bd079b61",
+        "date": "2024-05-10",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super app"
+    },
+    {
+        "id": "a0643e6a-0646-47ad-8868-2d25608b81a8",
+        "date": "2024-05-10",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Compare to other apps very costly namma yatri charging high price"
+    },
+    {
+        "id": "9fb366a9-0671-4358-a767-251ab6a0894d",
+        "date": "2024-05-10",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "9335f4bb-d30e-4c4e-b346-0e41e30ff9b0",
+        "date": "2024-05-10",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Drop location is different in driver and in users app Drivers stopping the auto midway and are demanding more money than shown on the app"
+    },
+    {
+        "id": "90e49468-b67b-4c6f-81a5-2d0284823599",
+        "date": "2024-05-10",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "7ef43fbc-1cdb-4c38-a0c9-730b0fc512a1",
+        "date": "2024-05-10",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Very convenient App & good driving."
+    },
+    {
+        "id": "7c825834-d285-42e4-843b-f0e453c2d365",
+        "date": "2024-05-10",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Before prices are reasonable now it's too high compare to this Ola uber is less price"
+    },
+    {
+        "id": "6d31a993-8a0b-4629-b87b-c98a2d55e749",
+        "date": "2024-05-10",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "driver cell not screen"
+    },
+    {
+        "id": "5c7907f6-bfd6-462a-8b64-0813827023b6",
+        "date": "2024-05-10",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "fast and serves"
+    },
+    {
+        "id": "4ed2184c-e834-4785-b45c-7aeaa3421637",
+        "date": "2024-05-10",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super"
+    },
+    {
+        "id": "4e5ddb8c-3c7d-472f-9b2a-b21913f4c223",
+        "date": "2024-05-10",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good and fast service"
+    },
+    {
+        "id": "4de44c46-027a-44b2-aa0f-303fc596b0c1",
+        "date": "2024-05-10",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super"
+    },
+    {
+        "id": "4d1c8c74-9c3c-42a8-bda9-09c9a0084f0f",
+        "date": "2024-05-10",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good app"
+    },
+    {
+        "id": "4c3c238d-5718-41b3-8f0b-3c924611d2f2",
+        "date": "2024-05-10",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Better than OLA & UBER."
+    },
+    {
+        "id": "47c49e2c-fe2b-4025-b7c4-ea9a4e5040cb",
+        "date": "2024-05-10",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "No difference in fare compare to other app. Rapid and here showing same fare"
+    },
+    {
+        "id": "37b78354-b444-4091-ba0c-7acfdf5a1ad1",
+        "date": "2024-05-10",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Very much disappointed namma yatri was better then other services but to be very honest it has become very worst worst service it is taking long time to book ride and fairs are very high Not worth for even single start"
+    },
+    {
+        "id": "1f29f643-94ff-48a4-8be1-2ada6ebeed83",
+        "date": "2024-05-10",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Showing one rate after booking showing thirty rupees extra why so i wait till I can get no extra cost if I cancel for higher fare 3 times my app will not allow to book again.if short journey I can pay more but my journey more than 25 km so why should I pay extra money"
+    },
+    {
+        "id": "199d25fd-24d2-45fc-a3ac-3ac0c4159c04",
+        "date": "2024-05-10",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "fantastic app"
+    },
+    {
+        "id": "194802f1-ca42-4b50-90ce-287ac459558a",
+        "date": "2024-05-10",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Hasan Pss"
+    },
+    {
+        "id": "05aec363-6749-4933-b01a-573cbbce2add",
+        "date": "2024-05-10",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "wonderful service"
+    },
+    {
+        "id": "00575f0c-7592-421b-a9c2-3dd4bb387ab5",
+        "date": "2024-05-10",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "\ud83d\udc4c\ud83c\udffc"
+    },
+    {
         "id": "f9389572-94a8-4e6c-beb2-6576d8871345",
         "date": "2024-05-09",
         "score": 5,
