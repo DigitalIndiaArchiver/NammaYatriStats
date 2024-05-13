@@ -1,5 +1,181 @@
 [
     {
+        "id": "effa746d-a728-4b3e-972f-0cb6fa4be733",
+        "date": "2024-05-12",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "Useful"
+    },
+    {
+        "id": "de21ac3e-6a20-41dd-bfe4-a4eaf2cdb4a5",
+        "date": "2024-05-12",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good work"
+    },
+    {
+        "id": "d4a81ff8-2371-4371-956a-a07074617619",
+        "date": "2024-05-12",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Horrible customer care and drivers. Does not go despite accepting the booking. Also no bengali customer care despite operating in West Bengal."
+    },
+    {
+        "id": "7875b932-3788-4f54-be64-c5f876e3a258",
+        "date": "2024-05-12",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "Good experience."
+    },
+    {
+        "id": "52850d56-0fcd-4d67-873b-5e36ebd969ac",
+        "date": "2024-05-12",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very Good service"
+    },
+    {
+        "id": "505fe617-68ef-4e33-879d-9ea44b23a227",
+        "date": "2024-05-12",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Doesn't work when it is necessary"
+    },
+    {
+        "id": "49b2d4d3-91dd-4774-9c1c-36dc24ed91e4",
+        "date": "2024-05-12",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "best"
+    },
+    {
+        "id": "47c59fb6-7cd5-4ca4-b661-d7e261d9eb2f",
+        "date": "2024-05-12",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "fair is too high"
+    },
+    {
+        "id": "431aa2c4-c718-4da5-a957-f5f56cd84150",
+        "date": "2024-05-12",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "aloka abasan"
+    },
+    {
+        "id": "30c3c3ef-97e5-4f04-8e8a-4c3355a2c96a",
+        "date": "2024-05-12",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "not convenience like other partner"
+    },
+    {
+        "id": "1d70442f-f0b0-4a2e-b186-af40472b85de",
+        "date": "2024-05-12",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good"
+    },
+    {
+        "id": "adabefd0-b1a0-4ef3-95dc-818ad3b0840c",
+        "date": "2024-05-11",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Prices are going high than before"
+    },
+    {
+        "id": "a6008035-4338-4dce-b179-bc702b6a0593",
+        "date": "2024-05-11",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "ok thank you"
+    },
+    {
+        "id": "a318ed36-673c-4e52-a70a-b73d667ba494",
+        "date": "2024-05-11",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "ok"
+    },
+    {
+        "id": "9314a105-6af2-4727-932c-b34fd0f871d2",
+        "date": "2024-05-11",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice"
+    },
+    {
+        "id": "7c98d857-fde8-4641-9a19-e6c50fafcb08",
+        "date": "2024-05-11",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good service and well trained driver."
+    },
+    {
+        "id": "6a96aaa0-9349-4067-91c0-fd24280290f0",
+        "date": "2024-05-11",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "excellent"
+    },
+    {
+        "id": "5b26351f-5f58-4c13-965a-b5ae88e8470a",
+        "date": "2024-05-11",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very smooth process , I like it..."
+    },
+    {
+        "id": "55dc0a50-b728-4708-8eb6-d1122cb1ef90",
+        "date": "2024-05-11",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "love this app"
+    },
+    {
+        "id": "346f427e-db88-4549-8fda-dee0bf8a5a57",
+        "date": "2024-05-11",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "1st time I came Kolkata this yatri sathi very helpful for me it's nice \ud83d\ude42 app"
+    },
+    {
+        "id": "1492381f-4e14-42d1-aee6-fd6c4c15c8bf",
+        "date": "2024-05-11",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Worst service no cabs available in Kolkata airport nor at Howrah everytime, ppl r standing in long queue since 1 hour & I was one of the vicitim. This is complete harassment of ppl coming to Kolkata. Pls WB govt take some appropriate measure to increase yellow cab services"
+    },
+    {
+        "id": "104207ea-67dd-4314-b8c0-11751768d5fe",
+        "date": "2024-05-11",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good experience"
+    },
+    {
         "id": "d4f331cc-3fdc-478c-ab10-5d1fb240aee0",
         "date": "2024-05-10",
         "score": 5,
