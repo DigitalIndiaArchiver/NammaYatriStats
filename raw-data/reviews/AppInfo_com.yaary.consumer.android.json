@@ -5,17 +5,17 @@
     "summary": "Auto, Cab &amp; Bike-Taxi Booking App - Travel with ease &amp; Affordable Fares",
     "installs": "100,000+",
     "minInstalls": 100000,
-    "maxInstalls": 305456,
-    "score": 4.227545,
+    "maxInstalls": 305648,
+    "score": 4.1801243,
     "scoreText": "4.2",
-    "ratings": 1618,
+    "ratings": 1624,
     "reviews": "http://gplayapi.cashlessconsumer.in/api/apps/com.yaary.consumer.android/reviews",
     "histogram": {
-        "1": 212,
-        "2": 37,
-        "3": 66,
-        "4": 144,
-        "5": 1152
+        "1": 231,
+        "2": 40,
+        "3": 70,
+        "4": 141,
+        "5": 1139
     },
     "price": 0,
     "free": true,
@@ -51,8 +51,8 @@
     "contentRating": "Rated for 3+",
     "adSupported": false,
     "released": "Dec 13, 2023",
-    "updated": 1712912119000,
-    "version": "1.2.0",
+    "updated": 1715797585000,
+    "version": "1.2.1",
     "recentChanges": "\u2022 Improvements to driver tracking - We have improved the driver tracking experience even further. Watch out for their fine moves.<br>\u2022 We heard you when you said you don&#39;t like your mobile number exposed while calling the drivers. We have rolled out an anonymous calling feature. <br>\u2022 We are rolling out a new mode of service. It&#39;s a secret until we enable it \ud83e\udd2b.Watch out. <br>\u2022 Bug fixes as usual.",
     "comments": [
         null

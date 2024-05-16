@@ -1,5 +1,117 @@
 [
     {
+        "id": "f664326d-fa48-4912-88ab-feafb7a85a5a",
+        "date": "2024-05-15",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Worst app.no support from customer support.no one will solve ur issue even after complaining so many times."
+    },
+    {
+        "id": "f48524e9-5c12-4e1a-bfd0-cdb837a591ba",
+        "date": "2024-05-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good and cheap"
+    },
+    {
+        "id": "d12c09c3-21d5-43f3-bfd9-c48e23bf2390",
+        "date": "2024-05-15",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "Cab presence was minimal before; howver pending elections; cabs are more available. However app should be dispalying vehicle brand+model both for easy identification as well as choice. Given all local \"taxis\" are on this app, AC taxis often have non functional ACs. Even after paying AC cab fares the ride quality is hot & sweaty."
+    },
+    {
+        "id": "9f0dcbfc-541c-47d8-b63a-05463ed0c470",
+        "date": "2024-05-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "awesome yatri sathi"
+    },
+    {
+        "id": "8151e268-87b5-4e08-bea1-724fef07b37e",
+        "date": "2024-05-15",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "The never take the amount shown in app rather increase according to their needs. They have a long waiting que even after online booking. I was there for 2 hrs nad still the que didn't end."
+    },
+    {
+        "id": "79fd446d-227c-4926-989e-73951d42706a",
+        "date": "2024-05-15",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "723ae744-e180-4629-a207-f2d4adbbe581",
+        "date": "2024-05-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good ride"
+    },
+    {
+        "id": "71155dc9-d1b3-460d-9034-6b8ab0159648",
+        "date": "2024-05-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good Service"
+    },
+    {
+        "id": "66208060-359a-4db0-9db3-566f2cfa9770",
+        "date": "2024-05-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Driver behavior was too good. He charged as per shortest rout."
+    },
+    {
+        "id": "6572004d-5cd0-4d8c-8e6a-09ca22f5ef4a",
+        "date": "2024-05-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "wow"
+    },
+    {
+        "id": "5f4f146d-9470-45a1-9eb7-6563f7c610d1",
+        "date": "2024-05-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "thank you"
+    },
+    {
+        "id": "4bf12e34-73fe-404f-8f29-0013da597bc0",
+        "date": "2024-05-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good"
+    },
+    {
+        "id": "49632d79-6c0e-4a3b-897f-4cebd96ba046",
+        "date": "2024-05-15",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "495745bc-cbcc-4717-9674-3d1b935cc7a2",
+        "date": "2024-05-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good"
+    },
+    {
         "id": "f3455861-9885-4b82-bec1-20ee19494cec",
         "date": "2024-05-14",
         "score": 5,
@@ -70,6 +182,14 @@
         "scoreText": "4",
         "title": null,
         "text": "good"
+    },
+    {
+        "id": "434423e4-5cbd-4d5a-9a07-be063cdb914d",
+        "date": "2024-05-14",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "many things need to implement as drop point edit option is not there."
     },
     {
         "id": "1c38d90a-dfbe-435a-b70a-0f263a0e53c0",
