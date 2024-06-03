@@ -1,5 +1,637 @@
 [
     {
+        "id": "e49a3aa4-c70d-409e-b2da-50bed4d33a39",
+        "date": "2024-06-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super"
+    },
+    {
+        "id": "dfdcf61d-9852-4210-961e-9df68ac91888",
+        "date": "2024-06-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "b795c652-8506-4a02-8ae2-335497f29b00",
+        "date": "2024-06-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good afternoon"
+    },
+    {
+        "id": "b30db14c-9da9-4a5c-a508-5846e461d191",
+        "date": "2024-06-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "783f6fa9-3af0-436a-beac-9c51d4fa82c4",
+        "date": "2024-06-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good apps"
+    },
+    {
+        "id": "6f685102-8ebb-4502-8129-610776ee6528",
+        "date": "2024-06-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "okkkkkkkk"
+    },
+    {
+        "id": "6cedbc46-8679-457d-a0db-f74a67005685",
+        "date": "2024-06-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good"
+    },
+    {
+        "id": "5d65e809-a2fd-4f05-8e90-adae0709a101",
+        "date": "2024-06-02",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "\u0b87\u0bb5\u0ba9\u0bc8 \u0baa\u0bcb\u0ba9\u0bcd\u0bb1 fruad \u0b8e\u0b99\u0bcd\u0b95\u0baf\u0bc1\u0bae\u0bcd \u0baa\u0bbe\u0b95\u0bcd\u0b95 \u0bae\u0bc1\u0b9f\u0bbf\u0baf\u0bbe\u0baf\u0ba4\u0bc1,\u0b9f\u0bc2\u0b9f\u0bcd\u0b9f\u0bbf \u0b87\u0bb2\u0bcd\u0bb2\u0bbe\u0bae \u0b9a\u0bbe\u0bb5\u0b9f\u0bbf\u0baa\u0bcd\u0baa\u0bbe\u0ba9\u0bcd"
+    },
+    {
+        "id": "5a81e62d-452f-4494-ba34-87309de4ae1b",
+        "date": "2024-06-02",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "iam not setting any booking this is the vast aap"
+    },
+    {
+        "id": "4530904e-15b9-49e6-bfd1-a2ea96528b65",
+        "date": "2024-06-02",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "2f41b2c9-0ddb-406f-8a6b-27a810417e81",
+        "date": "2024-06-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "OK"
+    },
+    {
+        "id": "2bea7a88-dfe0-4b21-a465-922e6cfabd45",
+        "date": "2024-06-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice"
+    },
+    {
+        "id": "255c1720-becb-4182-a1b9-cd75122dd456",
+        "date": "2024-06-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good \ud83d\udc4d"
+    },
+    {
+        "id": "0158953f-fda1-4e2b-84a5-6d56e8b3c3a0",
+        "date": "2024-06-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super"
+    },
+    {
+        "id": "edac7b37-858f-4ce7-bf34-4d855b616952",
+        "date": "2024-06-01",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Driver Partner App: Dear Team, please disable app auto start service. This is annoying a lot, because it turns on the app on its own and ride flashes on the screen."
+    },
+    {
+        "id": "c55eb812-ef58-44f1-8638-2b364c82ef09",
+        "date": "2024-06-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "b84c943e-ea6e-4022-8072-c6ee416005dc",
+        "date": "2024-06-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "b1ae8bde-cfe1-4a12-93d4-8abfc70b6a37",
+        "date": "2024-06-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "love it"
+    },
+    {
+        "id": "7cd19c36-e056-463c-bf4d-66f59ae2b64b",
+        "date": "2024-06-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "google"
+    },
+    {
+        "id": "78a8c690-1ef7-4e2c-aed4-1993431f3c9b",
+        "date": "2024-06-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice \ud83d\udc4d\ud83d\udc4d"
+    },
+    {
+        "id": "73b1e1e3-ec13-4f9f-a3ef-cebe864a4bb0",
+        "date": "2024-06-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice"
+    },
+    {
+        "id": "698a2618-3e61-4b61-9208-a10d665a4f20",
+        "date": "2024-06-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "ok"
+    },
+    {
+        "id": "47b61573-4964-44ec-a84d-56aa8e4a81c8",
+        "date": "2024-06-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good"
+    },
+    {
+        "id": "415f5073-1c6f-431f-b01d-824da8277033",
+        "date": "2024-06-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good \ud83d\udc4d"
+    },
+    {
+        "id": "40883d48-a967-4810-861b-332e5fc41ac4",
+        "date": "2024-06-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "011fb38d-fe0c-49ec-a3c3-9b5ce4e6dc96",
+        "date": "2024-06-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good appa"
+    },
+    {
+        "id": "d7eb78cb-64a2-4c1e-99a2-a65643b5cd50",
+        "date": "2024-05-31",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Aaj Tak ek Ride nhi mili hui Salo kuchh kero Apna Kam Badhao taki Ride Mile 3 Manth hogya Activet kiye hue"
+    },
+    {
+        "id": "59955412-297e-4d6c-b4f3-7f746e2a9e85",
+        "date": "2024-05-31",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "A..Z"
+    },
+    {
+        "id": "2706485c-c2c8-4e31-a420-6668384586c1",
+        "date": "2024-05-31",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "1872fd81-2b33-4380-9a74-b743def0a06b",
+        "date": "2024-05-31",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "Nice app"
+    },
+    {
+        "id": "16ef2191-e491-45c6-9121-2e7190426e76",
+        "date": "2024-05-31",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good appa"
+    },
+    {
+        "id": "02e98831-6c21-40ac-9641-b9f9558bf48e",
+        "date": "2024-05-31",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good"
+    },
+    {
+        "id": "ffbca445-86d7-4e44-a086-4984e1b60fe1",
+        "date": "2024-05-30",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "thank you"
+    },
+    {
+        "id": "e00d5070-642b-4ceb-bd5e-67a22ee950eb",
+        "date": "2024-05-30",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "\ud83d\udc4dgood"
+    },
+    {
+        "id": "dfc926f9-e360-45bc-94cd-e27b520e1303",
+        "date": "2024-05-30",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "ok"
+    },
+    {
+        "id": "c700733c-e384-4bff-bd4c-25c6ad67c6a3",
+        "date": "2024-05-30",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "\u0baa\u0bc1\u0b95\u0bcd\u0b95\u0bbf\u0b99\u0bcd \u0bb5\u0bbf\u0bb4\u0bc1\u0b95\u0bbe\u0ba4\u0bc1..."
+    },
+    {
+        "id": "b2ec9d46-16b7-4d10-b9d9-495d745ee9d2",
+        "date": "2024-05-30",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "This wap is a bad that is not good this web"
+    },
+    {
+        "id": "8dfe7192-d250-4a09-8ac7-1bd689d36bee",
+        "date": "2024-05-30",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "83a69f99-7a2f-45bc-8fae-7870e4dbd38a",
+        "date": "2024-05-30",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good App Auto driver very lucky this App No comission for this App Namma yatri partner good"
+    },
+    {
+        "id": "824c431c-8d66-4b1a-81bd-fc6f859425a9",
+        "date": "2024-05-30",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "55e1ab72-49e4-4419-8f43-7cb9ce94aaab",
+        "date": "2024-05-30",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super"
+    },
+    {
+        "id": "46ca56e5-b0c5-4ffa-864f-7243c4c10472",
+        "date": "2024-05-30",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "booking is a very slow is coming please help me"
+    },
+    {
+        "id": "35474dd5-6ce9-49bc-a818-43025ccb2ebe",
+        "date": "2024-05-30",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good aap"
+    },
+    {
+        "id": "24a34a5d-f800-4c4e-827a-33d16c2739a1",
+        "date": "2024-05-30",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "019602e5-49d9-4b2b-98bd-3f3e8a530126",
+        "date": "2024-05-30",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "soo pretty"
+    },
+    {
+        "id": "fec53599-9332-4d9e-92e9-66b131fc9700",
+        "date": "2024-05-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice"
+    },
+    {
+        "id": "e6ae672c-5f4a-4242-8c58-e1b499108b91",
+        "date": "2024-05-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "e67ce916-d375-403f-a92a-3be4a596a992",
+        "date": "2024-05-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good"
+    },
+    {
+        "id": "e3d1cd27-58b6-4f55-9618-570c95f55de3",
+        "date": "2024-05-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very useful app thank you for Namma Yatri partner"
+    },
+    {
+        "id": "d9a73597-6faf-44eb-8880-5e5dad046535",
+        "date": "2024-05-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Supar"
+    },
+    {
+        "id": "d1b7c4d9-fee4-4d4d-8645-ad47221a326e",
+        "date": "2024-05-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Bashjrahmed"
+    },
+    {
+        "id": "ca822eac-102d-42cb-824a-9407872c270a",
+        "date": "2024-05-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "JANANDAR N"
+    },
+    {
+        "id": "c6587416-1954-4b67-9302-9fa7ae502023",
+        "date": "2024-05-29",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "\u0c87\u0ca1\u0cc0 \u0ca6\u0cbf\u0ca8 \u0c86\u0ca8\u0ccd \u0cae\u0cbe\u0ca1\u0cbf\u0ca6\u0cb0\u0cc6 1 \u0c85\u0ca5\u0cb5\u0cbe 2 \u0cac\u0cbe\u0ca1\u0cbf\u0c97\u0cc6 \u0cac\u0cb0\u0cc1\u0ca4\u0ccd\u0ca4\u0cc6.....\ud83d\ude21\ud83d\ude20"
+    },
+    {
+        "id": "b0ebb28c-d141-41a1-93b0-b7fcf60f9e55",
+        "date": "2024-05-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "a5069d89-678f-414e-8604-c0583daecfec",
+        "date": "2024-05-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "968718e7-451e-426b-a2ba-fa8c9394d7e6",
+        "date": "2024-05-29",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "very good"
+    },
+    {
+        "id": "92df8823-5f9a-473c-9e38-3c3279b8e818",
+        "date": "2024-05-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "best app"
+    },
+    {
+        "id": "7397cd41-0cae-4e12-9dd5-60f965982336",
+        "date": "2024-05-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "One of the best cab drivers earning app, thanks for Namma Yathri"
+    },
+    {
+        "id": "6d78fdde-4626-4bee-b95a-06b428a58991",
+        "date": "2024-05-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "\u0c97\u0cc1\u0ca1\u0ccd \u0c86\u0ccd\u0caf\u0caa\u0ccd \u0cab\u0cc1\u0ca1\u0ccd \u0cb8\u0cb0\u0ccd\u0cb5\u0cbf\u0cb8\u0ccd"
+    },
+    {
+        "id": "6679ac5e-344b-482e-b2a6-62261f07de9b",
+        "date": "2024-05-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super \ud83d\udc4c"
+    },
+    {
+        "id": "59126955-b2f3-416c-b12e-e2980f124873",
+        "date": "2024-05-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "This is nice app I love it"
+    },
+    {
+        "id": "522cb7ed-bb07-48af-804d-29f099f9702c",
+        "date": "2024-05-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "all the drivers pls support and utilize the best app ... start promotion"
+    },
+    {
+        "id": "48e1a728-dc0c-4674-8d33-cfc7e0c34416",
+        "date": "2024-05-29",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Why did the driver beat all the kilometers and did you think that the kilometer run was 6.3km but the 5km you gave was confirmed as a fraud with our Yatrino driver. Same issue last week cab run 44 km u updated 36km"
+    },
+    {
+        "id": "337669d4-d66a-43d9-a925-aaa41685fd1c",
+        "date": "2024-05-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super"
+    },
+    {
+        "id": "08f28d3a-6a4b-422c-8c01-445cf486571e",
+        "date": "2024-05-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "0682fc90-a338-4759-be37-5fe6c9657d96",
+        "date": "2024-05-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Dharma ha"
+    },
+    {
+        "id": "f2a03171-808c-4928-b4a1-faf0fb38aac2",
+        "date": "2024-05-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "feel good"
+    },
+    {
+        "id": "dad8927c-a2e1-4f0c-9085-403d134cff28",
+        "date": "2024-05-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super"
+    },
+    {
+        "id": "d20a35be-8a80-47c6-9c2f-e5154b5c87a0",
+        "date": "2024-05-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super \ud83d\udcaf"
+    },
+    {
+        "id": "d0ad368b-29ff-465f-b9e1-d066b0718e56",
+        "date": "2024-05-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice \ud83d\udc4d"
+    },
+    {
+        "id": "944128c7-1a8f-4b60-a8bf-18afc3b7b081",
+        "date": "2024-05-28",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "35 km. amount 560rs very low price"
+    },
+    {
+        "id": "90475ad5-9809-4ea5-8bde-75d080307d3b",
+        "date": "2024-05-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super"
+    },
+    {
+        "id": "6c941a46-f5c7-45e0-b662-52f82092509a",
+        "date": "2024-05-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good"
+    },
+    {
+        "id": "5d19230c-3f50-4867-88f4-c7cbecb23736",
+        "date": "2024-05-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "\ud83d\udc4c super"
+    },
+    {
+        "id": "5539e99c-6e88-4648-a8f9-6e7fedf08f99",
+        "date": "2024-05-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Super"
+    },
+    {
+        "id": "488045ce-4534-436f-bb0b-e3c97fa6f314",
+        "date": "2024-05-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "3880b25c-8b89-4192-a898-8044fbb99fbe",
+        "date": "2024-05-28",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "my first ride thank you namma yatri"
+    },
+    {
+        "id": "268c0e75-6940-4e79-858b-affc195df08c",
+        "date": "2024-05-28",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "No scooter and bike available for rent"
+    },
+    {
+        "id": "19bb325c-b1d1-4bd6-99a9-8e0b08bd2bec",
+        "date": "2024-05-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Super"
+    },
+    {
         "id": "ed473022-1741-44df-8d5e-24d962d6598f",
         "date": "2024-05-27",
         "score": 5,
