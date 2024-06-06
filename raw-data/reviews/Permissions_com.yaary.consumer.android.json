@@ -25,6 +25,10 @@
             "type": "Storage"
         },
         {
+            "permission": "take pictures and videos",
+            "type": "Camera"
+        },
+        {
             "permission": "view network connections",
             "type": "Other"
         },
