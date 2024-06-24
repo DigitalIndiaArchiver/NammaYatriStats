@@ -10,22 +10,16 @@
         ],
         "collectedData": [
             {
-                "data": "Name",
-                "optional": false,
-                "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Account management",
-                "type": "Personal info"
-            },
-            {
-                "data": "Email address",
-                "optional": false,
-                "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Account management",
-                "type": "Personal info"
-            },
-            {
-                "data": "Address",
+                "data": "Calendar events",
                 "optional": true,
-                "purpose": "App functionality",
-                "type": "Personal info"
+                "purpose": "App functionality, Personalization",
+                "type": "Calendar"
+            },
+            {
+                "data": "Contacts",
+                "optional": true,
+                "purpose": "App functionality, Fraud prevention, security, and compliance, Personalization",
+                "type": "Contacts"
             },
             {
                 "data": "Emails",
@@ -46,22 +40,28 @@
                 "type": "Device or other IDs"
             },
             {
-                "data": "Calendar events",
-                "optional": true,
-                "purpose": "App functionality, Personalization",
-                "type": "Calendar"
-            },
-            {
-                "data": "Contacts",
-                "optional": true,
-                "purpose": "App functionality, Fraud prevention, security, and compliance, Personalization",
-                "type": "Contacts"
-            },
-            {
                 "data": "Files and docs",
                 "optional": true,
                 "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance, Personalization, Account management",
                 "type": "Files and docs"
+            },
+            {
+                "data": "Name",
+                "optional": false,
+                "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Account management",
+                "type": "Personal info"
+            },
+            {
+                "data": "Email address",
+                "optional": false,
+                "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Account management",
+                "type": "Personal info"
+            },
+            {
+                "data": "Address",
+                "optional": true,
+                "purpose": "App functionality",
+                "type": "Personal info"
             }
         ],
         "securityPractices": [

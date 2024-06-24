@@ -1,5 +1,157 @@
 [
     {
+        "id": "fd03ecc9-1f65-444c-969c-0fddca8281b9",
+        "date": "2024-06-23",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Great initiative."
+    },
+    {
+        "id": "f31cc600-88a6-4507-bf86-3c657b389cc3",
+        "date": "2024-06-23",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good \ud83d\udc4d"
+    },
+    {
+        "id": "d0ee2f5b-23da-40e0-9f58-e91bc64c6553",
+        "date": "2024-06-23",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Easy to use and quite reliable"
+    },
+    {
+        "id": "cb86286d-b9c8-4482-828c-2c77186199e3",
+        "date": "2024-06-23",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Excellent"
+    },
+    {
+        "id": "c4169f82-c516-49b3-8947-4b4d4c32ada7",
+        "date": "2024-06-23",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "excellent"
+    },
+    {
+        "id": "b4ed5295-507f-4eab-b464-550057c503c6",
+        "date": "2024-06-23",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Drivers are cancelling every ride and then y this app.I found a ride my myself faster than this app"
+    },
+    {
+        "id": "a716fc57-1e96-461e-9058-46d359726e8c",
+        "date": "2024-06-23",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "good \ud83d\udc4d\ud83c\udffb"
+    },
+    {
+        "id": "9d997e4e-8615-4caa-9a73-65ef8c78a9b2",
+        "date": "2024-06-23",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good."
+    },
+    {
+        "id": "8e5fc5d2-2e9d-4589-adcb-c713dfc7e708",
+        "date": "2024-06-23",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "Very slow"
+    },
+    {
+        "id": "5c5e5860-8a91-4133-a0f7-ac8e869b5273",
+        "date": "2024-06-23",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "5a697134-d6bd-4c42-a093-90493b81849f",
+        "date": "2024-06-23",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Super \ud83d\udc4c \ud83d\udc4d \ud83d\ude0d"
+    },
+    {
+        "id": "5696c101-0275-4eb0-a35d-221b0dd7da43",
+        "date": "2024-06-23",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "changing the ratings for this apps, people in this apps are not good, they don't provide proper support, if you get into some issue related to the ride or the rider, absolutely garbage kinda app"
+    },
+    {
+        "id": "374a1c28-74b1-4df1-a7f5-24257812c0a2",
+        "date": "2024-06-23",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Very good"
+    },
+    {
+        "id": "3198da83-e0c5-446b-acdd-20f90bac07c7",
+        "date": "2024-06-23",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Wonderful app. I hope the drivers get the full due price without commission."
+    },
+    {
+        "id": "2bea9421-9942-4183-8c47-d00d53535aac",
+        "date": "2024-06-23",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Bike taxi illaya"
+    },
+    {
+        "id": "296380cf-8fed-4432-802b-baf14eed122c",
+        "date": "2024-06-23",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "ok"
+    },
+    {
+        "id": "26b2787e-bdee-4ed5-b508-18327dfd2d80",
+        "date": "2024-06-23",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Still the drivers are same. Extra money charged. Customer care are not bothered to resolve the issue but closed the ticket."
+    },
+    {
+        "id": "08260308-ff2b-4ea1-aa19-e4b5c7ecdd72",
+        "date": "2024-06-23",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "compare to all competitors, this is best"
+    },
+    {
+        "id": "01b972af-cd3d-4050-bab0-51a08d782d80",
+        "date": "2024-06-23",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "Online version of typical Bangalore autos..."
+    },
+    {
         "id": "f91ac6f5-976f-4999-a152-f3049a21e4e6",
         "date": "2024-06-22",
         "score": 2,
@@ -38,6 +190,14 @@
         "scoreText": "5",
         "title": null,
         "text": "It is very help full in emergency"
+    },
+    {
+        "id": "e4ac0f47-cd10-4044-9080-480cfd06c28d",
+        "date": "2024-06-22",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "ok"
     },
     {
         "id": "e1c45290-7e2a-4a6d-84ec-9abbc4bad157",
@@ -150,6 +310,14 @@
         "scoreText": "3",
         "title": null,
         "text": "No option to edit drop point after ride is started."
+    },
+    {
+        "id": "59e305d1-d7df-4aa9-bd15-f31d67a92bff",
+        "date": "2024-06-22",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good app nam kannada application app keep growing \ud83d\udc97"
     },
     {
         "id": "4c8dd574-72d0-4022-967d-d83fb585c90f",
