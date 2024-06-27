@@ -1,11 +1,131 @@
 [
     {
+        "id": "e55a2cb5-6deb-4ba2-bce3-de53968c7f44",
+        "date": "2024-06-26",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good service"
+    },
+    {
+        "id": "b7726926-8b98-4ab4-8f1a-51830ef6ec2d",
+        "date": "2024-06-26",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "great"
+    },
+    {
+        "id": "9c5a470e-4278-45f1-bc00-f1aafb5a9063",
+        "date": "2024-06-26",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "991b91b0-db60-49c4-a647-5fbf297c52c7",
+        "date": "2024-06-26",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "common man's auto"
+    },
+    {
+        "id": "76b7fadb-1ba7-4487-a812-0aad416b8f3d",
+        "date": "2024-06-26",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "65f8bbde-26fb-4725-acd7-2e4caa04b6ef",
+        "date": "2024-06-26",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super"
+    },
+    {
+        "id": "54f6ae72-0fc0-4427-bb31-4cd5dd2a5b73",
+        "date": "2024-06-26",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Earlier auto fares better Now auto fares are more than ola and uber"
+    },
+    {
+        "id": "4a93c207-ef40-496e-b186-1243ffa6bd8c",
+        "date": "2024-06-26",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Very bad application its working very poor"
+    },
+    {
+        "id": "44e48d2f-401f-4591-acb6-a7dbc02b7a88",
+        "date": "2024-06-26",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Rates are quite reasonable and reliable Autos"
+    },
+    {
+        "id": "407fd196-225e-43ae-96a0-2c526aa12d8c",
+        "date": "2024-06-26",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "3cedd5d9-c1c8-4863-94b8-e94841f878a1",
+        "date": "2024-06-26",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Until now Excellent \ud83d\udc4c"
+    },
+    {
+        "id": "3480275f-3296-4948-b8d2-94bc8d5d5e7d",
+        "date": "2024-06-26",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "The app always keeps loading when you want to book. Even the uninstall and install doesn't work. Am I the only person who is experiencing the pathetic app?? Can't believe it . Please do fix the issue asap. Funny thing is it will not let you login again after reinstall"
+    },
+    {
+        "id": "2e1d87f6-1965-49b4-8abd-2253ecb0ca2a",
+        "date": "2024-06-26",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good but further improvements required"
+    },
+    {
+        "id": "21da74b7-68f5-47f7-997a-d02976f33419",
+        "date": "2024-06-26",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "takes long time to booking"
+    },
+    {
         "id": "f4feb1da-d934-42a7-b1b3-b66eb58f3ad6",
         "date": "2024-06-25",
         "score": 5,
         "scoreText": "5",
         "title": null,
         "text": "super"
+    },
+    {
+        "id": "ed598a82-b1dd-402e-b615-88072b0a0906",
+        "date": "2024-06-25",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Their charges are higher than uber, ola and rapido.... while you book it's a nominal rate in the same map as you travel daily..but wen u end the ride it's a different rate.... not to mention the drivers always on phone calls and the ride would be like longer than anticipated..."
     },
     {
         "id": "e9c90f13-24d8-4064-8b76-3e5e0755aad8",
