@@ -10,6 +10,12 @@
         ],
         "collectedData": [
             {
+                "data": "Contacts",
+                "optional": true,
+                "purpose": "App functionality, Personalization, Account management",
+                "type": "Contacts"
+            },
+            {
                 "data": "Device or other IDs",
                 "optional": false,
                 "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing, Account management",
@@ -38,12 +44,6 @@
                 "optional": true,
                 "purpose": "App functionality, Analytics",
                 "type": "App info and performance"
-            },
-            {
-                "data": "Contacts",
-                "optional": true,
-                "purpose": "App functionality, Personalization, Account management",
-                "type": "Contacts"
             }
         ],
         "securityPractices": [
