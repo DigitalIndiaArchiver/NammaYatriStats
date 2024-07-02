@@ -5,17 +5,17 @@
     "summary": "Zero Commission Rides - Low Cancellations, Fast Pickups &amp; Affordable Fares.",
     "installs": "500,000+",
     "minInstalls": 500000,
-    "maxInstalls": 530377,
-    "score": 4.722376,
+    "maxInstalls": 531967,
+    "score": 4.719178,
     "scoreText": "4.7",
-    "ratings": 7264,
+    "ratings": 7283,
     "reviews": "http://gplayapi.cashlessconsumer.in/api/apps/net.openkochi.yatri/reviews",
     "histogram": {
-        "1": 270,
+        "1": 278,
         "2": 29,
-        "3": 140,
-        "4": 560,
-        "5": 6260
+        "3": 139,
+        "4": 558,
+        "5": 6274
     },
     "price": 0,
     "free": true,
@@ -69,7 +69,7 @@
     "contentRating": "Rated for 3+",
     "adSupported": false,
     "released": "Jun 21, 2021",
-    "updated": 1716966951000,
+    "updated": 1719312664000,
     "version": "2.2.4",
     "recentChanges": "Yatri is now in new colors to make your commute seamlessly. And as usual, bugs have been shown the door.<br>Added new features as well",
     "comments": [

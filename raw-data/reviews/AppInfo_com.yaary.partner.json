@@ -5,17 +5,17 @@
     "summary": "Yaary - zero commission app for drivers",
     "installs": "100,000+",
     "minInstalls": 100000,
-    "maxInstalls": 100130,
-    "score": 4.9006467,
+    "maxInstalls": 100266,
+    "score": 4.9012275,
     "scoreText": "4.9",
-    "ratings": 16786,
+    "ratings": 16795,
     "reviews": "http://gplayapi.cashlessconsumer.in/api/apps/com.yaary.partner/reviews",
     "histogram": {
-        "1": 324,
-        "2": 58,
-        "3": 58,
-        "4": 68,
-        "5": 16272
+        "1": 323,
+        "2": 57,
+        "3": 57,
+        "4": 67,
+        "5": 16284
     },
     "price": 0,
     "free": true,
@@ -50,9 +50,9 @@
     "contentRating": "Rated for 3+",
     "adSupported": false,
     "released": "Sep 29, 2023",
-    "updated": 1712155814000,
-    "version": "2.2.3",
-    "recentChanges": "Yes, we listened and truly sorry for the &#39;Happy Dent&#39; advertisement we did on your  phone displays. The brightness control is now fixed for good.<br>You might also notice the revamp of our ride acceptance screen. Lot of your feedback has been addressed apart from few bug fixes and performance improvements.",
+    "updated": 1719598872000,
+    "version": "2.2.4",
+    "recentChanges": "Bug fixes and improvements",
     "comments": [
         null
     ],
