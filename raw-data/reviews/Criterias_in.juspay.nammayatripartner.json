@@ -1,9 +1,9 @@
 {
+    "vaf_never_display_ease_of_use": 50,
+    "vaf_never_display_ads_experience": 46,
     "vaf_apps_attribute_delivery_v1": 2,
     "vaf_apps_category_food_and_drink_v1": 1,
     "vaf_apps_category_food_and_drink_v2": 2,
-    "vaf_never_display_ease_of_use": 49,
-    "vaf_never_display_ads_experience": 45,
     "vaf_never_display_difficult_to_use": 4,
     "vaf_never_display_spend_more_time": 5,
     "vaf_never_display_make_you_happy": 2,
