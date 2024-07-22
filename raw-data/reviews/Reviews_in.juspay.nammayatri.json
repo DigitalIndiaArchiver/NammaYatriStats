@@ -1,5 +1,125 @@
 [
     {
+        "id": "f0269757-ee7f-42a4-b549-34cd2083264e",
+        "date": "2024-07-21",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "The navigation needs to be improved. The location tracking had a lot of delay."
+    },
+    {
+        "id": "e4436e0c-0f01-4044-9a15-535963a5f7ba",
+        "date": "2024-07-21",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "Fast appp"
+    },
+    {
+        "id": "ca6707bf-939d-4e89-9156-cb932f07a8a6",
+        "date": "2024-07-21",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good service"
+    },
+    {
+        "id": "b3c6c5a3-d864-46a0-b917-b4864b114d7f",
+        "date": "2024-07-21",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "costly"
+    },
+    {
+        "id": "a1bc86d8-b657-438c-9b77-963e6f1a04e8",
+        "date": "2024-07-21",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "These people are fraud. They accept the booking when they are nearby and then don't even respond. They try to reach the people directly and ask for a much higher price than it shows on the app. This app was for the betterment of the auto union, but I don't think these people even care for anyone. They just switch sides and loot the public at late hours. This app was useful only for the first two months. Now, they are just scamming people, asking for tips. Never recommending this app to anyone."
+    },
+    {
+        "id": "a192850c-2200-49b1-8094-89aeb0df0236",
+        "date": "2024-07-21",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "excellent"
+    },
+    {
+        "id": "9fc3bc1b-78aa-49de-82b0-c39e3f7f17a7",
+        "date": "2024-07-21",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very nice"
+    },
+    {
+        "id": "9ab76084-fc59-486e-89d2-f2b74578cbcf",
+        "date": "2024-07-21",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super service"
+    },
+    {
+        "id": "9326cb87-7b5d-42d7-aa82-d517788a438c",
+        "date": "2024-07-21",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super"
+    },
+    {
+        "id": "466feb95-ed70-4eb4-b33d-e4f017d70851",
+        "date": "2024-07-21",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "ok"
+    },
+    {
+        "id": "3e12d996-ad22-44df-8925-f28d3fa2d1a7",
+        "date": "2024-07-21",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Worst app. It charges you more than any app. This is definately not useful for us."
+    },
+    {
+        "id": "325e615b-5766-4118-98df-d53e3679bccc",
+        "date": "2024-07-21",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "easy to book"
+    },
+    {
+        "id": "1db9077c-d3a5-4baf-8600-a9ce1922912f",
+        "date": "2024-07-21",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "1785bbd2-dcc1-456e-b71d-920a7537cd43",
+        "date": "2024-07-21",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "had a good experience,pick up was fast"
+    },
+    {
+        "id": "0d9146a2-bfca-4400-9fde-a4ae3037a955",
+        "date": "2024-07-21",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "App is not good. Don't use it. It will show false rate. Rates are too high. If we go short cut rood and distance reduses also app will take high rate only. It's like looting. So am uninstalled the app. After reporting issue no one called from the app."
+    },
+    {
         "id": "ed5e8ccd-103f-4f2a-a2ee-2477bcf3d411",
         "date": "2024-07-20",
         "score": 5,
@@ -40,6 +160,14 @@
         "text": "nice"
     },
     {
+        "id": "b9318833-77a0-4d6c-80ba-524a50e00f43",
+        "date": "2024-07-20",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good"
+    },
+    {
         "id": "b8e30e9d-2b5a-444e-b85e-b3190bc447a3",
         "date": "2024-07-20",
         "score": 5,
@@ -78,6 +206,14 @@
         "scoreText": "5",
         "title": null,
         "text": "Best App, keep up the good work."
+    },
+    {
+        "id": "62429eec-7943-4628-ba21-bb9ec32d675c",
+        "date": "2024-07-20",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
     },
     {
         "id": "4577786a-4eee-4fa1-b1ac-f17d8b9f8d07",
