@@ -1,5 +1,165 @@
 [
     {
+        "id": "f9bd46cd-78a6-4c7d-99c2-4db156b647de",
+        "date": "2024-07-25",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "quality service"
+    },
+    {
+        "id": "f961b156-a5e2-4190-86de-f9def30e2672",
+        "date": "2024-07-25",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Nice service but cab condition is poor"
+    },
+    {
+        "id": "f2d45155-a272-41cd-ade2-54b1f85f2ca9",
+        "date": "2024-07-25",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "e0c790de-ccd6-4075-bcc8-d8efc0deaeaf",
+        "date": "2024-07-25",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good Experience"
+    },
+    {
+        "id": "db56c98b-4eeb-45c3-96b6-6419dfc2565e",
+        "date": "2024-07-25",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "excellent"
+    },
+    {
+        "id": "c4badeaf-678e-404a-a6ca-36699c63cb1e",
+        "date": "2024-07-25",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good service"
+    },
+    {
+        "id": "b05bd903-bb5a-4165-874b-9752e4aa1058",
+        "date": "2024-07-25",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "awesome, far better than uber and ola."
+    },
+    {
+        "id": "ac1dcb90-ca08-40de-b43d-8124db68b8a8",
+        "date": "2024-07-25",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice service"
+    },
+    {
+        "id": "a8c9d3ed-55fe-40ea-8fa6-dc1a615fde41",
+        "date": "2024-07-25",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Just \u09ac\u09c7\u0995\u09be\u09b0 ! I selected the right location, but the map provided by this app is totally wrong direction. The \"help line number\" or the customer service you guys are providing, is totally worthless. They didn't take any responsibility at all. Kindly look into this matter."
+    },
+    {
+        "id": "a7033fdb-a007-44ed-aa78-1ad7ea2d3120",
+        "date": "2024-07-25",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good service"
+    },
+    {
+        "id": "7b1cb7ce-85b7-4471-8943-4159e05d2974",
+        "date": "2024-07-25",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "73cd2035-af13-45dd-a88f-ad91352f887a",
+        "date": "2024-07-25",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good service."
+    },
+    {
+        "id": "6eeb6b73-d8bb-486d-ac2f-55f369da41ca",
+        "date": "2024-07-25",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "Sometime app is not open properly"
+    },
+    {
+        "id": "62663428-58b1-4a7c-ab1a-5af60ea8ede0",
+        "date": "2024-07-25",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Reasonable Rate & Mostly available nearby."
+    },
+    {
+        "id": "620a1cdf-8323-4453-9147-5c3d9268a3c7",
+        "date": "2024-07-25",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "This west bengal apps to good"
+    },
+    {
+        "id": "574eefca-c41b-4981-b1c3-db44c1aad6fe",
+        "date": "2024-07-25",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Worst experience"
+    },
+    {
+        "id": "50383540-8c13-42db-85b1-581b513e7fee",
+        "date": "2024-07-25",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "41fbab50-f950-49ec-9813-d4089ab4c98c",
+        "date": "2024-07-25",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "comfortable journey and driver was skilled and polite"
+    },
+    {
+        "id": "37a1451b-4271-43a0-8b0a-fdb2b73ed806",
+        "date": "2024-07-25",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "thank you yatri sathi"
+    },
+    {
+        "id": "32b9e7fe-89c1-4433-a064-860a82fae30e",
+        "date": "2024-07-25",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "this is a great app for a ride. In short it's value for money."
+    },
+    {
         "id": "f063b40c-86c5-4729-a0ec-f33f67729e23",
         "date": "2024-07-24",
         "score": 5,
@@ -38,6 +198,14 @@
         "scoreText": "4",
         "title": null,
         "text": "Good"
+    },
+    {
+        "id": "a38f8f81-31af-4173-8109-cb95048f4272",
+        "date": "2024-07-24",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "excellent"
     },
     {
         "id": "a35793f0-f706-49f7-813d-3e626fa6a200",
