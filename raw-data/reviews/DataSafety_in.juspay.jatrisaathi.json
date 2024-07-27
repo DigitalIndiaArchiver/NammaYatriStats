@@ -33,18 +33,6 @@
                 "type": "Personal info"
             },
             {
-                "data": "Approximate location",
-                "optional": true,
-                "purpose": "App functionality, Analytics",
-                "type": "Location"
-            },
-            {
-                "data": "Precise location",
-                "optional": true,
-                "purpose": "App functionality, Analytics",
-                "type": "Location"
-            },
-            {
                 "data": "Device or other IDs",
                 "optional": false,
                 "purpose": "App functionality, Analytics",
@@ -55,6 +43,18 @@
                 "optional": false,
                 "purpose": "App functionality, Analytics",
                 "type": "App activity"
+            },
+            {
+                "data": "Approximate location",
+                "optional": true,
+                "purpose": "App functionality, Analytics",
+                "type": "Location"
+            },
+            {
+                "data": "Precise location",
+                "optional": true,
+                "purpose": "App functionality, Analytics",
+                "type": "Location"
             }
         ],
         "securityPractices": [
