@@ -25,10 +25,6 @@
             "type": "Storage"
         },
         {
-            "permission": "take pictures and videos",
-            "type": "Camera"
-        },
-        {
             "permission": "view network connections",
             "type": "Other"
         },
@@ -38,10 +34,6 @@
         },
         {
             "permission": "full network access",
-            "type": "Other"
-        },
-        {
-            "permission": "run at startup",
             "type": "Other"
         },
         {
