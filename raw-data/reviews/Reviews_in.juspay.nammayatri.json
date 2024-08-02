@@ -1,5 +1,133 @@
 [
     {
+        "id": "c7bcf1b1-f963-4949-861b-c9ac6f969f1f",
+        "date": "2024-08-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "vvvv good"
+    },
+    {
+        "id": "9f301b97-1440-4a03-9087-96a0b3002d40",
+        "date": "2024-08-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Fastest delivery in Bangalore Area. awesome \ud83d\udc4d"
+    },
+    {
+        "id": "9e16aa1b-3d91-46e3-9a2a-8c3b42ceed35",
+        "date": "2024-08-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "service better than Ola as on 1st Aug, 2024"
+    },
+    {
+        "id": "7717eb1c-2db8-4668-a035-5d62988b79e3",
+        "date": "2024-08-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "absolutely amazing app"
+    },
+    {
+        "id": "72eaffd4-969f-4011-8358-fc12ec69dfd1",
+        "date": "2024-08-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "best app"
+    },
+    {
+        "id": "6029dd51-b095-4f57-a941-83ad2f9db579",
+        "date": "2024-08-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Well build app and easy to use."
+    },
+    {
+        "id": "55eaaf89-2c6a-45e3-bb71-ef14910b14c3",
+        "date": "2024-08-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Great Ride. Thank You So Much:)"
+    },
+    {
+        "id": "42486a20-a1eb-4023-a15b-d3e52716f6aa",
+        "date": "2024-08-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Amazing app just go for it."
+    },
+    {
+        "id": "3aa8578b-1324-4ed9-8f71-87c609b2a53a",
+        "date": "2024-08-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good for on time pickup."
+    },
+    {
+        "id": "3586fe84-f7b1-40ae-b60b-2ff25bfe3917",
+        "date": "2024-08-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "31d9020e-7563-4f87-accc-8fc9c41b8506",
+        "date": "2024-08-01",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Scammed by driver and helpline does nothing. I was charged extra toll fee which is supposed to be included in the fare. Complained on helpline, they say that they will ask driver to refund but they dont even check up if refund is done. Tried 2-3 times but driver ignored and helpline is useless."
+    },
+    {
+        "id": "23db5fb8-b120-4c37-b359-77b220014407",
+        "date": "2024-08-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good\ud83d\udc4d"
+    },
+    {
+        "id": "20a26131-078b-4a9e-9346-f2bb95578ca2",
+        "date": "2024-08-01",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Worst app ever.. raised enquiry in app that I faced during the ride. No response"
+    },
+    {
+        "id": "14f91c4e-1938-4dfe-8f73-52ed28534afe",
+        "date": "2024-08-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good induan app"
+    },
+    {
+        "id": "10cfd032-b153-4543-bed3-6223b17f26d9",
+        "date": "2024-08-01",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "018578b8-d629-477c-ba44-217e50eb6811",
+        "date": "2024-08-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "No hassles. unlike ola and Uber where the driver asks us extra and cancel it. Here the rides are very easy and quick to get"
+    },
+    {
         "id": "e779b9fe-6431-4d28-ac97-57f9e647aaf2",
         "date": "2024-07-31",
         "score": 1,
@@ -30,6 +158,14 @@
         "scoreText": "5",
         "title": null,
         "text": "good"
+    },
+    {
+        "id": "bea3a0c9-b2a1-4933-b6a2-43793eb3048f",
+        "date": "2024-07-31",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good Initiative from ONDC from payment perspective also pretty smoother transactions till date."
     },
     {
         "id": "abec65fd-93f9-4cfc-bb7c-5d82b56a32cc",
