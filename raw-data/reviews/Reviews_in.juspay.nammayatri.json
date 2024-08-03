@@ -1,5 +1,149 @@
 [
     {
+        "id": "fefd00bd-d694-4e65-81b7-60c07a9a59ca",
+        "date": "2024-08-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "fde0fb41-eb03-47c6-a4e1-d6c4418f9690",
+        "date": "2024-08-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice"
+    },
+    {
+        "id": "f46b1b67-268b-4404-8d34-975c74f32418",
+        "date": "2024-08-02",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "c7b0ce7e-fc92-4768-904a-80ae9532ba12",
+        "date": "2024-08-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good experience. Good ride for the day"
+    },
+    {
+        "id": "b42fde5c-4d7d-44af-83f9-2db598007d5f",
+        "date": "2024-08-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Not opening \ud83d\ude14"
+    },
+    {
+        "id": "a84c13ee-f6ee-4065-8406-2529ffb239d1",
+        "date": "2024-08-02",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "driver demanded extra. no action from company."
+    },
+    {
+        "id": "a5c1a56b-d2c4-4e95-856f-68d23465a7fa",
+        "date": "2024-08-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "excellent"
+    },
+    {
+        "id": "a3542684-8239-4c5e-8268-d80d9dbbd786",
+        "date": "2024-08-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "this person Mr. Vinay simply awesome perfect driving safe driving & punctual"
+    },
+    {
+        "id": "8e2418af-fd65-4fde-83a4-dd4ee0e58c39",
+        "date": "2024-08-02",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Have a bunch of WORST Auto drivers who accept the ride and often cancel after sometime or go the opposite direction. Very frustrating when booking is done in any urgency"
+    },
+    {
+        "id": "8aba7a8f-5818-4f50-8097-5cba98d594f6",
+        "date": "2024-08-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good and safe, driver friendly arrived on time"
+    },
+    {
+        "id": "81084198-961d-41c8-88c9-2727d0993bd1",
+        "date": "2024-08-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "76e6b3a3-5daa-4965-960f-ab0ab7e2bfd8",
+        "date": "2024-08-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good service thank you for namma yatri"
+    },
+    {
+        "id": "74f4fc9d-24f0-4411-b3f4-d8d7df4d5c84",
+        "date": "2024-08-02",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "happy"
+    },
+    {
+        "id": "50fec771-eb5d-4f8a-a171-1d8881b706e1",
+        "date": "2024-08-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good"
+    },
+    {
+        "id": "355c5e94-f2d8-4271-b145-8bb33fbdd1d4",
+        "date": "2024-08-02",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Worst exeperience so far. Hailed a cab to airport. While booking app showed Toll charges are included in fare. When driver came in, he asked for OTP & before accepting ride he told I need to pay\u20b9200 xtra for Toll. I showed him the SS & the next moment he got furious started using foul lang. I politely told him, I'll not pay extra. Asked him to cancel ride & leave. He continued using cuss words & left. Aftr a min he accepted & cancelled ride & app shows I've to pay \u20b9111 for the ride I never took"
+    },
+    {
+        "id": "34c74dac-44e5-49aa-b0e3-0c59944e5ee3",
+        "date": "2024-08-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good for drivers, good for us"
+    },
+    {
+        "id": "18ff55b0-aeba-48de-9147-4b851ddf590d",
+        "date": "2024-08-02",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "I'm new user use this app just known, Others are telling no commission and no extra amt to pay. But the driver demand extra cash."
+    },
+    {
+        "id": "0aa907f5-4cbf-44d6-a375-0ed198fb7d1c",
+        "date": "2024-08-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "app is good but doesn't get rides easily and support team, bring a feature to add multiple drop locations"
+    },
+    {
         "id": "c7bcf1b1-f963-4949-861b-c9ac6f969f1f",
         "date": "2024-08-01",
         "score": 5,
@@ -56,6 +200,14 @@
         "text": "Great Ride. Thank You So Much:)"
     },
     {
+        "id": "4797b633-786e-427d-960f-7beb05a585e4",
+        "date": "2024-08-01",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "S as s"
+    },
+    {
         "id": "42486a20-a1eb-4023-a15b-d3e52716f6aa",
         "date": "2024-08-01",
         "score": 5,
@@ -86,6 +238,14 @@
         "scoreText": "1",
         "title": null,
         "text": "Scammed by driver and helpline does nothing. I was charged extra toll fee which is supposed to be included in the fare. Complained on helpline, they say that they will ask driver to refund but they dont even check up if refund is done. Tried 2-3 times but driver ignored and helpline is useless."
+    },
+    {
+        "id": "246ede8f-2fa7-4888-9a4d-09b2c9d63f8b",
+        "date": "2024-08-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Affordable price"
     },
     {
         "id": "23db5fb8-b120-4c37-b359-77b220014407",

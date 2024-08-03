@@ -5,17 +5,17 @@
     "summary": "Auto, Cab &amp; Bike-Taxi Booking App - Travel with ease &amp; Affordable Fares",
     "installs": "100,000+",
     "minInstalls": 100000,
-    "maxInstalls": 320198,
-    "score": 4.1860466,
+    "maxInstalls": 320405,
+    "score": 4.1907516,
     "scoreText": "4.2",
-    "ratings": 1719,
+    "ratings": 1720,
     "reviews": "http://gplayapi.cashlessconsumer.in/api/apps/com.yaary.consumer.android/reviews",
     "histogram": {
-        "1": 268,
+        "1": 267,
         "2": 29,
         "3": 39,
-        "4": 149,
-        "5": 1228
+        "4": 148,
+        "5": 1232
     },
     "price": 0,
     "free": true,
