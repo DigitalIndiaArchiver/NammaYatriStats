@@ -1,5 +1,197 @@
 [
     {
+        "id": "f7814827-2df4-4552-a7f6-969ca8a92813",
+        "date": "2024-08-03",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Driver bad behaviour"
+    },
+    {
+        "id": "ea52582b-b6f4-49ff-83d4-9fd0c4811d7a",
+        "date": "2024-08-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good service"
+    },
+    {
+        "id": "ea4c399f-15af-4a35-b448-4e0dcb7f460e",
+        "date": "2024-08-03",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Worst app i have booked multiple times but all drivers are after accepting cancelling the ride."
+    },
+    {
+        "id": "d3a173d9-825c-48f4-8a96-a867fd509b66",
+        "date": "2024-08-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "excellent"
+    },
+    {
+        "id": "d0588da5-355f-4eb7-9327-93be3d3b756c",
+        "date": "2024-08-03",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Got scammed of double payment. When I raised a ticket, I got no response. Followed up with multiple tickets, yet no resolution. Finally uninstalled the app and moved on. Also rates were good initially, but some time post that the rates increased exponentially, more than the competitors. Makes sense if you are Uber, but you provide sub standard services, and 0 customer support."
+    },
+    {
+        "id": "c4fd13d2-bc01-441a-84f9-f26f1b9342a1",
+        "date": "2024-08-03",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "nice"
+    },
+    {
+        "id": "b1efa118-c2c2-4efa-ab3f-16caf763d687",
+        "date": "2024-08-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "safe ride"
+    },
+    {
+        "id": "a9f407d4-57ba-468e-a0e5-c02ea7d154bb",
+        "date": "2024-08-03",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Always try out other alternatives before depending on Namma Yatri. Sharing my recent experiences: 1. Today I was abused and talked roughly by the driver because he was at the wrong location and with the wrong number. 2. Needed a refund of 20 because the AC wasn't on. They asked me to deal with the driver myself instead of taking care of it. Refund is still pending. Basically there's no single authority to help you feel and be safe."
+    },
+    {
+        "id": "a3c547bd-41d6-4da1-bd76-52390a895a41",
+        "date": "2024-08-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good service"
+    },
+    {
+        "id": "96a928cd-7cdf-412c-90aa-ed27f856a3de",
+        "date": "2024-08-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good"
+    },
+    {
+        "id": "9241f8af-f6fc-4389-95fc-c23cdaef40e1",
+        "date": "2024-08-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "best service"
+    },
+    {
+        "id": "83323803-53fb-43e9-bf4e-8ed0b4e0569f",
+        "date": "2024-08-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Very good. (Edit about an incident on 2-8-24, evening: Booked and waited in front of Altezza Appasamy building in Kottivkkam for the driver for 30 mins. Spoke twice to him. He was coming. Saw his car, which stood stationery suddenly. Waited. Then walked to him. Surprisingly he said, automatically it got cancelled. But I saw he pick up a different passenger -snother app- to airport. Try to identify such partners and...)"
+    },
+    {
+        "id": "804414c4-5e9d-4800-ab91-95c5228a116e",
+        "date": "2024-08-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "75acbb35-b478-4d74-ace5-3dbf8596864f",
+        "date": "2024-08-03",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "vry slow app"
+    },
+    {
+        "id": "75622024-4778-4981-b065-c8624e787911",
+        "date": "2024-08-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "\u0c92\u0cb3\u0ccd\u0cb3\u0cc6\u0caf \u0cb8\u0cbe\u0cb0\u0cbf\u0c97\u0cc6 \u0c87\u0ca6\u0cc1"
+    },
+    {
+        "id": "73907309-f6d7-4d18-a5ee-78f990d08b4a",
+        "date": "2024-08-03",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Driver Accept and will not show up, faced this multiple times. No customer support also."
+    },
+    {
+        "id": "618c03df-586d-4314-9bbd-991e76c7922c",
+        "date": "2024-08-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good service"
+    },
+    {
+        "id": "5486f671-5b3c-4629-bd41-086c31d8ba8c",
+        "date": "2024-08-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Horrible customer service..."
+    },
+    {
+        "id": "4ff5d005-c619-4696-b06f-d1ac27de5c08",
+        "date": "2024-08-03",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Worst expirience ever in my life . Diver doesnt respont to any of my quires and doesnt attend a call over . Total\u00fd wast application . Developer needs to work more harder more"
+    },
+    {
+        "id": "3ea59a8f-9eff-49d0-a24d-8fefd09b2a48",
+        "date": "2024-08-03",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "Day by day loosing quality"
+    },
+    {
+        "id": "248f4f2a-1dee-4fc9-b189-ad5d46fb8c43",
+        "date": "2024-08-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good"
+    },
+    {
+        "id": "1bdce22b-746a-4388-b8d9-d719af7d5308",
+        "date": "2024-08-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Fast and quick booking."
+    },
+    {
+        "id": "086b0efd-1a51-4adb-a724-367928f75c57",
+        "date": "2024-08-03",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "This was good when they first started, but now namma yatri has gone down to levels far worse than ola and Uber"
+    },
+    {
+        "id": "081c727f-56b8-4d3c-b10f-0c39a60d74b2",
+        "date": "2024-08-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "\ud83d\udc4c\ud83d\udc4c\ud83d\udc4c\ud83d\udc4c\ud83d\udc4c"
+    },
+    {
         "id": "fefd00bd-d694-4e65-81b7-60c07a9a59ca",
         "date": "2024-08-02",
         "score": 5,
