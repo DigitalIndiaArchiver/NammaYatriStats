@@ -6,16 +6,16 @@
     "installs": "500,000+",
     "minInstalls": 500000,
     "maxInstalls": 861396,
-    "score": 4.661148,
+    "score": 4.659261,
     "scoreText": "4.7",
-    "ratings": 142277,
+    "ratings": 142585,
     "reviews": "http://gplayapi.cashlessconsumer.in/api/apps/in.juspay.nammayatripartner/reviews",
     "histogram": {
-        "1": 6320,
-        "2": 2443,
-        "3": 4131,
-        "4": 7331,
-        "5": 122048
+        "1": 6404,
+        "2": 2477,
+        "3": 4076,
+        "4": 7374,
+        "5": 122249
     },
     "price": 0,
     "free": true,
@@ -69,9 +69,7 @@
     "updated": 1720547712000,
     "version": "3.0.11",
     "recentChanges": "Minor bug fixes and UI Improvements with new features",
-    "comments": [
-        null
-    ],
+    "comments": [],
     "preregister": false,
     "earlyAccessEnabled": false,
     "isAvailableInPlayPass": false,

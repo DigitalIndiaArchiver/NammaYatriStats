@@ -6,16 +6,16 @@
     "installs": "100,000+",
     "minInstalls": 100000,
     "maxInstalls": 103075,
-    "score": 4.623264,
+    "score": 4.623821,
     "scoreText": "4.6",
-    "ratings": 16886,
+    "ratings": 16959,
     "reviews": "http://gplayapi.cashlessconsumer.in/api/apps/in.juspay.jatrisaathidriver/reviews",
     "histogram": {
-        "1": 918,
-        "2": 244,
-        "3": 537,
-        "4": 879,
-        "5": 14306
+        "1": 909,
+        "2": 269,
+        "3": 539,
+        "4": 849,
+        "5": 14389
     },
     "price": 0,
     "free": true,

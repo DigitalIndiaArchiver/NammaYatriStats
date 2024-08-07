@@ -1,5 +1,221 @@
 [
     {
+        "id": "fd826063-8c04-4368-9045-b2e732f78566",
+        "date": "2024-08-06",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "My app is stuck on loading screen after the update. Uninstalled and installed it back again and now it's stuck on OTP registration page."
+    },
+    {
+        "id": "fa3ccca9-1502-40b7-9cb3-485c6160604d",
+        "date": "2024-08-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "safe drive"
+    },
+    {
+        "id": "eda8df51-2829-469c-ac0b-dcc59b45b1bc",
+        "date": "2024-08-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "ngood"
+    },
+    {
+        "id": "e1a1a386-af8b-4e22-90c3-a07c3106d3b9",
+        "date": "2024-08-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good"
+    },
+    {
+        "id": "d998ab9a-a835-4a7b-99c8-89bb91e5663e",
+        "date": "2024-08-06",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "I'm not getting OTP only to register \ud83d\ude04"
+    },
+    {
+        "id": "c89d0c70-46b7-44aa-98fb-16b8ef679578",
+        "date": "2024-08-06",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Keep on searching worst case if we need in emergency purpose fed-up"
+    },
+    {
+        "id": "bdfc0b03-21d4-4ef1-8138-40c7b9ffd134",
+        "date": "2024-08-06",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "High Fare"
+    },
+    {
+        "id": "bcab2f16-8dab-4fc3-b423-ec7b4893eb63",
+        "date": "2024-08-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very efficient drivers and app easy to navigate"
+    },
+    {
+        "id": "b4abaf4e-4dc6-4665-acca-12e267e39eaa",
+        "date": "2024-08-06",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "fare was high, but booking was quite easy"
+    },
+    {
+        "id": "aad5cb79-98ca-44ee-9403-289e7b35a87a",
+        "date": "2024-08-06",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "should provide payment via credit card as well."
+    },
+    {
+        "id": "96d9af35-c14d-4f21-950e-9c1f1a76bc04",
+        "date": "2024-08-06",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "8d3208ea-5c20-4b85-9188-5a29eda22890",
+        "date": "2024-08-06",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "charges are high"
+    },
+    {
+        "id": "6002f3e9-0a57-4a6f-9cdb-3ed44942d727",
+        "date": "2024-08-06",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Worst app...it's pricey with unresponsive drivers...no customer care support...I would not prefer it to anyone...wasted my time because of this"
+    },
+    {
+        "id": "5e67d940-1f2d-4543-9085-0d964bfd1948",
+        "date": "2024-08-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Very good transport app in Bangalore. The transport vehicle comes in time."
+    },
+    {
+        "id": "5c192109-cd2c-4c5d-be26-b6970dd6bfcd",
+        "date": "2024-08-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "on time"
+    },
+    {
+        "id": "589c8834-8f31-4e51-b423-603e7b81b4b7",
+        "date": "2024-08-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "57b22a77-afb0-47d6-bca5-c53fc42e0ee3",
+        "date": "2024-08-06",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "no one picks"
+    },
+    {
+        "id": "47216822-b595-4024-b3b9-e944a6ff0c3b",
+        "date": "2024-08-06",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "Doesn't work properly at all"
+    },
+    {
+        "id": "41a069ae-51ed-41b2-a9c3-50031f027c5c",
+        "date": "2024-08-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "\ud83d\udc4d\ud83d\ude42"
+    },
+    {
+        "id": "35dc542c-ff7e-4f8b-8a32-81a91f34452a",
+        "date": "2024-08-06",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "gps location problem"
+    },
+    {
+        "id": "35366e35-8cf6-4b68-9dec-2ab6d82b2ee2",
+        "date": "2024-08-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very nice safe drive"
+    },
+    {
+        "id": "18d9bead-6465-4fdd-ac40-810e9f41bee8",
+        "date": "2024-08-06",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "Nice app but some times it is missing"
+    },
+    {
+        "id": "18abafdf-925d-4100-b2cd-caf20a534370",
+        "date": "2024-08-06",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Not that great user interface and also the app being getting hang while using sometimes login take so usually very long time then the other apps.."
+    },
+    {
+        "id": "078c48e1-904d-462e-a240-afa852bcae94",
+        "date": "2024-08-06",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Useless app. Booked 4 times in a row all are cancelled. Why should we tip the driver before booking? Uninstalling the app."
+    },
+    {
+        "id": "06eb650c-0157-48fc-8c24-3cdeec4553ec",
+        "date": "2024-08-06",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Worst app. It doesn't pick the location correctly. Worst drivers."
+    },
+    {
+        "id": "02a8dad7-7c9f-48e5-b524-5d15d0d4ea86",
+        "date": "2024-08-06",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "better than ola uber"
+    },
+    {
+        "id": "02a1d89c-e9a7-44c4-a30a-d6f3ba94f085",
+        "date": "2024-08-06",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Worst customer service. 1. Price shown vs price to be paid varies. When fare difference issue is raised, no response is given and ticket is auto closed. 2. Drivers just cancel at their whims and fancies. Have had multiple instances when drivers just cancel right before arriving."
+    },
+    {
         "id": "f57155d4-8fb2-46b1-9b95-c5e3108223a5",
         "date": "2024-08-05",
         "score": 5,
