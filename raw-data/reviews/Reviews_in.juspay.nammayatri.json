@@ -1,5 +1,277 @@
 [
     {
+        "id": "fe6b88b8-76dd-4bd0-89bf-9d7620f58741",
+        "date": "2024-08-10",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Better than all other apps"
+    },
+    {
+        "id": "e81d10c7-be0a-4267-8840-eb566be36a65",
+        "date": "2024-08-10",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "e75dab3a-c15e-4666-824b-07d456387720",
+        "date": "2024-08-10",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Very bad experience"
+    },
+    {
+        "id": "e334d07c-f7f8-495c-8a50-a660f5b2b972",
+        "date": "2024-08-10",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super"
+    },
+    {
+        "id": "d78daf99-1f16-4042-a706-fefded34bbd0",
+        "date": "2024-08-10",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super"
+    },
+    {
+        "id": "cc0f1864-90a9-460f-96db-79da48b30d31",
+        "date": "2024-08-10",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Do you have customer care service ? What hours do they support?"
+    },
+    {
+        "id": "cb2bd7df-e32a-45c4-8efd-8d8ecf1b866a",
+        "date": "2024-08-10",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "had to pay a tip before getting a ride"
+    },
+    {
+        "id": "c9ed9018-e2c2-4ac3-a8e2-e5fcd15453df",
+        "date": "2024-08-10",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good jerney"
+    },
+    {
+        "id": "c7e3b98a-b216-42f6-a419-4f9ad39b01f1",
+        "date": "2024-08-10",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Best Commuting app to use in Bengaluru"
+    },
+    {
+        "id": "bd327ca7-8340-41c5-b06f-9250a09fb577",
+        "date": "2024-08-10",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "app is very slow"
+    },
+    {
+        "id": "b52af7a8-e9b2-4247-affb-6b193988ee21",
+        "date": "2024-08-10",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "ufu"
+    },
+    {
+        "id": "b35a33da-0737-40bd-9ff8-28761768029b",
+        "date": "2024-08-10",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "the fare is too high. at rs.117.00 it works out to almost rs.28 per km for a 4.2 km ride."
+    },
+    {
+        "id": "b2860526-2146-4fdc-9b7c-0194b44659dd",
+        "date": "2024-08-10",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Excellent user friendly App"
+    },
+    {
+        "id": "b078c7de-5333-4c16-a5a0-023e5b13a87f",
+        "date": "2024-08-10",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Absolutely pathetic app, no drivers found ever and prices are 30-40% higher than Ola/Uber. Can't understand how they have 4.8 ratings.. Definitely this is wrong."
+    },
+    {
+        "id": "a7f96b34-ca9b-4e59-8968-b14843ba2def",
+        "date": "2024-08-10",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Location showing rong"
+    },
+    {
+        "id": "95c07689-1cb7-4851-80a2-b78ba5eb9cbd",
+        "date": "2024-08-10",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Excellent"
+    },
+    {
+        "id": "9270c63a-b976-4da6-9296-9e28057b244d",
+        "date": "2024-08-10",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "The problem is they charging same fare as well in non metro cities so comparing normal meter auto's so this app fare is bit expensive. The fare price's okay for big cities or metro cities but why you taking High fare for normal cities?. Also, why you add a option of 'Tip' because auto driver's not accepting bookings if we not added any 'Tip'. So it's better to choose ola or offline meter auto's."
+    },
+    {
+        "id": "90340e07-f445-45b5-a7a8-905aed878831",
+        "date": "2024-08-10",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good app good sarvis"
+    },
+    {
+        "id": "69cc873f-80b4-4ad3-9665-100176cc9587",
+        "date": "2024-08-10",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very nice"
+    },
+    {
+        "id": "68c9aedf-a20a-45b4-8e04-5b9e0560dc9c",
+        "date": "2024-08-10",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "Need feature to book ride for others and also it enforces to turn on gps which hinders people out of geo location to book ride for parents, which makes application non usable. Please do make some updates with these features so as to compete with ola/uber."
+    },
+    {
+        "id": "687b38c6-5403-4dcc-b5ff-6ad4886982b2",
+        "date": "2024-08-10",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Pathetic app. Want to keep reducing rating by 1 everyday till the you start getting rides the time you want most. You keep trying multiple times booking will not happen duri g office hours"
+    },
+    {
+        "id": "6605c050-39e2-4743-a319-7c548bb0febd",
+        "date": "2024-08-10",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "Started out as a great concept. Eventually auto prices have crept up to uber and ola so there's no real benefit to the user post market consolidation. The cabs are still at a discount, though i wonder till when that will last. Also the notifications are endless. Please give users an option to block marketing notifications. It's a transportation app, I'm not going to plan to go out based on a notification"
+    },
+    {
+        "id": "5981d507-2298-4941-94e1-5023fbc758e7",
+        "date": "2024-08-10",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Nobody accepts the order usually because they can charge 100rs for 1km directly"
+    },
+    {
+        "id": "58a1ef2a-19d9-4fa1-86b8-01eadec5063f",
+        "date": "2024-08-10",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "I heartly welcome Namma Yatri and best wishes for much more development."
+    },
+    {
+        "id": "583ddf6c-06ab-4a61-b04a-9f8c0707eeef",
+        "date": "2024-08-10",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Satisfied Nama Yatri"
+    },
+    {
+        "id": "4e0ecfc2-f5ea-4374-8147-f89b2176e0c6",
+        "date": "2024-08-10",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "Drivers hardly arrive on time. Most autos are dirty and broken. Drivers have low rating. Bad communication. Charges are the same or more than Ola or Uber. Bad service."
+    },
+    {
+        "id": "4b482a96-0553-4b4f-8f72-4956ae16a083",
+        "date": "2024-08-10",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "supre"
+    },
+    {
+        "id": "47fcb39a-b036-4739-8944-a80e0c5bd093",
+        "date": "2024-08-10",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very fast pick up. good driver"
+    },
+    {
+        "id": "40dd2eb9-5aca-4527-a927-626d027857c5",
+        "date": "2024-08-10",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "The app is poor in identifying the locations. Nowadays drivers demanding huge sum over the shown amount. For one trip time is wasted by repeated cancellation by the drivers"
+    },
+    {
+        "id": "3562d79e-afeb-4b8b-9141-050d87f7d60b",
+        "date": "2024-08-10",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "Namma yathri collected more fee than any other app I booked for phenix mall for 196 but same in ola app shows 156 rs"
+    },
+    {
+        "id": "2accb951-7d14-4178-8032-b39fa1a05015",
+        "date": "2024-08-10",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Great ! Drivers till date hired are well behaved, soft spoken and very helpful ."
+    },
+    {
+        "id": "242f9502-772b-4a9c-8190-7692c7d4b96d",
+        "date": "2024-08-10",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Cabs get cancelled at last moment even after the driver calls and confirms he is coming, worst app."
+    },
+    {
+        "id": "1f64dd58-8f69-4a19-a090-6a6a2b94899f",
+        "date": "2024-08-10",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "Worst experience because auto driver will charge extra amount & app customer support is total waste they can't even fetch the driver details.. same sake they have kept customer support"
+    },
+    {
+        "id": "1f229674-ccb5-421f-9c63-509a5783dbab",
+        "date": "2024-08-10",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "ok"
+    },
+    {
         "id": "f6f84045-e286-492d-ac36-ea0bbd63e61f",
         "date": "2024-08-09",
         "score": 1,
