@@ -1,5 +1,133 @@
 [
     {
+        "id": "e7b3c573-8089-4837-9299-71dcb1506406",
+        "date": "2024-08-11",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "had very good and safe ride"
+    },
+    {
+        "id": "d4c14901-6d2f-48b7-ad0b-9534e8f6cde6",
+        "date": "2024-08-11",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Very nice app and good response"
+    },
+    {
+        "id": "ca5656c5-2598-47a1-9b55-8a1047c3910a",
+        "date": "2024-08-11",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good service"
+    },
+    {
+        "id": "bb59ca19-9112-49c5-8a0b-4423aec38f8d",
+        "date": "2024-08-11",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "\ud83e\udd2c"
+    },
+    {
+        "id": "a1ed71f1-da83-42f9-9c6b-742421670b75",
+        "date": "2024-08-11",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good"
+    },
+    {
+        "id": "8f46829e-be4b-4bcf-a17e-bfbb16768188",
+        "date": "2024-08-11",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "super"
+    },
+    {
+        "id": "8eb8a5d5-06c2-4dbe-b30a-7f9062f12243",
+        "date": "2024-08-11",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "superb fast driving"
+    },
+    {
+        "id": "7f266931-0d8a-4eed-a850-1012fe26a578",
+        "date": "2024-08-11",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "very late auto booking"
+    },
+    {
+        "id": "629986c3-e129-4b39-97df-70aeff39389f",
+        "date": "2024-08-11",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "No rides when required"
+    },
+    {
+        "id": "5ac8af22-771b-423d-be04-74f9542d19a0",
+        "date": "2024-08-11",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Falthu App Don't install the app, there is no proper customer care response when there is issue"
+    },
+    {
+        "id": "48ad0a02-b6a6-4870-ac90-17c89b011de8",
+        "date": "2024-08-11",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Fare is same on uber and Ola. False claims of zero commission."
+    },
+    {
+        "id": "44c25a26-2806-4f07-9ceb-ba9bc41d294a",
+        "date": "2024-08-11",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice"
+    },
+    {
+        "id": "421cb2c8-a750-40f7-930c-9b7a9dbb1f46",
+        "date": "2024-08-11",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good experience."
+    },
+    {
+        "id": "3ee61db1-ae9d-432f-8e8c-83310214efd6",
+        "date": "2024-08-11",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "The app fails to launch after first launch. It gets stuck in the splash screen with only the \"powered by\" logo showing. I have to reinstall it everytime I need to use it."
+    },
+    {
+        "id": "0f1e07d5-668c-459b-a293-b6b0361df441",
+        "date": "2024-08-11",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good service"
+    },
+    {
+        "id": "063fc1da-d492-4bdd-8735-6ff854a6ea63",
+        "date": "2024-08-11",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very comfortable app low price and drivers safe drive excellent"
+    },
+    {
         "id": "fe6b88b8-76dd-4bd0-89bf-9d7620f58741",
         "date": "2024-08-10",
         "score": 5,
@@ -70,6 +198,14 @@
         "scoreText": "5",
         "title": null,
         "text": "Best Commuting app to use in Bengaluru"
+    },
+    {
+        "id": "c14b7583-eb80-4361-ace2-d87787dc4b3b",
+        "date": "2024-08-10",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Nice"
     },
     {
         "id": "bd327ca7-8340-41c5-b06f-9250a09fb577",
@@ -198,6 +334,14 @@
         "scoreText": "5",
         "title": null,
         "text": "Satisfied Nama Yatri"
+    },
+    {
+        "id": "54d4ea4b-8db8-4f7e-a2d9-7d52c557b668",
+        "date": "2024-08-10",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "No option for online payment"
     },
     {
         "id": "4e0ecfc2-f5ea-4374-8147-f89b2176e0c6",

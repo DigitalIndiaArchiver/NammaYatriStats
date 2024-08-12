@@ -5,17 +5,17 @@
     "summary": "Zero Commission app for Drivers, with Direct Payment from Customers",
     "installs": "50,000+",
     "minInstalls": 50000,
-    "maxInstalls": 69886,
-    "score": 4.7027025,
+    "maxInstalls": 70075,
+    "score": 4.7420816,
     "scoreText": "4.7",
-    "ratings": 4281,
+    "ratings": 4300,
     "reviews": "http://gplayapi.cashlessconsumer.in/api/apps/in.mobility.manayatripartner/reviews",
     "histogram": {
-        "1": 151,
-        "2": 62,
-        "3": 151,
-        "4": 178,
-        "5": 3738
+        "1": 126,
+        "2": 38,
+        "3": 136,
+        "4": 214,
+        "5": 3784
     },
     "price": 0,
     "free": true,
@@ -56,9 +56,7 @@
     "released": "Feb 15, 2024",
     "updated": 1720084046000,
     "version": "3.0.10",
-    "comments": [
-        null
-    ],
+    "comments": [],
     "preregister": false,
     "earlyAccessEnabled": false,
     "isAvailableInPlayPass": false,
