@@ -3,16 +3,16 @@
         "sharedData": [],
         "collectedData": [
             {
-                "data": "Approximate location",
-                "optional": true,
-                "purpose": "App functionality, Analytics",
-                "type": "Location"
+                "data": "Crash logs",
+                "optional": false,
+                "purpose": "Analytics",
+                "type": "App info and performance"
             },
             {
-                "data": "Precise location",
-                "optional": true,
-                "purpose": "App functionality, Analytics",
-                "type": "Location"
+                "data": "Diagnostics",
+                "optional": false,
+                "purpose": "Analytics",
+                "type": "App info and performance"
             },
             {
                 "data": "App interactions",
@@ -25,18 +25,6 @@
                 "optional": false,
                 "purpose": "App functionality, Analytics",
                 "type": "Device or other IDs"
-            },
-            {
-                "data": "Crash logs",
-                "optional": false,
-                "purpose": "Analytics",
-                "type": "App info and performance"
-            },
-            {
-                "data": "Diagnostics",
-                "optional": false,
-                "purpose": "Analytics",
-                "type": "App info and performance"
             },
             {
                 "data": "User IDs",
@@ -55,6 +43,18 @@
                 "optional": false,
                 "purpose": "App functionality, Account management",
                 "type": "Personal info"
+            },
+            {
+                "data": "Approximate location",
+                "optional": true,
+                "purpose": "App functionality, Analytics",
+                "type": "Location"
+            },
+            {
+                "data": "Precise location",
+                "optional": true,
+                "purpose": "App functionality, Analytics",
+                "type": "Location"
             }
         ],
         "securityPractices": [

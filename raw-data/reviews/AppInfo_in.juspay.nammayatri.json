@@ -5,17 +5,17 @@
     "summary": "Auto/Cab Booking App - Low Cancellations, Fast Pickups &amp; Affordable Fares",
     "installs": "1,000,000+",
     "minInstalls": 1000000,
-    "maxInstalls": 4427417,
-    "score": 4.7720447,
+    "maxInstalls": 4437644,
+    "score": 4.769213,
     "scoreText": "4.8",
-    "ratings": 219466,
+    "ratings": 220034,
     "reviews": "http://gplayapi.cashlessconsumer.in/api/apps/in.juspay.nammayatri/reviews",
     "histogram": {
-        "1": 4772,
-        "2": 1267,
-        "3": 3504,
-        "4": 20120,
-        "5": 189797
+        "1": 4891,
+        "2": 1299,
+        "3": 3552,
+        "4": 20204,
+        "5": 190082
     },
     "price": 0,
     "free": true,
@@ -72,9 +72,7 @@
     "updated": 1722343569000,
     "version": "2.5.7",
     "recentChanges": "Minor Bug Fixes and UI Improvements",
-    "comments": [
-        null
-    ],
+    "comments": [],
     "preregister": false,
     "earlyAccessEnabled": false,
     "isAvailableInPlayPass": false,
