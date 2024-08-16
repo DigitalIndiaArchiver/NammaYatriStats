@@ -1,5 +1,125 @@
 [
     {
+        "id": "f8fe10a1-64cb-4070-89b2-3fa60e1fb3f1",
+        "date": "2024-08-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice"
+    },
+    {
+        "id": "f401c170-1bba-4dd8-a7a7-89ea9e0cb6ac",
+        "date": "2024-08-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "great"
+    },
+    {
+        "id": "c5eb0dc2-9c74-4bd4-8c20-022c9ae780e7",
+        "date": "2024-08-15",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "kindly start bike"
+    },
+    {
+        "id": "a727c5fd-5e3a-452d-b8cd-fbc7631321b0",
+        "date": "2024-08-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good"
+    },
+    {
+        "id": "969be59e-2a2a-417f-84b8-e05ef56264c8",
+        "date": "2024-08-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "better then Ola Uber, fair price low"
+    },
+    {
+        "id": "70518f71-906d-43e2-9e55-1de9b97fd729",
+        "date": "2024-08-15",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "Make more counter, avg waiting time 30mins, need to reduce. rest better than Ola / Uber considering bad surcharge."
+    },
+    {
+        "id": "679d5bcb-f69e-4d3b-8f63-4a84aabe3741",
+        "date": "2024-08-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "happy journey"
+    },
+    {
+        "id": "5afa1f7a-a3d6-4f16-b244-2620b59197ab",
+        "date": "2024-08-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Very Good \ud83d\udc4d"
+    },
+    {
+        "id": "54220c35-06ac-4d83-9bcd-41d0acddf0e7",
+        "date": "2024-08-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good sarvice"
+    },
+    {
+        "id": "4b9a39a2-d884-466d-82cc-3bb819f79393",
+        "date": "2024-08-15",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "I'm quite concerned about the safety of this service. The drivers I've encountered seem inexperienced and have difficulty using Google Maps to navigate. This leads to unnecessary delays and confusion during the ride, making the overall experience stressful."
+    },
+    {
+        "id": "45220984-8f85-49d0-9393-93c10d4a8dc3",
+        "date": "2024-08-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "405abe4a-34e9-4f74-b8f3-70c0a4501054",
+        "date": "2024-08-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "\ud83d\udc4d outstanding"
+    },
+    {
+        "id": "1028767d-305a-4f0d-a389-e6950c994d17",
+        "date": "2024-08-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "08020ea5-ed49-4d59-8e38-25c212e8760d",
+        "date": "2024-08-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Lowest rates with comfortable journey"
+    },
+    {
+        "id": "0441571e-68f6-4aff-87b5-9e90be949e32",
+        "date": "2024-08-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "EXCELLENT SERVICE"
+    },
+    {
         "id": "eb5ca767-1165-4ea2-b180-f19a99076b79",
         "date": "2024-08-14",
         "score": 1,
@@ -70,6 +190,14 @@
         "scoreText": "5",
         "title": null,
         "text": "good service"
+    },
+    {
+        "id": "78dd0db7-0f63-4543-a925-84b963dc8413",
+        "date": "2024-08-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good service...but fleet must be expanded!"
     },
     {
         "id": "4dbc6a70-67ab-4002-b410-36b351f9e4ab",
