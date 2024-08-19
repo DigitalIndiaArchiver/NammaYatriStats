@@ -21,12 +21,6 @@
                 "type": "Device or other IDs"
             },
             {
-                "data": "App interactions",
-                "optional": false,
-                "purpose": "App functionality, Analytics",
-                "type": "App activity"
-            },
-            {
                 "data": "Crash logs",
                 "optional": false,
                 "purpose": "Analytics",
@@ -37,6 +31,12 @@
                 "optional": false,
                 "purpose": "Analytics",
                 "type": "App info and performance"
+            },
+            {
+                "data": "App interactions",
+                "optional": false,
+                "purpose": "App functionality, Analytics",
+                "type": "App activity"
             },
             {
                 "data": "User IDs",

@@ -21,16 +21,10 @@
                 "type": "Personal info"
             },
             {
-                "data": "Crash logs",
+                "data": "App interactions",
                 "optional": false,
-                "purpose": "Analytics",
-                "type": "App info and performance"
-            },
-            {
-                "data": "Diagnostics",
-                "optional": false,
-                "purpose": "Analytics",
-                "type": "App info and performance"
+                "purpose": "App functionality, Analytics",
+                "type": "App activity"
             },
             {
                 "data": "Approximate location",
@@ -45,16 +39,22 @@
                 "type": "Location"
             },
             {
-                "data": "App interactions",
-                "optional": false,
-                "purpose": "App functionality, Analytics",
-                "type": "App activity"
-            },
-            {
                 "data": "Device or other IDs",
                 "optional": false,
                 "purpose": "App functionality, Analytics",
                 "type": "Device or other IDs"
+            },
+            {
+                "data": "Crash logs",
+                "optional": false,
+                "purpose": "Analytics",
+                "type": "App info and performance"
+            },
+            {
+                "data": "Diagnostics",
+                "optional": false,
+                "purpose": "Analytics",
+                "type": "App info and performance"
             }
         ],
         "securityPractices": [
