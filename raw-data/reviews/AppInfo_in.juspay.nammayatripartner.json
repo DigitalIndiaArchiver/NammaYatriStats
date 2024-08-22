@@ -5,17 +5,17 @@
     "summary": "Zero Commission app for Drivers, with Direct Payment from Customers",
     "installs": "500,000+",
     "minInstalls": 500000,
-    "maxInstalls": 878042,
-    "score": 4.6489534,
+    "maxInstalls": 879141,
+    "score": 4.6487737,
     "scoreText": "4.6",
-    "ratings": 146452,
+    "ratings": 146771,
     "reviews": "http://gplayapi.cashlessconsumer.in/api/apps/in.juspay.nammayatripartner/reviews",
     "histogram": {
-        "1": 6782,
-        "2": 2728,
-        "3": 4301,
-        "4": 7485,
-        "5": 125151
+        "1": 6827,
+        "2": 2718,
+        "3": 4288,
+        "4": 7497,
+        "5": 125434
     },
     "price": 0,
     "free": true,
@@ -69,9 +69,7 @@
     "updated": 1720547712000,
     "version": "3.0.11",
     "recentChanges": "Minor bug fixes and UI Improvements with new features",
-    "comments": [
-        null
-    ],
+    "comments": [],
     "preregister": false,
     "earlyAccessEnabled": false,
     "isAvailableInPlayPass": false,

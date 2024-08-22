@@ -1,5 +1,85 @@
 [
     {
+        "id": "f35795a9-49bc-435c-828d-d9f6a920af01",
+        "date": "2024-08-21",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "d64d316b-775e-4b61-9834-a9e294dd1cec",
+        "date": "2024-08-21",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Beware! They can even cancel their ride three times..."
+    },
+    {
+        "id": "cdb796f0-55e2-49b9-a422-7a635d584fde",
+        "date": "2024-08-21",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "\u0925\u0948\u0902\u0915\u094d\u0938"
+    },
+    {
+        "id": "c63150b7-a69e-41c5-9eb5-247386a17151",
+        "date": "2024-08-21",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good service"
+    },
+    {
+        "id": "ad3cdc35-ac22-4d37-9315-d1dcd27aede5",
+        "date": "2024-08-21",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Nice"
+    },
+    {
+        "id": "8172b3cd-7a58-4fd7-a8f0-8bad07b808c6",
+        "date": "2024-08-21",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "570da79a-f901-4b58-817f-878eea882a35",
+        "date": "2024-08-21",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good"
+    },
+    {
+        "id": "4485632e-2870-4b82-a69e-09e9bd7a2073",
+        "date": "2024-08-21",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Excellent service"
+    },
+    {
+        "id": "31089012-cc6c-4910-859d-c1d09b1d3f1d",
+        "date": "2024-08-21",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "excellent\ud83d\udc4d"
+    },
+    {
+        "id": "210e3a43-9fe5-4451-b15a-ae4acf68de9b",
+        "date": "2024-08-21",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "excellent"
+    },
+    {
         "id": "deca07fe-8df3-4eb4-85f2-049413b433a7",
         "date": "2024-08-20",
         "score": 4,
@@ -48,12 +128,28 @@
         "text": "ok"
     },
     {
+        "id": "852267e8-e42d-4be6-84a4-5d0a80fc0f9b",
+        "date": "2024-08-20",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "It should be more smooth. The car is not available always in time."
+    },
+    {
         "id": "8377d9a0-4167-42ff-a6ed-d20ae18a9290",
         "date": "2024-08-20",
         "score": 5,
         "scoreText": "5",
         "title": null,
         "text": "nice"
+    },
+    {
+        "id": "5a32b8e3-3a4e-42db-832d-12668e88b905",
+        "date": "2024-08-20",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "App is almost okay. But should allow pickups without location access. So that we can do the booking for someone else when needed from a different location."
     },
     {
         "id": "30eb4967-5135-4646-adf4-bb8035255cb4",

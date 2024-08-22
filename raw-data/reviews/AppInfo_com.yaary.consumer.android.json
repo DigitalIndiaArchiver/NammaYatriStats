@@ -5,7 +5,7 @@
     "summary": "Auto, Cab &amp; Bike-Taxi Booking App - Travel with ease &amp; Affordable Fares",
     "installs": "100,000+",
     "minInstalls": 100000,
-    "maxInstalls": 324047,
+    "maxInstalls": 324233,
     "score": 4.1714287,
     "scoreText": "4.2",
     "ratings": 1734,
@@ -53,9 +53,7 @@
     "released": "Dec 13, 2023",
     "updated": 1721847031000,
     "version": "1.2.6",
-    "comments": [
-        null
-    ],
+    "comments": [],
     "preregister": false,
     "earlyAccessEnabled": false,
     "isAvailableInPlayPass": false,
