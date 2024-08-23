@@ -5,17 +5,17 @@
     "summary": "Reliable, Affordable, and Safe Cabs in Kolkata",
     "installs": "1,000,000+",
     "minInstalls": 1000000,
-    "maxInstalls": 1965109,
-    "score": 4.8193245,
+    "maxInstalls": 1968295,
+    "score": 4.818468,
     "scoreText": "4.8",
-    "ratings": 100034,
+    "ratings": 100278,
     "reviews": "http://gplayapi.cashlessconsumer.in/api/apps/in.juspay.jatrisaathi/reviews",
     "histogram": {
-        "1": 1070,
-        "2": 500,
-        "3": 1728,
-        "4": 8830,
-        "5": 87902
+        "1": 1105,
+        "2": 463,
+        "3": 1766,
+        "4": 8854,
+        "5": 88086
     },
     "price": 0,
     "free": true,
@@ -71,9 +71,7 @@
     "updated": 1721981615000,
     "version": "0.1.9",
     "recentChanges": "Minor bug fixes and UI Improvements",
-    "comments": [
-        null
-    ],
+    "comments": [],
     "preregister": false,
     "earlyAccessEnabled": false,
     "isAvailableInPlayPass": false,
