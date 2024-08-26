@@ -77,6 +77,10 @@
             "type": "Other"
         },
         {
+            "permission": "control Near Field Communication",
+            "type": "Other"
+        },
+        {
             "permission": "run at startup",
             "type": "Other"
         },
