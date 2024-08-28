@@ -1,5 +1,165 @@
 [
     {
+        "id": "e0593baa-a26c-4f47-911c-5a868d3f8eb8",
+        "date": "2024-08-27",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "There should be some offers or discounts"
+    },
+    {
+        "id": "dba05fe4-82c1-4a8b-a541-c238296eb4c4",
+        "date": "2024-08-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "perfect \ud83d\udc4d\ud83c\udffb"
+    },
+    {
+        "id": "ccc90835-d077-43b7-8046-f02395d9e017",
+        "date": "2024-08-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "c4a2c034-358a-4ac5-9ae4-7234d7876122",
+        "date": "2024-08-27",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "Good concept but it doesn't fetch the location correctly, shows 22km for 7 km. It'll be sad to see an Indian company going out of business because of these issues."
+    },
+    {
+        "id": "c016263b-63f6-4995-bf40-5151ee00633b",
+        "date": "2024-08-27",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "correct fare. if sometimes fare shown low price by adding tips auto driver accepting ride."
+    },
+    {
+        "id": "a61648a5-30c6-418e-af0b-f169676aa707",
+        "date": "2024-08-27",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "Very poor You are chatting with digital way not responding to complain"
+    },
+    {
+        "id": "94d5a4e3-7b21-4c3f-b84e-8ad64c22fae6",
+        "date": "2024-08-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "93444fc7-0a66-44b8-bb8b-c0a9746b04bc",
+        "date": "2024-08-27",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "There is no proper customer support and refund,we are not getting on time solution fom app"
+    },
+    {
+        "id": "7a772873-20df-47f3-b05e-ef8b480b4c77",
+        "date": "2024-08-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "77695db2-2a18-46c5-833a-14553cfde705",
+        "date": "2024-08-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good ride"
+    },
+    {
+        "id": "6f34f0db-1d7c-4535-a237-cf60563b0146",
+        "date": "2024-08-27",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Wh would I choose the ride when you show the price between 70-98 and charge 98 in the end. Why show 70 in the first place?"
+    },
+    {
+        "id": "6ca819bf-0560-409c-a486-50b061e7f385",
+        "date": "2024-08-27",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Auto is not available to book Showing only \"book any\" Price is 3 times the actual Eg: 245/- for 15km (actual price) In namma yatri it's showing 650/-+"
+    },
+    {
+        "id": "36edddbf-f877-40ab-9ea9-f021a5eefb18",
+        "date": "2024-08-27",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Cab drivers take bookings but not move to the pick up location. Even after having conversation on call they lie that they are coming for pick up but not complete booked ride."
+    },
+    {
+        "id": "33a2ccaf-833f-409d-b4be-cde3c4ea3094",
+        "date": "2024-08-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good"
+    },
+    {
+        "id": "2a20890f-4a15-400d-8192-c465744270e3",
+        "date": "2024-08-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "282d316c-0ea2-4e26-8679-406dc68a56af",
+        "date": "2024-08-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "219a9423-eb1d-434d-9039-59e707521341",
+        "date": "2024-08-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very comfortable raid"
+    },
+    {
+        "id": "2001c2fb-fcc0-4ff3-8bd9-94b2f5a41bb9",
+        "date": "2024-08-27",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Very bad doesnt load most of the times"
+    },
+    {
+        "id": "148d6467-f03e-40bb-9fcf-dd9f34621fd2",
+        "date": "2024-08-27",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "Earlier it used to be good. Now the drivers and auto are not much on time. Rapido is much better"
+    },
+    {
+        "id": "0754b922-826c-40e9-b268-2e4b0047dcb3",
+        "date": "2024-08-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "excellent namma yatri good app"
+    },
+    {
         "id": "f1aa97c9-3887-478d-8088-fceb86cefeef",
         "date": "2024-08-26",
         "score": 5,
