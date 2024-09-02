@@ -1,5 +1,101 @@
 [
     {
+        "id": "e5fc3fd9-78e6-40c5-ad5f-f63ae9786a1f",
+        "date": "2024-09-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "useful app"
+    },
+    {
+        "id": "d8f2bc49-e3de-4322-8d64-05659a661794",
+        "date": "2024-09-01",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "I usually had a positive experience. Bt today the driver said I wouldn't follow anything other than Google , cz I was telling him directions in my locality. Also he didn't arrive in the correct pickup.He was rude. I asked him to stop & got off for my Ma to enter, then he drove off. My mother is a senior citizen. Such behaviour wasn't expected. I don't feel safe traveling in yatrisathi cabs anymore."
+    },
+    {
+        "id": "cc4e0c0c-c25d-4025-aeae-96d14a2f0a91",
+        "date": "2024-09-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "best app car service"
+    },
+    {
+        "id": "c7cdd0fc-5bbe-4580-b581-7e38fade6809",
+        "date": "2024-09-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good experience"
+    },
+    {
+        "id": "8f030c76-2f29-40e8-b950-d0202b8e4f11",
+        "date": "2024-09-01",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Recently I booked cab via this app, instead of taking short route the driver himself took the long one and on the midway when he found a road was blocked simply asked me to drop off from the cab.As there were other routes also, I asked him to take another route although he dropped me almost 2 km away from my destination, the app charged extra \u20b970. After complaing in helpline the executive stated that they are not ready to take any responsibility and it have to be solved b/w driver and customer."
+    },
+    {
+        "id": "8d204b3b-3df4-41e8-9e2c-cccf9814df42",
+        "date": "2024-09-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good behaviour"
+    },
+    {
+        "id": "8610f428-e74f-4c9d-91d5-b07a717c447c",
+        "date": "2024-09-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice app and good driver and safe too! I recommend this app to everyone"
+    },
+    {
+        "id": "3361048c-fab0-4c58-b7ce-949f513d5d83",
+        "date": "2024-09-01",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "While booking the car the pickup location shows correct, but after confirming the pickup location it shows 20 to 50 meters away original location. It's very messy, misunderstanding with the driver. Passengers are subjected to harassment. This needs to be looked into."
+    },
+    {
+        "id": "312fd421-30de-4585-a432-a47efa51565f",
+        "date": "2024-09-01",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "Thank you"
+    },
+    {
+        "id": "1b2f997b-bc39-4ae8-83d5-cac4ad1db82f",
+        "date": "2024-09-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good customer support"
+    },
+    {
+        "id": "19223973-94b2-4773-bc7f-405ee9c72d68",
+        "date": "2024-09-01",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "01ce6c6b-1f61-4e99-8801-d961f63100e4",
+        "date": "2024-09-01",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Very bad experience \ud83d\ude15, last time and today same things happened with my family. Some driver's behaviour very rude, and they don't know how to behave with passengers. Didn't drop me at my location, I have to walk 10mints with heavy luggage, most important my mother was with me ,she also suffered this. Very unsatisfied Never going to use this app \ud83d\udc4e\ud83d\udc4e\ud83d\udc4e\ud83d\udc4e\ud83d\udc4e\ud83d\udc4e\ud83d\udc4e"
+    },
+    {
         "id": "f3d900ba-561a-441a-8100-a3b9eafe23a7",
         "date": "2024-08-31",
         "score": 5,
@@ -16,6 +112,14 @@
         "text": "very good app \ud83d\udc4d"
     },
     {
+        "id": "b2b6e571-88a0-4548-aaa8-7ea91cc7bd89",
+        "date": "2024-08-31",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "it's is very good application. lowest rates from other app ola,uber"
+    },
+    {
         "id": "9a9acbbd-85f9-4aed-950f-95cd6fa96d98",
         "date": "2024-08-31",
         "score": 5,
@@ -30,6 +134,14 @@
         "scoreText": "4",
         "title": null,
         "text": "sahi hai"
+    },
+    {
+        "id": "6be97a29-0ade-4f25-b28e-165f6c878f71",
+        "date": "2024-08-31",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Always show extra road for more money \ud83e\udd11\ud83e\udd11\ud83e\udd11\ud83e\udd11\ud83e\udd11\ud83e\udd11\ud83e\udd11\ud83e\udd11\ud83d\udcb0\ud83d\udcb0\ud83e\udd11\ud83e\udd11\ud83e\udd11"
     },
     {
         "id": "6bc71c20-4a6e-40ee-8389-440d14d20ce2",
@@ -62,6 +174,14 @@
         "scoreText": "1",
         "title": null,
         "text": "This app specializes in cancelling rides!!"
+    },
+    {
+        "id": "1e6645c2-aca3-4dc4-9856-8ac07f0b8f7c",
+        "date": "2024-08-31",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "so nice"
     },
     {
         "id": "1d38c9b9-c789-45c4-9b2e-2765b2968b7b",

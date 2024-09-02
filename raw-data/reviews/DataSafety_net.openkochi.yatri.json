@@ -3,22 +3,16 @@
         "sharedData": [],
         "collectedData": [
             {
-                "data": "App interactions",
-                "optional": false,
+                "data": "Approximate location",
+                "optional": true,
                 "purpose": "App functionality, Analytics",
-                "type": "App activity"
+                "type": "Location"
             },
             {
-                "data": "Crash logs",
-                "optional": false,
-                "purpose": "Analytics",
-                "type": "App info and performance"
-            },
-            {
-                "data": "Diagnostics",
-                "optional": false,
-                "purpose": "Analytics",
-                "type": "App info and performance"
+                "data": "Precise location",
+                "optional": true,
+                "purpose": "App functionality, Analytics",
+                "type": "Location"
             },
             {
                 "data": "User IDs",
@@ -45,16 +39,22 @@
                 "type": "Device or other IDs"
             },
             {
-                "data": "Approximate location",
-                "optional": true,
-                "purpose": "App functionality, Analytics",
-                "type": "Location"
+                "data": "Crash logs",
+                "optional": false,
+                "purpose": "Analytics",
+                "type": "App info and performance"
             },
             {
-                "data": "Precise location",
-                "optional": true,
+                "data": "Diagnostics",
+                "optional": false,
+                "purpose": "Analytics",
+                "type": "App info and performance"
+            },
+            {
+                "data": "App interactions",
+                "optional": false,
                 "purpose": "App functionality, Analytics",
-                "type": "Location"
+                "type": "App activity"
             }
         ],
         "securityPractices": [
