@@ -1,5 +1,141 @@
 [
     {
+        "id": "f266cedc-50e9-43fb-b77f-b0f3a008c7af",
+        "date": "2024-09-02",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "very costly"
+    },
+    {
+        "id": "e783c716-1f7e-4639-aa8c-78ca24c7ac05",
+        "date": "2024-09-02",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "This app is far better than Ola but major drawback is they don't provide GST bills like Ola. Only Drivers receipt can be downloaded"
+    },
+    {
+        "id": "cad9db22-d734-425c-ab53-040a6201104c",
+        "date": "2024-09-02",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Fraud app"
+    },
+    {
+        "id": "c56b0d7a-1691-49e0-abc5-e568e0ea8533",
+        "date": "2024-09-02",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "booking confirmation fast and safe"
+    },
+    {
+        "id": "af383608-a0c9-4e27-9695-4605c65298fd",
+        "date": "2024-09-02",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Firstly Namma yatri is charging high fare compared to other riding apps. On top of that Drivers are extremely rude, ofcourse not everyone, but 4 out 10 is rude. Kindly take precautions measures & keep safety things.. Because on 30th August one of the driver behaved extremely harshly"
+    },
+    {
+        "id": "982c6238-9d11-49b7-a030-65ce0e578aa8",
+        "date": "2024-09-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "awesome"
+    },
+    {
+        "id": "94d828c7-9a93-4f0b-ace4-31fff13bb748",
+        "date": "2024-09-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good service."
+    },
+    {
+        "id": "8fb6826c-1a67-40f1-b675-f5fd36815b8b",
+        "date": "2024-09-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very convenient and offerdable"
+    },
+    {
+        "id": "8abdb9f7-2496-4ab8-ae34-b386f2ee8403",
+        "date": "2024-09-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good \ud83d\udc4d\ud83d\ude0a\ud83d\ude0a"
+    },
+    {
+        "id": "7f3f5744-e3df-4fae-868e-70b4f499e531",
+        "date": "2024-09-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Bahut achcha hai"
+    },
+    {
+        "id": "7f098aff-7fc5-48be-8610-8643960d9be5",
+        "date": "2024-09-02",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "Auto drivers do not have the decency to wait atleast for a min. Auto driver cancelled my ride because he could not wait a minute Namma yatri team is this in your policy? Not to wait for atleast a minute? If yes then you might want to revise your policy."
+    },
+    {
+        "id": "7ce361f0-6405-4ec3-92b2-883202ded8af",
+        "date": "2024-09-02",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Drivers don't pickup or drop to the given location in the app. They are very rude and abusive . I had a ride where the driver took the wrong turn before dropping me to the assigned location and when requested to drop at given location,he started arguing,yelling in kannada and created so much scene after dropping at the location and he was drunk also. How am I suppose to feel safe after such incident. Very poor customer service..tried several times to reach out to customer care to report"
+    },
+    {
+        "id": "61e46e4d-3c2c-4a2a-b7fd-395b0f31ef9b",
+        "date": "2024-09-02",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "OTP should be renamed as ATP ( All time password ) As the same 4 digits coming every time"
+    },
+    {
+        "id": "5bfa3a40-9e1c-4884-b3d1-66fd0cff813e",
+        "date": "2024-09-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "polite and respectful"
+    },
+    {
+        "id": "2d4beb37-ee41-44aa-a680-2e44ecd5be3b",
+        "date": "2024-09-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "excellent service"
+    },
+    {
+        "id": "27dd85d1-f121-4abd-ad30-d11c351a6d07",
+        "date": "2024-09-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super"
+    },
+    {
+        "id": "24d5140a-2ceb-4732-bf8a-63281beae890",
+        "date": "2024-09-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good person"
+    },
+    {
         "id": "ff6f90bd-9646-4648-8dec-2657b533df7a",
         "date": "2024-09-01",
         "score": 1,
@@ -22,6 +158,14 @@
         "scoreText": "5",
         "title": null,
         "text": "good service. cheap and best"
+    },
+    {
+        "id": "f057f359-16b8-4567-9271-1e636d6c76dd",
+        "date": "2024-09-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "I am not getting OTP, I have tried several times. Please resolve this issue. [Update] Issue is resolved now, thank you!"
     },
     {
         "id": "e9d001d2-c5bf-47b1-9fac-9ef5c9f22226",
