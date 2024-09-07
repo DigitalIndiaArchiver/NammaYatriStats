@@ -1,5 +1,165 @@
 [
     {
+        "id": "f1a75ae0-5521-47dc-a4e1-86f522d70e74",
+        "date": "2024-09-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "excellent"
+    },
+    {
+        "id": "d820b204-6a62-4d2d-acd3-f617fa3a7a13",
+        "date": "2024-09-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Best app for booking auto with fair price and decent drivers. I have been using this app for some time and found good improvements made with booking options."
+    },
+    {
+        "id": "c988bec9-6fda-43d3-a99f-a7aca1b7598f",
+        "date": "2024-09-06",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "worst in cancellations"
+    },
+    {
+        "id": "c2eab72f-61f1-4260-b1e2-f6d3c7b01c51",
+        "date": "2024-09-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good nice"
+    },
+    {
+        "id": "c236c287-0f9e-44f6-ad24-e866fb0f64bb",
+        "date": "2024-09-06",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "not getting auto"
+    },
+    {
+        "id": "b1d999ba-3db4-4cd9-8a90-ac381a545fff",
+        "date": "2024-09-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "best app low price"
+    },
+    {
+        "id": "aa6b5e4c-a256-42a4-88bf-6bc2fc77b177",
+        "date": "2024-09-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Since the service has been started in Gulbarga,it's great.."
+    },
+    {
+        "id": "a67acb01-cef2-43bd-9d5d-e5a124b07e4e",
+        "date": "2024-09-06",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Worst app"
+    },
+    {
+        "id": "9c38b4f1-6333-4b0f-85b3-4ba7ba1534f0",
+        "date": "2024-09-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good app"
+    },
+    {
+        "id": "98eb7e99-3254-4266-a906-d8c1df4fa55e",
+        "date": "2024-09-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "5b447c57-7bb1-4aed-b75c-3512e0da006b",
+        "date": "2024-09-06",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Worst driver ever i hv experciencd in auto lazy fellows"
+    },
+    {
+        "id": "534822b2-89c1-4f48-8b99-8c415d425eeb",
+        "date": "2024-09-06",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Tukali app won't open!"
+    },
+    {
+        "id": "50a11f61-6c53-498a-8f36-f84c46da320f",
+        "date": "2024-09-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "48750433-befe-4560-ba0c-807142bcde2a",
+        "date": "2024-09-06",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good experience"
+    },
+    {
+        "id": "458eb627-c97e-40be-be50-1fa0a594c523",
+        "date": "2024-09-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Boon for public convenience\ud83d\ude4f"
+    },
+    {
+        "id": "3e1ac47b-281c-4b01-a62b-3a8b6a7a6342",
+        "date": "2024-09-06",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Driver and customer care service person asking more amount. Driver speaking rude at me. Unsafe ride. After paying extra amount still getting driver shouting at me. raised the complaint thth closed without any reason."
+    },
+    {
+        "id": "344e110e-f670-4e79-a4d5-46974f647672",
+        "date": "2024-09-06",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "It updates wrong address to auto driver, later driver charging more money. Are you guys scamming customers?"
+    },
+    {
+        "id": "32dc2320-bf8e-403b-9ad2-361e690d38ab",
+        "date": "2024-09-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good service"
+    },
+    {
+        "id": "326b84a3-cfaa-4d8b-9862-4c4de4e07986",
+        "date": "2024-09-06",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "very good"
+    },
+    {
+        "id": "0fa81883-1b86-492b-8813-ce4e8348b498",
+        "date": "2024-09-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "it's good"
+    },
+    {
         "id": "e86fd2a5-2abd-4c89-975f-96c82be2e292",
         "date": "2024-09-05",
         "score": 1,
@@ -110,6 +270,14 @@
         "scoreText": "1",
         "title": null,
         "text": "Worst."
+    },
+    {
+        "id": "5fabf371-3797-4b2b-bac0-ce8d471dcc05",
+        "date": "2024-09-05",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "EASY TO USE"
     },
     {
         "id": "5890b9c2-0281-4fa6-8730-270009c0ae9f",
