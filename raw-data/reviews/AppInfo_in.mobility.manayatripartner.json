@@ -5,17 +5,17 @@
     "summary": "Zero Commission app for Drivers, with Direct Payment from Customers",
     "installs": "50,000+",
     "minInstalls": 50000,
-    "maxInstalls": 74576,
-    "score": 4.6882353,
+    "maxInstalls": 74710,
+    "score": 4.6835938,
     "scoreText": "4.7",
-    "ratings": 4963,
+    "ratings": 4983,
     "reviews": "http://gplayapi.cashlessconsumer.in/api/apps/in.mobility.manayatripartner/reviews",
     "histogram": {
         "1": 175,
-        "2": 97,
+        "2": 107,
         "3": 165,
         "4": 223,
-        "5": 4301
+        "5": 4311
     },
     "price": 0,
     "free": true,
