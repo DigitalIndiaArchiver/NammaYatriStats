@@ -21,16 +21,16 @@
                 "type": "Personal info"
             },
             {
-                "data": "App interactions",
-                "optional": false,
-                "purpose": "App functionality, Analytics",
-                "type": "App activity"
-            },
-            {
                 "data": "Device or other IDs",
                 "optional": false,
                 "purpose": "App functionality, Analytics",
                 "type": "Device or other IDs"
+            },
+            {
+                "data": "App interactions",
+                "optional": false,
+                "purpose": "App functionality, Analytics",
+                "type": "App activity"
             },
             {
                 "data": "Approximate location",
