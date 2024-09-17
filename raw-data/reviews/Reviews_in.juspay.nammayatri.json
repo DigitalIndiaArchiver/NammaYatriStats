@@ -1,5 +1,93 @@
 [
     {
+        "id": "fb6f9507-55d8-4f21-8eee-caef980b4e11",
+        "date": "2024-09-16",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "no bargain"
+    },
+    {
+        "id": "d665a18b-1df6-4322-b685-ab777eeb5e67",
+        "date": "2024-09-16",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Super"
+    },
+    {
+        "id": "c3187634-dc8a-4d85-9847-d49a861ca900",
+        "date": "2024-09-16",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good aap"
+    },
+    {
+        "id": "beebc3f2-c1c2-4677-84a9-2f46624ea907",
+        "date": "2024-09-16",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Bad"
+    },
+    {
+        "id": "b369eb10-a5e9-4ca1-a24c-0335c81d77c4",
+        "date": "2024-09-16",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Simplistic UI"
+    },
+    {
+        "id": "a9fe7d9a-27a3-4f04-8d08-cdcd5d5e667d",
+        "date": "2024-09-16",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "I had a terrible experience with a Namma Yatri auto driver who demanded 1.5 times the fare, even though it was 9:00 PM on a regular day in a low-traffic area."
+    },
+    {
+        "id": "89b652f2-0a57-4d59-a123-1e816eedeb1c",
+        "date": "2024-09-16",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "6408710a-3e7e-4e91-9bc1-5e543b224bca",
+        "date": "2024-09-16",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super"
+    },
+    {
+        "id": "43707402-fb72-420d-9dfe-9258e5fc0ec5",
+        "date": "2024-09-16",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "ok good DL"
+    },
+    {
+        "id": "29253a36-3577-4f9b-9ca5-fff7297dc41a",
+        "date": "2024-09-16",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super"
+    },
+    {
+        "id": "208fe49b-d447-4b1c-82a6-d200925a0444",
+        "date": "2024-09-16",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good service"
+    },
+    {
         "id": "fd4c7d6f-3aee-4074-9d05-c78580083aa3",
         "date": "2024-09-15",
         "score": 5,
@@ -86,6 +174,14 @@
         "scoreText": "5",
         "title": null,
         "text": "good"
+    },
+    {
+        "id": "31a6ec9e-d581-4e3d-9265-730ab2f436fa",
+        "date": "2024-09-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "happy"
     },
     {
         "id": "2e55dcaa-17d5-44c2-ad93-ea3171fe3c73",
