@@ -22,10 +22,22 @@
                 "type": "Calendar"
             },
             {
-                "data": "Device or other IDs",
+                "data": "Files and docs",
                 "optional": true,
-                "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance, Personalization",
-                "type": "Device or other IDs"
+                "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance, Personalization, Account management",
+                "type": "Files and docs"
+            },
+            {
+                "data": "Emails",
+                "optional": true,
+                "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Personalization, Account management",
+                "type": "Messages"
+            },
+            {
+                "data": "SMS or MMS",
+                "optional": true,
+                "purpose": "App functionality, Account management",
+                "type": "Messages"
             },
             {
                 "data": "Name",
@@ -46,22 +58,10 @@
                 "type": "Personal info"
             },
             {
-                "data": "Emails",
+                "data": "Device or other IDs",
                 "optional": true,
-                "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Personalization, Account management",
-                "type": "Messages"
-            },
-            {
-                "data": "SMS or MMS",
-                "optional": true,
-                "purpose": "App functionality, Account management",
-                "type": "Messages"
-            },
-            {
-                "data": "Files and docs",
-                "optional": true,
-                "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance, Personalization, Account management",
-                "type": "Files and docs"
+                "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance, Personalization",
+                "type": "Device or other IDs"
             }
         ],
         "securityPractices": [
