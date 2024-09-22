@@ -10,10 +10,10 @@
         ],
         "collectedData": [
             {
-                "data": "Device or other IDs",
+                "data": "Calendar events",
                 "optional": true,
-                "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance, Personalization",
-                "type": "Device or other IDs"
+                "purpose": "App functionality, Personalization",
+                "type": "Calendar"
             },
             {
                 "data": "Contacts",
@@ -22,10 +22,10 @@
                 "type": "Contacts"
             },
             {
-                "data": "Calendar events",
+                "data": "Files and docs",
                 "optional": true,
-                "purpose": "App functionality, Personalization",
-                "type": "Calendar"
+                "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance, Personalization, Account management",
+                "type": "Files and docs"
             },
             {
                 "data": "Emails",
@@ -58,10 +58,10 @@
                 "type": "Personal info"
             },
             {
-                "data": "Files and docs",
+                "data": "Device or other IDs",
                 "optional": true,
-                "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance, Personalization, Account management",
-                "type": "Files and docs"
+                "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance, Personalization",
+                "type": "Device or other IDs"
             }
         ],
         "securityPractices": [
