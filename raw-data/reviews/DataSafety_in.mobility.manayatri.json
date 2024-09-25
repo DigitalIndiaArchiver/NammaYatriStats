@@ -10,24 +10,6 @@
         ],
         "collectedData": [
             {
-                "data": "Crash logs",
-                "optional": false,
-                "purpose": "Analytics",
-                "type": "App info and performance"
-            },
-            {
-                "data": "Diagnostics",
-                "optional": false,
-                "purpose": "App functionality, Analytics, Developer communications",
-                "type": "App info and performance"
-            },
-            {
-                "data": "Other app performance data",
-                "optional": true,
-                "purpose": "App functionality, Analytics",
-                "type": "App info and performance"
-            },
-            {
                 "data": "Contacts",
                 "optional": true,
                 "purpose": "App functionality, Personalization, Account management",
@@ -44,6 +26,24 @@
                 "optional": false,
                 "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance",
                 "type": "Personal info"
+            },
+            {
+                "data": "Crash logs",
+                "optional": false,
+                "purpose": "Analytics",
+                "type": "App info and performance"
+            },
+            {
+                "data": "Diagnostics",
+                "optional": false,
+                "purpose": "App functionality, Analytics, Developer communications",
+                "type": "App info and performance"
+            },
+            {
+                "data": "Other app performance data",
+                "optional": true,
+                "purpose": "App functionality, Analytics",
+                "type": "App info and performance"
             }
         ],
         "securityPractices": [
