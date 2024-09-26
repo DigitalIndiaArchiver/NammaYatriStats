@@ -97,6 +97,10 @@
             "type": "Other"
         },
         {
+            "permission": "Google Play license check",
+            "type": "Other"
+        },
+        {
             "permission": "read Google service configuration",
             "type": "Other"
         }
