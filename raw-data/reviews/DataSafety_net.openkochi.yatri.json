@@ -3,28 +3,10 @@
         "sharedData": [],
         "collectedData": [
             {
-                "data": "User IDs",
+                "data": "App interactions",
                 "optional": false,
                 "purpose": "App functionality, Analytics",
-                "type": "Personal info"
-            },
-            {
-                "data": "Address",
-                "optional": true,
-                "purpose": "App functionality",
-                "type": "Personal info"
-            },
-            {
-                "data": "Phone number",
-                "optional": false,
-                "purpose": "App functionality, Account management",
-                "type": "Personal info"
-            },
-            {
-                "data": "Device or other IDs",
-                "optional": false,
-                "purpose": "App functionality, Analytics",
-                "type": "Device or other IDs"
+                "type": "App activity"
             },
             {
                 "data": "Approximate location",
@@ -51,10 +33,28 @@
                 "type": "App info and performance"
             },
             {
-                "data": "App interactions",
+                "data": "User IDs",
                 "optional": false,
                 "purpose": "App functionality, Analytics",
-                "type": "App activity"
+                "type": "Personal info"
+            },
+            {
+                "data": "Address",
+                "optional": true,
+                "purpose": "App functionality",
+                "type": "Personal info"
+            },
+            {
+                "data": "Phone number",
+                "optional": false,
+                "purpose": "App functionality, Account management",
+                "type": "Personal info"
+            },
+            {
+                "data": "Device or other IDs",
+                "optional": false,
+                "purpose": "App functionality, Analytics",
+                "type": "Device or other IDs"
             }
         ],
         "securityPractices": [
