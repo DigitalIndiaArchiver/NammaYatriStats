@@ -1,5 +1,157 @@
 [
     {
+        "id": "ed466d57-aa0b-466d-843e-63b5033f4481",
+        "date": "2024-10-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good"
+    },
+    {
+        "id": "ec9316a9-4a6e-4858-8be2-935e670416c0",
+        "date": "2024-10-06",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "Car booking not working"
+    },
+    {
+        "id": "e5f6a187-95f2-42f3-b2fc-d5afa8fd2e0d",
+        "date": "2024-10-06",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Price is always higher than other services"
+    },
+    {
+        "id": "dfb77da2-5d5a-46a9-b15e-60366dd9ffbc",
+        "date": "2024-10-06",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Bad app"
+    },
+    {
+        "id": "df02d1af-c310-4769-a6ce-8de74859abf1",
+        "date": "2024-10-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good"
+    },
+    {
+        "id": "d2457a8c-e6e7-494d-beaa-c69fb39d4d00",
+        "date": "2024-10-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good experience go for it"
+    },
+    {
+        "id": "cf3c79b6-8a50-4f50-bb3f-009ae5859e03",
+        "date": "2024-10-06",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "Rides do not get confirmed quickly... If confirmed, it is cancelled by the drivers most of the time"
+    },
+    {
+        "id": "b31861d8-7835-47e3-a61f-3f86e39c8259",
+        "date": "2024-10-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good drive."
+    },
+    {
+        "id": "a7d3486c-f1ce-4ed2-b0d6-c9f2548e9d81",
+        "date": "2024-10-06",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "very heavy cost sorry next time not using thanks \ud83d\ude4f"
+    },
+    {
+        "id": "6c6b8c4b-e605-46eb-832c-b14abc4cbd83",
+        "date": "2024-10-06",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "pice full use full app"
+    },
+    {
+        "id": "6606dbf4-dd75-49fa-b94e-0976c68f8a31",
+        "date": "2024-10-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "goood excellent"
+    },
+    {
+        "id": "4e5a5b32-ff53-4f81-9d78-f980b217d634",
+        "date": "2024-10-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "best alternative for ride books other than ola and Uber"
+    },
+    {
+        "id": "3f00c2a5-b3c1-4eb2-82b8-3f7d9c0ffbe2",
+        "date": "2024-10-06",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "\"Dear Namma Yatri Team\" I am extremely disappointed with my inaugural experience with your cab service. The exorbitant fare of \u20b9251 for a mere 2.7 kilometers is utterly unacceptable. This egregious overcharging has left a sour taste, Such exploitative practices can irreparably damage customer trust and loyalty. I implore you to revisit your pricing strategy and Being a kannadiga I thought to support namma yatri !! Frm now I'll not use namma yatri and don't suggest any one...! Learn frm OLA !!"
+    },
+    {
+        "id": "30134125-6ab1-4862-966a-0bf8bf3322e2",
+        "date": "2024-10-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super"
+    },
+    {
+        "id": "2edcd825-edf2-4ff6-9270-d881cba6adfe",
+        "date": "2024-10-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Super"
+    },
+    {
+        "id": "2a270ebc-7d7d-4bbc-8e25-9c47f246ca6a",
+        "date": "2024-10-06",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "\ud83d\udc4d"
+    },
+    {
+        "id": "25910928-de46-4969-9ced-9b8444acafa5",
+        "date": "2024-10-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "255d669c-12aa-4d58-8adc-1ce01d66ca41",
+        "date": "2024-10-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "1322d50d-50eb-4162-aa1f-24745e89bbcc",
+        "date": "2024-10-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Nice"
+    },
+    {
         "id": "d93e0ace-7199-4fd6-9114-4f541d4f4cda",
         "date": "2024-10-05",
         "score": 5,
@@ -126,6 +278,14 @@
         "scoreText": "1",
         "title": null,
         "text": "ok"
+    },
+    {
+        "id": "54af80f8-54e8-4f05-b08c-16c845dc5051",
+        "date": "2024-10-05",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Worst app ...for one car booking 20 times they cancelled."
     },
     {
         "id": "4cf97881-2a05-4682-bc73-f98e924c3bfd",
