@@ -1,5 +1,101 @@
 [
     {
+        "id": "f1ff9401-d33d-4b21-a539-733f96506555",
+        "date": "2024-10-12",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Easy to navigate. Customer friendly. Helpful partners."
+    },
+    {
+        "id": "c5a3e584-82d3-4dfa-b818-84a9d81543fd",
+        "date": "2024-10-12",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "c4b93ce9-2fde-49e7-96c7-cf4639261bae",
+        "date": "2024-10-12",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "exelant"
+    },
+    {
+        "id": "ad6ea9de-6e95-409f-a5f1-a9215c1e4fdc",
+        "date": "2024-10-12",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "nice"
+    },
+    {
+        "id": "9ac13174-896f-421f-9fc2-5d78672106f1",
+        "date": "2024-10-12",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very pocket friendly"
+    },
+    {
+        "id": "99f3541b-6ec7-451f-a7a0-7d27a98ccd65",
+        "date": "2024-10-12",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "many drivers cancelled, price range is high"
+    },
+    {
+        "id": "6bf6b960-39cc-4da7-ab00-d137fdc4998f",
+        "date": "2024-10-12",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good"
+    },
+    {
+        "id": "55db26ef-d528-48cd-9c94-5fc5170c2bc0",
+        "date": "2024-10-12",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Helpful"
+    },
+    {
+        "id": "473bfc25-b661-4623-9798-b1498df343bc",
+        "date": "2024-10-12",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Kindly stop this service Seriously you people not Abel to Handel this application and even there is no codination between Texi and your 3rd class application When ever I try to booked Cab from any railway station for example Howrah railway station new or Old complex Or Kolkata railway station Your couter people always telling there is no texi available please go and talk with Driver drictly we don't have any Texi Even there is lots of texi stand and available"
+    },
+    {
+        "id": "29b5c440-022c-46dc-bbc2-3d89d494252b",
+        "date": "2024-10-12",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "app at ease"
+    },
+    {
+        "id": "212d04c4-18ad-444d-8b75-56006822014c",
+        "date": "2024-10-12",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "ok"
+    },
+    {
+        "id": "153cf28a-8d29-4ef0-b3c6-5e668bd4847e",
+        "date": "2024-10-12",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good app nice"
+    },
+    {
         "id": "df394be6-1f92-4a9b-8c57-4941ca5b3cce",
         "date": "2024-10-11",
         "score": 1,
