@@ -1,11 +1,155 @@
 [
     {
+        "id": "f81befce-5b7d-4e2f-bec5-79a484d4f7a8",
+        "date": "2024-10-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good service"
+    },
+    {
+        "id": "f1c7c6df-5042-42ea-b24a-48a04e9237be",
+        "date": "2024-10-13",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Merri.?'\u00f74"
+    },
+    {
+        "id": "ee1977bc-1d0e-4134-ba74-9aff886fba9f",
+        "date": "2024-10-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice \ud83d\udc4d"
+    },
+    {
+        "id": "e388bcb7-40c9-464f-8d04-40d6e25c6fef",
+        "date": "2024-10-13",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "it's a good app, but need to enhance speed of the app"
+    },
+    {
+        "id": "dcc776e5-1dd7-4a9b-8d9b-20f5551ada51",
+        "date": "2024-10-13",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Yesterday night drive is too unofficial and abusing"
+    },
+    {
+        "id": "cb42c420-a6e0-490b-a25e-368b815ba727",
+        "date": "2024-10-13",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Always asks for update, that's really bad when we want to book, also no use for customers. Ola is better"
+    },
+    {
+        "id": "bfc2b229-0437-4ea5-b264-e7ab36c48775",
+        "date": "2024-10-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "jai shri ram \ud83d\udea9or chalo"
+    },
+    {
+        "id": "b8dcdd96-c5f6-4e49-aeac-569d2a919d88",
+        "date": "2024-10-13",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "Delete"
+    },
+    {
+        "id": "a14104de-9bc0-4de1-9271-9d5dd48f7aed",
+        "date": "2024-10-13",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "a0d0b416-c80a-4cfd-8233-d434838c079c",
+        "date": "2024-10-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "prompt arrival for pickup and driver was polite and attentive"
+    },
+    {
+        "id": "91269150-8ed7-48be-8ff0-5b52e90854cd",
+        "date": "2024-10-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "on time"
+    },
+    {
+        "id": "876030be-31b1-4ae6-9430-0711cdcc4993",
+        "date": "2024-10-13",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Need to improve your route finding algorithm. It doesn't selects a shortest/best/cost effective route. Specially when there are shorter routes inside the city, the app selects the routes via NICE road and charges a hefty/huge amount. For same source and destination other apps picks up very cost effective routes from within the city. You may loose the competition and customer."
+    },
+    {
+        "id": "8468ca53-1c8c-43b0-9dec-b0ccbbcc4d5b",
+        "date": "2024-10-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Please switch it's really benefitting the drivers \u2705\ud83d\udcaf\ud83d\udcaf"
+    },
+    {
+        "id": "81aad95a-a9bf-436d-a6df-cd46381d8289",
+        "date": "2024-10-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Gps navigation issue"
+    },
+    {
+        "id": "76190101-a3a1-4b26-9002-42285f94f09e",
+        "date": "2024-10-13",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Gunda yatri of Bangalore"
+    },
+    {
+        "id": "54e9f33e-7ab7-44d7-bfc6-6d09c3a8bb1b",
+        "date": "2024-10-13",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Such a rubbish app driver is asking for me to cancel trip he asked for extra 100 rs I cannot cancel my ride so I won't recommend anyone to use this app"
+    },
+    {
+        "id": "2bd1c47c-8448-4f20-9466-bf8704261b90",
+        "date": "2024-10-13",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Not good"
+    },
+    {
         "id": "fd7d669f-4f32-4a7f-88a3-b8d3b4229fa9",
         "date": "2024-10-12",
         "score": 5,
         "scoreText": "5",
         "title": null,
         "text": "good low price"
+    },
+    {
+        "id": "fd59462b-01a0-451f-a762-5223aa7b0363",
+        "date": "2024-10-12",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "really good"
     },
     {
         "id": "fd480adc-ad9f-493c-8376-0e0f93c48226",
@@ -22,6 +166,14 @@
         "scoreText": "5",
         "title": null,
         "text": "good \ud83d\udc4d\ud83d\ude0a"
+    },
+    {
+        "id": "b020a1e0-76d6-440e-b666-dff61c4c8117",
+        "date": "2024-10-12",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "cancellation of rides by driver but not reported to them and they end up at customer premises (causing conflicting situation) is recent observation among many travellers"
     },
     {
         "id": "adeda7b0-20ba-4d78-9b11-f2004be12978",
