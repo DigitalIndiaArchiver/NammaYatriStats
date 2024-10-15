@@ -1,5 +1,221 @@
 [
     {
+        "id": "f1fec655-7829-48f5-9fd4-277c229626b9",
+        "date": "2024-10-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super driver"
+    },
+    {
+        "id": "f0b4891b-4f4a-4f81-8dd2-ea4d35d1cd48",
+        "date": "2024-10-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "excellent app"
+    },
+    {
+        "id": "e2397a9a-ad20-428b-910a-5815623679ea",
+        "date": "2024-10-14",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "fine"
+    },
+    {
+        "id": "e128726a-c431-420d-a016-978a45e75314",
+        "date": "2024-10-14",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Worst experience with an auto driver and raised SR. It's still open for 10 days now. Fare is very high and will get auto only when the tip is added. Won't recommend this app."
+    },
+    {
+        "id": "dc5b9a32-1c44-4ce5-9e0b-f39317c4cb9a",
+        "date": "2024-10-14",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "Auto rickshaws still don't accept rides. It's as worthless as uber or ola. The waiting time has gone up to around 15 minutes. Not good at all when you need to be at work on time."
+    },
+    {
+        "id": "d7021408-1979-4183-8429-abf00e9ac0ff",
+        "date": "2024-10-14",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "I can't book a ride for others; it's not like Rapido or Uber where I can do it from anywhere. I need to be present at the location to book a ride."
+    },
+    {
+        "id": "cd9bcd8f-0a6a-4579-bed5-1ed01a52a02a",
+        "date": "2024-10-14",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "The rider can suddenly increase the charges. How come we are not given the option to pay less if it's taking too long to book a cab. But when we get delay due to whatever reason the rider can charges extra for the waiting period. You the policy makers should look into this. It takes turns of time to get a cab/ auto. We should wait for the cap but when it comes to the rider to wait for few more minutes. We can increase the actual amount which was supposed to be charged based upon the destination."
+    },
+    {
+        "id": "cc6a2427-2098-44db-871f-2247c60c0d17",
+        "date": "2024-10-14",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "My review is based on auto tab of the app this section is completely a trash and charges fare higher than the rate card because of driver add-ons. The drivers choose the extra add-ons each and every time making the fare expensive. On top of Expensive add-ons the route shown while booking is always the ones which are longer this completely destroys the use of the app. even after charging add-ons they can't provide multiple drops for auto."
+    },
+    {
+        "id": "c3972ee4-7e0b-4190-a575-150d2d8f6931",
+        "date": "2024-10-14",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "This app is not att customer friendly , only promote or spport auto driver to change more fair unethically. for 1km 80 to 90rs they charging like this."
+    },
+    {
+        "id": "c1854750-a327-4192-b07f-05d215199caa",
+        "date": "2024-10-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "He responded to our request to drop at the Right Spot . OK"
+    },
+    {
+        "id": "b3bc84b2-f643-4aec-8c72-4a9e94bd166f",
+        "date": "2024-10-14",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "Not taking the booking if the driver is also near..very bad response"
+    },
+    {
+        "id": "ae387232-e60a-4e48-9fcc-9cba0afa6368",
+        "date": "2024-10-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good service"
+    },
+    {
+        "id": "a9fafc7d-fc42-49d7-b873-7f739000d1fb",
+        "date": "2024-10-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very useful"
+    },
+    {
+        "id": "9da04e3a-0ff6-4ec2-bd01-30c36d9a638c",
+        "date": "2024-10-14",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Wrost app not at all booking the auto and cabs asking to add tips."
+    },
+    {
+        "id": "9b7b7a6c-dee9-49a9-88f9-33c4d07e2911",
+        "date": "2024-10-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "I suggest this app.i have experienced a smooth ride.drivers not demanding extra cash like other apps.."
+    },
+    {
+        "id": "8c56aff2-16c4-45b1-99cf-d94ea9ef7ff4",
+        "date": "2024-10-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "app with minimum riding price"
+    },
+    {
+        "id": "8aa0f4d9-3a3f-462b-891e-b66e87480ff1",
+        "date": "2024-10-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good service."
+    },
+    {
+        "id": "8937ddae-fee8-4ace-8aee-b3b07980af05",
+        "date": "2024-10-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "85c82cb9-b039-4d11-af13-4c7475ec7ddb",
+        "date": "2024-10-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super\ud83d\udc4d"
+    },
+    {
+        "id": "835d19ba-34a3-4631-b54c-eeed31427a0f",
+        "date": "2024-10-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "excellent"
+    },
+    {
+        "id": "5ac5e8c4-deb2-4fa7-9ab5-91217c1e346d",
+        "date": "2024-10-14",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "pricess are too high compared to Ola, Uber and Rapido, it shows two estimation amounts and always gets collected higher price and charges are not as per the number of kilometre. Commission to be collected from driver is being collected from customer. Very worst experience"
+    },
+    {
+        "id": "4f94ee01-c053-411f-8763-8c755afa4831",
+        "date": "2024-10-14",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "3rd rated app. When ride booking at morning hours this app demands extra money in the name of tips than usual price this type of activities are not permitted in Transport law. Charges to be fixed as per KM. Don't use Namma Yatri and Rapido both demands high price for same distance."
+    },
+    {
+        "id": "41416c2c-92d1-46a3-80bd-1081bf8e93d0",
+        "date": "2024-10-14",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "I stay in HSR and till date have tried 15 mins never ever got a auto."
+    },
+    {
+        "id": "3541c2e1-cb68-4c2c-bb15-4d9e30b1e541",
+        "date": "2024-10-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Driver an customer satisfaction"
+    },
+    {
+        "id": "1f6a30f8-2b28-440c-82ba-ddd8e2c57720",
+        "date": "2024-10-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "best app lo cost sefe journey I am full satisfaction"
+    },
+    {
+        "id": "02c9aec3-ede5-4217-913e-8e120f9cbdd0",
+        "date": "2024-10-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "013e8598-b356-4dbe-99f2-df5797fc5881",
+        "date": "2024-10-14",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good"
+    },
+    {
         "id": "f81befce-5b7d-4e2f-bec5-79a484d4f7a8",
         "date": "2024-10-13",
         "score": 5,
@@ -38,6 +254,14 @@
         "scoreText": "1",
         "title": null,
         "text": "Yesterday night drive is too unofficial and abusing"
+    },
+    {
+        "id": "d22eb297-ac81-4543-abeb-4638fd08bb6f",
+        "date": "2024-10-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
     },
     {
         "id": "cb42c420-a6e0-490b-a25e-368b815ba727",
