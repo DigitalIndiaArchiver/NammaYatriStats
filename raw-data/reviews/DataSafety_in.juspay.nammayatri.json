@@ -16,10 +16,22 @@
                 "type": "Device or other IDs"
             },
             {
-                "data": "Calendar events",
+                "data": "Name",
+                "optional": false,
+                "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Account management",
+                "type": "Personal info"
+            },
+            {
+                "data": "Email address",
+                "optional": false,
+                "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Account management",
+                "type": "Personal info"
+            },
+            {
+                "data": "Address",
                 "optional": true,
-                "purpose": "App functionality, Personalization",
-                "type": "Calendar"
+                "purpose": "App functionality",
+                "type": "Personal info"
             },
             {
                 "data": "Files and docs",
@@ -40,22 +52,10 @@
                 "type": "Messages"
             },
             {
-                "data": "Name",
-                "optional": false,
-                "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Account management",
-                "type": "Personal info"
-            },
-            {
-                "data": "Email address",
-                "optional": false,
-                "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Account management",
-                "type": "Personal info"
-            },
-            {
-                "data": "Address",
+                "data": "Calendar events",
                 "optional": true,
-                "purpose": "App functionality",
-                "type": "Personal info"
+                "purpose": "App functionality, Personalization",
+                "type": "Calendar"
             },
             {
                 "data": "Contacts",

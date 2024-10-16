@@ -1,5 +1,325 @@
 [
     {
+        "id": "fa9a7ca0-bf36-4c76-a1cc-6aca5d606567",
+        "date": "2024-10-15",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "During emergency not even one auto is available..."
+    },
+    {
+        "id": "f9e4933b-5bb6-497f-906d-14e5c40cc559",
+        "date": "2024-10-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good service"
+    },
+    {
+        "id": "f7829567-ade6-4562-a297-7cf5ddea1597",
+        "date": "2024-10-15",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "My only gripe with this app is needing to keep my GPS on to even run the app. I should be able to request rides even without since I'll be choosing a start & drop off location manually."
+    },
+    {
+        "id": "e9bae2e4-1d32-4c0a-a715-7520c3f6766e",
+        "date": "2024-10-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good app I loved it"
+    },
+    {
+        "id": "e7804b93-f1b6-4d30-aac3-2ca8cf1e18f9",
+        "date": "2024-10-15",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "Good Application"
+    },
+    {
+        "id": "de8533ec-bf4b-40ca-8807-937226317d9b",
+        "date": "2024-10-15",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Worst experienced when required no body accepted my request. Worst app too n driver too as accepting the trip rejecting immediately"
+    },
+    {
+        "id": "d7e13b8b-10e2-4c34-97f5-833773739251",
+        "date": "2024-10-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "I found this app very useful for cities like tumkur."
+    },
+    {
+        "id": "d6eb5950-9085-4ba5-abc4-788968618583",
+        "date": "2024-10-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "cab49907-a3d0-4a2e-9dd8-5e4d01613a24",
+        "date": "2024-10-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "b64f612d-5f71-4b0e-aebe-1d3f15a288bb",
+        "date": "2024-10-15",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "The worst app emergency time any cab and auto not accepting the app rain days in book 20 min any cab auto not accepting theost worst app not a use this app"
+    },
+    {
+        "id": "ae1c9c4e-f9b8-460c-98ef-82bb2fa0e9ab",
+        "date": "2024-10-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "price must be little budget friendly"
+    },
+    {
+        "id": "ad1b5646-6446-4e8c-9931-3973c92e5319",
+        "date": "2024-10-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "excellent response and safe dive, good person and humanity."
+    },
+    {
+        "id": "a4f70982-954a-4ba1-9d9f-a3d59af5d37e",
+        "date": "2024-10-15",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Driver canceling too mach fast of time"
+    },
+    {
+        "id": "9cdb9995-2cd0-47f7-a88c-7e8a6137cdeb",
+        "date": "2024-10-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good experience, availability is much better than ola/uber at Chennai airport"
+    },
+    {
+        "id": "9b71bab5-90bf-423c-9810-0b2c85defd1d",
+        "date": "2024-10-15",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "ok"
+    },
+    {
+        "id": "889e6076-ddb7-457f-adfa-b67eb7dddc65",
+        "date": "2024-10-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good and safe fastest pickup and excellent app"
+    },
+    {
+        "id": "87602e03-1ee1-4364-ad60-2bd299c58542",
+        "date": "2024-10-15",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Recently not getting any cabs"
+    },
+    {
+        "id": "821be994-1a11-4670-af11-e0e5485e930f",
+        "date": "2024-10-15",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "Fares are exorbitant compared to Uber & Ola"
+    },
+    {
+        "id": "7c4e9c97-7b35-451f-a678-37d675036f08",
+        "date": "2024-10-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Excellent And Reliable App"
+    },
+    {
+        "id": "7c4ca103-76ba-4745-9a64-4f0aba5fe561",
+        "date": "2024-10-15",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Driver doing late when I booked he was 1km but 10miniths letter 3km why he is going far he is drinked or idiot"
+    },
+    {
+        "id": "7a5db8a9-0d66-483c-98fc-98fe8ddda197",
+        "date": "2024-10-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super super"
+    },
+    {
+        "id": "79d7d375-1ff8-4d91-87b2-0ad7c32324ab",
+        "date": "2024-10-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "692acedd-e799-40d4-b815-0afb557693fa",
+        "date": "2024-10-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "6915cc3a-c312-4a35-ad0a-cf45ab344c54",
+        "date": "2024-10-15",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Worst app ,I was waiting for 30 min for a auto ride, the driver cancelled the ride last minute, due to which I was late for work, no response was given by their app support also"
+    },
+    {
+        "id": "66fa3b7a-8c88-4541-8a54-5ea96cc92a0e",
+        "date": "2024-10-15",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Weaste of time, full of fraud auto drivers cancell the ride and ask for double charge,"
+    },
+    {
+        "id": "60ec898f-930d-4fb8-887a-b41e0325dd36",
+        "date": "2024-10-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Superb"
+    },
+    {
+        "id": "5045f4ee-2b6b-4f9b-94a7-32349b576988",
+        "date": "2024-10-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good service"
+    },
+    {
+        "id": "4bf26cf8-da1d-4b87-95e0-cb8b57822787",
+        "date": "2024-10-15",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "Driver is very good."
+    },
+    {
+        "id": "4591f78c-cb2b-4277-8b05-33a00400a2c2",
+        "date": "2024-10-15",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Fares are too high, ola is much better"
+    },
+    {
+        "id": "3efa243c-56f7-4075-92f9-223b2598266f",
+        "date": "2024-10-15",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Waste app....I'm really sorry for this type of review but it doesn't works properly though... hardly it accepts the requests"
+    },
+    {
+        "id": "3e1ac47b-281c-4b01-a62b-3a8b6a7a6342",
+        "date": "2024-10-15",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Driver and customer care service person asking more amount. Driver speaking rude at me. Unsafe ride. After paying extra amount still getting driver shouting at me. raised the complaint thth closed without any reason.no proper response."
+    },
+    {
+        "id": "324719e4-29ab-4bae-a3c5-8f96fe304834",
+        "date": "2024-10-15",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "Why do we have to tip the rider even though we are already giving them estimated money. This is absolutely unnecessary and you guys are misusing the customers. Cancelliing the rides if the tip is not given. Very bad update. Disappointed"
+    },
+    {
+        "id": "30bfd76b-1f2f-400b-8453-a85b8d9ca372",
+        "date": "2024-10-15",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "What is the point when we do not get any ride at desperate times even with the highest tip option? Rickshaw drivers behave like they're giving us a free ride."
+    },
+    {
+        "id": "2f4722b7-bf9d-48ff-ae5e-87d55a17856c",
+        "date": "2024-10-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Iiiiiii\u00edi"
+    },
+    {
+        "id": "28e7bd0e-cff2-4711-8ad1-9921dccb20ac",
+        "date": "2024-10-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Abdull Shakeer Sha werry nice porsen"
+    },
+    {
+        "id": "283b5590-8bf5-46b6-adc7-8899fa06144a",
+        "date": "2024-10-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "\ud83d\ude0d"
+    },
+    {
+        "id": "17b9c6a0-6e89-4b31-887c-63cebd1fe5d0",
+        "date": "2024-10-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good service \ud83d\udc4d"
+    },
+    {
+        "id": "177dc4b7-dbf3-4e19-af11-63c52c54d94c",
+        "date": "2024-10-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Super"
+    },
+    {
+        "id": "0e7fe6b7-ebcc-45b1-b35b-f1c90ea767e5",
+        "date": "2024-10-15",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "the app is good, but not sure why even a small rain causes so much problem to drivers that they won't even accepts the requests or move."
+    },
+    {
+        "id": "05ed11f0-408f-4e78-9cd6-46955c7dbd81",
+        "date": "2024-10-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super"
+    },
+    {
         "id": "f1fec655-7829-48f5-9fd4-277c229626b9",
         "date": "2024-10-14",
         "score": 5,
