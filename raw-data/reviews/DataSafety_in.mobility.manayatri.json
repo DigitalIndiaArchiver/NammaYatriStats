@@ -16,12 +16,6 @@
                 "type": "Device or other IDs"
             },
             {
-                "data": "Contacts",
-                "optional": true,
-                "purpose": "App functionality, Personalization, Account management",
-                "type": "Contacts"
-            },
-            {
                 "data": "Phone number",
                 "optional": false,
                 "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance",
@@ -44,6 +38,12 @@
                 "optional": true,
                 "purpose": "App functionality, Analytics",
                 "type": "App info and performance"
+            },
+            {
+                "data": "Contacts",
+                "optional": true,
+                "purpose": "App functionality, Personalization, Account management",
+                "type": "Contacts"
             }
         ],
         "securityPractices": [

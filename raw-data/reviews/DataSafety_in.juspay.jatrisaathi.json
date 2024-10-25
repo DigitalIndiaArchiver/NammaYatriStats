@@ -9,6 +9,12 @@
                 "type": "App activity"
             },
             {
+                "data": "Device or other IDs",
+                "optional": false,
+                "purpose": "App functionality, Analytics",
+                "type": "Device or other IDs"
+            },
+            {
                 "data": "Crash logs",
                 "optional": false,
                 "purpose": "Analytics",
@@ -49,12 +55,6 @@
                 "optional": false,
                 "purpose": "App functionality, Account management",
                 "type": "Personal info"
-            },
-            {
-                "data": "Device or other IDs",
-                "optional": false,
-                "purpose": "App functionality, Analytics",
-                "type": "Device or other IDs"
             }
         ],
         "securityPractices": [
