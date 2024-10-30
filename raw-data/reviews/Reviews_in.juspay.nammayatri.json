@@ -1,5 +1,237 @@
 [
     {
+        "id": "ee693774-f815-4280-81b2-0642b679daf4",
+        "date": "2024-10-29",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Bad"
+    },
+    {
+        "id": "da606baf-652e-4af0-876d-8b019a51e30f",
+        "date": "2024-10-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "c0135189-40f0-4cad-9260-63d533566166",
+        "date": "2024-10-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "bbd209f0-6e4b-4cd8-98b1-b1eca430d9f5",
+        "date": "2024-10-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "safe driving"
+    },
+    {
+        "id": "b6104b43-f3ab-4d82-ae95-2e1b99e6c990",
+        "date": "2024-10-29",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Complaint not entertained and no action taken"
+    },
+    {
+        "id": "b5dc79cc-7de8-4071-81c0-ea4090bb1b8a",
+        "date": "2024-10-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "best service spl for ladies, thanks DC ma'am"
+    },
+    {
+        "id": "aa326f79-2098-450d-8516-f98537d63efe",
+        "date": "2024-10-29",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Nonsense, they just want us to add tips for the rides where fare are fixed by YOU already. This is daylight looting...."
+    },
+    {
+        "id": "9c06fcbb-8690-46f6-8b00-d7b4abd7016b",
+        "date": "2024-10-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice"
+    },
+    {
+        "id": "88657410-20ca-49d1-addf-7b0fdefe9311",
+        "date": "2024-10-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "This Driver is extremely polite and kind. 5 stars,to his service"
+    },
+    {
+        "id": "731cec13-caf0-4577-a909-62d7ec3d2524",
+        "date": "2024-10-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice"
+    },
+    {
+        "id": "581c00c4-7282-474f-8c2f-9f030a7399ff",
+        "date": "2024-10-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice"
+    },
+    {
+        "id": "30232c1d-caca-4413-987b-a4c5d32ad2ff",
+        "date": "2024-10-29",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "Drivers denies duty as you speak in hindi"
+    },
+    {
+        "id": "3022b5bc-5fa9-4b1c-a381-ecfc488566c9",
+        "date": "2024-10-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good"
+    },
+    {
+        "id": "227b14af-2795-4ab2-a882-660ab1df3d1c",
+        "date": "2024-10-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "supar"
+    },
+    {
+        "id": "209bcbec-ea98-4370-9d38-c6d3c41c6880",
+        "date": "2024-10-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good application"
+    },
+    {
+        "id": "f2901bb4-da1f-4782-af13-687b5e38a31a",
+        "date": "2024-10-28",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Rude and rash drivers that do not honour the shown fare and always demand extra! For e.g. a 700 rs. ride will cost you 900 rs. because of driver bribes and that too after a lot of arguement to negotiate the bribe! Even the app itself doesn't respect Android's notification categories! You cannot disable promotional notifications without disabling all notifications."
+    },
+    {
+        "id": "cf87fb78-35f9-4d4f-9d27-9bb3505ed3ce",
+        "date": "2024-10-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "cbf10365-be47-4fe5-b636-b6421c15641d",
+        "date": "2024-10-28",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "I have this app from last one year , many times try to book transportation it doesn't work at all . Very poor app and no response."
+    },
+    {
+        "id": "bdffb6ff-d9b9-455c-86fd-bfa6c1bd11a9",
+        "date": "2024-10-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "I love gulbarga"
+    },
+    {
+        "id": "afd11f2b-7e22-4e31-88f4-ad658ed03b43",
+        "date": "2024-10-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "755edc5c-3cac-432a-95ca-024bd7847bdf",
+        "date": "2024-10-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good service"
+    },
+    {
+        "id": "71b2dcab-1240-47c8-85a6-f2acf35dec0e",
+        "date": "2024-10-28",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Very bad app Not at all useful"
+    },
+    {
+        "id": "6984bf12-ea94-40e5-b02e-6c240565c02c",
+        "date": "2024-10-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super driver"
+    },
+    {
+        "id": "5b313908-1366-407c-8bae-f184ba025e63",
+        "date": "2024-10-28",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "Easy to use"
+    },
+    {
+        "id": "3ae0b453-0d42-4b81-9214-92653e1a746a",
+        "date": "2024-10-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super"
+    },
+    {
+        "id": "2731e711-3806-4666-a321-dfb73e3686bf",
+        "date": "2024-10-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good application for fast and safe"
+    },
+    {
+        "id": "206161ba-3026-4bc1-af64-56b7828bbb4a",
+        "date": "2024-10-28",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "If uber shows 236, this app shows 314. It's always expensive. Also no online payment available."
+    },
+    {
+        "id": "1d59f0f5-612f-4cbc-848f-20947f8979f9",
+        "date": "2024-10-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "easy to use"
+    },
+    {
+        "id": "fe699c93-8711-4d87-9dbd-d23fccbe73eb",
+        "date": "2024-10-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
         "id": "efaaded1-0b01-4628-ba39-d9872e37e418",
         "date": "2024-10-27",
         "score": 1,
@@ -54,6 +286,14 @@
         "scoreText": "5",
         "title": null,
         "text": "Namma yatri means most trustworthiness, most convenient"
+    },
+    {
+        "id": "7ee45fe6-8c36-4aa8-a0b4-d878c59e7396",
+        "date": "2024-10-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "best app to find auto soon in Bangalore"
     },
     {
         "id": "7aabf197-507b-4b70-810f-d34970d2b98d",
