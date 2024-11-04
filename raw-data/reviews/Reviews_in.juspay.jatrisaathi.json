@@ -1,5 +1,149 @@
 [
     {
+        "id": "fdf779cc-f5f1-4f07-93f0-637d8d2d949f",
+        "date": "2024-11-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nic"
+    },
+    {
+        "id": "f4c52b4f-4574-4bd7-8b6b-bc2815c9f724",
+        "date": "2024-11-03",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Worst experience I have faced in this application today. I could not log in to this app after receiving OTP. I was forced to book other cab available there in kolkata railway station. Need much improvement in this aap."
+    },
+    {
+        "id": "f4928566-cf36-47c6-8b6f-4ff48dc6a734",
+        "date": "2024-11-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "friend in need"
+    },
+    {
+        "id": "f0762feb-afd9-4127-9cb4-f9579e9fb5b6",
+        "date": "2024-11-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good experience"
+    },
+    {
+        "id": "e1dbd5b8-f9ca-4564-9c30-3720946a81f3",
+        "date": "2024-11-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "superb"
+    },
+    {
+        "id": "95a10795-bec5-4022-97f4-99c627afcdae",
+        "date": "2024-11-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice app"
+    },
+    {
+        "id": "8ecf170a-35a0-4cc4-aa32-17998c161e64",
+        "date": "2024-11-03",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "No refusal policy is not well implemented."
+    },
+    {
+        "id": "88e1d2a1-6863-4eb4-8e87-1ecb0f0fc412",
+        "date": "2024-11-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very easy to ride..and comfortable"
+    },
+    {
+        "id": "88489d1a-eee2-45c1-afbd-4745c9b1398d",
+        "date": "2024-11-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good"
+    },
+    {
+        "id": "7fbf9f5a-ef50-4445-add5-5297109f9feb",
+        "date": "2024-11-03",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "baal er yatri sathi...."
+    },
+    {
+        "id": "68e3c606-e254-4e57-a4c2-85a6f82b3167",
+        "date": "2024-11-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "I was lucky to get a neat n clean vehicle with good A/C. Driver was polite and expert with no rash driving. And at 610/- it's way below Ola n Uber."
+    },
+    {
+        "id": "561bdb8f-3e77-47da-b2de-eadac414f5c1",
+        "date": "2024-11-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "ok"
+    },
+    {
+        "id": "4049e442-72f8-4c88-ad83-4896e338a45a",
+        "date": "2024-11-03",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "Pls add stop feature on route...otherwise service is excellent"
+    },
+    {
+        "id": "3ea37722-f890-418c-8f70-b5ba4f24364a",
+        "date": "2024-11-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "polite driver"
+    },
+    {
+        "id": "33f1433b-c563-4ee2-8cc3-ac57b489146f",
+        "date": "2024-11-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good driver"
+    },
+    {
+        "id": "10114943-3618-4c71-8e22-f0b96d619a1f",
+        "date": "2024-11-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "08570b2c-f046-49ee-830d-239c7c6c6db4",
+        "date": "2024-11-03",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Horrible experience. Poorly managed. Rude staff. Should be shut down."
+    },
+    {
+        "id": "f1ed0848-6630-44c5-8794-ab449c92295a",
+        "date": "2024-11-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Very Good and friendly app to use"
+    },
+    {
         "id": "c8f94c8b-3786-4982-ad40-977385e04b1a",
         "date": "2024-11-02",
         "score": 5,
@@ -22,6 +166,14 @@
         "scoreText": "5",
         "title": null,
         "text": "nice"
+    },
+    {
+        "id": "a548c4ee-74fc-4d72-9c1f-e703375aedd2",
+        "date": "2024-11-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good"
     },
     {
         "id": "8bb594bb-bb70-4552-9c41-6fbdceb764d1",
