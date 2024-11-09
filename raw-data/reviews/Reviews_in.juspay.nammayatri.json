@@ -1,5 +1,157 @@
 [
     {
+        "id": "efba8730-9c89-4667-b49e-2c6e4d1f51d7",
+        "date": "2024-11-08",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "e81194e5-3ac1-47b3-8cae-e1e715a41c17",
+        "date": "2024-11-08",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "d2a9cbbc-5717-44a6-8cd0-a80617fa270e",
+        "date": "2024-11-08",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "I feel fares are not reasonable. For 1km ride, this app shows fare as Rs 40-50. But upto 2km minimal fare fixed by RTO is 30 rs. And these people say 100%a fare goes to driver, no commisson. but why do they charge extra? And you know at the same time Ola fare for same destination is 29-31 rupees!"
+    },
+    {
+        "id": "c7e09df4-92d8-4793-ac6f-070a91e15225",
+        "date": "2024-11-08",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "The app is help but picking location is bit frustrating as the location selected will not be exact"
+    },
+    {
+        "id": "c7034164-4b89-4f48-b792-37e5c09bb711",
+        "date": "2024-11-08",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good experience. the driver assigned was very good and did not cancel, like in some of the other apps. Appreciate the reliability."
+    },
+    {
+        "id": "b3e37c28-b7ad-48ee-94af-947dee7ab1aa",
+        "date": "2024-11-08",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "the best rides in Bangalore"
+    },
+    {
+        "id": "a5adfead-ca1d-4fbf-b7ee-1b3b34f9b887",
+        "date": "2024-11-08",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "thank you \ud83d\ude0a"
+    },
+    {
+        "id": "9a70ffa4-71ed-470b-aea8-1719d956e2fc",
+        "date": "2024-11-08",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good service"
+    },
+    {
+        "id": "810df04a-e720-4484-b532-25d7caa31822",
+        "date": "2024-11-08",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "fast ride acceptation"
+    },
+    {
+        "id": "784a1a22-9f03-4dbf-b971-5228b001d26e",
+        "date": "2024-11-08",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "4189f80e-5bfc-46a4-9fd6-d9c5f30ab0d1",
+        "date": "2024-11-08",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good app \ud83d\udc4d"
+    },
+    {
+        "id": "400b8d99-4745-40e7-96f0-673e1a1ebc08",
+        "date": "2024-11-08",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "adding location option is not thre"
+    },
+    {
+        "id": "3f431208-4fce-47b1-aa35-da20a5610885",
+        "date": "2024-11-08",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super"
+    },
+    {
+        "id": "3c36b4ec-630e-4cbf-8420-890784ab2a6f",
+        "date": "2024-11-08",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "Expensive"
+    },
+    {
+        "id": "36193bbd-f2e9-4df1-a044-8819d77aba49",
+        "date": "2024-11-08",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Bike taxi available!? Bike parcel service available!?"
+    },
+    {
+        "id": "2fcd160b-7e7a-4241-a57d-7373ae94dc4a",
+        "date": "2024-11-08",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "2891153f-b23b-444b-9ecd-0e4fcd58e1ed",
+        "date": "2024-11-08",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Start your service in Dharwad since the charges over here are very high."
+    },
+    {
+        "id": "1b254430-0122-4341-8f0e-2987f4cdbc32",
+        "date": "2024-11-08",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good service"
+    },
+    {
+        "id": "0707c91c-588d-4c5b-9929-9c07ffa31c72",
+        "date": "2024-11-08",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Catching auto manually is much better than this app. Like it takes 5 mins to load the app at the starting and even cost is also very high. Disappointed:("
+    },
+    {
         "id": "f8cd7b4a-abad-4f67-9d56-ba47bfb12c1d",
         "date": "2024-11-07",
         "score": 1,
@@ -32,7 +184,23 @@
         "text": "Unable to open a shared Google map location, but possible in uber ola etc"
     },
     {
+        "id": "950a54ec-06a5-4454-90d3-badd182c923e",
+        "date": "2024-11-07",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Not recommended ubar price is best"
+    },
+    {
         "id": "8ce33dd4-71e1-4212-87d8-c93ddad59362",
+        "date": "2024-11-07",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "87c69b60-ac43-4b6b-a329-544cbf49cbd3",
         "date": "2024-11-07",
         "score": 5,
         "scoreText": "5",
@@ -48,12 +216,36 @@
         "text": "so nice"
     },
     {
+        "id": "7a97cfa5-964f-4ccc-ad81-231437b8583e",
+        "date": "2024-11-07",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Best app ever \ud83e\udef6\ud83c\udffb\u2764\ufe0f\u200d\ud83d\udd25"
+    },
+    {
+        "id": "7979f6b0-aa31-41a6-bf4a-860d38ea3fbd",
+        "date": "2024-11-07",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "was easy to locate and got on time"
+    },
+    {
         "id": "2f39b87e-2d77-4088-9c45-b70ca462bc3d",
         "date": "2024-11-07",
         "score": 5,
         "scoreText": "5",
         "title": null,
         "text": "very good"
+    },
+    {
+        "id": "21ed97db-41fa-47c3-9ca4-55cfd44f9e38",
+        "date": "2024-11-07",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "New scam alert by Namma Yatri where auto drivers harrass and threaten passengers because the payment does not show up in their account because the auto driver had linked his bajajpay wallet to the UPI QR code pasted in the auto. Even after showing transaction details he was still agressive. Paid the fare twice. Driver was not only aggressive, but also kept shouting \" Kannada only\" until I sought for help from someone, who knows the language. I have proof of transaction and pictures and videos."
     },
     {
         "id": "0bb27b43-8081-4569-8aa3-5a62d19755f3",
