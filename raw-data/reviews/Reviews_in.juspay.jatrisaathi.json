@@ -1,5 +1,117 @@
 [
     {
+        "id": "f3744112-6da2-458b-a9d6-331592b6f10f",
+        "date": "2024-11-14",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "very good"
+    },
+    {
+        "id": "e9560917-c429-4166-a8ef-728b2a5187cf",
+        "date": "2024-11-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good"
+    },
+    {
+        "id": "dfdeb427-744c-4d85-a3fa-d013db6cb9d2",
+        "date": "2024-11-14",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "Rate is high."
+    },
+    {
+        "id": "c6f8e908-d206-4121-bc1e-7399206ce262",
+        "date": "2024-11-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very nice"
+    },
+    {
+        "id": "c25bfd5e-0c00-4680-8971-210e2467b41f",
+        "date": "2024-11-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "c1f5786e-30d2-4edb-abc7-6fa64c8ab87f",
+        "date": "2024-11-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Ride is Good \ud83d\udc4d\ud83c\udffb"
+    },
+    {
+        "id": "baf2bd32-20a7-4460-9e55-ebbfae261440",
+        "date": "2024-11-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "amazing"
+    },
+    {
+        "id": "9ce9b10b-cf77-4770-8b3d-a3fa8d3a7149",
+        "date": "2024-11-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Very good and at low cost."
+    },
+    {
+        "id": "8b8b302d-7b74-4073-9508-73844a361fea",
+        "date": "2024-11-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "This app is totally different from other apps, excellent service, I am very happy. please keep it up"
+    },
+    {
+        "id": "618b2596-3835-46f6-bd1c-2021ac183832",
+        "date": "2024-11-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "behaviour too good"
+    },
+    {
+        "id": "5ad58a98-285b-4752-8327-9aa5dc83d924",
+        "date": "2024-11-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Awesome service \ud83d\udc4f... but I suggest to developer kindly add \"E-RIKSHA\" service."
+    },
+    {
+        "id": "401d4d1f-b888-4bf4-8b22-711acea925bf",
+        "date": "2024-11-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very nice"
+    },
+    {
+        "id": "098d4fb8-8413-4923-8a84-1f3906c3d3cf",
+        "date": "2024-11-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good"
+    },
+    {
+        "id": "02208a32-8a36-48be-ba7e-82dcd07c9f97",
+        "date": "2024-11-14",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Wherever i want to go it shows the fare of 1250 ridiculous"
+    },
+    {
         "id": "fa188426-d52f-4e12-ab12-6b9308aa9e1e",
         "date": "2024-11-13",
         "score": 5,
@@ -48,6 +160,14 @@
         "text": "Thanks yatri sathi"
     },
     {
+        "id": "817db552-889e-4c84-afc1-530a8814c178",
+        "date": "2024-11-13",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "nice cab \ud83d\ude96 app cheap rate"
+    },
+    {
         "id": "79b60bc4-4b10-4f28-bab3-9cb366785131",
         "date": "2024-11-13",
         "score": 1,
@@ -56,12 +176,28 @@
         "text": "Average.The driver is soooooo much talketive."
     },
     {
+        "id": "6e73155e-0a8b-44f6-97a5-8f5f31b66719",
+        "date": "2024-11-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice journey..."
+    },
+    {
         "id": "62b9658a-5c13-42e9-8474-89034c019526",
         "date": "2024-11-13",
         "score": 5,
         "scoreText": "5",
         "title": null,
         "text": "Nice"
+    },
+    {
+        "id": "61936da6-543a-48b7-b81e-8d1e1dbe4657",
+        "date": "2024-11-13",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "stupid driver service all are here \ud83e\udd2c in Kolkata \ud83e\udd24"
     },
     {
         "id": "29cb343d-15aa-4d3a-99b2-b65d5b7fcb97",

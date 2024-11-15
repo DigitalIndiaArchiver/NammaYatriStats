@@ -16,6 +16,12 @@
                 "type": "Personal info"
             },
             {
+                "data": "Contacts",
+                "optional": true,
+                "purpose": "App functionality, Personalization, Account management",
+                "type": "Contacts"
+            },
+            {
                 "data": "Crash logs",
                 "optional": false,
                 "purpose": "Analytics",
@@ -32,12 +38,6 @@
                 "optional": true,
                 "purpose": "App functionality, Analytics",
                 "type": "App info and performance"
-            },
-            {
-                "data": "Contacts",
-                "optional": true,
-                "purpose": "App functionality, Personalization, Account management",
-                "type": "Contacts"
             },
             {
                 "data": "Device or other IDs",
