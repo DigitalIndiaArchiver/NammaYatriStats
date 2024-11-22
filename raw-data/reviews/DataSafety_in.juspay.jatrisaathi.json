@@ -15,18 +15,6 @@
                 "type": "App activity"
             },
             {
-                "data": "Crash logs",
-                "optional": false,
-                "purpose": "Analytics",
-                "type": "App info and performance"
-            },
-            {
-                "data": "Diagnostics",
-                "optional": false,
-                "purpose": "Analytics",
-                "type": "App info and performance"
-            },
-            {
                 "data": "Approximate location",
                 "optional": true,
                 "purpose": "App functionality, Analytics",
@@ -37,6 +25,18 @@
                 "optional": true,
                 "purpose": "App functionality, Analytics",
                 "type": "Location"
+            },
+            {
+                "data": "Crash logs",
+                "optional": false,
+                "purpose": "Analytics",
+                "type": "App info and performance"
+            },
+            {
+                "data": "Diagnostics",
+                "optional": false,
+                "purpose": "Analytics",
+                "type": "App info and performance"
             },
             {
                 "data": "User IDs",
