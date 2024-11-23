@@ -1,5 +1,165 @@
 [
     {
+        "id": "f45cc224-59ec-45ea-96f0-9f498fe2e434",
+        "date": "2024-11-22",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "Not good"
+    },
+    {
+        "id": "e91a286a-faf5-41f6-9b37-67172dfa66d8",
+        "date": "2024-11-22",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "Ok"
+    },
+    {
+        "id": "e91489e0-cd33-4482-8c2e-4e72b523241d",
+        "date": "2024-11-22",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good"
+    },
+    {
+        "id": "d72a465f-35cb-417a-89fc-9ce6b4540a98",
+        "date": "2024-11-22",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "superb"
+    },
+    {
+        "id": "d34f0eea-4992-455d-9e5a-c2909c576340",
+        "date": "2024-11-22",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "best taxi service in Bengaluru"
+    },
+    {
+        "id": "997a715c-27b3-45b7-abaa-1fe2993ad6bb",
+        "date": "2024-11-22",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "little pricey"
+    },
+    {
+        "id": "96fb8660-7acc-4d22-b6c8-b6a8ac7fdd21",
+        "date": "2024-11-22",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Super"
+    },
+    {
+        "id": "7aa751c3-2b38-418d-8049-2b1ba53bdc61",
+        "date": "2024-11-22",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "I had a very bad experience. The vehicle was worst condition and driver double the actual amount. After raising the issue no response from a week from the team."
+    },
+    {
+        "id": "72264bba-43ae-4bf7-b4f9-103ac7431aa0",
+        "date": "2024-11-22",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "First of all the fares are extremely high, on top of that the new tip feature! If there's no one picking my request, the app automatically updates some tip amount and searches for autos around me! This is just too expensive. Zero commission, but still change more than usual. Namma yatri is not the same as it used to be."
+    },
+    {
+        "id": "69124899-284f-4d5e-b5fc-e7db0da86985",
+        "date": "2024-11-22",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Worst.I had a disappointing experience with one of your drivers. Despite booking the ride through the app with the agreed fare, the driver demanded extra charges. This defeats the purpose of using a transparent and reliable service. Please ensure stricter enforcement of fare policies and take action against such practices to maintain trust in your platform."
+    },
+    {
+        "id": "683e5d94-52ce-42a2-b5e5-2f5539c779c1",
+        "date": "2024-11-22",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Stop forcing people to pay tips upfront. Tips are supposed to be for good service and should be given after a ride."
+    },
+    {
+        "id": "662f3df3-2e10-4f2f-8882-89f5df53a2ac",
+        "date": "2024-11-22",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "The app keeps crashing ,lagging and hanging. I book a ride, the driver arrives at the location but the app doesn't even show it is booked yet. It shows it is still looking. I have to keep refreshing the app. Drivers get mad at us when we cancel because it got booked somewhere else. But we don't even know it is booked for a whole 2 mins. Also, the prices are insanely higher than other applications and we do not have any settings to make adjustments to these prices. Namma yatri is robbing us."
+    },
+    {
+        "id": "6474a703-bcec-485f-8ba4-671b873fe475",
+        "date": "2024-11-22",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Highly exorbitant price. The other apps are about 30% cheaper than this. Felt this way for a 4 km distance ride"
+    },
+    {
+        "id": "63d0a180-8055-41fc-ac5e-6e78ea200695",
+        "date": "2024-11-22",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "Ride gets booked only when tip is added till then divers cancel the trip and customer service."
+    },
+    {
+        "id": "59a9a465-be2a-4233-a2df-baedb5a5ad7f",
+        "date": "2024-11-22",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "I had a very worst experience in this app where the driver came and I was in the auto and he told me I can't drop you there and left as such and if I report in the app they did not take any severe action against the driver"
+    },
+    {
+        "id": "4ee53e89-b20f-4824-921e-6632582f63d4",
+        "date": "2024-11-22",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good"
+    },
+    {
+        "id": "390bf9d6-e29a-4dcd-8c8b-f9992d623e76",
+        "date": "2024-11-22",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice"
+    },
+    {
+        "id": "38f69dcd-f6b4-4495-8756-7f5427a4c744",
+        "date": "2024-11-22",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "wow"
+    },
+    {
+        "id": "1f539333-b130-463f-ac1a-fb8beee041f5",
+        "date": "2024-11-22",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "App is automatically being closing man... Please rectify this immediately....."
+    },
+    {
+        "id": "0b1a1002-3385-4078-bac8-e499d0986939",
+        "date": "2024-11-22",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Easy to find cabs and reasonable rates"
+    },
+    {
         "id": "fad841ca-e6b9-4108-8da5-c56b0fa4675b",
         "date": "2024-11-21",
         "score": 5,
@@ -24,6 +184,14 @@
         "text": "It was really good experience initially. Nowadays after trying multiple times also no one is accepting the ride. After trying multiple times we have to text the driver not to cancel the ride and beg! It's really difficult when there is an emergency."
     },
     {
+        "id": "8f25c2db-42f9-402d-bf64-3a6e50562ee7",
+        "date": "2024-11-21",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "drivers was cooperative"
+    },
+    {
         "id": "895cf560-8ca0-460f-a0a7-9ad6ed285a87",
         "date": "2024-11-21",
         "score": 1,
@@ -46,6 +214,14 @@
         "scoreText": "3",
         "title": null,
         "text": "Very friendly app. Fare will be different while booking and arrival time. Before pickup waiting time will be started."
+    },
+    {
+        "id": "7404a4ab-652b-4994-baca-67555a61dee3",
+        "date": "2024-11-21",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good"
     },
     {
         "id": "6b652044-f254-4326-a760-9eca473d6d26",
