@@ -1,5 +1,213 @@
 [
     {
+        "id": "f42fc90e-42ee-4de4-9fd0-ecab4c555824",
+        "date": "2024-12-01",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "e2daaf16-ce7f-4689-b4b1-a9d68d3a2d3d",
+        "date": "2024-12-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "carefull drive"
+    },
+    {
+        "id": "dbcc413a-87d0-40f2-97b3-c7fa7fd7cce6",
+        "date": "2024-12-01",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "Morning time it is difficult to book. At 9am it is very difficult. Improve service. I booked a auto for hospital. No available.morning 9am it is difficult to book. Aap will not respond.no discounts."
+    },
+    {
+        "id": "db6cc466-6444-43a6-a951-0d6d21afc180",
+        "date": "2024-12-01",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "Not good"
+    },
+    {
+        "id": "c227a86f-4d38-4a45-ab1b-4a2db5ca17e9",
+        "date": "2024-12-01",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "No one will accept the request, and later it asks for quote more amount to accept the ride, please don't Install this app by looking advertisement, please continue with other platform like Rapido, Uber and Ola"
+    },
+    {
+        "id": "bf3041f3-34d4-493d-8c57-755b5dacf76a",
+        "date": "2024-12-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "best app for daily cabs usage.... with good deals..."
+    },
+    {
+        "id": "a8da3392-0e79-4328-a52f-971429c95c24",
+        "date": "2024-12-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "9e866204-4e8e-4b92-8fc2-38849725da52",
+        "date": "2024-12-01",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "977d87a3-c121-441a-b405-697f977ccfa7",
+        "date": "2024-12-01",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Drivers are very arrogant and always ask to pay 70-80 more. Or 1.5x the prices shown"
+    },
+    {
+        "id": "90801497-edd1-42e5-8cf7-5a07339cc304",
+        "date": "2024-12-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "when you support namma yatri you are supporting ONDC the free and open market place for services. no more middle men!"
+    },
+    {
+        "id": "866e1995-93b9-4a14-8150-41cea3926a4e",
+        "date": "2024-12-01",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "The application is not useful as the app take longest route of 33km n show the maximum amount. We can't define the route which will be just 17km which is a regular routine avoiding traffic. Uninstalling the app."
+    },
+    {
+        "id": "8060e9ac-ea28-41c0-882f-73c67cb9d0b3",
+        "date": "2024-12-01",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "It's having high price compared to ola uber rapido \ud83d\ude22\ud83d\ude22 still driver's also asking more than the fare"
+    },
+    {
+        "id": "78f6a4ed-593c-47a1-9d0f-22cdf1e1ebfe",
+        "date": "2024-12-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "77b4ea2c-42bd-49db-b10b-55d658580a57",
+        "date": "2024-12-01",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "The drivers keep asking for extra fare on the amt given and tere will be no driver available when its required full waste app do not download it"
+    },
+    {
+        "id": "68d4debd-658e-4934-86ce-a758c132cd2f",
+        "date": "2024-12-01",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Worst customer care support,no response to resolve the issue"
+    },
+    {
+        "id": "60eaee2c-b6d7-4939-8642-768f237d2667",
+        "date": "2024-12-01",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Cab avilability is good but cab drivers are arrogant, irritatig, manners less most of the times and rude and rough driving is common."
+    },
+    {
+        "id": "5bdbe1de-66ce-41b1-a9e1-9b63da67bd92",
+        "date": "2024-12-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "wonderful"
+    },
+    {
+        "id": "3d1e4afd-43c0-4749-b4e9-2ed1df805cbc",
+        "date": "2024-12-01",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "super"
+    },
+    {
+        "id": "37240303-3e19-4000-8ee7-1ceac3f6826f",
+        "date": "2024-12-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "1bff5664-37bf-4386-a334-a3445416b3d6",
+        "date": "2024-12-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice bnghjkgggvhi"
+    },
+    {
+        "id": "1a58b6d7-1450-4966-934e-4ceee109eede",
+        "date": "2024-12-01",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good service"
+    },
+    {
+        "id": "17a08910-1e7e-481c-9369-c6a58164d5f8",
+        "date": "2024-12-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Excellent"
+    },
+    {
+        "id": "173819cf-2832-4ef6-9d61-e1d1efcfc4e6",
+        "date": "2024-12-01",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Driver always asks for extra"
+    },
+    {
+        "id": "15222048-161d-4795-86fd-aa6adb5cfffe",
+        "date": "2024-12-01",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Short distance rides sucks"
+    },
+    {
+        "id": "0f292db7-e755-4a51-a3d3-ca3731d5c26e",
+        "date": "2024-12-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "amazing drive \ud83d\ude97"
+    },
+    {
+        "id": "0335a1f4-aaf7-4efb-bc9f-9460891112e4",
+        "date": "2024-12-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "perfect for me"
+    },
+    {
         "id": "f6b1bdd3-7573-4e5c-8d3b-725e410913c8",
         "date": "2024-11-30",
         "score": 5,
@@ -86,6 +294,14 @@
         "scoreText": "1",
         "title": null,
         "text": "Previous it was good, now thebprizes are double time higher than ola and Uber. Looting people like anything. Charging 105rs for 2.5 km in auto"
+    },
+    {
+        "id": "171cc29d-d928-41ac-8af0-0011fa5adec0",
+        "date": "2024-11-30",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "good"
     },
     {
         "id": "0b6b9b2e-395b-4e64-bf24-0be51527c73b",
