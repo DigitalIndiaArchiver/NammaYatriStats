@@ -1,5 +1,93 @@
 [
     {
+        "id": "ec7fa41e-80cb-4b0e-a317-901c3e4505b2",
+        "date": "2024-12-08",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice"
+    },
+    {
+        "id": "e2aeac03-76dd-4a94-946c-3e32977536e7",
+        "date": "2024-12-08",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "Very good experience,price is low ,quick booking ,driver behaber is very friendly Better than ola ubar."
+    },
+    {
+        "id": "dd836dd7-f39f-4f14-aa41-66ee5b19760d",
+        "date": "2024-12-08",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Nice Experience."
+    },
+    {
+        "id": "cf062efe-9017-4e98-ab3a-c23c8ab712ea",
+        "date": "2024-12-08",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "payment option are not working"
+    },
+    {
+        "id": "b0262e68-5537-4f5c-a16d-c3308d95c821",
+        "date": "2024-12-08",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice app"
+    },
+    {
+        "id": "aaf7e8b5-d036-4c80-b2d6-f3891faef1b5",
+        "date": "2024-12-08",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "Need to close all other apps to use this application efficiently"
+    },
+    {
+        "id": "a6c9c5ee-6953-409e-97b3-9ad7ba382512",
+        "date": "2024-12-08",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "sahi hai"
+    },
+    {
+        "id": "6fcf9c2f-c6e9-48e1-a0f3-128b7cf959c3",
+        "date": "2024-12-08",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Availibility of vehicles has been an issue ! Now the pricing is most of the time more than the private aggregators !"
+    },
+    {
+        "id": "3fdf28b3-9abe-4509-beae-82ef33aa27e5",
+        "date": "2024-12-08",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Very good"
+    },
+    {
+        "id": "28ea8428-4cdb-4003-b4b6-8f40309e7ec3",
+        "date": "2024-12-08",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good service, app ans navigation totally amazing, fare reasonable \ud83d\udc4d"
+    },
+    {
+        "id": "0088a85e-e2c4-4c1e-af3e-5cdfdcde492d",
+        "date": "2024-12-08",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "happy"
+    },
+    {
         "id": "ea96c589-2e9c-4eda-9dd5-ce096eddec38",
         "date": "2024-12-07",
         "score": 5,
@@ -86,6 +174,14 @@
         "scoreText": "5",
         "title": null,
         "text": "nice man, excellent driving skills"
+    },
+    {
+        "id": "127fed1e-b877-48ac-b49e-2d876d19e7bd",
+        "date": "2024-12-07",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Useless app for daily commuting needs. Hardly any drivers are on this platform, and the rates are ridiculously higher than Uber or Indriver. Only useful for booking non AC prepaid taxis at Howrah station."
     },
     {
         "id": "01b28d99-f0cb-4cfc-a9c1-49449fb63639",
