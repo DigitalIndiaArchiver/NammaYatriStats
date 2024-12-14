@@ -1,5 +1,53 @@
 [
     {
+        "id": "ef0ad7e2-bbc3-42d6-b804-99aba7451f32",
+        "date": "2024-12-13",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Too much battery consumption app"
+    },
+    {
+        "id": "d4143540-01f3-4383-b152-2bff6a9919fa",
+        "date": "2024-12-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "bd6bbd07-b206-422b-b01b-7f2a5b759637",
+        "date": "2024-12-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Nice \ud83d\udc4d"
+    },
+    {
+        "id": "9206fafe-2046-4794-84b1-0f07888b8a15",
+        "date": "2024-12-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super"
+    },
+    {
+        "id": "3f1e01a0-4eae-47df-90dc-922e8e68cdc1",
+        "date": "2024-12-13",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "App is very slow"
+    },
+    {
+        "id": "07dcef70-364b-4577-b400-b9936b5671f4",
+        "date": "2024-12-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Nice"
+    },
+    {
         "id": "baf1044b-97e6-48d4-9a97-3b02136045b5",
         "date": "2024-12-12",
         "score": 5,
