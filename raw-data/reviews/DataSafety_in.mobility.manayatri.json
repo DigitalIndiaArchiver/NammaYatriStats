@@ -28,10 +28,10 @@
                 "type": "App info and performance"
             },
             {
-                "data": "Device or other IDs",
-                "optional": false,
-                "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing, Account management",
-                "type": "Device or other IDs"
+                "data": "Contacts",
+                "optional": true,
+                "purpose": "App functionality, Personalization, Account management",
+                "type": "Contacts"
             },
             {
                 "data": "Phone number",
@@ -40,10 +40,10 @@
                 "type": "Personal info"
             },
             {
-                "data": "Contacts",
-                "optional": true,
-                "purpose": "App functionality, Personalization, Account management",
-                "type": "Contacts"
+                "data": "Device or other IDs",
+                "optional": false,
+                "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing, Account management",
+                "type": "Device or other IDs"
             }
         ],
         "securityPractices": [
