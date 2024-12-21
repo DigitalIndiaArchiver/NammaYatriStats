@@ -1,5 +1,101 @@
 [
     {
+        "id": "af95fbaa-b5a8-44cc-935c-180bfe50b2a2",
+        "date": "2024-12-20",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good rider"
+    },
+    {
+        "id": "a50ad941-e7ad-420b-bf98-0c057d28da88",
+        "date": "2024-12-20",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "62b5710e-3c68-46fd-a8ed-486a4f9c3eaf",
+        "date": "2024-12-20",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice"
+    },
+    {
+        "id": "57e34d13-8047-45de-8820-5f5dc8293e17",
+        "date": "2024-12-20",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Very use full. Correct rate."
+    },
+    {
+        "id": "5385f50d-1582-4871-a575-7a0641062e7b",
+        "date": "2024-12-20",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super service"
+    },
+    {
+        "id": "4aa198eb-5cd7-45e7-ac7f-4139f70210dd",
+        "date": "2024-12-20",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Customer care is no use"
+    },
+    {
+        "id": "46027033-1fe8-44b2-a569-4334162a289b",
+        "date": "2024-12-20",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Another app that has no control over driver cancellation. Fares are fairly higher than Uber."
+    },
+    {
+        "id": "43c33c0d-1a63-49f6-9c55-565e29c004d1",
+        "date": "2024-12-20",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "exllent"
+    },
+    {
+        "id": "422a8639-d9eb-4fa4-a3d5-10eda706ba8b",
+        "date": "2024-12-20",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "32344038-2388-4a89-9903-040bd59f77bd",
+        "date": "2024-12-20",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Mamma yatri. Good service and dependable."
+    },
+    {
+        "id": "10650981-3e4a-4062-81f2-fa6d98dc6602",
+        "date": "2024-12-20",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "the app was glitching badly, my rides got cancelled back to back for the 5th time, so I uninstalled the app. But I got calls from the auto drivers saying we're here at your location, I didn't know what to do because now I don't have the ride details and felt bad for these auto divers coming to my location"
+    },
+    {
+        "id": "040b42b1-a956-4c0e-8c8a-9c65752ab258",
+        "date": "2024-12-20",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good service good response like the ride enjoying\ud83d\ude0a"
+    },
+    {
         "id": "f8678242-5f45-4ad0-8793-773c326dedcc",
         "date": "2024-12-19",
         "score": 1,
