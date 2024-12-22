@@ -10,16 +10,10 @@
         ],
         "collectedData": [
             {
-                "data": "Device or other IDs",
+                "data": "Contacts",
                 "optional": true,
-                "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance, Personalization",
-                "type": "Device or other IDs"
-            },
-            {
-                "data": "Calendar events",
-                "optional": true,
-                "purpose": "App functionality, Personalization",
-                "type": "Calendar"
+                "purpose": "App functionality, Fraud prevention, security, and compliance, Personalization",
+                "type": "Contacts"
             },
             {
                 "data": "Emails",
@@ -34,16 +28,10 @@
                 "type": "Messages"
             },
             {
-                "data": "Contacts",
+                "data": "Device or other IDs",
                 "optional": true,
-                "purpose": "App functionality, Fraud prevention, security, and compliance, Personalization",
-                "type": "Contacts"
-            },
-            {
-                "data": "Files and docs",
-                "optional": true,
-                "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance, Personalization, Account management",
-                "type": "Files and docs"
+                "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance, Personalization",
+                "type": "Device or other IDs"
             },
             {
                 "data": "Name",
@@ -62,6 +50,18 @@
                 "optional": true,
                 "purpose": "App functionality",
                 "type": "Personal info"
+            },
+            {
+                "data": "Calendar events",
+                "optional": true,
+                "purpose": "App functionality, Personalization",
+                "type": "Calendar"
+            },
+            {
+                "data": "Files and docs",
+                "optional": true,
+                "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance, Personalization, Account management",
+                "type": "Files and docs"
             }
         ],
         "securityPractices": [
