@@ -1,11 +1,139 @@
 [
     {
+        "id": "e4064b50-f6dc-490c-94a1-14b148a64988",
+        "date": "2024-12-26",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good service"
+    },
+    {
+        "id": "dbcc413a-87d0-40f2-97b3-c7fa7fd7cce6",
+        "date": "2024-12-26",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "Morning time it is very difficult to book. Between 9 to 10 am. App will not respond."
+    },
+    {
+        "id": "b729f772-3ae6-4481-8c63-900d56516fd0",
+        "date": "2024-12-26",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "ok"
+    },
+    {
+        "id": "ac845308-0c4c-4b09-9879-080c0cd4784d",
+        "date": "2024-12-26",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "awesome"
+    },
+    {
+        "id": "a1e2e7b5-5155-49f6-a5e0-f590252c363d",
+        "date": "2024-12-26",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Superb"
+    },
+    {
+        "id": "7d2a186c-9762-4dc5-89a7-b9500cf76c79",
+        "date": "2024-12-26",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Not updated"
+    },
+    {
+        "id": "7d119ef9-a4db-4e84-88fa-cacbfba7a0e3",
+        "date": "2024-12-26",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Awesome app"
+    },
+    {
+        "id": "7a75ee70-6cd8-4b5d-96f4-dda61628c435",
+        "date": "2024-12-26",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "excellent"
+    },
+    {
+        "id": "79313cbc-f337-4177-8bc6-3f49bc9197ab",
+        "date": "2024-12-26",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Bad app"
+    },
+    {
+        "id": "513a498c-329e-4a20-b874-a91c0708fb7a",
+        "date": "2024-12-26",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Worst app initially shows lowest price but after the trip the cost is more.. best to go with uber and ola."
+    },
+    {
+        "id": "4dac32d8-318d-46d1-8e41-254a30c7f0ca",
+        "date": "2024-12-26",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice \ud83d\udc4d"
+    },
+    {
+        "id": "47aba5a2-a6f8-4d13-bca3-545ba94dcb7c",
+        "date": "2024-12-26",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "cost effective only issue navigation on time pickup delayed.map is an issue driver is facing problem"
+    },
+    {
+        "id": "38d4f1d0-59e2-4b44-a167-1160f81f9173",
+        "date": "2024-12-26",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "0be89927-3980-4a38-8f4e-09d02c226123",
+        "date": "2024-12-26",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Best in Bengaluru"
+    },
+    {
+        "id": "08634674-4cdc-4ff6-b7d2-fc22f610465a",
+        "date": "2024-12-26",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Excellent \ud83d\udc4c"
+    },
+    {
         "id": "fc96c772-5380-4142-8d67-75266d9ad005",
         "date": "2024-12-25",
         "score": 1,
         "scoreText": "1",
         "title": null,
         "text": "I am writing to express my frustration regarding a recent experience that has left me feeling quite embarrassed while hosting a guest at my home. I had been eagerly looking forward to welcoming my friend for 25th and 26th dec. However, what was supposed to be an enjoyable visit turned into a series of unfortunate events, primarily due to multiple cancelled taxi rides on Namma yatri The numerous cancellations not only inconvenienced my guest but also cast a shadow over the overall experience."
+    },
+    {
+        "id": "f374a3f1-d801-4199-aebf-8168cda67f1e",
+        "date": "2024-12-25",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "It's not working when it's time to work."
     },
     {
         "id": "dcb3738a-0113-4cf7-ac62-1f38d9010654",
@@ -78,6 +206,14 @@
         "scoreText": "1",
         "title": null,
         "text": "extremely devious."
+    },
+    {
+        "id": "12b08e44-ef2b-4030-bf3d-6d986cb655fb",
+        "date": "2024-12-25",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "Namma Yatri has become more expensive than Uber/ Ola."
     },
     {
         "id": "fb65821c-e61c-4b5f-9060-9bef54a85175",
