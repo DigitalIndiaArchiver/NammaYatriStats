@@ -6,16 +6,16 @@
     "installs": "100,000+",
     "minInstalls": 100000,
     "maxInstalls": 112776,
-    "score": 4.813737,
+    "score": 4.812791,
     "scoreText": "4.8",
-    "ratings": 17175,
+    "ratings": 17176,
     "reviews": "http://gplayapi.cashlessconsumer.in/api/apps/com.yaary.partner/reviews",
     "histogram": {
         "1": 659,
         "2": 49,
-        "3": 139,
+        "3": 149,
         "4": 129,
-        "5": 16195
+        "5": 16187
     },
     "price": 0,
     "free": true,
