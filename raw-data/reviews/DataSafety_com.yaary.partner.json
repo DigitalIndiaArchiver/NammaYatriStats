@@ -3,6 +3,12 @@
         "sharedData": [],
         "collectedData": [
             {
+                "data": "Photos",
+                "optional": false,
+                "purpose": "App functionality, Fraud prevention, security, and compliance",
+                "type": "Photos and videos"
+            },
+            {
                 "data": "Device or other IDs",
                 "optional": false,
                 "purpose": "Fraud prevention, security, and compliance, Account management",
@@ -25,12 +31,6 @@
                 "optional": false,
                 "purpose": "App functionality",
                 "type": "Personal info"
-            },
-            {
-                "data": "Photos",
-                "optional": false,
-                "purpose": "App functionality, Fraud prevention, security, and compliance",
-                "type": "Photos and videos"
             }
         ],
         "securityPractices": [
