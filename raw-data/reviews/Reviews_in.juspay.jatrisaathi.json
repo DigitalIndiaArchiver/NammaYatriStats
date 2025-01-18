@@ -1,5 +1,85 @@
 [
     {
+        "id": "face1221-75da-4135-b4ee-8d91af1dd824",
+        "date": "2025-01-17",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "I did double payment due to cab driver said he has not received payment, after I reach home have seen double payment done and I reported to helpdesk, but it's 5 days not getting any response. Can you share your contact number and mails id"
+    },
+    {
+        "id": "dbfdf5f2-f1fd-4c9a-838c-b74d0c08c9de",
+        "date": "2025-01-17",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Quite bad. Does not have a time predictor, so we had no idea how long we'll have to wait. The driver took half an hour to arrive. Messages to the driver were also not being sent. I hope this app is in the beta stage of development and they make some serious changes for the final version. Very bad experience"
+    },
+    {
+        "id": "95b046f6-0415-4c71-8a06-6335fdf7fadc",
+        "date": "2025-01-17",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Service and fare both are good."
+    },
+    {
+        "id": "7543088c-6dd0-44c2-955e-efabcecf7465",
+        "date": "2025-01-17",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Poor services"
+    },
+    {
+        "id": "54f1aba3-8cd4-47dd-98b1-902c920c03ad",
+        "date": "2025-01-17",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "helpful App's,thanks \ud83d\ude4f"
+    },
+    {
+        "id": "46b342de-121e-4526-8459-33ef28ec498c",
+        "date": "2025-01-17",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "423fb23a-9817-47ff-b8dc-785a0c0722b1",
+        "date": "2025-01-17",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "No driver is willing to go everyone is demanding more amount . Bad experience"
+    },
+    {
+        "id": "1a1d9c2f-04fa-4065-9c4a-49f19a31d8e1",
+        "date": "2025-01-17",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "Today when I booked cab from yatri sathi.but the cab stoped far from my location, and when I call him he told \" I am in your location\".then I guide him how to come, he can ask nearby.then he cut the call.after that i again i call him, but did not connect.then I cancel the ride. after some time the cab passes through my location...he was like horrible...he insult me in public.kindly take action....realy very bad"
+    },
+    {
+        "id": "16b17b39-c10e-4654-8bfd-d7213b500236",
+        "date": "2025-01-17",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good"
+    },
+    {
+        "id": "0b63ba35-88e6-450a-9823-69cb1cbe4b87",
+        "date": "2025-01-17",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good"
+    },
+    {
         "id": "d488aefd-e153-443a-99dd-843a647849f1",
         "date": "2025-01-16",
         "score": 1,
@@ -30,6 +110,14 @@
         "scoreText": "5",
         "title": null,
         "text": "V good"
+    },
+    {
+        "id": "89223b47-126b-4596-a812-3f84b5996a21",
+        "date": "2025-01-16",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "XL bulane se small ati Hai"
     },
     {
         "id": "84730620-3d40-4b8e-9f5a-4d83e746efb8",
