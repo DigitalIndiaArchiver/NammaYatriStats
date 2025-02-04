@@ -1,5 +1,181 @@
 [
     {
+        "id": "fe725f6a-6ace-45a7-bbed-7612de0f9972",
+        "date": "2025-02-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "fine trip"
+    },
+    {
+        "id": "db2b7269-5b45-4f62-baed-0828413ed759",
+        "date": "2025-02-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "bb1f84eb-e24c-407b-8336-e527f56ea8c3",
+        "date": "2025-02-03",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "The app is so stupid keeps crashing and lagging"
+    },
+    {
+        "id": "a3d10b24-4937-4abc-8c56-82ff82457aba",
+        "date": "2025-02-03",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "This is very bad app. This app shows 190 to 220 rupees for 5 km but ola app shows only 150 rupees so no one uses this app. I saw the advertisement of idris explores on YouTube and thought that this app only charges a very cheap price for travel but it's completely wrong they charge very high price"
+    },
+    {
+        "id": "9dbef044-fcc3-4cfc-9799-3f1f442c193d",
+        "date": "2025-02-03",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "The location is showing very long then the real location."
+    },
+    {
+        "id": "9bd67340-b89d-4663-a90d-0bd978ffd71d",
+        "date": "2025-02-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very costly"
+    },
+    {
+        "id": "9a496245-c3e2-47b9-a992-75f0af26c3da",
+        "date": "2025-02-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "all good"
+    },
+    {
+        "id": "97717b48-b6b8-4dd6-844c-cf664164e5fc",
+        "date": "2025-02-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "thank you sir"
+    },
+    {
+        "id": "9002b264-62a0-493d-afad-695b1b4e8a23",
+        "date": "2025-02-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "84da17e7-3d92-44ae-a2de-025cda0bab9f",
+        "date": "2025-02-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good \ud83d\udc4d"
+    },
+    {
+        "id": "81f03d8c-70d4-47e2-8cb8-b45348cc0fda",
+        "date": "2025-02-03",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Worst app extra charges"
+    },
+    {
+        "id": "7f22fb24-4934-43ce-971d-5ed20c4040f1",
+        "date": "2025-02-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "User Friendly and cost effective"
+    },
+    {
+        "id": "7f0e1184-0d33-4636-b98f-99125193112d",
+        "date": "2025-02-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Super app"
+    },
+    {
+        "id": "7ef44785-70b0-4757-8179-a468730d69bf",
+        "date": "2025-02-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good"
+    },
+    {
+        "id": "7baee69e-d79e-401f-878b-24c4d6d6b266",
+        "date": "2025-02-03",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "On uber n rapido charges shows atleast 20-30 rupees when compared to namma yatri"
+    },
+    {
+        "id": "505cfc98-8071-41e3-80f3-912fdb4a2f10",
+        "date": "2025-02-03",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Pricing was good in Bangalore. But in Chennai 20% higher than Ola, Rapido If there is no platform fees, why is the difference No one will use if pricing is like this"
+    },
+    {
+        "id": "38afc2fb-7d44-4ed0-bca9-dfcec201151d",
+        "date": "2025-02-03",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "nice driving"
+    },
+    {
+        "id": "310a1684-b873-4273-a045-8dc6c024b1e1",
+        "date": "2025-02-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good"
+    },
+    {
+        "id": "1ec4ba8a-751f-4ed7-8806-9557f7dab9dc",
+        "date": "2025-02-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice"
+    },
+    {
+        "id": "1b323c80-8cba-4e28-b66c-1299a04df8d1",
+        "date": "2025-02-03",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Very very bad apps Starting is ok but continuely us than so much price and all driver also rude behavior and he is giving dhamki maarega extra payments dedo please guys don't use this apps very bakwas"
+    },
+    {
+        "id": "153667e7-cf1d-43d5-bcd0-0065aaf4b784",
+        "date": "2025-02-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "14110abb-de6d-49fc-b9af-76d828177201",
+        "date": "2025-02-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good"
+    },
+    {
         "id": "fa14fb13-0aa5-4189-9d8f-79ff0284c698",
         "date": "2025-02-02",
         "score": 1,
@@ -30,6 +206,14 @@
         "scoreText": "1",
         "title": null,
         "text": "All lies the price is more high compared to other apps"
+    },
+    {
+        "id": "ee03f48e-a95c-474c-b7ce-4638fe8fc584",
+        "date": "2025-02-02",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Worest service, prices are very high. Not worth."
     },
     {
         "id": "e555c1f0-86bc-400c-8e73-9e48a40a1af6",
@@ -224,6 +408,14 @@
         "text": "Price high"
     },
     {
+        "id": "7663e679-0ed6-4c31-bca6-1600c39219a7",
+        "date": "2025-02-02",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "though you say there is zero commission, the amount shown is higher than other apps. \"Another app shows \u20b9170, while this app shows \u20b9313. The price difference is significantly higher."
+    },
+    {
         "id": "646be3b9-2900-40f3-8738-3fe13e620725",
         "date": "2025-02-02",
         "score": 5,
@@ -262,6 +454,14 @@
         "scoreText": "5",
         "title": null,
         "text": "it's really nice ride no additional bargain"
+    },
+    {
+        "id": "387072c0-9823-4d8f-8334-e6490a0c39ec",
+        "date": "2025-02-02",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "In other app amount is low but in this app not fare asking amount too much ...... In rapido ayanavarem market 200 only. But in this app ayanavarem market asking 375 ......"
     },
     {
         "id": "36c91790-762a-438f-985e-b5149d80775a",
