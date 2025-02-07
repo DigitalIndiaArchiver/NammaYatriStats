@@ -1,11 +1,171 @@
 [
     {
+        "id": "f6dc1f9b-e296-461e-9111-c866257128d4",
+        "date": "2025-02-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good"
+    },
+    {
+        "id": "e3573a6e-7a73-4c64-b6f8-c7476020ff5b",
+        "date": "2025-02-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Safe and comfortable Travel"
+    },
+    {
+        "id": "e129a7f4-a593-49f6-930f-36c4c7a59efa",
+        "date": "2025-02-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good App"
+    },
+    {
+        "id": "b8ea28ae-3227-4e91-9faf-1922d5683889",
+        "date": "2025-02-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "thank you\u2764"
+    },
+    {
+        "id": "b805e228-e321-4d13-aa62-a8cd81678ba7",
+        "date": "2025-02-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "yes will tell others."
+    },
+    {
+        "id": "aaab149a-f96a-43da-825b-28a827c027e7",
+        "date": "2025-02-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "thank you"
+    },
+    {
+        "id": "9360c59a-c578-4998-bcc2-a8b8ac13fbc5",
+        "date": "2025-02-06",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "This app is not working on my contact number n in my Phone"
+    },
+    {
+        "id": "92488641-d0ea-481b-bede-31dd014b53f7",
+        "date": "2025-02-06",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "Most times Auto prices show are much higher than other cab aggregators ."
+    },
+    {
+        "id": "8d4bccfc-0909-420f-9f20-6f4d5055f779",
+        "date": "2025-02-06",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "Sometimes the app doesn't work properly fix that"
+    },
+    {
+        "id": "8c71d5f9-a790-4d89-aba2-2bc1614bcbb7",
+        "date": "2025-02-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "convenient"
+    },
+    {
+        "id": "84a72edc-9276-449f-87d5-248300317c4c",
+        "date": "2025-02-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice ride"
+    },
+    {
+        "id": "7d147634-9e58-4818-b715-abd3ccdd2524",
+        "date": "2025-02-06",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "App has stopped opening for last few weeks. Seems like they are shutting it down. Which will be sad \ud83d\ude22"
+    },
+    {
+        "id": "67dd841a-d417-4b19-ab37-2a0188ba1f14",
+        "date": "2025-02-06",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "During emergency it will never get booked. Reaching after near destination they cancel the ride, don't even have courtesy to call back and enquire whether really we have cancelled the ride or not.."
+    },
+    {
+        "id": "62852ced-b1f6-4818-b18b-f5678d7bf298",
+        "date": "2025-02-06",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "disgusting app. you book a cab, driver will accept immediately but will not move from his location for almost half an hour and will then cancel the cab. Don't ise this if you think your time is precious."
+    },
+    {
+        "id": "56c90442-647c-459f-b326-207c4b562833",
+        "date": "2025-02-06",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "The rides and arriving time is very fast, but the drivers won't come until you give tip to them"
+    },
+    {
+        "id": "2243fca9-b4dc-4433-99d5-bf54f072d987",
+        "date": "2025-02-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super \ud83d\udc4d\ud83c\udffb"
+    },
+    {
+        "id": "195ce769-6b57-400a-98b7-f9d46413cf0e",
+        "date": "2025-02-06",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Very costly compared to other applications around If other applications fare is 220 then this application fare is 320 I check 2 more days then I uninstall this"
+    },
+    {
+        "id": "0bf806f9-d943-4783-b3a4-af8e0568131b",
+        "date": "2025-02-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Easy & helpful"
+    },
+    {
+        "id": "0904075f-4ce4-428f-a254-7ed6031bd86f",
+        "date": "2025-02-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
         "id": "eb58d14d-e888-41b9-8684-a7f8d92095e7",
         "date": "2025-02-05",
         "score": 3,
         "scoreText": "3",
         "title": null,
         "text": "Comparing other app rate is high"
+    },
+    {
+        "id": "e4aae47f-d2a7-4f9e-9375-015d41661a9f",
+        "date": "2025-02-05",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "Why there's no bike option? Why the rate are higher than rapid and Uber"
     },
     {
         "id": "d1e9485b-40fa-40d8-9251-c5803953d75d",
