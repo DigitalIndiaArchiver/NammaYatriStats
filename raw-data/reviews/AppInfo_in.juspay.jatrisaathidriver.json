@@ -5,17 +5,17 @@
     "summary": "Join the Government of West Bengal's Cab Service and Earn with Yatri Sathi",
     "installs": "100,000+",
     "minInstalls": 100000,
-    "maxInstalls": 215759,
-    "score": 4.621226,
+    "maxInstalls": 216504,
+    "score": 4.6131387,
     "scoreText": "4.6",
-    "ratings": 32295,
+    "ratings": 32380,
     "reviews": "http://gplayapi.cashlessconsumer.in/api/apps/in.juspay.jatrisaathidriver/reviews",
     "histogram": {
-        "1": 1634,
-        "2": 521,
+        "1": 1723,
+        "2": 502,
         "3": 1014,
         "4": 2097,
-        "5": 27024
+        "5": 27041
     },
     "price": 0,
     "free": true,
