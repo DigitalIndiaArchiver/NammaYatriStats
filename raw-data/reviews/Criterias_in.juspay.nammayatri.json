@@ -1,4 +1,5 @@
 {
+    "vaf_never_display_visually_bad": 18,
     "vaf_never_display_ease_of_use": 280,
     "vaf_never_display_ads_experience": 257,
     "vaf_never_display_useful_notifications": 14,
@@ -17,7 +18,6 @@
     "vaf_never_display_easy_to_use": 17,
     "vaf_never_display_content_language": 14,
     "vaf_never_display_positive_impact": 17,
-    "vaf_never_display_visually_bad": 17,
     "vaf_never_display_negative_ads_impact": 11,
     "vaf_never_display_make_you_happy": 9,
     "vaf_phase1_sharing_arrival_time": 6,
