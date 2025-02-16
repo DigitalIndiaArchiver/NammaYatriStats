@@ -1,5 +1,141 @@
 [
     {
+        "id": "ec33e7f5-b607-4edf-a553-2df6c34c2eea",
+        "date": "2025-02-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "exasaalent was aruny"
+    },
+    {
+        "id": "e7933de0-a314-4607-a9e7-cd0e56d6fe59",
+        "date": "2025-02-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "excellent"
+    },
+    {
+        "id": "e43af6b8-d225-4b0b-84cf-2bd4cd0fb13e",
+        "date": "2025-02-15",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "The advertisement of this app is so misleading. The driver charged me extra and also the auto which came was different than the number shown in the app."
+    },
+    {
+        "id": "c76f4226-5f25-4667-bed8-d80b5e82fb61",
+        "date": "2025-02-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "c33edfa5-7c7d-4a77-bb48-724264d6c8a8",
+        "date": "2025-02-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "b9bc9925-9e6e-4c1b-8011-e9d9a7c1599f",
+        "date": "2025-02-15",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "Good"
+    },
+    {
+        "id": "9f1dea19-866e-4f46-b5fb-3bf21a533dcc",
+        "date": "2025-02-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "great app for cab services with geniune fare"
+    },
+    {
+        "id": "86e4d5b0-c94a-4d82-8a18-6f5a17040598",
+        "date": "2025-02-15",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Not interested"
+    },
+    {
+        "id": "7ce76365-5b95-4977-b6fe-b693f348477c",
+        "date": "2025-02-15",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "\u0bae\u0ba9 \u0ba8\u0bbf\u0bb1\u0bc8\u0bb5\u0bc1."
+    },
+    {
+        "id": "7886b3ed-8796-4c3f-97db-7bbcc60c159f",
+        "date": "2025-02-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "safe drive"
+    },
+    {
+        "id": "6e70d36a-b0ef-4b5a-9127-99ca84f4b80d",
+        "date": "2025-02-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "overall good"
+    },
+    {
+        "id": "636c508e-b2bf-46b5-8120-4fec3a9e15ef",
+        "date": "2025-02-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "easy to book ,safe ride"
+    },
+    {
+        "id": "553dbf46-e9b2-4c37-8440-768f9ad4ed8e",
+        "date": "2025-02-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "prompt service"
+    },
+    {
+        "id": "5360f8f1-d4a8-47cb-86a8-a9232df16835",
+        "date": "2025-02-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "please maintain the cost, don't increase"
+    },
+    {
+        "id": "0fd735dc-0a73-409a-ae41-a6531cf9dbe5",
+        "date": "2025-02-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Its really worth, the driver took right fare and the route he took was apt. I appreciate and recommend using Namma Yatri for safe, secure ride and timely available at any time"
+    },
+    {
+        "id": "0e83b0ce-f29a-45cd-b334-c4ec4787c7ad",
+        "date": "2025-02-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "wow"
+    },
+    {
+        "id": "0e0cf132-3620-42aa-8975-399325ae8a48",
+        "date": "2025-02-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Nice app, with all the features of Uber, BluSmart and Ola."
+    },
+    {
         "id": "d4f1a684-e0ba-4de3-a579-bcd1e57323ab",
         "date": "2025-02-14",
         "score": 5,
@@ -40,6 +176,14 @@
         "text": "it's good"
     },
     {
+        "id": "a57bdb2a-1935-4aa3-8bf4-bf7b48122046",
+        "date": "2025-02-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good and prompt service"
+    },
+    {
         "id": "9bdb5163-10f0-4d82-8e14-6845c755938d",
         "date": "2025-02-14",
         "score": 1,
@@ -70,6 +214,14 @@
         "scoreText": "1",
         "title": null,
         "text": "Total fraud app...drivers will cheat and ask more money. OLA UBER is far better. Drivers showing wrong destination to us after started ride and demanding more money..already cost is more than 40 % than Ola."
+    },
+    {
+        "id": "5e1b846f-6052-4d58-8da1-bd772a1b1f49",
+        "date": "2025-02-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good \ud83d\udc4d"
     },
     {
         "id": "2e5b07e3-6e10-416d-a7d1-d296f93bf89c",
