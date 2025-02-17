@@ -16,6 +16,12 @@
                 "type": "Contacts"
             },
             {
+                "data": "Phone number",
+                "optional": false,
+                "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance",
+                "type": "Personal info"
+            },
+            {
                 "data": "Crash logs",
                 "optional": false,
                 "purpose": "Analytics",
@@ -38,12 +44,6 @@
                 "optional": false,
                 "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing, Account management",
                 "type": "Device or other IDs"
-            },
-            {
-                "data": "Phone number",
-                "optional": false,
-                "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance",
-                "type": "Personal info"
             }
         ],
         "securityPractices": [
