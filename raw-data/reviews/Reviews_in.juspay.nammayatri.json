@@ -1,5 +1,181 @@
 [
     {
+        "id": "e63a6951-2867-44cf-b0b7-5c5419b6cfca",
+        "date": "2025-02-18",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Costlier than Ola"
+    },
+    {
+        "id": "e4a0a84d-b26e-4bb8-9f00-8d15fd61abb7",
+        "date": "2025-02-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good Services and good support"
+    },
+    {
+        "id": "de33aa8c-9a73-48ff-b0d9-207a3d3353cd",
+        "date": "2025-02-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "fair price"
+    },
+    {
+        "id": "d9ee240d-d89a-4024-9025-ef05da99aeae",
+        "date": "2025-02-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "cd061a7b-8382-4054-855c-4645de7933d5",
+        "date": "2025-02-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super"
+    },
+    {
+        "id": "c3183768-13a8-4830-a738-96c460c30169",
+        "date": "2025-02-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Best App"
+    },
+    {
+        "id": "bd70b7ed-df72-4e15-9af1-f3cfed0d8c52",
+        "date": "2025-02-18",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "glitching"
+    },
+    {
+        "id": "a807a53c-0975-496a-877d-a93ecb02ef9a",
+        "date": "2025-02-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "fantastic"
+    },
+    {
+        "id": "952986b3-bca5-445b-a8f1-2eaf4341839e",
+        "date": "2025-02-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good"
+    },
+    {
+        "id": "93c3718c-1d57-46e4-b1ed-c92594563531",
+        "date": "2025-02-18",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Their app is tooo slow and their drivers are not here to give service. Always they demand more money, and many drivers cancel ride. Worst experience"
+    },
+    {
+        "id": "8ea7b5f3-4ebd-4481-897d-472a664fb5e2",
+        "date": "2025-02-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "service is very good"
+    },
+    {
+        "id": "8ccdaa1d-3ae7-4b06-8b2d-7da9750eff69",
+        "date": "2025-02-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Very good driver, did not ask extra money"
+    },
+    {
+        "id": "7c7ece79-2fd5-4d58-89d4-df798eb36c1b",
+        "date": "2025-02-18",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Very very expensive compared uber ,rapido .."
+    },
+    {
+        "id": "6c4d37e4-81dc-404a-a674-347acc1988ed",
+        "date": "2025-02-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good service for the passenger from this person."
+    },
+    {
+        "id": "4e3ad7fd-0cd6-4160-90ab-cfbcc377aa8b",
+        "date": "2025-02-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "it's very good \ud83d\udc4d\ud83d\ude0a thank you so much namma yatri"
+    },
+    {
+        "id": "45f81b3b-cb0d-4316-aa6f-462b3e4b7926",
+        "date": "2025-02-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "312bb8f7-75d6-495e-be56-1f1baf991bc2",
+        "date": "2025-02-18",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Worst app ever made"
+    },
+    {
+        "id": "2b611714-dd9c-4b4e-9b8d-e746c241a9db",
+        "date": "2025-02-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice diving, reached on time"
+    },
+    {
+        "id": "281b36c2-6873-4349-ad1e-d4d6c80c93c3",
+        "date": "2025-02-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "I had a wonderful experience using this app. Compared to other apps this is the fastest and the easiest app to use ."
+    },
+    {
+        "id": "13f03642-a456-429a-8808-509db2728de5",
+        "date": "2025-02-18",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Money heist \ud83d\ude21"
+    },
+    {
+        "id": "09067a79-8995-4622-b984-8e9f7514e1c7",
+        "date": "2025-02-18",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "The drivrs , cancel the accepted trip at last minute. They don't want rental package from traveling public. Service quality has come down. Educate your drivers"
+    },
+    {
+        "id": "074baafa-7331-45b3-9577-2022002e6c75",
+        "date": "2025-02-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "excellent driver and safe"
+    },
+    {
         "id": "f2b5dba5-ac3b-426d-9e89-0bc15177971d",
         "date": "2025-02-17",
         "score": 1,
