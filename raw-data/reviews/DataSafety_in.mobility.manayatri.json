@@ -10,16 +10,16 @@
         ],
         "collectedData": [
             {
+                "data": "Phone number",
+                "optional": false,
+                "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance",
+                "type": "Personal info"
+            },
+            {
                 "data": "Device or other IDs",
                 "optional": false,
                 "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing, Account management",
                 "type": "Device or other IDs"
-            },
-            {
-                "data": "Contacts",
-                "optional": true,
-                "purpose": "App functionality, Personalization, Account management",
-                "type": "Contacts"
             },
             {
                 "data": "Crash logs",
@@ -40,10 +40,10 @@
                 "type": "App info and performance"
             },
             {
-                "data": "Phone number",
-                "optional": false,
-                "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance",
-                "type": "Personal info"
+                "data": "Contacts",
+                "optional": true,
+                "purpose": "App functionality, Personalization, Account management",
+                "type": "Contacts"
             }
         ],
         "securityPractices": [
