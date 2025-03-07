@@ -10,16 +10,10 @@
         ],
         "collectedData": [
             {
-                "data": "Calendar events",
+                "data": "Device or other IDs",
                 "optional": true,
-                "purpose": "App functionality, Personalization",
-                "type": "Calendar"
-            },
-            {
-                "data": "Contacts",
-                "optional": true,
-                "purpose": "App functionality, Fraud prevention, security, and compliance, Personalization",
-                "type": "Contacts"
+                "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance, Personalization",
+                "type": "Device or other IDs"
             },
             {
                 "data": "Emails",
@@ -34,10 +28,16 @@
                 "type": "Messages"
             },
             {
-                "data": "Device or other IDs",
+                "data": "Calendar events",
                 "optional": true,
-                "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance, Personalization",
-                "type": "Device or other IDs"
+                "purpose": "App functionality, Personalization",
+                "type": "Calendar"
+            },
+            {
+                "data": "Files and docs",
+                "optional": true,
+                "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance, Personalization, Account management",
+                "type": "Files and docs"
             },
             {
                 "data": "Name",
@@ -58,10 +58,10 @@
                 "type": "Personal info"
             },
             {
-                "data": "Files and docs",
+                "data": "Contacts",
                 "optional": true,
-                "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance, Personalization, Account management",
-                "type": "Files and docs"
+                "purpose": "App functionality, Fraud prevention, security, and compliance, Personalization",
+                "type": "Contacts"
             }
         ],
         "securityPractices": [
