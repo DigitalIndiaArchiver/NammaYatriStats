@@ -1,5 +1,125 @@
 [
     {
+        "id": "fccd22cd-feb9-4ed9-97a8-58a43eebbf48",
+        "date": "2025-03-08",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "Drivers demanding extra cash... It's a common issue in all the apps (except Redtaxi..) Namma Yatri advertise themselves as like they have created a solution for this issue. But practically it's no different from other apps. Infact the initial estimate fare itself is high compared to ola... Over and above extra cash is a disaster... No point in switching to this app.. Educate your driver's first... Learn from REDTAXI"
+    },
+    {
+        "id": "f34912a0-fb7e-4220-9ce4-71675e0cc9cf",
+        "date": "2025-03-08",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "Its a great app to book rides but there r lot of glitches in the app... sometimes the app doesn't open at all.. it just hangs"
+    },
+    {
+        "id": "dd283cef-bc90-4f39-9390-f9e87695b16f",
+        "date": "2025-03-08",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "d1308419-e90f-4975-994e-b59525b7f5ff",
+        "date": "2025-03-08",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice"
+    },
+    {
+        "id": "bb136cca-17c9-49ad-bf30-0f9dc690dcc9",
+        "date": "2025-03-08",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Great service and a formidable competition to Uber and Ola \ud83d\ude00"
+    },
+    {
+        "id": "b2b2a9eb-d310-4c54-8bbb-f2c5c654f2a8",
+        "date": "2025-03-08",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "\ud83d\udc4d"
+    },
+    {
+        "id": "6decc9b6-f9ce-4049-85aa-c081633c45ba",
+        "date": "2025-03-08",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "An excellent breakthrough in ride sharing technology, the prices are similar to other platforms but the auto drivers make a lot more and that makes me happy. I have one request to the namma yatri team, please bring similar breakthrough in food delivery if possible. Much Love."
+    },
+    {
+        "id": "662bd9b4-7e22-4b4c-a325-310aaeb86f83",
+        "date": "2025-03-08",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "5ae9a439-15fc-440d-af23-a80b8a38b2f6",
+        "date": "2025-03-08",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice app \u263a\ufe0f\ud83d\udc4d"
+    },
+    {
+        "id": "5817dcf2-d64b-4174-8d08-45b9636f74d9",
+        "date": "2025-03-08",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good to have Namma yatri app in all the phones.. it's a very friendly app. get on time When we need to go somewhere. thank you Namma yatri \ud83d\ude0a"
+    },
+    {
+        "id": "4d6a3858-6547-4c7e-9a33-706b8cd3d3f6",
+        "date": "2025-03-08",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "\u0cb8\u0cc2\u0caa\u0cb0\u0ccd"
+    },
+    {
+        "id": "44afa0a3-db36-4164-8774-610171da522a",
+        "date": "2025-03-08",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "\u2764\ufe0f\u2764\ufe0f"
+    },
+    {
+        "id": "3e2cb4cc-00ca-404e-ad7b-05a0e316d1dd",
+        "date": "2025-03-08",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "What is the use of having this app? Whenever booking a ride, captain call and ask for extra amount which is rs 100 plus, if didn't agree to that they will cancel the ride. No use at all, they didn't even understand the situation of person why they are preferring rentals than their own."
+    },
+    {
+        "id": "2351bc10-6b82-4f29-932b-2ae7f40fe303",
+        "date": "2025-03-08",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "felt good with namma yatri ride"
+    },
+    {
+        "id": "227aaf74-4b46-460a-89f6-9aee7f974104",
+        "date": "2025-03-08",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Tooo much pricing then Ola, uber, rapido"
+    },
+    {
         "id": "fe0e4294-1619-44b9-b3c0-b1b4364b6669",
         "date": "2025-03-07",
         "score": 5,
@@ -16,12 +136,28 @@
         "text": "Economical"
     },
     {
+        "id": "f4db18c5-72ff-4887-90bd-66c248fd68a9",
+        "date": "2025-03-07",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super"
+    },
+    {
         "id": "eef7666a-56e2-4559-a5ea-65bf8e5069cd",
         "date": "2025-03-07",
         "score": 5,
         "scoreText": "5",
         "title": null,
         "text": "Polite drivers. On time pickups. No cancellations."
+    },
+    {
+        "id": "e3ceae14-988d-4419-839b-9af329a33a8c",
+        "date": "2025-03-07",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "early morning price is more for for 1 km price is 50rs"
     },
     {
         "id": "b584db0d-5a2d-4455-8f84-a6c87095bbdf",
