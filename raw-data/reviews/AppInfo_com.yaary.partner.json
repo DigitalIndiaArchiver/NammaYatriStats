@@ -5,17 +5,17 @@
     "summary": "Yaary - zero commission app for drivers",
     "installs": "100,000+",
     "minInstalls": 100000,
-    "maxInstalls": 114290,
+    "maxInstalls": 114308,
     "score": 4.7991853,
     "scoreText": "4.8",
-    "ratings": 17153,
+    "ratings": 17152,
     "reviews": "http://gplayapi.cashlessconsumer.in/api/apps/com.yaary.partner/reviews",
     "histogram": {
         "1": 708,
         "2": 49,
         "3": 159,
         "4": 139,
-        "5": 16094
+        "5": 16093
     },
     "price": 0,
     "free": true,
