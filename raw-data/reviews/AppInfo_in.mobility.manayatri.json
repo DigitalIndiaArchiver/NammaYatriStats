@@ -5,17 +5,17 @@
     "summary": "0% commission ride booking app for lowest price bike taxi, auto &amp; cab rides",
     "installs": "100,000+",
     "minInstalls": 100000,
-    "maxInstalls": 417953,
-    "score": 4.578512,
+    "maxInstalls": 418315,
+    "score": 4.576132,
     "scoreText": "4.6",
-    "ratings": 2377,
+    "ratings": 2378,
     "reviews": "http://gplayapi.cashlessconsumer.in/api/apps/in.mobility.manayatri/reviews",
     "histogram": {
-        "1": 147,
+        "1": 146,
         "2": 29,
         "3": 78,
-        "4": 166,
-        "5": 1954
+        "4": 176,
+        "5": 1947
     },
     "price": 0,
     "free": true,
