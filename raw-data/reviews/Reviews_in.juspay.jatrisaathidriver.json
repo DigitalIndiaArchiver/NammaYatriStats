@@ -1,5 +1,13 @@
 [
     {
+        "id": "68d5827c-c9fe-41d3-a38c-5825fffcbaf0",
+        "date": "2025-03-26",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "map is bad"
+    },
+    {
         "id": "f0353124-5160-49f1-9fc7-25152ccbdb99",
         "date": "2025-03-25",
         "score": 1,
@@ -30,6 +38,14 @@
         "scoreText": "4",
         "title": null,
         "text": "could be better. order fequency is too low."
+    },
+    {
+        "id": "47bfa51f-22b8-4b03-963f-195450e9bfde",
+        "date": "2025-03-25",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good app"
     },
     {
         "id": "e7caa5c1-9d71-488e-b88a-05289aea9f32",
