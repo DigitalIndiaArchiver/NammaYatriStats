@@ -3,28 +3,28 @@
         "sharedData": [],
         "collectedData": [
             {
-                "data": "Device or other IDs",
-                "optional": false,
-                "purpose": "App functionality, Analytics",
-                "type": "Device or other IDs"
-            },
-            {
                 "data": "Name",
-                "optional": false,
+                "optional": 0,
                 "purpose": "App functionality, Personalization",
                 "type": "Personal info"
             },
             {
                 "data": "Phone number",
-                "optional": false,
+                "optional": 0,
                 "purpose": "App functionality, Developer communications",
                 "type": "Personal info"
             },
             {
                 "data": "Other info",
-                "optional": true,
+                "optional": 1,
                 "purpose": "App functionality",
                 "type": "Personal info"
+            },
+            {
+                "data": "Device or other IDs",
+                "optional": 0,
+                "purpose": "App functionality, Analytics",
+                "type": "Device or other IDs"
             }
         ],
         "securityPractices": [

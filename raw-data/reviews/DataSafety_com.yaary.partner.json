@@ -4,31 +4,31 @@
         "collectedData": [
             {
                 "data": "Device or other IDs",
-                "optional": false,
+                "optional": 0,
                 "purpose": "Fraud prevention, security, and compliance, Account management",
                 "type": "Device or other IDs"
             },
             {
                 "data": "Photos",
-                "optional": false,
+                "optional": 0,
                 "purpose": "App functionality, Fraud prevention, security, and compliance",
                 "type": "Photos and videos"
             },
             {
                 "data": "Name",
-                "optional": false,
+                "optional": 0,
                 "purpose": "App functionality",
                 "type": "Personal info"
             },
             {
                 "data": "Phone number",
-                "optional": false,
+                "optional": 0,
                 "purpose": "App functionality, Fraud prevention, security, and compliance, Account management",
                 "type": "Personal info"
             },
             {
                 "data": "Other info",
-                "optional": false,
+                "optional": 0,
                 "purpose": "App functionality",
                 "type": "Personal info"
             }
