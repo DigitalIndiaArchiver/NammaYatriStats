@@ -22,10 +22,10 @@
                 "type": "Messages"
             },
             {
-                "data": "Calendar events",
+                "data": "Device or other IDs",
                 "optional": 1,
-                "purpose": "App functionality, Personalization",
-                "type": "Calendar"
+                "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance, Personalization",
+                "type": "Device or other IDs"
             },
             {
                 "data": "Contacts",
@@ -34,16 +34,16 @@
                 "type": "Contacts"
             },
             {
-                "data": "Device or other IDs",
-                "optional": 1,
-                "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance, Personalization",
-                "type": "Device or other IDs"
-            },
-            {
                 "data": "Files and docs",
                 "optional": 1,
                 "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance, Personalization, Account management",
                 "type": "Files and docs"
+            },
+            {
+                "data": "Calendar events",
+                "optional": 1,
+                "purpose": "App functionality, Personalization",
+                "type": "Calendar"
             },
             {
                 "data": "Name",
