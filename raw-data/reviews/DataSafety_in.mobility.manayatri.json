@@ -10,6 +10,18 @@
         ],
         "collectedData": [
             {
+                "data": "Device or other IDs",
+                "optional": 0,
+                "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing, Account management",
+                "type": "Device or other IDs"
+            },
+            {
+                "data": "Contacts",
+                "optional": 1,
+                "purpose": "App functionality, Personalization, Account management",
+                "type": "Contacts"
+            },
+            {
                 "data": "Phone number",
                 "optional": 0,
                 "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance",
@@ -32,18 +44,6 @@
                 "optional": 1,
                 "purpose": "App functionality, Analytics",
                 "type": "App info and performance"
-            },
-            {
-                "data": "Contacts",
-                "optional": 1,
-                "purpose": "App functionality, Personalization, Account management",
-                "type": "Contacts"
-            },
-            {
-                "data": "Device or other IDs",
-                "optional": 0,
-                "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing, Account management",
-                "type": "Device or other IDs"
             }
         ],
         "securityPractices": [
