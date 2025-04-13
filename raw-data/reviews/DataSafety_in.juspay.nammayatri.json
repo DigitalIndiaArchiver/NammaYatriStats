@@ -10,12 +10,6 @@
         ],
         "collectedData": [
             {
-                "data": "Device or other IDs",
-                "optional": 1,
-                "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance, Personalization",
-                "type": "Device or other IDs"
-            },
-            {
                 "data": "Contacts",
                 "optional": 1,
                 "purpose": "App functionality, Fraud prevention, security, and compliance, Personalization",
@@ -28,6 +22,12 @@
                 "type": "Calendar"
             },
             {
+                "data": "Files and docs",
+                "optional": 1,
+                "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance, Personalization, Account management",
+                "type": "Files and docs"
+            },
+            {
                 "data": "Emails",
                 "optional": 1,
                 "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Personalization, Account management",
@@ -38,6 +38,12 @@
                 "optional": 1,
                 "purpose": "App functionality, Account management",
                 "type": "Messages"
+            },
+            {
+                "data": "Device or other IDs",
+                "optional": 1,
+                "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance, Personalization",
+                "type": "Device or other IDs"
             },
             {
                 "data": "Name",
@@ -56,12 +62,6 @@
                 "optional": 1,
                 "purpose": "App functionality",
                 "type": "Personal info"
-            },
-            {
-                "data": "Files and docs",
-                "optional": 1,
-                "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance, Personalization, Account management",
-                "type": "Files and docs"
             }
         ],
         "securityPractices": [
