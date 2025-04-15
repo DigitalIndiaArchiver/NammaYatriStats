@@ -3,10 +3,28 @@
         "sharedData": [],
         "collectedData": [
             {
-                "data": "Device or other IDs",
+                "data": "Crash logs",
                 "optional": 0,
+                "purpose": "Analytics",
+                "type": "App info and performance"
+            },
+            {
+                "data": "Diagnostics",
+                "optional": 0,
+                "purpose": "Analytics",
+                "type": "App info and performance"
+            },
+            {
+                "data": "Approximate location",
+                "optional": 1,
                 "purpose": "App functionality, Analytics",
-                "type": "Device or other IDs"
+                "type": "Location"
+            },
+            {
+                "data": "Precise location",
+                "optional": 1,
+                "purpose": "App functionality, Analytics",
+                "type": "Location"
             },
             {
                 "data": "User IDs",
@@ -33,28 +51,10 @@
                 "type": "App activity"
             },
             {
-                "data": "Approximate location",
-                "optional": 1,
-                "purpose": "App functionality, Analytics",
-                "type": "Location"
-            },
-            {
-                "data": "Precise location",
-                "optional": 1,
-                "purpose": "App functionality, Analytics",
-                "type": "Location"
-            },
-            {
-                "data": "Crash logs",
+                "data": "Device or other IDs",
                 "optional": 0,
-                "purpose": "Analytics",
-                "type": "App info and performance"
-            },
-            {
-                "data": "Diagnostics",
-                "optional": 0,
-                "purpose": "Analytics",
-                "type": "App info and performance"
+                "purpose": "App functionality, Analytics",
+                "type": "Device or other IDs"
             }
         ],
         "securityPractices": [
