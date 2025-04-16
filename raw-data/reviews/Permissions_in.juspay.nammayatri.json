@@ -5,6 +5,10 @@
             "type": "Contacts"
         },
         {
+            "permission": "modify your contacts",
+            "type": "Contacts"
+        },
+        {
             "permission": "approximate location (network-based)",
             "type": "Location"
         },
@@ -57,15 +61,7 @@
             "type": "Other"
         },
         {
-            "permission": "pair with Bluetooth devices",
-            "type": "Other"
-        },
-        {
             "permission": "full network access",
-            "type": "Other"
-        },
-        {
-            "permission": "change your audio settings",
             "type": "Other"
         },
         {
