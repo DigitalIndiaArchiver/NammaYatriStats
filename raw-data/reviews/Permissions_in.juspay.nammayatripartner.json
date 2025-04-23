@@ -65,6 +65,10 @@
             "type": "Other"
         },
         {
+            "permission": "pair with Bluetooth devices",
+            "type": "Other"
+        },
+        {
             "permission": "change network connectivity",
             "type": "Other"
         },
