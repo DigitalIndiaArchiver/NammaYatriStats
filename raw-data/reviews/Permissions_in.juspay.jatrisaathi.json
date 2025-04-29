@@ -5,6 +5,10 @@
             "type": "Contacts"
         },
         {
+            "permission": "modify your contacts",
+            "type": "Contacts"
+        },
+        {
             "permission": "approximate location (network-based)",
             "type": "Location"
         },
