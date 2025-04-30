@@ -10,22 +10,34 @@
         ],
         "collectedData": [
             {
-                "data": "Contacts",
+                "data": "Emails",
                 "optional": 1,
-                "purpose": "App functionality, Fraud prevention, security, and compliance, Personalization",
-                "type": "Contacts"
+                "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Personalization, Account management",
+                "type": "Messages"
             },
             {
-                "data": "Files and docs",
+                "data": "SMS or MMS",
                 "optional": 1,
-                "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance, Personalization, Account management",
-                "type": "Files and docs"
+                "purpose": "App functionality, Account management",
+                "type": "Messages"
+            },
+            {
+                "data": "Calendar events",
+                "optional": 1,
+                "purpose": "App functionality, Personalization",
+                "type": "Calendar"
             },
             {
                 "data": "Device or other IDs",
                 "optional": 1,
                 "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance, Personalization",
                 "type": "Device or other IDs"
+            },
+            {
+                "data": "Contacts",
+                "optional": 1,
+                "purpose": "App functionality, Fraud prevention, security, and compliance, Personalization",
+                "type": "Contacts"
             },
             {
                 "data": "Name",
@@ -46,22 +58,10 @@
                 "type": "Personal info"
             },
             {
-                "data": "Calendar events",
+                "data": "Files and docs",
                 "optional": 1,
-                "purpose": "App functionality, Personalization",
-                "type": "Calendar"
-            },
-            {
-                "data": "Emails",
-                "optional": 1,
-                "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Personalization, Account management",
-                "type": "Messages"
-            },
-            {
-                "data": "SMS or MMS",
-                "optional": 1,
-                "purpose": "App functionality, Account management",
-                "type": "Messages"
+                "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance, Personalization, Account management",
+                "type": "Files and docs"
             }
         ],
         "securityPractices": [

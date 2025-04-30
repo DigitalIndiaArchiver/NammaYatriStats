@@ -16,12 +16,6 @@
                 "type": "Device or other IDs"
             },
             {
-                "data": "Contacts",
-                "optional": 1,
-                "purpose": "App functionality, Personalization, Account management",
-                "type": "Contacts"
-            },
-            {
                 "data": "Crash logs",
                 "optional": 0,
                 "purpose": "Analytics",
@@ -44,6 +38,12 @@
                 "optional": 0,
                 "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance",
                 "type": "Personal info"
+            },
+            {
+                "data": "Contacts",
+                "optional": 1,
+                "purpose": "App functionality, Personalization, Account management",
+                "type": "Contacts"
             }
         ],
         "securityPractices": [
