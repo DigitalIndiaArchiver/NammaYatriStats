@@ -10,42 +10,6 @@
         ],
         "collectedData": [
             {
-                "data": "Device or other IDs",
-                "optional": 1,
-                "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance, Personalization",
-                "type": "Device or other IDs"
-            },
-            {
-                "data": "Emails",
-                "optional": 1,
-                "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Personalization, Account management",
-                "type": "Messages"
-            },
-            {
-                "data": "SMS or MMS",
-                "optional": 1,
-                "purpose": "App functionality, Account management",
-                "type": "Messages"
-            },
-            {
-                "data": "Calendar events",
-                "optional": 1,
-                "purpose": "App functionality, Personalization",
-                "type": "Calendar"
-            },
-            {
-                "data": "Files and docs",
-                "optional": 1,
-                "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance, Personalization, Account management",
-                "type": "Files and docs"
-            },
-            {
-                "data": "Contacts",
-                "optional": 1,
-                "purpose": "App functionality, Fraud prevention, security, and compliance, Personalization",
-                "type": "Contacts"
-            },
-            {
                 "data": "Name",
                 "optional": 0,
                 "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Account management",
@@ -62,6 +26,42 @@
                 "optional": 1,
                 "purpose": "App functionality",
                 "type": "Personal info"
+            },
+            {
+                "data": "Contacts",
+                "optional": 1,
+                "purpose": "App functionality, Fraud prevention, security, and compliance, Personalization",
+                "type": "Contacts"
+            },
+            {
+                "data": "Calendar events",
+                "optional": 1,
+                "purpose": "App functionality, Personalization",
+                "type": "Calendar"
+            },
+            {
+                "data": "Device or other IDs",
+                "optional": 1,
+                "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance, Personalization",
+                "type": "Device or other IDs"
+            },
+            {
+                "data": "Files and docs",
+                "optional": 1,
+                "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance, Personalization, Account management",
+                "type": "Files and docs"
+            },
+            {
+                "data": "Emails",
+                "optional": 1,
+                "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Personalization, Account management",
+                "type": "Messages"
+            },
+            {
+                "data": "SMS or MMS",
+                "optional": 1,
+                "purpose": "App functionality, Account management",
+                "type": "Messages"
             }
         ],
         "securityPractices": [
