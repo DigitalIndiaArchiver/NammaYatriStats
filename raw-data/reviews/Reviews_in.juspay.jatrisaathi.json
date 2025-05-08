@@ -1,5 +1,69 @@
 [
     {
+        "id": "f3511c95-84fc-4a8d-ac4f-371f174c99f7",
+        "date": "2025-05-07",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "AC not working properly"
+    },
+    {
+        "id": "b8ca948b-1db4-4129-82a0-f4d89f8b9d0a",
+        "date": "2025-05-07",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "professional"
+    },
+    {
+        "id": "930ee124-6da3-484f-b1fc-11b25f719792",
+        "date": "2025-05-07",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very dependable service. keep it up"
+    },
+    {
+        "id": "6ef8c6d5-5683-4832-97cb-536be120014d",
+        "date": "2025-05-07",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good driver and good man also"
+    },
+    {
+        "id": "298075cc-576e-45fb-ab81-95164c32acef",
+        "date": "2025-05-07",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very efficient"
+    },
+    {
+        "id": "2018b654-5c66-43e2-98e9-b9a803f16528",
+        "date": "2025-05-07",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "need to improve on features and with more offers."
+    },
+    {
+        "id": "1875c973-07d2-413d-b0c1-0476cd1cd4b9",
+        "date": "2025-05-07",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good service"
+    },
+    {
+        "id": "1313cd1a-46aa-4154-bd03-cd224792b9ae",
+        "date": "2025-05-07",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good \ud83d\udc4d"
+    },
+    {
         "id": "bf6c76a4-ae99-40e9-a384-2051bedca3f1",
         "date": "2025-05-06",
         "score": 5,
@@ -14,6 +78,14 @@
         "scoreText": "4",
         "title": null,
         "text": "network is slightly poor"
+    },
+    {
+        "id": "4ce9e115-3f33-4ed8-9972-27e3588d1390",
+        "date": "2025-05-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "affordable price"
     },
     {
         "id": "0cf7cf05-1d37-43be-ba6a-9cae16ea987b",
