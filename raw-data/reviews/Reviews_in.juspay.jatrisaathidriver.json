@@ -1,5 +1,13 @@
 [
     {
+        "id": "5bc0151d-408e-43dd-846f-6f256c18d015",
+        "date": "2025-05-08",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "not working, showing an error, no network, but other Booking apps working properly."
+    },
+    {
         "id": "f80f423c-db6c-45f8-b425-a0b8dd298175",
         "date": "2025-05-07",
         "score": 5,
