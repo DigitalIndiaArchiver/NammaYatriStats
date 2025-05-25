@@ -16,22 +16,10 @@
                 "type": "Calendar"
             },
             {
-                "data": "Name",
-                "optional": 0,
-                "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Account management",
-                "type": "Personal info"
-            },
-            {
-                "data": "Email address",
-                "optional": 0,
-                "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Account management",
-                "type": "Personal info"
-            },
-            {
-                "data": "Address",
+                "data": "Contacts",
                 "optional": 1,
-                "purpose": "App functionality",
-                "type": "Personal info"
+                "purpose": "App functionality, Fraud prevention, security, and compliance, Personalization",
+                "type": "Contacts"
             },
             {
                 "data": "Files and docs",
@@ -52,16 +40,28 @@
                 "type": "Messages"
             },
             {
-                "data": "Contacts",
-                "optional": 1,
-                "purpose": "App functionality, Fraud prevention, security, and compliance, Personalization",
-                "type": "Contacts"
-            },
-            {
                 "data": "Device or other IDs",
                 "optional": 1,
                 "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance, Personalization",
                 "type": "Device or other IDs"
+            },
+            {
+                "data": "Name",
+                "optional": 0,
+                "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Account management",
+                "type": "Personal info"
+            },
+            {
+                "data": "Email address",
+                "optional": 0,
+                "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Account management",
+                "type": "Personal info"
+            },
+            {
+                "data": "Address",
+                "optional": 1,
+                "purpose": "App functionality",
+                "type": "Personal info"
             }
         ],
         "securityPractices": [
