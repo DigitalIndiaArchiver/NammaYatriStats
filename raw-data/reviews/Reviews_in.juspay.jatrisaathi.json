@@ -1,5 +1,85 @@
 [
     {
+        "id": "fd625a70-1477-4735-91ed-f59805f6c4ff",
+        "date": "2025-05-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "e72f6b74-5623-46d5-99c3-6d02456e55b8",
+        "date": "2025-05-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "on time"
+    },
+    {
+        "id": "dc63acbc-a39d-4f82-93d1-cd9519a65f82",
+        "date": "2025-05-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "best app"
+    },
+    {
+        "id": "db89651e-3b2c-43ee-beca-4e695126b81b",
+        "date": "2025-05-28",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "Good"
+    },
+    {
+        "id": "d53b87c7-3c22-4c71-ab59-4eb9f169ce40",
+        "date": "2025-05-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "This is a very cheap and best ride booking app."
+    },
+    {
+        "id": "9a09e492-aac5-4031-a071-e279e32d5c3b",
+        "date": "2025-05-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very very happy"
+    },
+    {
+        "id": "6e4003ef-8b8d-409c-90bc-2b371c3c0504",
+        "date": "2025-05-28",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "Faltu app.. very less cabs .. bikes are even lesser.. drivers themselves dont prefer and prices shown changes after booking.. anyways higher price than uber in cab section.. worst app"
+    },
+    {
+        "id": "5db4f436-db5a-47ea-8533-dbbfd7538c0c",
+        "date": "2025-05-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good"
+    },
+    {
+        "id": "3e201e02-8599-4cd7-ac9f-448fc0324830",
+        "date": "2025-05-28",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "Good Driver \ud83d\udc4d\u263a\ufe0f"
+    },
+    {
+        "id": "05ab4250-c778-4002-a6bb-1aff773abb07",
+        "date": "2025-05-28",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Through my personal experience I would say I hated this service . The drivers are taking us through different long routes and suddenly you see your fair has increased from the previous shown price in app . Maybe they purposely do so to increase the price/ km . Kindly check it . This happened to me twice in kolkata ."
+    },
+    {
         "id": "e5fcb35f-f0f8-451a-a545-e2170ab606fb",
         "date": "2025-05-27",
         "score": 4,
@@ -46,6 +126,14 @@
         "scoreText": "5",
         "title": null,
         "text": "good"
+    },
+    {
+        "id": "835234de-a748-4d1c-a444-4464f12f1607",
+        "date": "2025-05-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good apps"
     },
     {
         "id": "72904448-cbae-4203-90dd-ae35ee6e99c0",
