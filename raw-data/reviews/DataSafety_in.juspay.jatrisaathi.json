@@ -3,28 +3,16 @@
         "sharedData": [],
         "collectedData": [
             {
-                "data": "Device or other IDs",
+                "data": "Crash logs",
                 "optional": 0,
-                "purpose": "App functionality, Analytics",
-                "type": "Device or other IDs"
+                "purpose": "Analytics",
+                "type": "App info and performance"
             },
             {
-                "data": "User IDs",
+                "data": "Diagnostics",
                 "optional": 0,
-                "purpose": "App functionality, Analytics",
-                "type": "Personal info"
-            },
-            {
-                "data": "Address",
-                "optional": 1,
-                "purpose": "App functionality",
-                "type": "Personal info"
-            },
-            {
-                "data": "Phone number",
-                "optional": 0,
-                "purpose": "App functionality, Account management",
-                "type": "Personal info"
+                "purpose": "Analytics",
+                "type": "App info and performance"
             },
             {
                 "data": "App interactions",
@@ -45,16 +33,28 @@
                 "type": "Location"
             },
             {
-                "data": "Crash logs",
+                "data": "User IDs",
                 "optional": 0,
-                "purpose": "Analytics",
-                "type": "App info and performance"
+                "purpose": "App functionality, Analytics",
+                "type": "Personal info"
             },
             {
-                "data": "Diagnostics",
+                "data": "Address",
+                "optional": 1,
+                "purpose": "App functionality",
+                "type": "Personal info"
+            },
+            {
+                "data": "Phone number",
                 "optional": 0,
-                "purpose": "Analytics",
-                "type": "App info and performance"
+                "purpose": "App functionality, Account management",
+                "type": "Personal info"
+            },
+            {
+                "data": "Device or other IDs",
+                "optional": 0,
+                "purpose": "App functionality, Analytics",
+                "type": "Device or other IDs"
             }
         ],
         "securityPractices": [
