@@ -1,5 +1,69 @@
 [
     {
+        "id": "be4f984d-a11c-419f-affd-16c98f8ee272",
+        "date": "2025-06-08",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good service for me"
+    },
+    {
+        "id": "8daa2409-2e26-4ea9-885f-c567406b20e8",
+        "date": "2025-06-08",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "they didn't have bus booking service but they take the amount from customer by showing the ad"
+    },
+    {
+        "id": "56170384-cf6b-46e8-9ab8-52d35aedfb0f",
+        "date": "2025-06-08",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good trip"
+    },
+    {
+        "id": "449fdf08-f89b-4ee0-8fc0-3e4bcd8ac230",
+        "date": "2025-06-08",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good \ud83d\udc4d"
+    },
+    {
+        "id": "401d20c0-4fd7-4501-a6b7-aa06de4fa21d",
+        "date": "2025-06-08",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "30b97e51-d60c-4c9d-97b6-9a873b7089f4",
+        "date": "2025-06-08",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "rates are less compared to uber ola but their system of booking is time taking, we need to stand in a line to get cab number"
+    },
+    {
+        "id": "2c2589cc-dec6-44f5-8d41-7425dc33a0a0",
+        "date": "2025-06-08",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "3 stars for the fast service at such affordable rates. But App needs lot of fixes. Prompts to turn on GPS just after opening the app,this isn't necessary as this uses more processing power of the phone and drains battery.I need location while booking the ride only,I don't need it when the ride has started. Also during the ride,the app stutters,messaging the driver or calling the driver is painful.Also,need Integrations with payment apps like Gpay/PhonePe right from the ride fare details."
+    },
+    {
+        "id": "204918e1-1084-49e0-ade0-c375f8597cda",
+        "date": "2025-06-08",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "poor service \ud83d\ude1e"
+    },
+    {
         "id": "f9c26b49-27f0-4f97-8149-2e53784d0662",
         "date": "2025-06-07",
         "score": 5,
@@ -30,6 +94,14 @@
         "scoreText": "5",
         "title": null,
         "text": "very good"
+    },
+    {
+        "id": "95332e99-6657-4fc8-aeab-1c6f34a4a447",
+        "date": "2025-06-07",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "ok"
     },
     {
         "id": "6b0ff852-b5e5-4676-bfd4-7a161bd88fb7",
