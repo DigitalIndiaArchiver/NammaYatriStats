@@ -10,22 +10,16 @@
         ],
         "collectedData": [
             {
-                "data": "Calendar events",
+                "data": "Contacts",
                 "optional": 1,
-                "purpose": "App functionality, Personalization",
-                "type": "Calendar"
+                "purpose": "App functionality, Fraud prevention, security, and compliance, Personalization",
+                "type": "Contacts"
             },
             {
                 "data": "Files and docs",
                 "optional": 1,
                 "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance, Personalization, Account management",
                 "type": "Files and docs"
-            },
-            {
-                "data": "Contacts",
-                "optional": 1,
-                "purpose": "App functionality, Fraud prevention, security, and compliance, Personalization",
-                "type": "Contacts"
             },
             {
                 "data": "Emails",
@@ -38,6 +32,12 @@
                 "optional": 1,
                 "purpose": "App functionality, Account management",
                 "type": "Messages"
+            },
+            {
+                "data": "Device or other IDs",
+                "optional": 1,
+                "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance, Personalization",
+                "type": "Device or other IDs"
             },
             {
                 "data": "Name",
@@ -58,10 +58,10 @@
                 "type": "Personal info"
             },
             {
-                "data": "Device or other IDs",
+                "data": "Calendar events",
                 "optional": 1,
-                "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance, Personalization",
-                "type": "Device or other IDs"
+                "purpose": "App functionality, Personalization",
+                "type": "Calendar"
             }
         ],
         "securityPractices": [
