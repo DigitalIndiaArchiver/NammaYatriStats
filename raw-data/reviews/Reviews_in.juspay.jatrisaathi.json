@@ -1,11 +1,91 @@
 [
     {
+        "id": "d860bd54-559e-4d57-846f-f5cbeee6d3aa",
+        "date": "2025-06-10",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice \ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d \ud83d\udc4d"
+    },
+    {
+        "id": "cfca706f-0207-4c5b-9789-a721b52ddc98",
+        "date": "2025-06-10",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "excellent app for drivers. fares provided are quite satisfactory. but app itself is not without glitches. support for carplay android auto should be provided. this will make driver's work quite seamless and comfortable."
+    },
+    {
+        "id": "94c118f0-2bfe-4039-9efc-53e02d640789",
+        "date": "2025-06-10",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "best choice"
+    },
+    {
+        "id": "66c54eb0-137b-4d99-b5e3-6e349c882a13",
+        "date": "2025-06-10",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "that's good"
+    },
+    {
+        "id": "53a8ec86-10ad-4098-990f-304a52425577",
+        "date": "2025-06-10",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good"
+    },
+    {
+        "id": "40682ebb-9a80-44e7-9d0e-34e49979238f",
+        "date": "2025-06-10",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "This is a totally useless service. Why does their driver ask for extra money? He shows the fare to be higher and on top of that the driver says it will cost 50 more. app delete my phone totally useless experience"
+    },
+    {
+        "id": "38a0aaf0-34bb-4e44-a324-2d1baea5a005",
+        "date": "2025-06-10",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Mind blowing app\ud83d\udc4c\ud83d\udc4c\ud83d\udc4c\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d"
+    },
+    {
+        "id": "3484840d-c011-4ec3-9905-a9b29752459b",
+        "date": "2025-06-10",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "thank you"
+    },
+    {
+        "id": "08ecec64-0568-40b5-a4fe-8ac4f840c9c1",
+        "date": "2025-06-10",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Map mismatch"
+    },
+    {
         "id": "f76afc71-da63-4d07-bf33-b1cad284efbb",
         "date": "2025-06-09",
         "score": 4,
         "scoreText": "4",
         "title": null,
         "text": "good"
+    },
+    {
+        "id": "d1cd9e41-3040-45ee-9467-0164dc451338",
+        "date": "2025-06-09",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "The app shows one price when booking, but the driver demands a much higher amount once the ride is confirmed (e.g., \u20b9200 shows, but they ask for \u20b9700). This is misleading! If you can\u2019t offer fair pricing, just shut the app down. Also, drivers cancel rides at their own discretion, which is frustrating. Why is this allowed? I strongly advise against using this app \u2013 it\u2019s unreliable and unprofessional. \ud83d\ude21\ud83d\ude21\ud83d\ude21"
     },
     {
         "id": "cd3008f6-a7c5-442c-8bb9-1665b6e2e3d8",
