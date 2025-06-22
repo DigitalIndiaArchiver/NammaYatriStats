@@ -3,16 +3,16 @@
         "sharedData": [],
         "collectedData": [
             {
-                "data": "Device or other IDs",
-                "optional": 1,
-                "purpose": "App functionality, Analytics, Developer communications",
-                "type": "Device or other IDs"
-            },
-            {
                 "data": "App interactions",
                 "optional": 1,
                 "purpose": "App functionality, Analytics",
                 "type": "App activity"
+            },
+            {
+                "data": "Device or other IDs",
+                "optional": 1,
+                "purpose": "App functionality, Analytics, Developer communications",
+                "type": "Device or other IDs"
             },
             {
                 "data": "User IDs",
