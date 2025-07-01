@@ -3,18 +3,6 @@
         "sharedData": [],
         "collectedData": [
             {
-                "data": "Approximate location",
-                "optional": 1,
-                "purpose": "App functionality, Analytics",
-                "type": "Location"
-            },
-            {
-                "data": "Precise location",
-                "optional": 1,
-                "purpose": "App functionality, Analytics",
-                "type": "Location"
-            },
-            {
                 "data": "User IDs",
                 "optional": 0,
                 "purpose": "App functionality, Analytics",
@@ -33,6 +21,18 @@
                 "type": "Personal info"
             },
             {
+                "data": "Approximate location",
+                "optional": 1,
+                "purpose": "App functionality, Analytics",
+                "type": "Location"
+            },
+            {
+                "data": "Precise location",
+                "optional": 1,
+                "purpose": "App functionality, Analytics",
+                "type": "Location"
+            },
+            {
                 "data": "Crash logs",
                 "optional": 0,
                 "purpose": "Analytics",
@@ -45,16 +45,16 @@
                 "type": "App info and performance"
             },
             {
-                "data": "Device or other IDs",
-                "optional": 0,
-                "purpose": "App functionality, Analytics",
-                "type": "Device or other IDs"
-            },
-            {
                 "data": "App interactions",
                 "optional": 0,
                 "purpose": "App functionality, Analytics",
                 "type": "App activity"
+            },
+            {
+                "data": "Device or other IDs",
+                "optional": 0,
+                "purpose": "App functionality, Analytics",
+                "type": "Device or other IDs"
             }
         ],
         "securityPractices": [
