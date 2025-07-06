@@ -3,42 +3,6 @@
         "sharedData": [],
         "collectedData": [
             {
-                "data": "Crash logs",
-                "optional": 0,
-                "purpose": "Analytics",
-                "type": "App info and performance"
-            },
-            {
-                "data": "Diagnostics",
-                "optional": 0,
-                "purpose": "Analytics",
-                "type": "App info and performance"
-            },
-            {
-                "data": "App interactions",
-                "optional": 0,
-                "purpose": "App functionality, Analytics",
-                "type": "App activity"
-            },
-            {
-                "data": "Approximate location",
-                "optional": 1,
-                "purpose": "App functionality, Analytics",
-                "type": "Location"
-            },
-            {
-                "data": "Precise location",
-                "optional": 1,
-                "purpose": "App functionality, Analytics",
-                "type": "Location"
-            },
-            {
-                "data": "Device or other IDs",
-                "optional": 0,
-                "purpose": "App functionality, Analytics",
-                "type": "Device or other IDs"
-            },
-            {
                 "data": "User IDs",
                 "optional": 0,
                 "purpose": "App functionality, Analytics",
@@ -55,6 +19,42 @@
                 "optional": 0,
                 "purpose": "App functionality, Account management",
                 "type": "Personal info"
+            },
+            {
+                "data": "App interactions",
+                "optional": 0,
+                "purpose": "App functionality, Analytics",
+                "type": "App activity"
+            },
+            {
+                "data": "Device or other IDs",
+                "optional": 0,
+                "purpose": "App functionality, Analytics",
+                "type": "Device or other IDs"
+            },
+            {
+                "data": "Crash logs",
+                "optional": 0,
+                "purpose": "Analytics",
+                "type": "App info and performance"
+            },
+            {
+                "data": "Diagnostics",
+                "optional": 0,
+                "purpose": "Analytics",
+                "type": "App info and performance"
+            },
+            {
+                "data": "Approximate location",
+                "optional": 1,
+                "purpose": "App functionality, Analytics",
+                "type": "Location"
+            },
+            {
+                "data": "Precise location",
+                "optional": 1,
+                "purpose": "App functionality, Analytics",
+                "type": "Location"
             }
         ],
         "securityPractices": [
