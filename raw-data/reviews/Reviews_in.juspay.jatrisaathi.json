@@ -1,5 +1,149 @@
 [
     {
+        "id": "f37d824a-645c-4a27-896f-d0c8bbf88f7d",
+        "date": "2025-07-22",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "f0bc1523-4ff3-4abf-8f07-a41b46e83062",
+        "date": "2025-07-22",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "why the app is not working now?"
+    },
+    {
+        "id": "f0a8ce7f-ac86-48f5-9c68-8074be7da58a",
+        "date": "2025-07-22",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "best ride"
+    },
+    {
+        "id": "dfa910e0-a17a-4328-858b-f7e1cbfb230f",
+        "date": "2025-07-22",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good service"
+    },
+    {
+        "id": "d7d02cae-fc8f-44ca-8bf7-80e3186718a5",
+        "date": "2025-07-22",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very useful and reliable"
+    },
+    {
+        "id": "cdae929e-d98b-43a9-8a81-fb040fafb049",
+        "date": "2025-07-22",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "book hone mein bahut time lagata hai"
+    },
+    {
+        "id": "b0cb16b6-b3c4-4fcd-b38e-801beed62679",
+        "date": "2025-07-22",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good"
+    },
+    {
+        "id": "a9f16d35-1201-48db-8f09-5ded5f4ec225",
+        "date": "2025-07-22",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Maximum time the ride is not booked after showing the estimated fare with +50 rs.. Drivers are demanding more money than highest estimated fare rate!!"
+    },
+    {
+        "id": "976d397a-ba33-48d1-a9b9-9c697a0bbe64",
+        "date": "2025-07-22",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Live location are not working properly"
+    },
+    {
+        "id": "8bb973d6-ff6e-4f90-9194-4f3b8530b068",
+        "date": "2025-07-22",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice \ud83d\udc4d\ud83d\ude42"
+    },
+    {
+        "id": "8b600e1e-44a1-439b-a59d-22fa8a4d8941",
+        "date": "2025-07-22",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "l am fully satisfied this ride \u263a\ufe0f\u263a\ufe0f"
+    },
+    {
+        "id": "7dea049d-2b2a-4adf-a6b8-51d3758b0646",
+        "date": "2025-07-22",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "cheat app...i requested no use app...mere se cheat kera hain"
+    },
+    {
+        "id": "692fa37c-30bd-4ec1-812c-676e70200777",
+        "date": "2025-07-22",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Dada kichu extra cash deben. Very much similar to negotiating with a local bike/taxi driver."
+    },
+    {
+        "id": "4e37165b-a57b-47aa-a8de-c26772dc7f25",
+        "date": "2025-07-22",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "VEREY. GOOD . SIR"
+    },
+    {
+        "id": "4896f72b-bf5a-432e-8b21-9c9b2e05dd70",
+        "date": "2025-07-22",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "nice"
+    },
+    {
+        "id": "3f9f2c2d-af51-4657-aa00-70e48cebf6f4",
+        "date": "2025-07-22",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "Good . but must improve"
+    },
+    {
+        "id": "25ec189d-b490-4abe-af1c-55e95ba793b7",
+        "date": "2025-07-22",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "acha ?i ne on"
+    },
+    {
+        "id": "00ec7f09-02a8-4a07-8d23-91256d04a7fe",
+        "date": "2025-07-22",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Adv Booking Required in app"
+    },
+    {
         "id": "d2fb2edf-0ba8-4091-93ba-2e62369da6a5",
         "date": "2025-07-21",
         "score": 5,
@@ -38,6 +182,14 @@
         "scoreText": "5",
         "title": null,
         "text": "good driving"
+    },
+    {
+        "id": "93ddc623-9bac-4991-a273-d8f12019d625",
+        "date": "2025-07-21",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
     },
     {
         "id": "662c0d75-56ec-40de-9221-47a6861e79a3",
