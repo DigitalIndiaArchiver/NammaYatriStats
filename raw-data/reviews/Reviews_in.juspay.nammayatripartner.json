@@ -1,5 +1,69 @@
 [
     {
+        "id": "feffc362-264d-413b-a8c2-24b08b78811d",
+        "date": "2025-08-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good service"
+    },
+    {
+        "id": "be8e7181-335f-4ba1-91a5-ba1d4947abb1",
+        "date": "2025-08-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "\ud83e\udd29"
+    },
+    {
+        "id": "9a893379-47eb-4e9e-8ac3-146c72a49149",
+        "date": "2025-08-02",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "\u0cb5\u0cbf\u0cb3\u0cbe\u0cb8\u0ca6 \u0cb8\u0c82\u0caa\u0cc2\u0cb0\u0ccd\u0ca3 \u0cb5\u0cbf\u0cb5\u0cb0\u0c97\u0cb3\u0ca8\u0ccd\u0ca8\u0cc1 \u0c92\u0ca6\u0c97\u0cbf\u0cb8\u0cbf. \u0c97\u0ccd\u0cb0\u0cbe\u0cb9\u0c95\u0cb0 \u0cb5\u0cbf\u0cb3\u0cbe\u0cb8\u0ca6 \u0cae\u0cbe\u0cb9\u0cbf\u0ca4\u0cbf\u0caf\u0ca8\u0ccd\u0ca8\u0cc1 \u0cb8\u0cb0\u0cbf\u0caf\u0cbe\u0c97\u0cbf \u0c87\u0cb0\u0cbf\u0cb8\u0cbf. \u0c97\u0ccd\u0cb0\u0cbe\u0cb9\u0c95\u0cb0 \u0cb8\u0cb5\u0cbe\u0cb0\u0cbf \u0ca8\u0cbf\u0cb0\u0cbe\u0c95\u0cb0\u0ca3\u0cc6 \u0cb9\u0cc6\u0c9a\u0ccd\u0c9a\u0cc1\u0ca4\u0cbf\u0ca6\u0cc7 \u0c97\u0cae\u0ca8 \u0cb9\u0cb0\u0cbf\u0cb8\u0cbf."
+    },
+    {
+        "id": "65d0fb7a-12bd-4b39-85f8-4d0856e46b2a",
+        "date": "2025-08-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good performance but city only active"
+    },
+    {
+        "id": "597245ca-fc09-4582-95a8-76552be1c044",
+        "date": "2025-08-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice experience with namma yatri"
+    },
+    {
+        "id": "394357d1-47ea-4de5-83ec-48585cc33ace",
+        "date": "2025-08-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "so good"
+    },
+    {
+        "id": "274ccb62-0e95-4d5f-a7f3-d4dea7187463",
+        "date": "2025-08-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "0c6cfc35-2575-460c-9fbf-facc52e662ca",
+        "date": "2025-08-02",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "device hanging app"
+    },
+    {
         "id": "eaff7c1e-e4dd-431b-8c31-c5a757a51b73",
         "date": "2025-08-01",
         "score": 5,
@@ -62,6 +126,14 @@
         "scoreText": "5",
         "title": null,
         "text": "nice pic"
+    },
+    {
+        "id": "235acd9d-3ccb-48dc-803f-b6e8f89181ad",
+        "date": "2025-08-01",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "no fast open app"
     },
     {
         "id": "dd955fe1-3217-44fb-865d-2737a91d2202",
