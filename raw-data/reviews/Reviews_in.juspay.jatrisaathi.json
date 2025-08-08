@@ -1,5 +1,117 @@
 [
     {
+        "id": "f20be8b7-6de5-4a53-b8c1-433212bcc190",
+        "date": "2025-08-07",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Very good apps"
+    },
+    {
+        "id": "e002cad4-a061-4d78-bae9-a5462185873c",
+        "date": "2025-08-07",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Excellent service"
+    },
+    {
+        "id": "df149da3-fe6c-468e-b8e5-e1bf8cfa441c",
+        "date": "2025-08-07",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "darun"
+    },
+    {
+        "id": "b2f13f6e-22ba-4c48-9fed-5551996c6391",
+        "date": "2025-08-07",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "CAB A/C not mentioned"
+    },
+    {
+        "id": "a1f9360a-8756-4a0b-9e74-d6011e71da84",
+        "date": "2025-08-07",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "pathetic app! no customer support, no rules and it's planned only while booking sedan you will get rides."
+    },
+    {
+        "id": "9914c1e2-38d0-4f95-a1fb-3f509449a476",
+        "date": "2025-08-07",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "very good experience"
+    },
+    {
+        "id": "7243a835-3d8e-4a3b-800b-195c34025aa4",
+        "date": "2025-08-07",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "application bahut slow hai"
+    },
+    {
+        "id": "45b05a42-abfb-42b0-916a-01b9cd7effa5",
+        "date": "2025-08-07",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Very useful riding app,Low cost with precession timing."
+    },
+    {
+        "id": "392f4cbf-307a-425d-af98-a235d85e1cab",
+        "date": "2025-08-07",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good service"
+    },
+    {
+        "id": "38a005c5-643a-4a29-9afb-d036f010eb2f",
+        "date": "2025-08-07",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good driver and behaviours also good \ud83d\ude0a"
+    },
+    {
+        "id": "384c2822-35fa-4069-a382-11aa7c46d3b7",
+        "date": "2025-08-07",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "wow"
+    },
+    {
+        "id": "2f9e8207-030e-4889-be7b-2afbb26ccf97",
+        "date": "2025-08-07",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Worst customer service.complain not yet resolved after 4 days."
+    },
+    {
+        "id": "1bec0a4f-e72f-4d96-b70c-bc649787cadf",
+        "date": "2025-08-07",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "\ud83d\udc4d"
+    },
+    {
+        "id": "1a04721c-36ec-4c9c-afdd-d3a0a0556d70",
+        "date": "2025-08-07",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "really good"
+    },
+    {
         "id": "f33da528-517d-488b-b2b9-633703c0e6a6",
         "date": "2025-08-06",
         "score": 5,
@@ -78,6 +190,14 @@
         "scoreText": "5",
         "title": null,
         "text": "excellent cab"
+    },
+    {
+        "id": "68896757-9f5a-4ee3-8372-81d1e358682d",
+        "date": "2025-08-06",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "don't trust the 5 starts,, it's fake,, rated by their own ,, it sucks better book uber"
     },
     {
         "id": "679eab91-a8a6-4e94-887a-fbe7b981960c",
