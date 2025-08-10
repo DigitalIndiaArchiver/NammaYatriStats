@@ -5,17 +5,17 @@
     "summary": "Zero Commission Rides - Low Cancellations, Fast Pickups &amp; Affordable Fares.",
     "installs": "500,000+",
     "minInstalls": 500000,
-    "maxInstalls": 716121,
-    "score": 4.730173,
+    "maxInstalls": 716532,
+    "score": 4.73,
     "scoreText": "4.7",
-    "ratings": 11132,
+    "ratings": 11135,
     "reviews": "http://gplayapi.cashlessconsumer.in/api/apps/net.openkochi.yatri/reviews",
     "histogram": {
-        "1": 303,
+        "1": 302,
         "2": 90,
         "3": 242,
-        "4": 1024,
-        "5": 9467
+        "4": 1031,
+        "5": 9463
     },
     "price": 0,
     "free": true,
