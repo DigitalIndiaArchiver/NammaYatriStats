@@ -1,5 +1,160 @@
 [
     {
+        "id": "f672e046-02a3-447b-a2a4-841103e50352",
+        "date": "2025-08-16",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "cdccd6fa-e456-4193-8123-836220aea1d1",
+        "date": "2025-08-16",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice \ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d"
+    },
+    {
+        "id": "c209a39b-07b1-4b5a-b517-42c2467f4f9b",
+        "date": "2025-08-16",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "be1eb03a-2d8b-4ed5-9b16-a9cde9e5768c",
+        "date": "2025-08-16",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Satisfactory service"
+    },
+    {
+        "id": "8b9c1625-cbac-4912-92f2-63bccc5ef551",
+        "date": "2025-08-16",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "First it shows a fare for any respective location but drivers never accept that fare then the app tells to increase the amount of fare to may be more 10Rs or 20Rs . This should be improved ."
+    },
+    {
+        "id": "74bb664e-d25b-42d3-94a9-212eed2fe104",
+        "date": "2025-08-16",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "very good"
+    },
+    {
+        "id": "73400f30-c92b-4289-ac1c-abcb25fceace",
+        "date": "2025-08-16",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good and reliable app"
+    },
+    {
+        "id": "6ab4cd75-6883-4de3-aacf-fff8b14697c6",
+        "date": "2025-08-16",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Fare is good."
+    },
+    {
+        "id": "69c1c60c-bdb5-4050-a812-b536b000262e",
+        "date": "2025-08-16",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good rider \ud83d\udc4d"
+    },
+    {
+        "id": "57ffd3d8-9371-45c7-9a0b-ed8b20546c54",
+        "date": "2025-08-16",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "The experience has been amazing so far on Android os, but recently i changed to nothing os and im not getting track bus feature anymore, could you address this issue please?",
+        "vaf_never_display_app_description": 1,
+        "vaf_never_display_spend_more_time": 2,
+        "vaf_never_display_disruptive_ads": 2
+    },
+    {
+        "id": "564601a9-976c-4e6c-adea-57f7e5bdbbd4",
+        "date": "2025-08-16",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Excelent"
+    },
+    {
+        "id": "5099a3e7-9bf7-4302-b252-f3565aa924de",
+        "date": "2025-08-16",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice"
+    },
+    {
+        "id": "4d8f0fee-7caa-4e5b-ad45-54e55c097b13",
+        "date": "2025-08-16",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "best option for Kolkata."
+    },
+    {
+        "id": "4ad00da0-a014-42e1-9104-4255e14e7a5a",
+        "date": "2025-08-16",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "excellent"
+    },
+    {
+        "id": "29c8b897-fd1d-4b87-b946-f4e1210c8a47",
+        "date": "2025-08-16",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Fare is fair"
+    },
+    {
+        "id": "24ddf161-0db1-407c-925a-59c34d7fa064",
+        "date": "2025-08-16",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good service"
+    },
+    {
+        "id": "17c79cf2-4020-4b3a-9984-ea9184f10ae7",
+        "date": "2025-08-16",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "faltu apps hai customer ko harasment karta hai booking accept karke cancel kar deta hai extra Paisa mangta isliye nahi de to cancel kar deta Hai iske wajah se mera training miss hogaya \ud83d\ude14\ud83d\ude14\ud83d\ude14"
+    },
+    {
+        "id": "09f7e22e-8aed-4f49-bc8c-383d49a96e60",
+        "date": "2025-08-16",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Excellent service"
+    },
+    {
+        "id": "096b1475-7ab6-4980-aa00-5bfa9b171da7",
+        "date": "2025-08-16",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice experience"
+    },
+    {
         "id": "b77481dd-62be-44a4-88d9-8ae22e34287c",
         "date": "2025-08-15",
         "score": 4,
@@ -54,6 +209,14 @@
         "scoreText": "1",
         "title": null,
         "text": "non aci mini taxi fare expensive"
+    },
+    {
+        "id": "046f133f-1c2a-4d9b-82d7-07454736c341",
+        "date": "2025-08-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Not Bad"
     },
     {
         "id": "001cba7e-0923-41f0-9e6f-2dbb420eb4a1",
