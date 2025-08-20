@@ -1,4 +1,7 @@
 {
+    "vaf_never_display_app_description": 2,
+    "vaf_never_display_considerate_of_time": 2,
+    "vaf_never_display_deceptive_ads": 1,
     "vaf_never_display_ads_experience": 33,
     "vaf_never_display_ease_of_use": 35,
     "vaf_phase1_food_delivery": 2,
@@ -13,7 +16,6 @@
     "vaf_phase1_seeing_photos_of_places": 1,
     "vaf_phase1_changing_reservations": 1,
     "vaf_phase1_in_app_deals": 1,
-    "vaf_never_display_app_description": 1,
     "vaf_never_display_make_you_happy": 1,
     "vaf_never_display_content_language": 1,
     "vaf_phase1_booking_flights": 2,
@@ -26,7 +28,6 @@
     "vaf_phase1_cancellation_policy": 1,
     "vaf_phase1_booking_events": 1,
     "vaf_phase1_sharing_arrival_time": 1,
-    "vaf_never_display_considerate_of_time": 1,
     "vaf_phase1_renting_a_car": 1,
     "vaf_phase1_in_app_rewards": 1,
     "vaf_phase1_commute_alerts": 1,
