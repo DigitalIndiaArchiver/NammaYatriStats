@@ -1,5 +1,23 @@
 [
     {
+        "id": "e8b97e76-ddb6-4089-b299-d8449286687c",
+        "date": "2025-08-20",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "51e2e905-fc96-4837-bf31-2637e27060b8",
+        "date": "2025-08-20",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "App not working properly it's not open",
+        "vaf_never_display_ads_experience": null,
+        "vaf_never_display_ease_of_use": null
+    },
+    {
         "id": "a16b3768-43a2-4ab7-995f-f70c413dae44",
         "date": "2025-08-18",
         "score": 1,
