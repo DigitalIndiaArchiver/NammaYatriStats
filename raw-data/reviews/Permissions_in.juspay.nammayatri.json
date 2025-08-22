@@ -17,6 +17,18 @@
             "type": "Location"
         },
         {
+            "permission": "read your text messages (SMS or MMS)",
+            "type": "SMS"
+        },
+        {
+            "permission": "receive text messages (SMS)",
+            "type": "SMS"
+        },
+        {
+            "permission": "send SMS messages",
+            "type": "SMS"
+        },
+        {
             "permission": "directly call phone numbers",
             "type": "Phone"
         },
