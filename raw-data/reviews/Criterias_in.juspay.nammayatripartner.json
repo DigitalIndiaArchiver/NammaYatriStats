@@ -1,4 +1,6 @@
 {
+    "vaf_never_display_ease_of_use": 54,
+    "vaf_never_display_ads_experience": 50,
     "vaf_never_display_meet_expectations": 4,
     "vaf_never_display_app_description": 3,
     "vaf_never_display_deceptive_ads": 6,
@@ -6,8 +8,6 @@
     "vaf_never_display_visually_good": 7,
     "vaf_never_display_content_language": 7,
     "vaf_never_display_visually_bad": 5,
-    "vaf_never_display_ease_of_use": 52,
-    "vaf_never_display_ads_experience": 48,
     "vaf_never_display_inappropriate_ads": 4,
     "vaf_apps_attribute_delivery_v1": 2,
     "vaf_apps_category_food_and_drink_v1": 1,
