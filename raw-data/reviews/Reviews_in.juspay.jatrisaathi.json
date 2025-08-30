@@ -1,5 +1,74 @@
 [
     {
+        "id": "e4c81c9f-029c-4647-9f4e-76a8f2f07813",
+        "date": "2025-08-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "low price drive and happy journey"
+    },
+    {
+        "id": "e481dd2d-e543-48ea-934f-e898de2edd25",
+        "date": "2025-08-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Finding Yatri Sathi better than Ola and Uber... happy to use it"
+    },
+    {
+        "id": "c9e52c2f-a4c6-4070-be6a-2b0ffa7f3162",
+        "date": "2025-08-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "reasonable rate"
+    },
+    {
+        "id": "aee83d77-2af5-4173-8619-dc000d7fac08",
+        "date": "2025-08-29",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "aac3d7fa-beab-4976-80ae-ddea14e7d41d",
+        "date": "2025-08-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "awesome experience"
+    },
+    {
+        "id": "7c54dbae-9108-400e-b403-ef379e50ef19",
+        "date": "2025-08-29",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "bykar app",
+        "vaf_never_display_ads_experience": null,
+        "vaf_never_display_ease_of_use": null
+    },
+    {
+        "id": "7c19c388-ff71-41a5-9676-297f8dfbe759",
+        "date": "2025-08-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Brilliant"
+    },
+    {
+        "id": "59e79bdf-6eed-43da-9099-9ebf7a2c2fe3",
+        "date": "2025-08-29",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "whenever we need a cab urgent...they never provide that... their service is very poor...also their drivers are untrained.... drivers named Idrish Ali and Narayan Saha are really behave like illiterate... they never come to the proper location instead they force you to do so.... initially I believed this app...but when I use it to travel my old mother...they insisted us to provide extra charges and make us wait too long... I uninstall it... don't install it...useless app...",
+        "vaf_never_display_negative_ads_impact": 1,
+        "vaf_never_display_easy_to_use": 2,
+        "vaf_never_display_visually_good": 2
+    },
+    {
         "id": "f5414ba4-bde2-418e-bddc-6e58aec547c1",
         "date": "2025-08-28",
         "score": 5,
@@ -14,6 +83,14 @@
         "scoreText": "5",
         "title": null,
         "text": "good"
+    },
+    {
+        "id": "ef8a7446-e952-49ff-9f9d-9f91cdd27d24",
+        "date": "2025-08-28",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "\ud83d\ude02"
     },
     {
         "id": "eec47375-808f-497c-a407-6cc5783d449b",
