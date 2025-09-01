@@ -1,5 +1,48 @@
 [
     {
+        "id": "70a30ba7-f855-487c-ac33-fdec20eaac36",
+        "date": "2025-08-31",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "3b301845-acab-472e-834e-435203878bf8",
+        "date": "2025-08-31",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "no safety for drivers from customers in this app, give safety to drivers"
+    },
+    {
+        "id": "37244292-c7bb-4146-afc4-4690a8451066",
+        "date": "2025-08-31",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "\u2665\ufe0f\u2665\ufe0f\u2665\ufe0f\u2665\ufe0f\u2665\ufe0f\ud83d\udefa"
+    },
+    {
+        "id": "088791c2-6b16-4aaa-99af-d75f8c8463f5",
+        "date": "2025-08-31",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "eb0a005e-df03-4c69-af42-e1cced707cdb",
+        "date": "2025-08-30",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super",
+        "vaf_never_display_visually_bad": 1,
+        "vaf_never_display_make_you_happy": 1,
+        "vaf_never_display_content_language": 1
+    },
+    {
         "id": "e3dc4b45-76d5-4841-b798-4eba20bd2260",
         "date": "2025-08-30",
         "score": 5,
