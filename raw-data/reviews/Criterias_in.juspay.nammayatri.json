@@ -1,7 +1,8 @@
 {
-    "vaf_never_display_visually_good": 16,
+    "vaf_never_display_visually_good": 17,
+    "vaf_never_display_disruptive_ads": 14,
+    "vaf_never_display_difficult_to_use": 22,
     "vaf_never_display_meet_expectations": 15,
-    "vaf_never_display_disruptive_ads": 13,
     "vaf_never_display_positive_impact": 19,
     "vaf_never_display_visually_bad": 26,
     "vaf_never_display_deceptive_ads": 21,
@@ -14,7 +15,6 @@
     "vaf_never_display_easy_to_use": 18,
     "vaf_never_display_content_language": 18,
     "vaf_never_display_inappropriate_ads": 13,
-    "vaf_never_display_difficult_to_use": 21,
     "vaf_never_display_considerate_of_time": 14,
     "vaf_never_display_spend_more_time": 13,
     "vaf_phase1_managing_trips": 7,
