@@ -1,4 +1,5 @@
 {
+    "vaf_never_display_negative_ads_impact": 17,
     "vaf_never_display_ease_of_use": 301,
     "vaf_never_display_ads_experience": 276,
     "vaf_never_display_deceptive_ads": 22,
@@ -9,7 +10,6 @@
     "vaf_never_display_meet_expectations": 15,
     "vaf_never_display_positive_impact": 19,
     "vaf_never_display_visually_bad": 26,
-    "vaf_never_display_negative_ads_impact": 16,
     "vaf_never_display_useful_notifications": 17,
     "vaf_never_display_make_you_happy": 12,
     "vaf_never_display_app_description": 12,
