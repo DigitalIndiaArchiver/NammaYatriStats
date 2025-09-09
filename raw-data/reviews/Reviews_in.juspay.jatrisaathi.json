@@ -1,5 +1,127 @@
 [
     {
+        "id": "f1c4f0c6-675c-4c52-aba0-857182ef22ab",
+        "date": "2025-09-08",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Excellent and very easy to operate"
+    },
+    {
+        "id": "dd355e5f-53ef-40d0-a19c-f5206e20c2b7",
+        "date": "2025-09-08",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "d3adc1e6-519d-422c-8d1f-d4979bec90fd",
+        "date": "2025-09-08",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "very good"
+    },
+    {
+        "id": "a3b0d6f3-ca4e-435f-89aa-110856a9de41",
+        "date": "2025-09-08",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "ok"
+    },
+    {
+        "id": "9be6283d-bab3-46a8-80e8-b330f24f75fb",
+        "date": "2025-09-08",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "best app for cab booking. very economical"
+    },
+    {
+        "id": "943e3af8-7ba9-429e-91f3-a4bc53143877",
+        "date": "2025-09-08",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "794ea694-1369-40d6-8581-392ef20eb28f",
+        "date": "2025-09-08",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice \ud83d\udc4d"
+    },
+    {
+        "id": "6be8473f-1656-4601-866b-c20136330f4c",
+        "date": "2025-09-08",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good Experience with No Hype."
+    },
+    {
+        "id": "6ba083b1-d655-46cb-bc5d-5355a0f699e4",
+        "date": "2025-09-08",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice"
+    },
+    {
+        "id": "637deb2c-de8e-4c15-b982-dd732ac2c2f9",
+        "date": "2025-09-08",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "nice behaved driver good condition car safe ride"
+    },
+    {
+        "id": "5a1ddf4b-5a26-4541-b8eb-ee08f82f92bc",
+        "date": "2025-09-08",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good"
+    },
+    {
+        "id": "559a3157-ba1c-4f93-bcdb-3b44e0628937",
+        "date": "2025-09-08",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "fair price.helpfull",
+        "vaf_never_display_ease_of_use": null,
+        "vaf_never_display_ads_experience": null
+    },
+    {
+        "id": "4a058e8d-a764-430f-95e0-868f0f69c070",
+        "date": "2025-09-08",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good"
+    },
+    {
+        "id": "37f70300-c920-407a-aa57-d084bd6ff53e",
+        "date": "2025-09-08",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "even after reaching destination, paying the scheduled amount and leaving the assigned car,the app is showing my ride is active.....why???"
+    },
+    {
+        "id": "21bc94f0-f23d-404d-ba6f-96eba32445bc",
+        "date": "2025-09-08",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice raids"
+    },
+    {
         "id": "a830b77a-4625-463a-ba08-cecd90170aa0",
         "date": "2025-09-07",
         "score": 1,
@@ -54,6 +176,14 @@
         "scoreText": "2",
         "title": null,
         "text": "good"
+    },
+    {
+        "id": "06297112-42e0-4afc-97d4-108127d59cdc",
+        "date": "2025-09-07",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good service"
     },
     {
         "id": "e1729c6f-1265-4b23-a0d9-d25811687131",
