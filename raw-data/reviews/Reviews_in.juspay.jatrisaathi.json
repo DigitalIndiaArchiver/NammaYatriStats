@@ -1,5 +1,63 @@
 [
     {
+        "id": "f50846bd-82dd-453b-b58a-031e2d1a403a",
+        "date": "2025-09-11",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice"
+    },
+    {
+        "id": "cd054889-b3fa-4b74-9923-ada28916bd94",
+        "date": "2025-09-11",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "c7af6c3b-f2d1-4ea2-92c2-44d78742eda3",
+        "date": "2025-09-11",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "please add other payment methods as well, e.g wallets (amazon wallet, phonepe , MobiKwik etc) and credit/debit cards"
+    },
+    {
+        "id": "af3b57db-8075-4732-8e7d-a3f493ad7f28",
+        "date": "2025-09-11",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "It's convenient because you don't need to pay upfront while booking for ride. Complete the ride and make payment."
+    },
+    {
+        "id": "ac8ec76a-b59c-413b-a945-2ca5cd48c505",
+        "date": "2025-09-11",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Very bad experience. They charged me an extremely high price and the staff misbehaved. Not recommended at all.",
+        "vaf_never_display_ads_experience": null,
+        "vaf_never_display_ease_of_use": null
+    },
+    {
+        "id": "60412cad-700f-4e33-8c90-6ac202c1db93",
+        "date": "2025-09-11",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Great experience \ud83d\udc4d"
+    },
+    {
+        "id": "0327c58d-aee7-4250-abc7-1025aa1c5915",
+        "date": "2025-09-11",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good"
+    },
+    {
         "id": "ef302d36-d5b2-4c59-92a7-9664cde78301",
         "date": "2025-09-10",
         "score": 5,
