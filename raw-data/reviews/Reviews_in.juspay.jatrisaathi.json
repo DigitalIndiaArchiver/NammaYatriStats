@@ -1,5 +1,88 @@
 [
     {
+        "id": "e53f543b-b3d4-410d-bc6e-273f4664d6d5",
+        "date": "2025-09-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "over all good"
+    },
+    {
+        "id": "d63e24cd-a6a1-46c7-8d61-e74da514382b",
+        "date": "2025-09-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good",
+        "vaf_never_display_deceptive_ads": 1,
+        "vaf_never_display_positive_impact": 1,
+        "vaf_never_display_easy_to_use": 1
+    },
+    {
+        "id": "cbede2e8-8c64-47be-9865-bcca326a3cd1",
+        "date": "2025-09-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very nice"
+    },
+    {
+        "id": "aa55256e-5426-4b0f-a62e-48be9083e507",
+        "date": "2025-09-13",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "98e84acf-c1ac-4442-9ad1-8206a8842de6",
+        "date": "2025-09-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good price"
+    },
+    {
+        "id": "7b45d032-60bb-4fd3-8425-2e4ee5c95cc0",
+        "date": "2025-09-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "6473addd-0dd6-49d3-a6a7-d79ff01c6722",
+        "date": "2025-09-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "non ac reasonable but most of the time ac non reasonable"
+    },
+    {
+        "id": "473b7f89-ecab-4f18-8125-ac07f9812340",
+        "date": "2025-09-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "awesome"
+    },
+    {
+        "id": "3771fea2-03fe-462c-9e04-992397e5df50",
+        "date": "2025-09-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "2bf0203b-849b-4f24-9fdf-2415c13672f3",
+        "date": "2025-09-13",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Average"
+    },
+    {
         "id": "ffcfc5e5-09fa-4461-b258-1560741f2861",
         "date": "2025-09-12",
         "score": 3,
