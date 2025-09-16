@@ -2,36 +2,48 @@
     "results": {
         "sharedData": [
             {
+                "data": "Files and docs",
+                "optional": 0,
+                "purpose": "App functionality",
+                "type": "Files and docs"
+            },
+            {
                 "data": "Phone number",
                 "optional": 0,
                 "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Account management",
                 "type": "Personal info"
+            },
+            {
+                "data": "Approximate location",
+                "optional": 0,
+                "purpose": "Advertising or marketing",
+                "type": "Location"
+            },
+            {
+                "data": "Precise location",
+                "optional": 0,
+                "purpose": "Advertising or marketing",
+                "type": "Location"
             }
         ],
         "collectedData": [
-            {
-                "data": "Files and docs",
-                "optional": 1,
-                "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance, Personalization, Account management",
-                "type": "Files and docs"
-            },
-            {
-                "data": "Emails",
-                "optional": 1,
-                "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Personalization, Account management",
-                "type": "Messages"
-            },
-            {
-                "data": "SMS or MMS",
-                "optional": 1,
-                "purpose": "App functionality, Account management",
-                "type": "Messages"
-            },
             {
                 "data": "Device or other IDs",
                 "optional": 1,
                 "purpose": "App functionality, Analytics, Developer communications, Fraud prevention, security, and compliance, Personalization",
                 "type": "Device or other IDs"
+            },
+            {
+                "data": "Contacts",
+                "optional": 1,
+                "purpose": "App functionality, Fraud prevention, security, and compliance, Personalization",
+                "type": "Contacts"
+            },
+            {
+                "data": "Files and docs",
+                "optional": 1,
+                "purpose": "App functionality, Developer communications",
+                "type": "Files and docs"
             },
             {
                 "data": "Name",
@@ -41,27 +53,27 @@
             },
             {
                 "data": "Email address",
-                "optional": 0,
+                "optional": 1,
                 "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Account management",
                 "type": "Personal info"
             },
             {
                 "data": "Address",
                 "optional": 1,
-                "purpose": "App functionality",
+                "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Personalization",
                 "type": "Personal info"
             },
             {
-                "data": "Calendar events",
+                "data": "Emails",
                 "optional": 1,
-                "purpose": "App functionality, Personalization",
-                "type": "Calendar"
+                "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Account management",
+                "type": "Messages"
             },
             {
-                "data": "Contacts",
+                "data": "SMS or MMS",
                 "optional": 1,
-                "purpose": "App functionality, Fraud prevention, security, and compliance, Personalization",
-                "type": "Contacts"
+                "purpose": "App functionality, Account management",
+                "type": "Messages"
             }
         ],
         "securityPractices": [
@@ -74,6 +86,6 @@
                 "description": "The developer provides a way for you to request that your data be deleted"
             }
         ],
-        "privacyPolicyUrl": "https://docs.google.com/document/d/1rBuCm58pSSQRGySAzxWQcQxmmmnzI1tZxeL2nM0SUmk/edit?usp=sharing"
+        "privacyPolicyUrl": "https://nammayatri.in/privacy-policy/"
     }
 }
