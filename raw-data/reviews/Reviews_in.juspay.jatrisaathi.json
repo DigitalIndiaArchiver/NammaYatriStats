@@ -1,5 +1,72 @@
 [
     {
+        "id": "af153fdb-656b-43e8-b69b-d9fc35774884",
+        "date": "2025-09-17",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "I get affordable ride"
+    },
+    {
+        "id": "a98de071-8100-4140-b730-3614ece52d1c",
+        "date": "2025-09-17",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "As usual government app. Most of the busses doesn't show up.",
+        "vaf_never_display_ease_of_use": null,
+        "vaf_never_display_ads_experience": null
+    },
+    {
+        "id": "a8a7d6a6-1fc2-45be-98ff-44fffdd36abf",
+        "date": "2025-09-17",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "The app was working totally fine till now. But when I opened the app today I was not able to track any busses. The buttons seemed to be non-functional. I even tried uninstalling and reinstalling the app, but this time I was not able to go past the login screen as the OTP verification was failing again and again despite giving the correct OTP. Please fix this ASAP.",
+        "vaf_never_display_deceptive_ads": 1
+    },
+    {
+        "id": "a617e1a3-0cfd-46e7-a3a0-0a9e02626e68",
+        "date": "2025-09-17",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "very slow app, do not like it at all"
+    },
+    {
+        "id": "8b2beb8e-eac9-4883-a2ef-26ba9ce02878",
+        "date": "2025-09-17",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "This driver is absolutely good"
+    },
+    {
+        "id": "2a30987e-f4e3-456b-b2af-4985f6b19724",
+        "date": "2025-09-17",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good"
+    },
+    {
+        "id": "1eb325d7-a1a0-4684-a00a-bab8068f5c4b",
+        "date": "2025-09-17",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "ac mini is not available at Howrah railway station"
+    },
+    {
+        "id": "0016bc61-bde2-4a03-ad87-069043f16914",
+        "date": "2025-09-17",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "Demanded additional amount."
+    },
+    {
         "id": "c9961906-2ed9-45f9-9fac-8a9987afdf18",
         "date": "2025-09-16",
         "score": 5,
