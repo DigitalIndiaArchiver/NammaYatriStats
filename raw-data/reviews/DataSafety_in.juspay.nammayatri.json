@@ -2,6 +2,12 @@
     "results": {
         "sharedData": [
             {
+                "data": "Files and docs",
+                "optional": 0,
+                "purpose": "App functionality",
+                "type": "Files and docs"
+            },
+            {
                 "data": "Approximate location",
                 "optional": 0,
                 "purpose": "Advertising or marketing",
@@ -12,12 +18,6 @@
                 "optional": 0,
                 "purpose": "Advertising or marketing",
                 "type": "Location"
-            },
-            {
-                "data": "Files and docs",
-                "optional": 0,
-                "purpose": "App functionality",
-                "type": "Files and docs"
             },
             {
                 "data": "Phone number",
