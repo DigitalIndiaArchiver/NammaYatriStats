@@ -1,5 +1,97 @@
 [
     {
+        "id": "ea38806a-6a9c-4bf2-bbcc-6544da81592f",
+        "date": "2025-09-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "great approach"
+    },
+    {
+        "id": "e2528ad9-f309-4508-bf85-868f17d2f19e",
+        "date": "2025-09-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "fabulous"
+    },
+    {
+        "id": "b0bac148-5cb3-439b-bdc9-eefdcc4212fa",
+        "date": "2025-09-19",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "booking issue"
+    },
+    {
+        "id": "98224fc8-fd20-4420-a376-e38ab801c414",
+        "date": "2025-09-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "ok"
+    },
+    {
+        "id": "86d5b7ec-88fe-4435-81ef-c51d15c28970",
+        "date": "2025-09-19",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "gadi nhi ata hy.. pahele wala ap me ata tha but update k baad nhi ata jada"
+    },
+    {
+        "id": "738eee8f-d772-4a4f-bb2f-29aaad0cb48f",
+        "date": "2025-09-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "pocket friendly transportation"
+    },
+    {
+        "id": "58c57f33-59fd-40f4-8215-300584ae27f1",
+        "date": "2025-09-19",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "very bad nood app for driver"
+    },
+    {
+        "id": "49e13076-a8d9-470a-bac0-2ac5c83809c5",
+        "date": "2025-09-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "tgwa"
+    },
+    {
+        "id": "3385e551-17a4-4c1a-a137-cbcd2c92a3fd",
+        "date": "2025-09-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "awesome excellent"
+    },
+    {
+        "id": "0a5693ca-db3a-4a95-9af0-b8ecd15bbd34",
+        "date": "2025-09-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good",
+        "vaf_never_display_ease_of_use": null
+    },
+    {
+        "id": "f7da80f4-142e-42eb-adfc-9ddf4509695e",
+        "date": "2025-09-18",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "Average Service. I had my ticket generated on 24/08/25 and it was mentioned I will be contacted within 24 hours. Now I can check the issue has been resolved automatically. Don't rely on this app at peak hours or early morning trips.",
+        "vaf_never_display_easy_to_use": 1,
+        "vaf_never_display_app_description": 2,
+        "vaf_never_display_spend_more_time": 2
+    },
+    {
         "id": "f06426dc-fa39-40a7-b08b-8c82b587e60f",
         "date": "2025-09-18",
         "score": 5,

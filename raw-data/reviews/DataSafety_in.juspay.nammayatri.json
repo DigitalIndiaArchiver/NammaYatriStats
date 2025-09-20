@@ -8,6 +8,12 @@
                 "type": "Files and docs"
             },
             {
+                "data": "Phone number",
+                "optional": 0,
+                "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Account management",
+                "type": "Personal info"
+            },
+            {
                 "data": "Approximate location",
                 "optional": 0,
                 "purpose": "Advertising or marketing",
@@ -18,26 +24,32 @@
                 "optional": 0,
                 "purpose": "Advertising or marketing",
                 "type": "Location"
-            },
-            {
-                "data": "Phone number",
-                "optional": 0,
-                "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Account management",
-                "type": "Personal info"
             }
         ],
         "collectedData": [
-            {
-                "data": "Contacts",
-                "optional": 1,
-                "purpose": "App functionality, Fraud prevention, security, and compliance, Personalization",
-                "type": "Contacts"
-            },
             {
                 "data": "Files and docs",
                 "optional": 1,
                 "purpose": "App functionality, Developer communications",
                 "type": "Files and docs"
+            },
+            {
+                "data": "Name",
+                "optional": 0,
+                "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Account management",
+                "type": "Personal info"
+            },
+            {
+                "data": "Email address",
+                "optional": 1,
+                "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Account management",
+                "type": "Personal info"
+            },
+            {
+                "data": "Address",
+                "optional": 1,
+                "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Personalization",
+                "type": "Personal info"
             },
             {
                 "data": "Device or other IDs",
@@ -58,22 +70,10 @@
                 "type": "Messages"
             },
             {
-                "data": "Name",
-                "optional": 0,
-                "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Account management",
-                "type": "Personal info"
-            },
-            {
-                "data": "Email address",
+                "data": "Contacts",
                 "optional": 1,
-                "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Account management",
-                "type": "Personal info"
-            },
-            {
-                "data": "Address",
-                "optional": 1,
-                "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Personalization",
-                "type": "Personal info"
+                "purpose": "App functionality, Fraud prevention, security, and compliance, Personalization",
+                "type": "Contacts"
             }
         ],
         "securityPractices": [
