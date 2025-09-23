@@ -3,30 +3,6 @@
         "sharedData": [],
         "collectedData": [
             {
-                "data": "App interactions",
-                "optional": 0,
-                "purpose": "App functionality, Analytics",
-                "type": "App activity"
-            },
-            {
-                "data": "User IDs",
-                "optional": 0,
-                "purpose": "App functionality, Analytics",
-                "type": "Personal info"
-            },
-            {
-                "data": "Address",
-                "optional": 1,
-                "purpose": "App functionality",
-                "type": "Personal info"
-            },
-            {
-                "data": "Phone number",
-                "optional": 0,
-                "purpose": "App functionality, Account management",
-                "type": "Personal info"
-            },
-            {
                 "data": "Approximate location",
                 "optional": 1,
                 "purpose": "App functionality, Analytics",
@@ -55,6 +31,30 @@
                 "optional": 0,
                 "purpose": "App functionality, Analytics",
                 "type": "Device or other IDs"
+            },
+            {
+                "data": "App interactions",
+                "optional": 0,
+                "purpose": "App functionality, Analytics",
+                "type": "App activity"
+            },
+            {
+                "data": "User IDs",
+                "optional": 0,
+                "purpose": "App functionality, Analytics",
+                "type": "Personal info"
+            },
+            {
+                "data": "Address",
+                "optional": 1,
+                "purpose": "App functionality",
+                "type": "Personal info"
+            },
+            {
+                "data": "Phone number",
+                "optional": 0,
+                "purpose": "App functionality, Account management",
+                "type": "Personal info"
             }
         ],
         "securityPractices": [
