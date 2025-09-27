@@ -1,5 +1,137 @@
 [
     {
+        "id": "fa04a9c0-6641-45cb-ae46-e388001c0f87",
+        "date": "2025-09-26",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Ekdom Baje App ...."
+    },
+    {
+        "id": "ed6bcb59-965d-4839-a468-7c1307baa8be",
+        "date": "2025-09-26",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "some cars are dirty and slight smelling."
+    },
+    {
+        "id": "dc8c520e-0b59-48d6-8786-083d0cd4c180",
+        "date": "2025-09-26",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "bf5c23d8-fdfc-4ac1-a8cd-97d724ba6a6a",
+        "date": "2025-09-26",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Best\ud83d\udc4d"
+    },
+    {
+        "id": "b42e5f9b-180c-4e29-ad4f-918c1b15b185",
+        "date": "2025-09-26",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good app with cheapest rate for every ride and delivery. Drivers are good.",
+        "vaf_never_display_ease_of_use": null,
+        "vaf_never_display_ads_experience": null
+    },
+    {
+        "id": "afaab208-c374-4c20-8343-bb8a458020ef",
+        "date": "2025-09-26",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "best ride"
+    },
+    {
+        "id": "853d9698-8ea3-4d7f-b01d-21e07bf2da55",
+        "date": "2025-09-26",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good app"
+    },
+    {
+        "id": "7f49f8e8-9fd6-4bee-840a-035ae2fc233a",
+        "date": "2025-09-26",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "too high priced"
+    },
+    {
+        "id": "6a61117c-663e-4275-902b-19272dea839f",
+        "date": "2025-09-26",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "delay booking Processing... less cab availability."
+    },
+    {
+        "id": "670540cb-0ba2-44ae-be3c-45a8cd747960",
+        "date": "2025-09-26",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d"
+    },
+    {
+        "id": "4957c069-4c40-42bd-9109-b095718b491d",
+        "date": "2025-09-26",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good and cheap service. loved the experience so far."
+    },
+    {
+        "id": "3a1e6274-e804-442a-8367-825641290e04",
+        "date": "2025-09-26",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good \ud83d\udc4d"
+    },
+    {
+        "id": "2ccf098a-9dbe-42a3-b37f-4ab450a6821d",
+        "date": "2025-09-26",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "so so",
+        "vaf_never_display_ads_experience": null,
+        "vaf_never_display_ease_of_use": null
+    },
+    {
+        "id": "1e0c73e4-de67-40d0-9e5a-f96cba0422fa",
+        "date": "2025-09-26",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "wow"
+    },
+    {
+        "id": "14cf2821-20ba-439f-974b-84a7d1481a70",
+        "date": "2025-09-26",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good"
+    },
+    {
+        "id": "cdf7d0b8-2645-48d5-a7fa-a9269f7203f6",
+        "date": "2025-09-25",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "A great cab booking app\ud83d\udc4c"
+    },
+    {
         "id": "bf11bf11-d60d-4728-9a71-9cd5c83a3e6e",
         "date": "2025-09-25",
         "score": 5,
@@ -30,6 +162,14 @@
         "scoreText": "5",
         "title": null,
         "text": "good"
+    },
+    {
+        "id": "61f0b1ff-5f5f-4896-bd9c-7bdff67ede36",
+        "date": "2025-09-25",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "please arrange cab faster"
     },
     {
         "id": "4e7e1c95-3999-4efc-a746-fd88a09037c3",
