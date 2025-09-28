@@ -1,5 +1,140 @@
 [
     {
+        "id": "f11a8fa3-fdf9-46af-ba77-ac4c7eda8fe4",
+        "date": "2025-09-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "e77e9f6b-33ef-4c0c-9ac2-936f25861d5c",
+        "date": "2025-09-27",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "when I Booked the rate was 325 then later it was 353 and when I reached destination the amount I paid was 371. This is a kind of extortion.",
+        "vaf_never_display_ease_of_use": null,
+        "vaf_never_display_ads_experience": null
+    },
+    {
+        "id": "cd453cc8-64db-4197-847c-80bbb83bebb9",
+        "date": "2025-09-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Very good service!"
+    },
+    {
+        "id": "bf4bf830-79ff-4493-8993-985fa62f6fdf",
+        "date": "2025-09-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very efficient app"
+    },
+    {
+        "id": "b99e742a-5ce1-4acf-a7a2-483601415c3a",
+        "date": "2025-09-27",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "a803f34a-e72c-4c0d-a559-5f2061e03fc2",
+        "date": "2025-09-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good behavior"
+    },
+    {
+        "id": "a784253c-ecab-495c-81ae-e21a948f39e6",
+        "date": "2025-09-27",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "Cabs are available at affordable price but driver's are unprofessional.",
+        "vaf_never_display_ease_of_use": null,
+        "vaf_never_display_ads_experience": null
+    },
+    {
+        "id": "9f10677e-7707-4ecd-b6ff-d2275ef244da",
+        "date": "2025-09-27",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "I want facility of advance booking for rental service in the app."
+    },
+    {
+        "id": "8f76e6cb-ede5-48eb-8967-499daf86140a",
+        "date": "2025-09-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "8ad3da4c-ea03-4b94-8a9b-c74e35defc63",
+        "date": "2025-09-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "It is cheaper than Uber"
+    },
+    {
+        "id": "79130425-9d38-4a30-87a3-10e143df064a",
+        "date": "2025-09-27",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good app..."
+    },
+    {
+        "id": "7778be56-f631-4f9a-a5bb-e00db8f72ae4",
+        "date": "2025-09-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "No problem."
+    },
+    {
+        "id": "6055c2b5-fde9-4762-8a4a-c24fb0179f60",
+        "date": "2025-09-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Nice, safe and cheap journey"
+    },
+    {
+        "id": "478165bb-2bab-4e94-9e0b-7f4558894ffb",
+        "date": "2025-09-27",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good rider"
+    },
+    {
+        "id": "3e02a436-6f21-4e02-a822-deee09a0dda8",
+        "date": "2025-09-27",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "The average quality of cabs are poor, AC often don't work upto the mark, unclean car interior"
+    },
+    {
+        "id": "08e47280-3984-4a9c-902e-cf2ee235eb25",
+        "date": "2025-09-27",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "mobile starts to run very slowly while using the application",
+        "vaf_never_display_make_you_happy": 2,
+        "vaf_never_display_disruptive_ads": 1,
+        "vaf_never_display_visually_good": 1
+    },
+    {
         "id": "fa04a9c0-6641-45cb-ae46-e388001c0f87",
         "date": "2025-09-26",
         "score": 1,
@@ -80,6 +215,14 @@
         "scoreText": "5",
         "title": null,
         "text": "\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d"
+    },
+    {
+        "id": "6598098f-0318-4332-9d89-50705b7b9f96",
+        "date": "2025-09-26",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Very good"
     },
     {
         "id": "4957c069-4c40-42bd-9109-b095718b491d",
