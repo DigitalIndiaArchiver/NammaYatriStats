@@ -1,11 +1,99 @@
 [
     {
+        "id": "f469ce8b-b8b5-417e-a3b9-3c4a15b4522e",
+        "date": "2025-09-28",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "Not always available whether claiming it is"
+    },
+    {
+        "id": "dba624d4-f667-46d0-b37e-5e61112fb812",
+        "date": "2025-09-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good service"
+    },
+    {
+        "id": "d8698bdf-bfd6-4de5-ac05-ba069193e4e4",
+        "date": "2025-09-28",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "yellow taxi service"
+    },
+    {
+        "id": "71c06843-f5f7-4001-9d32-9e3a541495ed",
+        "date": "2025-09-28",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "They always take wrong locations and get extra fare than what it shows....i recommend not to use this app"
+    },
+    {
+        "id": "620b8cfe-d0d1-46f2-a2e7-686e2a7321ee",
+        "date": "2025-09-28",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "worst app I rent the car for 9pm since morning and now they don't have drivers and they are informing us before 10 mins and now it shows that we never reserved any ride really unethical behaviour we booked a big car and now we are stuck all of us are ready and can't find any car"
+    },
+    {
+        "id": "59ee2642-7381-4022-af36-48fd024ba928",
+        "date": "2025-09-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good experience..."
+    },
+    {
+        "id": "348d17ce-156e-46ea-93fb-5a76e69461c1",
+        "date": "2025-09-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "He is such a Nice Person."
+    },
+    {
+        "id": "2e257033-4e2d-4cd6-acbe-bfc8f5947a4c",
+        "date": "2025-09-28",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "worst app where drivers are too bad thier behavior when someone in emergency they didn't accept if they accept they tell us to give more money if app have 500 for the ride they personally call uss and tell if you give us 600 then we go or other wise not another bad thing not only this app every riding app if you boost then they go whyyy then why the app show us this money this money!???"
+    },
+    {
+        "id": "2382f287-9437-4fc4-a255-f9f075cbd7d0",
+        "date": "2025-09-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "0b311175-910c-4ead-8a85-5f594648fe9a",
+        "date": "2025-09-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "it's good"
+    },
+    {
         "id": "f11a8fa3-fdf9-46af-ba77-ac4c7eda8fe4",
         "date": "2025-09-27",
         "score": 5,
         "scoreText": "5",
         "title": null,
         "text": "good"
+    },
+    {
+        "id": "e83d6e3c-e2ae-4ffa-99d2-553a1ba39658",
+        "date": "2025-09-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very very helpful.... otherwise local drivers will loot u"
     },
     {
         "id": "e77e9f6b-33ef-4c0c-9ac2-936f25861d5c",
@@ -16,6 +104,14 @@
         "text": "when I Booked the rate was 325 then later it was 353 and when I reached destination the amount I paid was 371. This is a kind of extortion.",
         "vaf_never_display_ease_of_use": null,
         "vaf_never_display_ads_experience": null
+    },
+    {
+        "id": "cf59aed6-2bed-4c12-8f96-bf4312aa525d",
+        "date": "2025-09-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "driver did not cancel the trip."
     },
     {
         "id": "cd453cc8-64db-4197-847c-80bbb83bebb9",
@@ -114,6 +210,14 @@
         "scoreText": "4",
         "title": null,
         "text": "good rider"
+    },
+    {
+        "id": "452a8c84-b044-45e7-bb8b-0beb8581a225",
+        "date": "2025-09-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good"
     },
     {
         "id": "3e02a436-6f21-4e02-a822-deee09a0dda8",

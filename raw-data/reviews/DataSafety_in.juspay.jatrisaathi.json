@@ -3,22 +3,10 @@
         "sharedData": [],
         "collectedData": [
             {
-                "data": "User IDs",
+                "data": "Device or other IDs",
                 "optional": 0,
                 "purpose": "App functionality, Analytics",
-                "type": "Personal info"
-            },
-            {
-                "data": "Address",
-                "optional": 1,
-                "purpose": "App functionality",
-                "type": "Personal info"
-            },
-            {
-                "data": "Phone number",
-                "optional": 0,
-                "purpose": "App functionality, Account management",
-                "type": "Personal info"
+                "type": "Device or other IDs"
             },
             {
                 "data": "Approximate location",
@@ -39,12 +27,6 @@
                 "type": "App activity"
             },
             {
-                "data": "Device or other IDs",
-                "optional": 0,
-                "purpose": "App functionality, Analytics",
-                "type": "Device or other IDs"
-            },
-            {
                 "data": "Crash logs",
                 "optional": 0,
                 "purpose": "Analytics",
@@ -55,6 +37,24 @@
                 "optional": 0,
                 "purpose": "Analytics",
                 "type": "App info and performance"
+            },
+            {
+                "data": "User IDs",
+                "optional": 0,
+                "purpose": "App functionality, Analytics",
+                "type": "Personal info"
+            },
+            {
+                "data": "Address",
+                "optional": 1,
+                "purpose": "App functionality",
+                "type": "Personal info"
+            },
+            {
+                "data": "Phone number",
+                "optional": 0,
+                "purpose": "App functionality, Account management",
+                "type": "Personal info"
             }
         ],
         "securityPractices": [

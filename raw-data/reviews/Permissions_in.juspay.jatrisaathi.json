@@ -21,10 +21,6 @@
             "type": "Phone"
         },
         {
-            "permission": "read phone status and identity",
-            "type": "Phone"
-        },
-        {
             "permission": "read the contents of your USB storage",
             "type": "Photos/Media/Files"
         },
@@ -51,10 +47,6 @@
         {
             "permission": "view Wi-Fi connections",
             "type": "Wi-Fi connection information"
-        },
-        {
-            "permission": "read phone status and identity",
-            "type": "Device ID & call information"
         },
         {
             "permission": "view network connections",
