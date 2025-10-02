@@ -1,5 +1,93 @@
 [
     {
+        "id": "e36d864a-ff3d-4853-9346-af125cceba35",
+        "date": "2025-10-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super"
+    },
+    {
+        "id": "cc03fd6c-ef45-4ca2-a1f8-dfa4eed83b83",
+        "date": "2025-10-01",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "worst app after booking the cab when I reached the yatri sathi pickup point the pickup point is closed"
+    },
+    {
+        "id": "c3df28fb-56ba-46ce-bee6-785526ed524e",
+        "date": "2025-10-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Fantastic initiative for all categories of riders...app works without glitches"
+    },
+    {
+        "id": "8f939de8-c6d0-4cbb-b7c1-78d501d84a10",
+        "date": "2025-10-01",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good behaviour"
+    },
+    {
+        "id": "73edd5ef-945b-4a64-b7f6-4a7dd5bd95ba",
+        "date": "2025-10-01",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "nice"
+    },
+    {
+        "id": "26ffa728-bf59-4c87-82f7-0814ec4d8441",
+        "date": "2025-10-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice"
+    },
+    {
+        "id": "2389290a-a60b-4f88-bd0c-b9eb4699b2f3",
+        "date": "2025-10-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good"
+    },
+    {
+        "id": "1bca7ebf-91c8-42bc-89db-1404120b468b",
+        "date": "2025-10-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "0b828dbf-b426-4bd7-8b7d-cc558a9265c1",
+        "date": "2025-10-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Very good service, better than Uber"
+    },
+    {
+        "id": "03a29bf4-13e6-4bde-a590-e98ea6cf400c",
+        "date": "2025-10-01",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "Excuse"
+    },
+    {
+        "id": "01a72ea0-e9f2-4a38-b496-3d5615278c00",
+        "date": "2025-10-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "When other service providers charging unreasonably high fares, Yatri Sathi provided the ride with reasonable fare and without much waiting time."
+    },
+    {
         "id": "ff5c4ab2-a8ba-4f6c-aaf0-c93ff5adfd01",
         "date": "2025-09-30",
         "score": 5,
@@ -68,6 +156,14 @@
         "vaf_never_display_visually_bad": 1
     },
     {
+        "id": "92198c73-ed18-4e1d-8730-f6278e5e81b6",
+        "date": "2025-09-30",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "budget friendly & smooth booking process"
+    },
+    {
         "id": "6b9c58be-a97d-4229-9d79-26f96d89015c",
         "date": "2025-09-30",
         "score": 1,
@@ -82,6 +178,22 @@
         "scoreText": "5",
         "title": null,
         "text": "Good ride & driver are well behaviour."
+    },
+    {
+        "id": "44219136-926a-45bd-83ab-ca4c9fb0974e",
+        "date": "2025-09-30",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "this very helpful transportation"
+    },
+    {
+        "id": "3cb1a201-d6d4-4f8e-9126-b6897b1ba93d",
+        "date": "2025-09-30",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "The best option to get taxi at best price and on time"
     },
     {
         "id": "32b0bb11-123b-43b6-a5c3-42ee69d663f0",
