@@ -15,6 +15,12 @@
                 "type": "Personal info"
             },
             {
+                "data": "App interactions",
+                "optional": 1,
+                "purpose": "App functionality, Analytics",
+                "type": "App activity"
+            },
+            {
                 "data": "Crash logs",
                 "optional": 1,
                 "purpose": "App functionality, Analytics",
@@ -31,12 +37,6 @@
                 "optional": 1,
                 "purpose": "App functionality, Analytics, Developer communications",
                 "type": "Device or other IDs"
-            },
-            {
-                "data": "App interactions",
-                "optional": 1,
-                "purpose": "App functionality, Analytics",
-                "type": "App activity"
             }
         ],
         "securityPractices": [
