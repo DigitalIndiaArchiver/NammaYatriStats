@@ -1,5 +1,53 @@
 [
     {
+        "id": "f316697d-c4b1-4e7a-9352-d2ca7568b408",
+        "date": "2025-10-03",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "lots of taxi available but charged extra money or double worst service"
+    },
+    {
+        "id": "ee2738ce-23b7-4f29-b23e-9ef966bd1052",
+        "date": "2025-10-03",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "over charge and wait wait wait only wait for rides"
+    },
+    {
+        "id": "e4bcbe41-2330-4599-a5bf-4f15eae72043",
+        "date": "2025-10-03",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "They don't resolve the issue. They just close it."
+    },
+    {
+        "id": "cf354bad-7521-434f-8457-1157dcb0d94f",
+        "date": "2025-10-03",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "totally time wasting and disgusting app that is, no proper response no very late Booking, rider always ask extra fare."
+    },
+    {
+        "id": "4ee8f278-b135-49d7-a2a8-941d127dd736",
+        "date": "2025-10-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nyc app"
+    },
+    {
+        "id": "f050cfef-8d51-4045-b514-edb5553021e8",
+        "date": "2025-10-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "soooooooooo beautiful"
+    },
+    {
         "id": "f02b0f21-f31c-49e8-a565-5ed3029f8b94",
         "date": "2025-10-02",
         "score": 5,
@@ -14,6 +62,14 @@
         "scoreText": "5",
         "title": null,
         "text": "superb"
+    },
+    {
+        "id": "e8b76122-9992-401e-a9b4-975c46831786",
+        "date": "2025-10-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Nice app \ud83d\udc4d\ud83c\udffb and safe journey"
     },
     {
         "id": "e4d5e66e-6c97-4515-ad72-293946d6d87b",
@@ -46,6 +102,17 @@
         "scoreText": "5",
         "title": null,
         "text": "very cooperative driver."
+    },
+    {
+        "id": "44274c2d-ea8d-49d8-b599-32e0096e63da",
+        "date": "2025-10-02",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Tarkeshwer Singh driver from kolkata is fraud, offensive, abusive. He want from me to give cash only.when I give him cash Rs.200 actual fare payment Rs.151.First he want to take Rs.200 payment ,i denied that and ask him for remaining payment, Suddenly he denied me to said that you didn't give me any cash.He abuse and trying to attack me.When police threat him that do not create scene otherwise I will arrest you.Then he run from that place.He take from me Rs. 200 instead of Rs. 151. stop his id.",
+        "vaf_never_display_meet_expectations": 2,
+        "vaf_never_display_easy_to_use": 1,
+        "vaf_never_display_disruptive_ads": 2
     },
     {
         "id": "27a7c499-a9fd-48f8-9305-1c5ff2f396c9",

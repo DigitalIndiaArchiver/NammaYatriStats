@@ -2,6 +2,12 @@
     "results": {
         "sharedData": [
             {
+                "data": "Files and docs",
+                "optional": 0,
+                "purpose": "App functionality",
+                "type": "Files and docs"
+            },
+            {
                 "data": "Phone number",
                 "optional": 0,
                 "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Account management",
@@ -18,12 +24,6 @@
                 "optional": 0,
                 "purpose": "Advertising or marketing",
                 "type": "Location"
-            },
-            {
-                "data": "Files and docs",
-                "optional": 0,
-                "purpose": "App functionality",
-                "type": "Files and docs"
             }
         ],
         "collectedData": [
@@ -32,24 +32,6 @@
                 "optional": 1,
                 "purpose": "App functionality, Fraud prevention, security, and compliance, Personalization",
                 "type": "Contacts"
-            },
-            {
-                "data": "Name",
-                "optional": 0,
-                "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Account management",
-                "type": "Personal info"
-            },
-            {
-                "data": "Email address",
-                "optional": 1,
-                "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Account management",
-                "type": "Personal info"
-            },
-            {
-                "data": "Address",
-                "optional": 1,
-                "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Personalization",
-                "type": "Personal info"
             },
             {
                 "data": "Emails",
@@ -68,6 +50,24 @@
                 "optional": 1,
                 "purpose": "App functionality, Developer communications",
                 "type": "Files and docs"
+            },
+            {
+                "data": "Name",
+                "optional": 0,
+                "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Account management",
+                "type": "Personal info"
+            },
+            {
+                "data": "Email address",
+                "optional": 1,
+                "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Account management",
+                "type": "Personal info"
+            },
+            {
+                "data": "Address",
+                "optional": 1,
+                "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing, Fraud prevention, security, and compliance, Personalization",
+                "type": "Personal info"
             },
             {
                 "data": "Device or other IDs",

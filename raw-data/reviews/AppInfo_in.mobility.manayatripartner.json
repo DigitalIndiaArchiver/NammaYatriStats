@@ -6,16 +6,16 @@
     "installs": "100,000+",
     "minInstalls": 100000,
     "maxInstalls": 124155,
-    "score": 4.6150146,
+    "score": 4.6135263,
     "scoreText": "4.6",
-    "ratings": 10335,
+    "ratings": 10340,
     "reviews": "http://gplayapi.cashlessconsumer.in/api/apps/in.mobility.manayatripartner/reviews",
     "histogram": {
-        "1": 636,
+        "1": 639,
         "2": 149,
-        "3": 228,
-        "4": 527,
-        "5": 8793
+        "3": 229,
+        "4": 529,
+        "5": 8791
     },
     "price": 0,
     "free": true,
