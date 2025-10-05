@@ -1,5 +1,130 @@
 [
     {
+        "id": "ff1c953a-f5e4-43ba-baf3-609bab19fa80",
+        "date": "2025-10-04",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "excellent behaviour and on time as well"
+    },
+    {
+        "id": "f5f842ab-3fe3-4450-90d8-5dc3cbe2e0e1",
+        "date": "2025-10-04",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "not available on time"
+    },
+    {
+        "id": "eb3d253e-c0c4-4670-8d51-f429890e3e83",
+        "date": "2025-10-04",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "update your driver app",
+        "vaf_never_display_ease_of_use": null,
+        "vaf_never_display_ads_experience": null
+    },
+    {
+        "id": "e1729cec-952b-441d-94dc-b1de3447712b",
+        "date": "2025-10-04",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good, helpfull, need to be trained to all drivers how to behave to customers.....all time they all are ready to grab extra money from customers..."
+    },
+    {
+        "id": "b865410c-e185-410c-a979-afab7417fcbc",
+        "date": "2025-10-04",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "excellent helpful apps"
+    },
+    {
+        "id": "b81818c2-e642-4a52-a394-af66dc4aa5c0",
+        "date": "2025-10-04",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Lots of safety options. A third less than Uber prices. Hiring range starts from moped ride...to the usual big A/C cars."
+    },
+    {
+        "id": "aa2631ed-886e-4ad9-a0f0-91bddf322ec1",
+        "date": "2025-10-04",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "very bad app . no customer support. fares much higher than uber. no support on double debit"
+    },
+    {
+        "id": "8eed9d12-ab9c-4368-8550-3770f6770e82",
+        "date": "2025-10-04",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good person"
+    },
+    {
+        "id": "8290355e-395a-4bc6-be0b-a86b764aeebf",
+        "date": "2025-10-04",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good"
+    },
+    {
+        "id": "7073b6d5-c32a-4a88-a80d-06ea62807bf4",
+        "date": "2025-10-04",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "92\u20b9 extra charges paying. I am not understand why you extra charges"
+    },
+    {
+        "id": "6b518037-496d-4ac3-b8b8-3bd925998a84",
+        "date": "2025-10-04",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Excellent"
+    },
+    {
+        "id": "5306f8a6-7c91-4553-879c-7c46443908ea",
+        "date": "2025-10-04",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good app"
+    },
+    {
+        "id": "4c904508-f644-4191-a85e-a68e6de6f125",
+        "date": "2025-10-04",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "This is very bad app. The cab drivers are completely unsuitable. They neither have the manners to talk nor understand your situation. And if they don't want to give you a ride, why are they even keeping this app open? Close this app.",
+        "vaf_never_display_make_you_happy": 2,
+        "vaf_never_display_app_description": 2,
+        "vaf_never_display_visually_good": 2
+    },
+    {
+        "id": "28dee519-f329-48fd-b5d7-4dcb09007004",
+        "date": "2025-10-04",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Very safe and good service"
+    },
+    {
+        "id": "049dce44-8273-426a-92ce-b454bf1473c2",
+        "date": "2025-10-04",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "most of the time passenger cancelled ride , yatri sathi never paid cancellation fees ."
+    },
+    {
         "id": "f316697d-c4b1-4e7a-9352-d2ca7568b408",
         "date": "2025-10-03",
         "score": 1,
