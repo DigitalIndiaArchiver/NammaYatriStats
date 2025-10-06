@@ -9,16 +9,22 @@
                 "type": "Device or other IDs"
             },
             {
-                "data": "Approximate location",
-                "optional": 1,
-                "purpose": "App functionality, Analytics",
-                "type": "Location"
+                "data": "Crash logs",
+                "optional": 0,
+                "purpose": "Analytics",
+                "type": "App info and performance"
             },
             {
-                "data": "Precise location",
-                "optional": 1,
+                "data": "Diagnostics",
+                "optional": 0,
+                "purpose": "Analytics",
+                "type": "App info and performance"
+            },
+            {
+                "data": "App interactions",
+                "optional": 0,
                 "purpose": "App functionality, Analytics",
-                "type": "Location"
+                "type": "App activity"
             },
             {
                 "data": "User IDs",
@@ -39,22 +45,16 @@
                 "type": "Personal info"
             },
             {
-                "data": "Crash logs",
-                "optional": 0,
-                "purpose": "Analytics",
-                "type": "App info and performance"
-            },
-            {
-                "data": "Diagnostics",
-                "optional": 0,
-                "purpose": "Analytics",
-                "type": "App info and performance"
-            },
-            {
-                "data": "App interactions",
-                "optional": 0,
+                "data": "Approximate location",
+                "optional": 1,
                 "purpose": "App functionality, Analytics",
-                "type": "App activity"
+                "type": "Location"
+            },
+            {
+                "data": "Precise location",
+                "optional": 1,
+                "purpose": "App functionality, Analytics",
+                "type": "Location"
             }
         ],
         "securityPractices": [
