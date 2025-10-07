@@ -65,10 +65,6 @@
             "type": "Other"
         },
         {
-            "permission": "pair with Bluetooth devices",
-            "type": "Other"
-        },
-        {
             "permission": "change network connectivity",
             "type": "Other"
         },
@@ -78,10 +74,6 @@
         },
         {
             "permission": "change your audio settings",
-            "type": "Other"
-        },
-        {
-            "permission": "control Near Field Communication",
             "type": "Other"
         },
         {
