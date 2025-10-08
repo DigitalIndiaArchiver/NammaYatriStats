@@ -3,22 +3,10 @@
         "sharedData": [],
         "collectedData": [
             {
-                "data": "User IDs",
+                "data": "Device or other IDs",
                 "optional": 1,
-                "purpose": "App functionality, Analytics, Developer communications, Personalization, Account management",
-                "type": "Personal info"
-            },
-            {
-                "data": "Address",
-                "optional": 0,
-                "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing, Personalization, Account management",
-                "type": "Personal info"
-            },
-            {
-                "data": "App interactions",
-                "optional": 1,
-                "purpose": "App functionality, Analytics",
-                "type": "App activity"
+                "purpose": "App functionality, Analytics, Developer communications",
+                "type": "Device or other IDs"
             },
             {
                 "data": "Crash logs",
@@ -33,10 +21,22 @@
                 "type": "App info and performance"
             },
             {
-                "data": "Device or other IDs",
+                "data": "App interactions",
                 "optional": 1,
-                "purpose": "App functionality, Analytics, Developer communications",
-                "type": "Device or other IDs"
+                "purpose": "App functionality, Analytics",
+                "type": "App activity"
+            },
+            {
+                "data": "User IDs",
+                "optional": 1,
+                "purpose": "App functionality, Analytics, Developer communications, Personalization, Account management",
+                "type": "Personal info"
+            },
+            {
+                "data": "Address",
+                "optional": 0,
+                "purpose": "App functionality, Analytics, Developer communications, Advertising or marketing, Personalization, Account management",
+                "type": "Personal info"
             }
         ],
         "securityPractices": [
