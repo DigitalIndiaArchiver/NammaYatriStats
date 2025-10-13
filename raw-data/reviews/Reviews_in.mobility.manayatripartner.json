@@ -1,5 +1,16 @@
 [
     {
+        "id": "7f6fbfc7-ce86-405e-b527-6b8d693cbd08",
+        "date": "2025-10-12",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "best company",
+        "vaf_never_display_useful_notifications": 1,
+        "vaf_never_display_inappropriate_ads": 1,
+        "vaf_never_display_content_language": 1
+    },
+    {
         "id": "c907f9be-638a-4509-90df-35e9e58fb192",
         "date": "2025-10-11",
         "score": 5,
