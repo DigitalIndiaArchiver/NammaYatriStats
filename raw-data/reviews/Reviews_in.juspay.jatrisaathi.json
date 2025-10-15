@@ -1,5 +1,127 @@
 [
     {
+        "id": "ec7238da-967a-42b5-9d9f-5ee54667a0b4",
+        "date": "2025-10-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "excellent"
+    },
+    {
+        "id": "ce8951e7-ceff-40f9-9c33-e7ed85f4d340",
+        "date": "2025-10-14",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "my first ride got cancelled 3 times. The worst app I see so far .strongly not recommended"
+    },
+    {
+        "id": "aff13d98-1043-4b15-9872-5b9f0be9719b",
+        "date": "2025-10-14",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "ae663e34-b119-4a23-887f-e51e3ef2aea6",
+        "date": "2025-10-14",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "maps need to be more accurate"
+    },
+    {
+        "id": "a7f6720d-65b2-42c6-b234-9dab86e1d465",
+        "date": "2025-10-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "excellent"
+    },
+    {
+        "id": "a7b0867a-18b7-44aa-9245-2d6b266c7bba",
+        "date": "2025-10-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good \ud83d\udc4d"
+    },
+    {
+        "id": "83252c71-08b3-42ac-8d20-7a297f040519",
+        "date": "2025-10-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "796cf093-5979-416e-b9fd-42679b99bb5b",
+        "date": "2025-10-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "better than ola n uber"
+    },
+    {
+        "id": "6b02328c-1dee-420f-aa30-f1675d86f602",
+        "date": "2025-10-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good good"
+    },
+    {
+        "id": "54659e9d-e43c-40cf-8d3d-5df72b61e8d7",
+        "date": "2025-10-14",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Whatever Service I have to avail whether its a cab (A.C Or Non A.C ) or a parcel thr person concerned always will ask for some extra money or say the distance is long so thr fare shown is low. Donot use this app uber is the only one to rely at least",
+        "vaf_never_display_ease_of_use": null,
+        "vaf_never_display_ads_experience": null
+    },
+    {
+        "id": "524b06eb-382a-41e0-be99-9499d7c18497",
+        "date": "2025-10-14",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "Why have ticket book services been discontinued? very bad."
+    },
+    {
+        "id": "4b450fe1-17ef-4de0-9e87-2c5676b39dee",
+        "date": "2025-10-14",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Not able to open paat rides"
+    },
+    {
+        "id": "37346dc3-b833-43f4-9d8e-e9402bcdec30",
+        "date": "2025-10-14",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "Your Howrah Station service point is horrible. Wifi is very weak in that area. Why should passenger wait for at the mercy of Yatrisathi counter customer when driver is connected? You check your system at Howrah Railway station and Sealdah Railway station area. Customer will avail UBER/Ola service if your old habits are not cleared. No waiting and harrasment please. We need best service from YatriSathi."
+    },
+    {
+        "id": "2c0860fe-0510-4a2c-bbd1-a880e18c41d6",
+        "date": "2025-10-14",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "Initially the app was indeed very useful, however for some time now it's impossible for me to book cabs through yatrisathi unless and until i add 20-30 rupees extra. So by that time the fare is literally wayy higher than it should be for that distance. The other day I tried to book an intercity cab, the fare that was being shown was comparatively quite low, however cabs were getting booked and four drivers cancelled booking one after another."
+    },
+    {
+        "id": "02148c9b-ba5a-401b-a3a9-cb59560f26e6",
+        "date": "2025-10-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good driver and Good drivering"
+    },
+    {
         "id": "e86a1057-7262-4554-a20f-da0cd0c885fa",
         "date": "2025-10-13",
         "score": 5,
@@ -55,6 +177,16 @@
         "scoreText": "1",
         "title": null,
         "text": "I booked a cab for the Hospital, The driver was so pathetic, I asked him to drive slow as my wife was pregnant, he was demanding extra money, later I cancelled, he pushed me and said to give 50rs or else he won't let me go, I had to pay as I was in a rush to visit the hospital. I have reported to Yatri sathi but no resolution was found. The driver of yatri sathis is the worst, unprofessional"
+    },
+    {
+        "id": "0aab9fb5-3b76-44fc-8a7b-d878997e7c8f",
+        "date": "2025-10-13",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Very poor service provider, poor quality vehicles and rude drivers",
+        "vaf_never_display_easy_to_use": 2,
+        "vaf_never_display_useful_notifications": 3
     },
     {
         "id": "0a4f1a6f-4822-44ef-b0c9-539887450c81",
