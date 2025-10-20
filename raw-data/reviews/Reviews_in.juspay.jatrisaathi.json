@@ -1,5 +1,122 @@
 [
     {
+        "id": "f023c68d-3386-4b7f-abab-693769401877",
+        "date": "2025-10-19",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Worst experience. Driver charge double money. Worst app Driver name is Ram Prasad Sing",
+        "vaf_never_display_ads_experience": null,
+        "vaf_never_display_ease_of_use": null
+    },
+    {
+        "id": "d3a1edc5-efbc-44fa-9f57-84d45579aeb1",
+        "date": "2025-10-19",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "Used to be good... But after the introduction of \"Boost Search\", the experience have gone downhill... There is no one available for normal rates, only if you boost it above \u20b9100 then only drivers start accepting"
+    },
+    {
+        "id": "c8749117-6743-4c34-a12e-475c3e627933",
+        "date": "2025-10-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "please set the price with the customer and the driver same as shown. once the customer book rides with a fare that is raised by the driver with a higher level, that should not be good for your app. please have a look at this matter."
+    },
+    {
+        "id": "8f74a8ec-f5e1-4850-bfb0-1ab0b409ddbd",
+        "date": "2025-10-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "I am Satisfied."
+    },
+    {
+        "id": "87c9c0f8-0356-4ca2-8b58-9aedcba0ce7c",
+        "date": "2025-10-19",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Worst service. Had to wait for long, still no cab available. The officials had tie ups with the cab drivers and talks like their agents (Dalal).",
+        "vaf_never_display_positive_impact": 2,
+        "vaf_never_display_difficult_to_use": 1,
+        "vaf_never_display_disruptive_ads": 3
+    },
+    {
+        "id": "7b78157f-4ab0-4cd0-9346-d887a13d8ff6",
+        "date": "2025-10-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "694ee5f4-7f54-44c8-aca2-0360106fbbc1",
+        "date": "2025-10-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Its better then other company."
+    },
+    {
+        "id": "5cdab220-9f2d-4de9-b735-0ca2e0fb6a18",
+        "date": "2025-10-19",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "Good\ud83d\udc4d."
+    },
+    {
+        "id": "508f8b5e-fbfd-43ef-bd94-d2ca9a69bece",
+        "date": "2025-10-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "36f2274b-5939-43d0-9835-6504546bcdbe",
+        "date": "2025-10-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good help full"
+    },
+    {
+        "id": "341465a3-b50b-4742-bf94-3b07a3089d67",
+        "date": "2025-10-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "awesome experience"
+    },
+    {
+        "id": "268a01ef-1c5b-41bd-a8cd-92cb09e4709b",
+        "date": "2025-10-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "1fd230a4-d671-4341-b95b-bf28a4f394da",
+        "date": "2025-10-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "The extra wait time charge was uncalled for, as the passenger climbed on the bike within 5 minutes. Otherwise, excellent trip."
+    },
+    {
+        "id": "0ae1a17f-d561-4f40-952b-13350a2daf11",
+        "date": "2025-10-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good drive"
+    },
+    {
         "id": "dc6606c0-4a52-4d22-8675-8663ed76df07",
         "date": "2025-10-18",
         "score": 1,
@@ -8,6 +125,14 @@
         "text": "Pathetic app support.",
         "vaf_never_display_ads_experience": null,
         "vaf_never_display_ease_of_use": null
+    },
+    {
+        "id": "d8b6cb46-2bfd-4cb4-b863-92491ad3817c",
+        "date": "2025-10-18",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "worst experience ever unprofessional driver fare issue 3rd class app with 3rd class driver"
     },
     {
         "id": "d24c5b0b-f5a4-4201-a5f1-72dd27d6de74",
@@ -40,6 +165,14 @@
         "scoreText": "4",
         "title": null,
         "text": "good"
+    },
+    {
+        "id": "526283cf-b934-4008-bc42-a7f2e38144dc",
+        "date": "2025-10-18",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "nice"
     },
     {
         "id": "1c9e56da-9af4-4a25-9012-7cf5081a9834",

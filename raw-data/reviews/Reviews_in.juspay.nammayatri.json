@@ -1,5 +1,151 @@
 [
     {
+        "id": "f75ec8d6-0eb6-43da-a1b5-350a69fc3786",
+        "date": "2025-10-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super smart"
+    },
+    {
+        "id": "e6f13e4a-7de6-4a27-a625-5db672f392f1",
+        "date": "2025-10-19",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "not allowed to take screenshot as they want to change or add additional charges also it is not useful for passengers as they are charging more than competitors. I liked previously because they used to pass the benefits to passengers. started taking advantage of the situation"
+    },
+    {
+        "id": "e58a2101-ef67-4808-aa58-31d22142278f",
+        "date": "2025-10-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super app"
+    },
+    {
+        "id": "daa8cfd0-98be-4403-a4df-316fba7acfdd",
+        "date": "2025-10-19",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "The UI/UX is terrible. I have no idea how to cancel searching for a ride when I have already gotten a ride via another app. Have to explicitly press the system back to get the cancelation bottomsheet. Also there's a way to go back to home screen and book another ride but everytime I try - it gives me a toast message saying \"a ride is already in progress\". Very counter intuitive."
+    },
+    {
+        "id": "d4a8fc68-eeb2-4865-ae8b-c265e9f0fc3f",
+        "date": "2025-10-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice person"
+    },
+    {
+        "id": "bee8b426-ed60-4aec-91b0-aba4d847ca9c",
+        "date": "2025-10-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice"
+    },
+    {
+        "id": "bd48e9ad-ce71-4db9-a60f-c4ec0e0e91eb",
+        "date": "2025-10-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Very good Service"
+    },
+    {
+        "id": "b8bb136f-7793-483f-95ce-fe2643688c61",
+        "date": "2025-10-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good app, user friendly UI"
+    },
+    {
+        "id": "b058680a-9b40-4a1e-8a65-3d225f358807",
+        "date": "2025-10-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good driving"
+    },
+    {
+        "id": "a58418a8-6d8f-4840-b374-7e748d9348e0",
+        "date": "2025-10-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice service"
+    },
+    {
+        "id": "9cb1fc29-8f53-4b4e-9014-b42f4a5d8f7b",
+        "date": "2025-10-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Excellent app"
+    },
+    {
+        "id": "86caf036-1f5f-4017-9f56-0eb2d5a55723",
+        "date": "2025-10-19",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "it doesn't even deserve one star it's so ugly , no experienced drivers all ugly and use vulgur language..."
+    },
+    {
+        "id": "7f735092-b2da-4572-9b39-3e9774c77e3e",
+        "date": "2025-10-19",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "worst experience. showing less amount but after accepting the ride asking high amounts equal to cab charges",
+        "vaf_never_display_ease_of_use": null,
+        "vaf_never_display_ads_experience": null
+    },
+    {
+        "id": "65b7c221-fae7-4c2d-90c5-69625c2519ce",
+        "date": "2025-10-19",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "3 drivers except my ride and came near my location and they cancel my ride very disappoint on this they cancel my ride without any reason I don't want to give one star also"
+    },
+    {
+        "id": "5cfd419c-ea30-4b54-8198-e2d4f8c5a5d5",
+        "date": "2025-10-19",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "Namma yatri service is good but still have update GPS navigation issues in application for booking It is not accurate for the proper location @ tumkur"
+    },
+    {
+        "id": "2848729d-d40c-4d49-a668-3cea866e0c93",
+        "date": "2025-10-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "22aeb3da-018a-4ab8-a02e-cb2965a80ee0",
+        "date": "2025-10-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "polite driver"
+    },
+    {
+        "id": "10b1dc77-c677-4286-8b4d-e33ff806f603",
+        "date": "2025-10-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good experience"
+    },
+    {
         "id": "fd42198c-08ef-430e-819e-c62cafcaad6a",
         "date": "2025-10-18",
         "score": 1,
@@ -20,6 +166,14 @@
         "vaf_never_display_meet_expectations": 3,
         "vaf_never_display_visually_good": 3,
         "vaf_never_display_content_language": 3
+    },
+    {
+        "id": "d3be1974-51bc-430c-8ffa-adcbdad44305",
+        "date": "2025-10-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
     },
     {
         "id": "c6a3e2bf-9ca1-4d25-9e47-2f28e8876eed",

@@ -1,5 +1,13 @@
 [
     {
+        "id": "c250122a-db96-4d01-86e4-9359044463c6",
+        "date": "2025-10-19",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Too much internet consumption while using the App"
+    },
+    {
         "id": "bfe5bd34-0c53-4402-9a01-402f29af06e7",
         "date": "2025-10-18",
         "score": 5,
@@ -9,6 +17,24 @@
         "vaf_never_display_useful_notifications": 1,
         "vaf_never_display_difficult_to_use": 1,
         "vaf_never_display_content_language": 1
+    },
+    {
+        "id": "aa04fb74-b973-4f35-999b-36847ba0680f",
+        "date": "2025-10-18",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "new app ok good but data 2GB +more data collected very bed app old version is a good new version very nice but data collection very bed change the app and update clearly I am porches another data",
+        "vaf_never_display_ease_of_use": null,
+        "vaf_never_display_ads_experience": null
+    },
+    {
+        "id": "6215c8eb-bc1c-49f4-afb0-2baad4cce635",
+        "date": "2025-10-18",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "Dear Namma Yathri Team, earlier in the older version of the partner app, there was a useful hotspot locations feature. I request you to add this feature again, as it would be more helpful for identifying demand hotspots."
     },
     {
         "id": "5052c8c6-03f6-4e5a-9aa2-80c44602f1a3",
