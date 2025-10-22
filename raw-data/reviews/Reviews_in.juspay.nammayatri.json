@@ -1,5 +1,131 @@
 [
     {
+        "id": "f3512ff0-97db-4f8f-9810-fe452089cf60",
+        "date": "2025-10-21",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good raiding best price."
+    },
+    {
+        "id": "f0223e1f-cc99-4e0f-b4b6-c16189adc44e",
+        "date": "2025-10-21",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super"
+    },
+    {
+        "id": "ef4ce7cb-b4a3-49ec-87a7-653fc019c984",
+        "date": "2025-10-21",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "spare high"
+    },
+    {
+        "id": "c4eca02e-dce8-4eb8-b5ee-a7c87c5df8f9",
+        "date": "2025-10-21",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "worst app, drivers always asking for more money and cancel the ride",
+        "vaf_never_display_make_you_happy": 2,
+        "vaf_never_display_visually_good": 2,
+        "vaf_never_display_difficult_to_use": 2
+    },
+    {
+        "id": "c465118a-ef88-4d62-800d-07948187531b",
+        "date": "2025-10-21",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "do they pick up from Trichy international airport arrival area...not many willing to come",
+        "vaf_never_display_ease_of_use": null
+    },
+    {
+        "id": "b323a94b-9960-473a-83bc-5ddff16543fb",
+        "date": "2025-10-21",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "ad3d1fb5-1638-43a2-9825-73a98c3058fc",
+        "date": "2025-10-21",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "extremely high rates",
+        "vaf_never_display_ads_experience": null,
+        "vaf_never_display_ease_of_use": null
+    },
+    {
+        "id": "a8b63348-4996-48cc-bf1b-f5faf6ccea39",
+        "date": "2025-10-21",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "best and quick service, lowest price,"
+    },
+    {
+        "id": "883bc934-6759-40bd-b059-d1cd71f55922",
+        "date": "2025-10-21",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice service"
+    },
+    {
+        "id": "4babcbe6-eee0-4056-a218-23edc439fa13",
+        "date": "2025-10-21",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Full waste aap I have ever seen please I am requesting you to don't use this aap..."
+    },
+    {
+        "id": "3d30d74d-96e5-4272-a5d4-58b62ebc795f",
+        "date": "2025-10-21",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "auto drivers wait about 50 ~ 100m away from the pickup point, and the app shows waiting time already. this has happened multiple times."
+    },
+    {
+        "id": "232f63d5-5707-4dd9-98c9-7d3ca3751b4e",
+        "date": "2025-10-21",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "1e990069-a5c4-40f5-ac7d-fc6a93bb0e11",
+        "date": "2025-10-21",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "I booked my cab from Bengaluru Hoskote to T1 airport driver asked 120 extra for toll tax. as he was aggresive I have to pay. such disgusting cab service and customer support"
+    },
+    {
+        "id": "1c73bd52-f67b-435c-a7e5-0a49c335ed95",
+        "date": "2025-10-21",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "so far so good \ud83d\udc4d"
+    },
+    {
+        "id": "063cdcad-71c7-4bbb-af57-22a4e2c95643",
+        "date": "2025-10-21",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "time convinent"
+    },
+    {
         "id": "f74a6e72-6ed6-41a7-a5e8-eae34cff45de",
         "date": "2025-10-20",
         "score": 1,
@@ -46,6 +172,17 @@
         "scoreText": "5",
         "title": null,
         "text": "nice \ud83d\udc4d"
+    },
+    {
+        "id": "7dede928-b9d0-4426-ba99-dc384fd6e989",
+        "date": "2025-10-20",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "chandpahsa",
+        "vaf_never_display_app_description": 1,
+        "vaf_never_display_negative_ads_impact": 1,
+        "vaf_never_display_useful_notifications": 1
     },
     {
         "id": "77d2cdb0-b3d7-41aa-9e40-da143a236419",
@@ -105,6 +242,14 @@
     },
     {
         "id": "089c35bf-073d-47fc-bff9-cad35f567e22",
+        "date": "2025-10-20",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super"
+    },
+    {
+        "id": "03ec66d7-2468-4dc2-b26f-5af075219578",
         "date": "2025-10-20",
         "score": 5,
         "scoreText": "5",
