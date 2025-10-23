@@ -1,5 +1,151 @@
 [
     {
+        "id": "fe6b3a0f-3f65-4b56-8c79-c3b6ba97fdc7",
+        "date": "2025-10-22",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "f7fbf93c-9390-4c40-9a87-6130f19ac72b",
+        "date": "2025-10-22",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "f7189e2b-9cc9-4836-8748-22f429476ab9",
+        "date": "2025-10-22",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Namma Yatri has been my go-to ride-hailing app for a long time, and for good reason. Unlike Ola, the pricing is fair and follows the standard meter rate, saving me money on every trip. The app is very user-friendly, making it easy to book a ride with just a few taps. Best of all, I get an immediate response whenever I need a ride. It's a reliable and satisfying experience every time\ud83d\udc95",
+        "vaf_never_display_ease_of_use": null,
+        "vaf_never_display_ads_experience": null
+    },
+    {
+        "id": "da681b9c-9168-4b69-b61a-ea56908fdb30",
+        "date": "2025-10-22",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very nice ride job"
+    },
+    {
+        "id": "d7a64ea9-e958-4d8d-97b3-91ec61682a40",
+        "date": "2025-10-22",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good"
+    },
+    {
+        "id": "cb4b3810-c90f-4369-b213-ddd9d0d8f2c0",
+        "date": "2025-10-22",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "b16192ff-03f0-45a9-9855-f166581c9cff",
+        "date": "2025-10-22",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "best app for customers"
+    },
+    {
+        "id": "ab60899a-baf5-4072-ae7e-7afe846c43e0",
+        "date": "2025-10-22",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "GREAT RIDE"
+    },
+    {
+        "id": "6a815768-2160-496e-b966-6e683502fa73",
+        "date": "2025-10-22",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "547a46b9-6f9d-419f-9c84-d5c0e705086a",
+        "date": "2025-10-22",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Fast ride booking on time"
+    },
+    {
+        "id": "4872710b-79c1-49e8-9a1e-eafb5a897576",
+        "date": "2025-10-22",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "thankyou"
+    },
+    {
+        "id": "44814d84-0817-40a5-b048-6617dfc2f1f1",
+        "date": "2025-10-22",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "helpful"
+    },
+    {
+        "id": "3776f36e-9a38-49f0-9585-73faaef0eed9",
+        "date": "2025-10-22",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "to good"
+    },
+    {
+        "id": "32c3a601-de63-4728-bd09-a32ceab8a6b0",
+        "date": "2025-10-22",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "it's so helpful it's so useful it's so fast"
+    },
+    {
+        "id": "2f01e471-aa16-4f82-a190-c040b7319131",
+        "date": "2025-10-22",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good response"
+    },
+    {
+        "id": "25f75a69-0075-4c15-ab97-c90e8f2d2412",
+        "date": "2025-10-22",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good \ud83c\udf39"
+    },
+    {
+        "id": "243a6324-2e5d-4bba-a956-95ece1079838",
+        "date": "2025-10-22",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "1da0ff05-9e81-43c1-839e-f9ea7a6a59e7",
+        "date": "2025-10-22",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "extremely high prices"
+    },
+    {
         "id": "f3512ff0-97db-4f8f-9810-fe452089cf60",
         "date": "2025-10-21",
         "score": 5,
@@ -22,6 +168,14 @@
         "scoreText": "3",
         "title": null,
         "text": "spare high"
+    },
+    {
+        "id": "daa8c9bd-abc2-46cd-993a-02fd46bd1a35",
+        "date": "2025-10-21",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "prices are high that of a cab well auto driver's demand extra cash on top of it. this app says no commission based means all the money goes to the driver themselves still so greedy for money. every one is working hard and prices are fair on other apps."
     },
     {
         "id": "c4eca02e-dce8-4eb8-b5ee-a7c87c5df8f9",
@@ -76,6 +230,14 @@
         "scoreText": "5",
         "title": null,
         "text": "nice service"
+    },
+    {
+        "id": "53dfa8ea-416f-41e8-bd18-bdb5e3d13703",
+        "date": "2025-10-21",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "very slow to book"
     },
     {
         "id": "4babcbe6-eee0-4056-a218-23edc439fa13",
