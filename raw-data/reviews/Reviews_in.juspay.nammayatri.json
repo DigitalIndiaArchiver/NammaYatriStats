@@ -1,5 +1,101 @@
 [
     {
+        "id": "e30300a8-65bd-46d3-bd97-2ea616e06e2d",
+        "date": "2025-10-25",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super ride"
+    },
+    {
+        "id": "de6852db-d525-4620-a5d1-108b44dbe0d3",
+        "date": "2025-10-25",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "Fast and the best app in Bengaluru"
+    },
+    {
+        "id": "bfa58d8e-dbbd-43b4-8c04-5e5f07641952",
+        "date": "2025-10-25",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "excellent"
+    },
+    {
+        "id": "a4e899e6-5adc-4650-82b8-1a2e739305d5",
+        "date": "2025-10-25",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "just started today, will give feedback in near future.."
+    },
+    {
+        "id": "86b9c72f-843f-42fb-b673-66f7e4876a16",
+        "date": "2025-10-25",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "it was safe and clean ride"
+    },
+    {
+        "id": "84301ebb-0ca8-4d50-8782-9d43ffb4c849",
+        "date": "2025-10-25",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "bad experience, showing more price,and extra money also"
+    },
+    {
+        "id": "79d42912-c26d-4c53-b54b-50452c1e737f",
+        "date": "2025-10-25",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "Nice"
+    },
+    {
+        "id": "550fd415-c439-4b25-b7e7-1f6ef6ebd2b6",
+        "date": "2025-10-25",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super App compared to other popular apps"
+    },
+    {
+        "id": "51bbf5ec-aa23-4839-843e-dcb1c8d1df4a",
+        "date": "2025-10-25",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "need bike taxi"
+    },
+    {
+        "id": "4b1242ae-a2ea-44e0-8c54-06a50db1c20f",
+        "date": "2025-10-25",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "30661384-d53b-4621-8ba1-c846aed60931",
+        "date": "2025-10-25",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super"
+    },
+    {
+        "id": "2a40436f-b653-45d0-a588-8f8df9bc1745",
+        "date": "2025-10-25",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "v good"
+    },
+    {
         "id": "a9086467-2ad4-4595-9ae4-d1495e70c752",
         "date": "2025-10-24",
         "score": 2,
@@ -49,6 +145,14 @@
         "scoreText": "5",
         "title": null,
         "text": "good ride"
+    },
+    {
+        "id": "79fd5e68-27bc-42d6-8bf8-1d5b8464d5cf",
+        "date": "2025-10-24",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good for people"
     },
     {
         "id": "65c6bf4c-edc2-49a1-af6a-a996660c1701",
