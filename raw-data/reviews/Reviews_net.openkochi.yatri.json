@@ -1,5 +1,16 @@
 [
     {
+        "id": "58142f34-e9de-4486-8a34-5edfd5c12f17",
+        "date": "2025-10-26",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "App is not working. The devs are careless",
+        "vaf_never_display_considerate_of_time": 2,
+        "vaf_never_display_app_description": 2,
+        "vaf_never_display_inappropriate_ads": 2
+    },
+    {
         "id": "9b8c1c6c-7c6e-4325-a88e-004353ec4be7",
         "date": "2025-10-13",
         "score": 1,
