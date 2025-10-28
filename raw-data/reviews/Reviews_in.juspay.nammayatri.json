@@ -1,5 +1,159 @@
 [
     {
+        "id": "fe743124-0363-45b0-bb41-d1f72dc37ba8",
+        "date": "2025-10-27",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "Fare is bit more"
+    },
+    {
+        "id": "ef95d6eb-2f1f-4085-a441-f4a0fe562e64",
+        "date": "2025-10-27",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "Good for travelling in an easy way...."
+    },
+    {
+        "id": "e87ea984-991c-4930-91bf-f89ad8eb6646",
+        "date": "2025-10-27",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "d6fe7c19-96d4-4bd1-bd12-dedcfec307e4",
+        "date": "2025-10-27",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Very bad customer service. I have 8 to 9 unresolved issues pending on the app over the last few months and there's no response whatsoever. Even the customer care number available online is invalid. How can we ever reach out to a customer care executive to resolve our issue?"
+    },
+    {
+        "id": "bfc4b4ed-5754-4cfa-9e03-5b10f9c36d54",
+        "date": "2025-10-27",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "helpful"
+    },
+    {
+        "id": "bb542ae9-3982-4bf7-bbb3-67a12b6001ae",
+        "date": "2025-10-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good travel app"
+    },
+    {
+        "id": "ba094088-ed54-4ec1-a808-49fbff14e657",
+        "date": "2025-10-27",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "ki ki 8\u00f3"
+    },
+    {
+        "id": "b99fb794-87ee-419c-93bb-fc987387f455",
+        "date": "2025-10-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice"
+    },
+    {
+        "id": "b7936287-fc8d-4490-b564-aca8e101841f",
+        "date": "2025-10-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good but price is too high"
+    },
+    {
+        "id": "b682947c-eba9-4295-995c-98a8b2ecdfb5",
+        "date": "2025-10-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super I enjoyed thanku \ud83d\udc90\ud83d\ude4f"
+    },
+    {
+        "id": "ae12ccf8-3e16-4eea-b888-3f3380c013a3",
+        "date": "2025-10-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good"
+    },
+    {
+        "id": "89035b62-497d-4e36-bd71-6bcee64ccc6c",
+        "date": "2025-10-27",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "They don't have a customer service platform. The number doesn't work and the drivers are way too rude. They fool the customers easily with the price. Pathetic app. Can be used only in case of emergencies when you are not finding any other cabs.",
+        "vaf_never_display_ease_of_use": null,
+        "vaf_never_display_ads_experience": null
+    },
+    {
+        "id": "70ffe059-a412-4d2c-beda-6cd86482f86c",
+        "date": "2025-10-27",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "when we book cab or Auto drivers will call and ask destination after knowing destination driver will cancel the ride every time same experience for me"
+    },
+    {
+        "id": "69cdc0d3-673a-4f57-ae63-48da080cba49",
+        "date": "2025-10-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "4443b706-7c2e-4605-8a32-0556ff881f11",
+        "date": "2025-10-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "best ride app ever"
+    },
+    {
+        "id": "3a9d54bd-2bea-484a-a861-bb0fd5e40cc3",
+        "date": "2025-10-27",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "I have observed oftenly the bills are not displying properly with proper dates and time and there duplicate bills instead of one bill and bills of few rides are missing which was a very bad user experience."
+    },
+    {
+        "id": "1b5d3569-b02e-4d84-a066-53639cfceae1",
+        "date": "2025-10-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good service"
+    },
+    {
+        "id": "065546f2-fc4d-4732-b1b4-632bc86670b3",
+        "date": "2025-10-27",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good \ud83d\udc4d"
+    },
+    {
+        "id": "048a44ac-2305-4059-bee5-e137d41d69ad",
+        "date": "2025-10-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good service"
+    },
+    {
         "id": "f8583096-6566-4449-88f7-8d04ccc75e82",
         "date": "2025-10-26",
         "score": 5,
