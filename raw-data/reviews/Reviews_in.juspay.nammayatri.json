@@ -1,5 +1,124 @@
 [
     {
+        "id": "eb30719f-f2c5-4a2f-9690-c64de053ca2e",
+        "date": "2025-10-29",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "customer support is non existent"
+    },
+    {
+        "id": "de3e36e3-703d-4f7c-a57e-78baef8d3782",
+        "date": "2025-10-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good",
+        "vaf_never_display_ads_experience": null,
+        "vaf_never_display_ease_of_use": null
+    },
+    {
+        "id": "a2beac0f-4553-43ad-b102-cbaaec65e292",
+        "date": "2025-10-29",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "good service"
+    },
+    {
+        "id": "9fd925b0-c82e-4812-9b96-281b37bdaf98",
+        "date": "2025-10-29",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "rough driving, wrong side driving"
+    },
+    {
+        "id": "8049726b-e28d-4244-a3b2-037832d60468",
+        "date": "2025-10-29",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "you guys have the most goofy location system. Even if the driver is some 100m away from the drop you say they have arrived and when they spend time reaching the spot you charge extra"
+    },
+    {
+        "id": "7e32a67e-4616-4ea9-8bce-75e85442b234",
+        "date": "2025-10-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super, very good \ud83d\udc4d"
+    },
+    {
+        "id": "71808616-798d-4725-a825-bfba8d1bda6c",
+        "date": "2025-10-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super"
+    },
+    {
+        "id": "6edbad8f-f33a-4cc7-b149-2c7ed1f7c112",
+        "date": "2025-10-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Unbelievable. I am using Namma Yatri Autos for 6 months now, not even once EXTRA was asked. Drivers are uniformly Excellent. System genrated fare is also reasonable always. I strongly recommend Namma Yatri."
+    },
+    {
+        "id": "6895e601-9b09-41fb-8f2d-0beecca21b17",
+        "date": "2025-10-29",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "ax 1451q",
+        "vaf_never_display_meet_expectations": 3,
+        "vaf_never_display_app_description": 3,
+        "vaf_never_display_negative_ads_impact": 2
+    },
+    {
+        "id": "634647a3-bced-4989-a764-80afdb4ac98f",
+        "date": "2025-10-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "yo honey"
+    },
+    {
+        "id": "52caf920-1633-41ec-af51-3ca941ca89bf",
+        "date": "2025-10-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "I am happy with this app"
+    },
+    {
+        "id": "519a910b-919d-41e6-a1de-efd7b1a2b239",
+        "date": "2025-10-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "use namma Yatri for convenient travel"
+    },
+    {
+        "id": "4a65dfb4-fbd7-4df6-8300-9560ba470024",
+        "date": "2025-10-29",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "This is the worst ride app I ever seen. It can only be used for Metro booking. Even after cancellation of the ride the driver will reach you, and threaten us for the cancellation charges. Only after the payment he will allow us to go, in any other ride. Customer support is sleeping, no response received after raising this issue along with photos and screenshots. Worst app ever",
+        "vaf_never_display_ease_of_use": null,
+        "vaf_never_display_ads_experience": null
+    },
+    {
+        "id": "2cc6244d-016f-4bfc-93c5-60b776ea5324",
+        "date": "2025-10-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
         "id": "fdef3d56-c7a4-4e70-98c0-c96af072a821",
         "date": "2025-10-28",
         "score": 4,
@@ -62,6 +181,14 @@
         "scoreText": "4",
         "title": null,
         "text": "good"
+    },
+    {
+        "id": "5030d227-e272-4d05-a602-5d3738895894",
+        "date": "2025-10-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super service good ride for me and good hospitality"
     },
     {
         "id": "21d9281e-8053-41d9-ac87-0ed0eecdd696",
