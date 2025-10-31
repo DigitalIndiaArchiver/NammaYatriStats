@@ -1,5 +1,144 @@
 [
     {
+        "id": "f8fde629-a52a-40df-9303-1cd05090ba25",
+        "date": "2025-10-30",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "ok good"
+    },
+    {
+        "id": "f3bffff3-df4b-4e4f-9356-1104accd94c3",
+        "date": "2025-10-30",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "over priced"
+    },
+    {
+        "id": "e1fb31b2-1e53-4617-a55e-70bb8ac5b73c",
+        "date": "2025-10-30",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "excellent"
+    },
+    {
+        "id": "b88686bb-69ef-4d69-a1b7-b336889e3649",
+        "date": "2025-10-30",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good",
+        "vaf_never_display_ads_experience": null,
+        "vaf_never_display_ease_of_use": null
+    },
+    {
+        "id": "b153fd99-f528-45d9-9ff1-a21fd0e16a71",
+        "date": "2025-10-30",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "a206c9d3-d7cd-4a01-998a-8e4886fc71df",
+        "date": "2025-10-30",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "App stopped working after updating with recent version.",
+        "vaf_never_display_app_description": 3,
+        "vaf_never_display_visually_bad": 2,
+        "vaf_never_display_considerate_of_time": 3
+    },
+    {
+        "id": "a04652b8-8320-4d5f-8f47-c71cd5f03be8",
+        "date": "2025-10-30",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "9eb8548d-e8c1-46f4-a895-e68ab3e54246",
+        "date": "2025-10-30",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good service"
+    },
+    {
+        "id": "8e296f05-c64b-4a73-8068-2a71e42ce4ba",
+        "date": "2025-10-30",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "7e064ef0-1f55-4871-a5d6-8ef31f58c93e",
+        "date": "2025-10-30",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good work"
+    },
+    {
+        "id": "785a4b60-6d52-42e1-b81e-4e00293fc798",
+        "date": "2025-10-30",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "timely response & nice drivin"
+    },
+    {
+        "id": "5029cdf5-00b8-40b3-8b11-6e73c3d0843b",
+        "date": "2025-10-30",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "\ud83d\udc4d"
+    },
+    {
+        "id": "3e9c9590-420b-4327-b08d-41f751226984",
+        "date": "2025-10-30",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good Driver"
+    },
+    {
+        "id": "25cf2191-c482-4344-959c-92b248c00bdf",
+        "date": "2025-10-30",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "25186342-fb5c-49fd-bb1a-282a8960db91",
+        "date": "2025-10-30",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "is this app available in Kolkata",
+        "vaf_never_display_easy_to_use": 3,
+        "vaf_never_display_positive_impact": 3,
+        "vaf_never_display_negative_ads_impact": 3
+    },
+    {
+        "id": "03a77f9d-554a-4f7f-aa8a-309163ea9785",
+        "date": "2025-10-30",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "the app is slow and sluggish, I usually book for my mom, now I can't take screenshot and share info with her. there is no option. very poor experience",
+        "vaf_never_display_spend_more_time": 1,
+        "vaf_never_display_visually_bad": 1,
+        "vaf_never_display_deceptive_ads": 2
+    },
+    {
         "id": "eb30719f-f2c5-4a2f-9690-c64de053ca2e",
         "date": "2025-10-29",
         "score": 1,

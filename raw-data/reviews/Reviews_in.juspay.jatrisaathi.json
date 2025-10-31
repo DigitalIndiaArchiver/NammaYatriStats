@@ -1,5 +1,77 @@
 [
     {
+        "id": "aec0b1e0-1332-432a-89db-4367a67c802d",
+        "date": "2025-10-30",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good app"
+    },
+    {
+        "id": "ac095d2e-ddc3-4cc0-9ff7-3a653f78b1e2",
+        "date": "2025-10-30",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "It is a good ride and comparatively cheap. My destination was changed, yet fare rise was reasonable."
+    },
+    {
+        "id": "ab89089b-e9dd-423f-b820-a4db1b12fdec",
+        "date": "2025-10-30",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good drives"
+    },
+    {
+        "id": "aa4fea9f-4b05-4d1b-b1f6-6b52ae3c13f4",
+        "date": "2025-10-30",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "ok"
+    },
+    {
+        "id": "a5b354ae-be27-4f03-991d-1ce9b0f684f6",
+        "date": "2025-10-30",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Fare is better than competitor. My experience was nice so far. Option for AC is good so that driver cannot deny later."
+    },
+    {
+        "id": "841e772f-e3ac-4e38-9206-ad78814fca32",
+        "date": "2025-10-30",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good in all respects."
+    },
+    {
+        "id": "705adc67-3f24-4892-b688-7dd691a826f8",
+        "date": "2025-10-30",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Cheaper than ola, uber and good service"
+    },
+    {
+        "id": "640a447b-c6bc-4783-b226-174aa7c91a4a",
+        "date": "2025-10-30",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very nice."
+    },
+    {
+        "id": "3d9a178d-41f4-4da7-9795-1ff2b9fdcd6b",
+        "date": "2025-10-30",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
         "id": "ff7ddebe-ae05-4526-86fe-cd95c82c4675",
         "date": "2025-10-29",
         "score": 1,
@@ -105,6 +177,14 @@
         "scoreText": "1",
         "title": null,
         "text": "very baad app"
+    },
+    {
+        "id": "36a84091-1029-42a9-b86a-8b0d4693cbbc",
+        "date": "2025-10-29",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "Good sarvice"
     },
     {
         "id": "32cc7bc6-f5f7-462f-aa37-2ebfcf4f4564",
