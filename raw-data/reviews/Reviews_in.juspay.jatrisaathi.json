@@ -1,5 +1,119 @@
 [
     {
+        "id": "f52504ab-3b61-4127-9f7b-b5580371205b",
+        "date": "2025-10-31",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "Doesn't have enough cabs. Not available in the office time."
+    },
+    {
+        "id": "ee610de2-3b93-4371-a85a-92ef617b4b61",
+        "date": "2025-10-31",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Very nice"
+    },
+    {
+        "id": "e32b5448-5ee2-40c1-b5a4-5331a173e4fa",
+        "date": "2025-10-31",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "\ud83d\udc4d"
+    },
+    {
+        "id": "d43c2f72-5859-40ef-8b4a-dd5a8975c98a",
+        "date": "2025-10-31",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "very poor service like management"
+    },
+    {
+        "id": "d3881c87-58c2-4b3e-b5d1-d0d710ff58f5",
+        "date": "2025-10-31",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "Good"
+    },
+    {
+        "id": "d0e81504-cdb7-4f52-80d4-3fde13caecd6",
+        "date": "2025-10-31",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice"
+    },
+    {
+        "id": "c7cd94ff-1b02-43a4-9da3-064454ccb6b0",
+        "date": "2025-10-31",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good \ud83d\udc4d \ud83d\udc4f \ud83d\udc4c \ud83d\ude00 \u263a\ufe0f \ud83d\ude4c \ud83d\udc4d",
+        "vaf_never_display_ease_of_use": null,
+        "vaf_never_display_ads_experience": null
+    },
+    {
+        "id": "bf1ff5d8-d316-4285-a3bc-a2ad83f378d3",
+        "date": "2025-10-31",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "\u098f\u0987 \u09b0\u0995\u09ae \u0995\u09ae \u09a6\u09be\u09ae \u09b9\u09b2\u09c7 \u0986\u09ae\u09bf \u0985\u09ac\u09b6\u09cd\u09af\u0987 \u09b8\u09ac \u09b8\u09ae\u09af\u09bc \u09aa\u099b\u09a8\u09cd\u09a6 \u0995\u09b0\u09ac\u09cb"
+    },
+    {
+        "id": "8d20261f-9446-430d-8594-a157cdf2c7a6",
+        "date": "2025-10-31",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "72b78e64-01e7-4db9-9007-67a9afc14fb4",
+        "date": "2025-10-31",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very nice app"
+    },
+    {
+        "id": "72718635-796e-4dc9-8ddd-ad347dd1f45e",
+        "date": "2025-10-31",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "6f0df8fd-684f-4fef-8550-37798f4d34a0",
+        "date": "2025-10-31",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "best"
+    },
+    {
+        "id": "218706e5-04ef-428f-9c59-25ee68afbf85",
+        "date": "2025-10-31",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "It's Such a Good App To Find Rides in a Perfect Price...4.5 Stars Out Of 5"
+    },
+    {
+        "id": "12468786-fd08-4938-8140-bcd249a97609",
+        "date": "2025-10-31",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "not good at all my driver kept refusing and asked for extra fare so I had to cancel it and book and ola"
+    },
+    {
         "id": "aec0b1e0-1332-432a-89db-4367a67c802d",
         "date": "2025-10-30",
         "score": 5,
