@@ -1,5 +1,93 @@
 [
     {
+        "id": "eb6249fd-a4ca-4346-ad2a-af2434c1414f",
+        "date": "2025-11-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Nice \ud83d\udc4d\ud83c\udffe"
+    },
+    {
+        "id": "d8faf430-ae68-4841-bd99-34f30f344e45",
+        "date": "2025-11-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good \ud83d\udc4d"
+    },
+    {
+        "id": "d32cb78a-efc8-4055-9bf8-d33273868e15",
+        "date": "2025-11-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good"
+    },
+    {
+        "id": "c45e5b33-90c4-4c2d-b3f4-0ec57f76271d",
+        "date": "2025-11-01",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "Very good ride with this app."
+    },
+    {
+        "id": "c314a6e0-f9bc-4ccd-a508-66b801f21bde",
+        "date": "2025-11-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "GOOD"
+    },
+    {
+        "id": "b0dcbba3-40ed-4a73-9c43-91b50d785704",
+        "date": "2025-11-01",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "cabs not available, drivers cancel after waiting for more than 15 to 20minutes"
+    },
+    {
+        "id": "8174326b-c65a-4edf-a93c-a6ab256d9334",
+        "date": "2025-11-01",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "never got a trip easily demand always extra either the yatri sathi itself or the driver Disgusting arrangements"
+    },
+    {
+        "id": "805efb37-7c55-427a-a90f-a59414cd976d",
+        "date": "2025-11-01",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "Few cars did not maintain the cleanliness."
+    },
+    {
+        "id": "6197b97f-4eae-4419-9a24-a1a92d8fbb94",
+        "date": "2025-11-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good"
+    },
+    {
+        "id": "5656d373-84f7-4772-8a66-020719a7b37b",
+        "date": "2025-11-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "verry risnable price"
+    },
+    {
+        "id": "360f5a08-b4f8-464e-942e-3b435ec530f7",
+        "date": "2025-11-01",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "At first it was good, now it's becoming the worst app I have used, huge rates for short distances"
+    },
+    {
         "id": "f52504ab-3b61-4127-9f7b-b5580371205b",
         "date": "2025-10-31",
         "score": 3,
@@ -66,6 +154,14 @@
         "text": "\u098f\u0987 \u09b0\u0995\u09ae \u0995\u09ae \u09a6\u09be\u09ae \u09b9\u09b2\u09c7 \u0986\u09ae\u09bf \u0985\u09ac\u09b6\u09cd\u09af\u0987 \u09b8\u09ac \u09b8\u09ae\u09af\u09bc \u09aa\u099b\u09a8\u09cd\u09a6 \u0995\u09b0\u09ac\u09cb"
     },
     {
+        "id": "a3997d20-d66e-42f9-9871-e2d02f32f8e6",
+        "date": "2025-10-31",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Value for money"
+    },
+    {
         "id": "8d20261f-9446-430d-8594-a157cdf2c7a6",
         "date": "2025-10-31",
         "score": 5,
@@ -96,6 +192,32 @@
         "scoreText": "4",
         "title": null,
         "text": "best"
+    },
+    {
+        "id": "6bc0b73c-3ded-4d5e-a7bf-8d5356db4382",
+        "date": "2025-10-31",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good apps"
+    },
+    {
+        "id": "63bcc94e-30e6-4bb6-bba1-37c8a26b515f",
+        "date": "2025-10-31",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "if you are not connecting one driver in an busy railway station... why this need to be used and trusted by public?",
+        "vaf_never_display_ads_experience": null,
+        "vaf_never_display_ease_of_use": null
+    },
+    {
+        "id": "453b92fa-1419-465b-8ba4-c342c01c0ccb",
+        "date": "2025-10-31",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "After cancellation of 3 trips by yatrisathi drivers, 4th driver accepted with extra addition as tips!"
     },
     {
         "id": "218706e5-04ef-428f-9c59-25ee68afbf85",
