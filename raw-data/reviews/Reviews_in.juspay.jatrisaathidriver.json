@@ -1,11 +1,38 @@
 [
     {
+        "id": "d25e10c3-ed60-409b-96ea-e6ea76301d57",
+        "date": "2025-11-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "I am very happy to drive with Yatri Sathi. I wish to get boost fare which Yatri Satri provides me. Thank you. Regards(Buddhadeb Ghosh)"
+    },
+    {
+        "id": "7fd27795-df04-4ccb-b7f2-30ff6bb85e91",
+        "date": "2025-11-02",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "no rides, too much battery consumption, pops up without reason, gets online by itself",
+        "vaf_never_display_spend_more_time": 3,
+        "vaf_never_display_negative_ads_impact": 2,
+        "vaf_never_display_app_description": 2
+    },
+    {
         "id": "673b64b5-cd6d-4a71-abb0-85e0d2d0eba3",
         "date": "2025-11-01",
         "score": 4,
         "scoreText": "4",
         "title": null,
         "text": "pickup and drop location is many times showing wrong please update your app next time asap"
+    },
+    {
+        "id": "3f2085e3-b583-4dd8-bddb-1673fffff887",
+        "date": "2025-11-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good"
     },
     {
         "id": "016f039a-b1c5-41b1-9e46-4ef28e30f6be",
