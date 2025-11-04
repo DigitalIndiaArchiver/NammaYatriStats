@@ -1,5 +1,181 @@
 [
     {
+        "id": "f58a285f-03fb-4762-a016-b4fa832875d4",
+        "date": "2025-11-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "USEABLE APP"
+    },
+    {
+        "id": "ee883b64-efc3-48a0-9e65-8dcf2aa7067c",
+        "date": "2025-11-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Super service"
+    },
+    {
+        "id": "ee6ab4c1-d8db-425d-a0f7-6dc488949141",
+        "date": "2025-11-03",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "The fares have become so expensive when compared to ola and Uber! Drivers are cancelling too many times. The user experience has deteriorated significantly"
+    },
+    {
+        "id": "e3a04763-8039-4b59-9062-abc765ba9fc4",
+        "date": "2025-11-03",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Drivers disregard the final price and ask for higher price if final price is less than the original estimate. They need to fix the price. Neither increase or decrease, so that both sides are satisfied or compensate for the difference."
+    },
+    {
+        "id": "d1ef0287-9af4-4c74-8c5a-97dce027a9d4",
+        "date": "2025-11-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good driver"
+    },
+    {
+        "id": "c6fb82e0-5b08-4e6c-8f27-19490602447f",
+        "date": "2025-11-03",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "new tip and boost search in the app is pathetic, its always adding 30+ Rs even if you want to add a tip of 10 or 20.. this is a dark pattern. earlier feature of adding tip was transparent."
+    },
+    {
+        "id": "c3611a28-4a33-4ede-87cd-c5a24e21328a",
+        "date": "2025-11-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Best Service"
+    },
+    {
+        "id": "b682686a-0e79-4134-9257-8bce5352a23e",
+        "date": "2025-11-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "reasonable and good"
+    },
+    {
+        "id": "97741f10-8932-4519-8ecc-28c28fefc134",
+        "date": "2025-11-03",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "some drivers are very bad.... Even they harass pregnant women.... inhuman drivers.. I tried to contact customer care same day... no response.. no one picked up the call... irresponsible ... Drivers don't have proper training....."
+    },
+    {
+        "id": "77d9f946-78ec-4e64-91da-0c47efa70c5d",
+        "date": "2025-11-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good drive"
+    },
+    {
+        "id": "6f7807ae-f13d-47a9-bc25-dcc1e0683934",
+        "date": "2025-11-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "6bfed52d-3479-43da-b248-3f462a15e33e",
+        "date": "2025-11-03",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "Good alternative to ola and uber. Drivers must be punished if they cancel."
+    },
+    {
+        "id": "6044d3ee-2b55-4a94-9b2a-90b6c662c0cf",
+        "date": "2025-11-03",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "excellent"
+    },
+    {
+        "id": "5ad6c93a-23f5-4645-b078-b7b99dc49893",
+        "date": "2025-11-03",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "very nice drive thank you for all our safety journey"
+    },
+    {
+        "id": "501f269d-8e94-4a69-b825-0e94765c62c2",
+        "date": "2025-11-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super"
+    },
+    {
+        "id": "3e902dbb-ee16-4d23-9563-14fbad99cbf1",
+        "date": "2025-11-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very safe and reliable ride. Thank you."
+    },
+    {
+        "id": "3d300a5d-2b17-4f28-a86c-f822f7b43366",
+        "date": "2025-11-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "thank you sir"
+    },
+    {
+        "id": "35855e62-9c2c-4fc0-b3b6-813ad10722ae",
+        "date": "2025-11-03",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "nice"
+    },
+    {
+        "id": "2b1be8ae-bfe5-41d8-877c-aee691570d97",
+        "date": "2025-11-03",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "really bad app... wouldn't recommend this app to any one... prices keep fluctuating...... drivers demand more than 50 rupees extra...."
+    },
+    {
+        "id": "1e01e340-c43e-436c-b4dc-6d3063c2e619",
+        "date": "2025-11-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "prompt and punctual riding experience. I enjoyed it. I appreciate it as well."
+    },
+    {
+        "id": "0e59e3d1-09b3-4ede-9e0b-8635b8fe4569",
+        "date": "2025-11-03",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "gaming app for cab drivers.. Accept ride, cancel ride, kill others time. I have seen cab drivers accepting unrealistic ride while being on ride."
+    },
+    {
+        "id": "0c0b00d6-1f1a-40df-a407-f21b9ae289bd",
+        "date": "2025-11-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "cheapest and quickest"
+    },
+    {
         "id": "fbe723d4-2907-4338-b32c-d79d9cdffd7f",
         "date": "2025-11-02",
         "score": 5,
@@ -64,6 +240,17 @@
         "text": "good service"
     },
     {
+        "id": "9d7ac17c-0e63-454e-8ab8-37773c8b8275",
+        "date": "2025-11-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good jobs",
+        "vaf_never_display_difficult_to_use": 1,
+        "vaf_never_display_inappropriate_ads": 1,
+        "vaf_never_display_visually_good": 1
+    },
+    {
         "id": "98ec22b6-5ce1-4748-a227-034b36e9f61c",
         "date": "2025-11-02",
         "score": 1,
@@ -115,12 +302,28 @@
         "text": "Good response from Namma Yatri Faster and reliable"
     },
     {
+        "id": "4651d5ef-d19c-43af-8025-d91d5584b1c2",
+        "date": "2025-11-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good \ud83d\udc4d"
+    },
+    {
         "id": "31baca34-ce26-4b47-8869-0f68f62dbf7a",
         "date": "2025-11-02",
         "score": 4,
         "scoreText": "4",
         "title": null,
         "text": "The drivers sometimes demand extra charges. However, the Customer Care has been helpful with resolving the issue and getting a refund, thank you. However, one suggestion - Please provide an option to report such extra charge demands BEFORE the payment is made, instead of asking for a screenshot AFTER payment."
+    },
+    {
+        "id": "1cbd9ff8-0d0a-4a8c-bc31-d78042819bf6",
+        "date": "2025-11-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
     },
     {
         "id": "bf4a696b-37c3-4166-95e9-510038970703",

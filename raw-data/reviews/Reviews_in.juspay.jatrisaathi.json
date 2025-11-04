@@ -1,11 +1,86 @@
 [
     {
+        "id": "d6edd1ca-f461-4665-b117-177cc8d2ef91",
+        "date": "2025-11-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "bbd5c1d8-6da3-4dd3-9998-f77da031a02a",
+        "date": "2025-11-03",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "takes too long to book cab"
+    },
+    {
+        "id": "88b60040-0fa9-4226-a434-91c7266d2904",
+        "date": "2025-11-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good"
+    },
+    {
+        "id": "79b13301-8f8a-477f-95aa-ac4e19d6f5f0",
+        "date": "2025-11-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "66d061c3-59bd-4dab-a500-d52a9b44519f",
+        "date": "2025-11-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "satisfied"
+    },
+    {
+        "id": "5d9f96bd-7237-4b6b-852f-f4635aa2db4e",
+        "date": "2025-11-03",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "3869a82d-0ea2-4f05-8c26-41630db65dba",
+        "date": "2025-11-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good"
+    },
+    {
+        "id": "1aab9e4c-bda7-4c66-95e4-0ae9bbdd9527",
+        "date": "2025-11-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Outstanding experience!"
+    },
+    {
         "id": "f3d8e9b5-242b-49e1-b2ea-957b093b8b87",
         "date": "2025-11-02",
         "score": 5,
         "scoreText": "5",
         "title": null,
         "text": "best driver in ktk"
+    },
+    {
+        "id": "bce753cd-fc1c-46e5-9d06-db2fc060da7d",
+        "date": "2025-11-02",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "The service is disappointing due to poorly behaved drivers and weak customer support. Many drivers refuse bookings, demand extra charges beyond the app fare, or cancel rides without reason. Drivers ignore customer requests. When complaints are raised, the support team rarely responds or resolves issues properly. The app also faces frequent glitches, inaccurate tracking, and long waiting times. Although the fares are low, the experience is unreliable and frustrating. Must learn from Ola and Uber.",
+        "vaf_never_display_app_description": 2,
+        "vaf_never_display_difficult_to_use": 1,
+        "vaf_never_display_disruptive_ads": 2
     },
     {
         "id": "b44b1cba-00be-4e21-ab06-0e0f163d25c4",
