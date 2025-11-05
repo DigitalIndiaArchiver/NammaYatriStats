@@ -6,16 +6,16 @@
     "installs": "100,000+",
     "minInstalls": 100000,
     "maxInstalls": 411697,
-    "score": 4.6121626,
+    "score": 4.610927,
     "scoreText": "4.6",
-    "ratings": 42093,
+    "ratings": 42153,
     "reviews": "http://gplayapi.cashlessconsumer.in/api/apps/net.openkochi.yatripartner/reviews",
     "histogram": {
-        "1": 2180,
+        "1": 2182,
         "2": 876,
-        "3": 1344,
-        "4": 2280,
-        "5": 35409
+        "3": 1365,
+        "4": 2302,
+        "5": 35422
     },
     "price": 0,
     "free": true,
