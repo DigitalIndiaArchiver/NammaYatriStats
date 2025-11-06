@@ -1,5 +1,26 @@
 [
     {
+        "id": "e3c0847e-0c21-47fd-a64c-c585e0b70504",
+        "date": "2025-11-05",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "don't clear location",
+        "vaf_never_display_content_language": 1,
+        "vaf_never_display_meet_expectations": 2,
+        "vaf_never_display_disruptive_ads": 1
+    },
+    {
+        "id": "81c8e266-7e38-486d-9b5e-62d5a379de6b",
+        "date": "2025-11-05",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good",
+        "vaf_never_display_ads_experience": null,
+        "vaf_never_display_ease_of_use": null
+    },
+    {
         "id": "dcf7f750-bdfd-494c-bbfe-5fc028169b11",
         "date": "2025-11-04",
         "score": 1,
