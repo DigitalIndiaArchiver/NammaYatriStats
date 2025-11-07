@@ -1,5 +1,16 @@
 [
     {
+        "id": "5456a2ba-5934-40e4-a2e7-739ff17e99dc",
+        "date": "2025-11-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "\u0cb8\u0cc2\u0caa\u0cb0\u0ccd",
+        "vaf_never_display_disruptive_ads": 1,
+        "vaf_never_display_positive_impact": 1,
+        "vaf_never_display_visually_good": 1
+    },
+    {
         "id": "00116869-da71-4d1d-9d6d-3335e1904b1a",
         "date": "2025-11-05",
         "score": 5,

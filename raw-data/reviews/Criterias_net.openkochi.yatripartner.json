@@ -1,4 +1,7 @@
 {
+    "vaf_never_display_disruptive_ads": 1,
+    "vaf_never_display_positive_impact": 1,
+    "vaf_never_display_visually_good": 3,
     "vaf_never_display_ease_of_use": 41,
     "vaf_never_display_ads_experience": 39,
     "vaf_never_display_meet_expectations": 1,
@@ -8,7 +11,6 @@
     "vaf_never_display_deceptive_ads": 1,
     "vaf_phase1_food_delivery": 2,
     "vaf_phase1_loyalty_program": 3,
-    "vaf_never_display_visually_good": 2,
     "vaf_phase1_booking_tours": 5,
     "vaf_phase1_comparing_prices": 1,
     "vaf_never_display_visually_bad": 3,
