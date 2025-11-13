@@ -1,5 +1,81 @@
 [
     {
+        "id": "f1bb14cb-0568-4313-b211-d148d206f4b1",
+        "date": "2025-11-12",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "dc45d108-20de-4d22-b778-97ca630603b4",
+        "date": "2025-11-12",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "First experience is excellent"
+    },
+    {
+        "id": "bd1e4dd0-1d2e-4b7f-a2b0-c9b73397bb0e",
+        "date": "2025-11-12",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice aap"
+    },
+    {
+        "id": "abc949b9-a533-41b9-a495-f6d8c88bfff1",
+        "date": "2025-11-12",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "Yatri Sathi does not work in Durga Puja. this is very bad \ud83d\ude1e. otherwise good.",
+        "vaf_never_display_ads_experience": null,
+        "vaf_never_display_ease_of_use": null
+    },
+    {
+        "id": "92f4bc2a-822e-4cd5-9ea6-ee05ad3c1655",
+        "date": "2025-11-12",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "Vehicle cleaning required"
+    },
+    {
+        "id": "733011d3-0895-4d85-930e-70b4f9032155",
+        "date": "2025-11-12",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "driver behaviour is not good. app may have many glitches and bugs and location fault",
+        "vaf_never_display_positive_impact": 2,
+        "vaf_never_display_deceptive_ads": 3
+    },
+    {
+        "id": "478208db-16f4-4ab9-8463-9f0f6ff56f73",
+        "date": "2025-11-12",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "The fare charged is much higher. From Kolkata Airport to VIP Road Kaikhali junction, 1.5 km has been charged Rs.300 for Sedan. It is not Right fare practice."
+    },
+    {
+        "id": "353124b6-89a0-447d-9368-7513601437f7",
+        "date": "2025-11-12",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "sabse sasta.,\ud83d\ude03"
+    },
+    {
+        "id": "03e2b0c0-974c-455a-8bc5-c58416d596f3",
+        "date": "2025-11-12",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "very good \ud83d\udc4d"
+    },
+    {
         "id": "d799c2f3-b544-4e1f-ab11-9574565fc5a0",
         "date": "2025-11-11",
         "score": 5,
