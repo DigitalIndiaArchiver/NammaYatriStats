@@ -1,5 +1,7 @@
 {
+    "vaf_never_display_inappropriate_ads": 2,
+    "vaf_never_display_easy_to_use": 1,
+    "vaf_never_display_make_you_happy": 1,
     "vaf_never_display_useful_notifications": 1,
-    "vaf_never_display_inappropriate_ads": 1,
     "vaf_never_display_content_language": 1
 }

@@ -1,5 +1,107 @@
 [
     {
+        "id": "dc0d70d6-47b8-4217-8c05-6520e6d0b444",
+        "date": "2025-11-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "c8c458ba-3565-47e3-ada3-d339e9a122fd",
+        "date": "2025-11-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good"
+    },
+    {
+        "id": "ba8e1184-4243-460c-8e94-b3bee92a73bd",
+        "date": "2025-11-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "comparatively good from other operators."
+    },
+    {
+        "id": "b5e0b0ae-3c82-42af-b4d3-292e6d4d2703",
+        "date": "2025-11-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good"
+    },
+    {
+        "id": "b0242864-6c87-4aa5-815e-6b5a53be74d0",
+        "date": "2025-11-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super"
+    },
+    {
+        "id": "85e5e779-22ef-4fd9-ad70-2697d4f1458a",
+        "date": "2025-11-13",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "Good"
+    },
+    {
+        "id": "8313f88a-8659-49e2-acb4-20d092e531f6",
+        "date": "2025-11-13",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Namma Yatri has become very costly compared to other apps. The fares are often unreasonably high, and the service quality doesn\u2019t match the price. In some areas, there are also reports of auto drivers associated with this app behaving aggressively or even attacking other bike taxi riders, which is very concerning. The company should look into these issues seriously and ensure fair pricing and proper driver conduct."
+    },
+    {
+        "id": "72bdb3d7-47a6-41b2-aa6b-09d674862a7f",
+        "date": "2025-11-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "A ride hailing platform without the usual corporate greed that keeps both drivers and commuters in Bengaluru happy. Barring the occasional hiccup, Namma Yatri consistently delivers a comfortable and enjoyable journey whenever you open it. If you do run into trouble, you have one of the best customer support teams in the country looking after you.",
+        "vaf_never_display_disruptive_ads": 2,
+        "vaf_never_display_app_description": 1,
+        "vaf_never_display_spend_more_time": 1
+    },
+    {
+        "id": "4abb3741-35e8-4345-8a86-bdccc4ccc3e3",
+        "date": "2025-11-13",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "They will never accept the request every time I book after adding a good tip, no one driver will accept the booking such a worst app.",
+        "vaf_never_display_ease_of_use": null
+    },
+    {
+        "id": "24dc8aa1-187f-48d8-b0f6-50067755ab26",
+        "date": "2025-11-13",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "I\u2019m really not happy with how your app works. The price you see at the start of a trip is never what you end up paying. Even when you put exant location. It's stated in '*' that driver can charge extra for traffic and many more. If I go through normal auto or taxi it doesn't charge me after ride. They state the complete charge of the ride before the ride start. Honestly, this isn\u2019t cool, and I won't recommend your app to anyone.",
+        "vaf_never_display_ads_experience": null,
+        "vaf_never_display_ease_of_use": null
+    },
+    {
+        "id": "1ea648b3-6c76-4332-a0f2-23f976079700",
+        "date": "2025-11-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "0c003ef7-f84a-43ef-912d-9d264da8f230",
+        "date": "2025-11-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good service in gulbarga."
+    },
+    {
         "id": "fc2dc351-6358-47d8-92aa-5141db900894",
         "date": "2025-11-12",
         "score": 5,
@@ -22,6 +124,14 @@
         "scoreText": "5",
         "title": null,
         "text": "Good"
+    },
+    {
+        "id": "c315b2db-131d-4803-8c42-cbdfb8f6de32",
+        "date": "2025-11-12",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
     },
     {
         "id": "afbfabf2-fb18-4ae4-9379-2805c881ca3a",
@@ -70,6 +180,14 @@
         "scoreText": "5",
         "title": null,
         "text": "super"
+    },
+    {
+        "id": "40a01919-1655-430b-b6fa-e653f9a8b8c0",
+        "date": "2025-11-12",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "wast app please do not use."
     },
     {
         "id": "0869feeb-0bcf-4eb9-8186-a398d7b77e22",
