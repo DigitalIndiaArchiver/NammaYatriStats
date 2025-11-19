@@ -1,5 +1,125 @@
 [
     {
+        "id": "f61e1d55-a06f-4f7c-9b1d-a713f6c880d5",
+        "date": "2025-11-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "All of the car owners and drivers who are participants in Yatri Sathi are requested to turn up in time always."
+    },
+    {
+        "id": "e14ddf4b-8589-4e64-9d9f-b9161e4da840",
+        "date": "2025-11-18",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "poor"
+    },
+    {
+        "id": "d5dc379d-bbe6-4243-88ea-c0c08888ef68",
+        "date": "2025-11-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "9ba82417-d091-4d76-a5d8-41152a374e6c",
+        "date": "2025-11-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good service"
+    },
+    {
+        "id": "9b1d2d96-799a-4b24-ba51-7432ac16bdf1",
+        "date": "2025-11-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "use yatri sathi app, nice"
+    },
+    {
+        "id": "9a3971d1-b0dd-4f78-a80d-5342f4a8a6aa",
+        "date": "2025-11-18",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "why don't we go with their address and I entered it tell that it is unserviced I am late also so everybody do not use this app"
+    },
+    {
+        "id": "85d828d7-a1d2-4883-909a-7e29edcff38d",
+        "date": "2025-11-18",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "helpful."
+    },
+    {
+        "id": "74706173-756b-47fa-98f7-dd716a195080",
+        "date": "2025-11-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "6e67d505-280e-46ef-9d31-e4fdd4c28367",
+        "date": "2025-11-18",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "499a0608-47aa-4da3-b993-6f69e6bd0e0d",
+        "date": "2025-11-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "13be0752-9129-4268-b019-14eb9f205f12",
+        "date": "2025-11-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice run"
+    },
+    {
+        "id": "09ebc11f-2b91-4d6c-b831-163c7534d65d",
+        "date": "2025-11-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "f1765d35-27a2-4ce4-8c58-062d02c03882",
+        "date": "2025-11-17",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "nice app"
+    },
+    {
+        "id": "e4b13041-66da-49d9-8d24-e1754edd2f98",
+        "date": "2025-11-17",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Worst app"
+    },
+    {
+        "id": "d5d8f266-a88b-4577-8bf0-8f5ef2772896",
+        "date": "2025-11-17",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "VERY GOOD APP"
+    },
+    {
         "id": "d3b3c8d3-7052-4c44-888a-a5d958ec60a0",
         "date": "2025-11-17",
         "score": 1,
@@ -38,6 +158,24 @@
         "scoreText": "5",
         "title": null,
         "text": "safe journey"
+    },
+    {
+        "id": "aadaf72a-681e-4972-9ef5-a4adddc21e3e",
+        "date": "2025-11-17",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Adorable and Hassle-free ride"
+    },
+    {
+        "id": "9d4de1f6-f98d-4583-abc7-b3014138e608",
+        "date": "2025-11-17",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "The app is completely unsafe for the riders. No help, No support from station counters. only taxi mafia modernised.",
+        "vaf_never_display_ease_of_use": null,
+        "vaf_never_display_ads_experience": null
     },
     {
         "id": "573a571f-5d72-407b-bb7b-7f46ad81f086",
