@@ -1,5 +1,103 @@
 [
     {
+        "id": "fe30ad11-d6a9-434e-9700-6a19a16d21f6",
+        "date": "2025-11-20",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Very good service at economical cost!"
+    },
+    {
+        "id": "e9c5ea97-0931-47e8-91eb-966c9d6caa1f",
+        "date": "2025-11-20",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "ok"
+    },
+    {
+        "id": "dee36a76-6b2c-40ff-be34-168fd339b0f6",
+        "date": "2025-11-20",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "c214f61b-35f7-4274-9e25-808093de5700",
+        "date": "2025-11-20",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "I took the cab as soon as it was available."
+    },
+    {
+        "id": "b0dedafb-25d2-4496-b528-5b5e98dcf97c",
+        "date": "2025-11-20",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good"
+    },
+    {
+        "id": "abecb373-487e-4109-bf06-35a865afd4a6",
+        "date": "2025-11-20",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Best ......provides affordable rides."
+    },
+    {
+        "id": "a017065d-adf0-4b84-9cd5-c1584540a6b7",
+        "date": "2025-11-20",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good drive"
+    },
+    {
+        "id": "7fea2f23-3957-4c0f-b4d2-824e7dffbcac",
+        "date": "2025-11-20",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "Overall good"
+    },
+    {
+        "id": "6554e246-e1c1-4bc6-86a2-81dedca9cf93",
+        "date": "2025-11-20",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "driver is very good and polite behavior. I am happy this ride."
+    },
+    {
+        "id": "38284ecd-60dc-412f-99bd-3561ebe1e125",
+        "date": "2025-11-20",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "It is not Yatri Sathi, it should be called as Driver Sathi. Always charges extra fare from pssengers. No support is there to help. Indrive is far better."
+    },
+    {
+        "id": "30eea31c-c5ba-4f43-9bdb-4fc4b117f9b0",
+        "date": "2025-11-20",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "awesome",
+        "vaf_never_display_ease_of_use": null,
+        "vaf_never_display_ads_experience": null
+    },
+    {
+        "id": "194794c3-bc29-41ab-8b59-770fc91d916e",
+        "date": "2025-11-20",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good"
+    },
+    {
         "id": "c68668b3-9c69-4d82-a433-19985e5486df",
         "date": "2025-11-19",
         "score": 5,
