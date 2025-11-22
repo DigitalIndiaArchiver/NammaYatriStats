@@ -1,11 +1,96 @@
 [
     {
+        "id": "fa9d150c-9d21-4661-b235-5e9c456d24bb",
+        "date": "2025-11-21",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Prompt riding"
+    },
+    {
+        "id": "f8206d6e-3f2f-4453-88dc-d640c350557a",
+        "date": "2025-11-21",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good experience with Namma Yatri"
+    },
+    {
+        "id": "d378d8f1-5571-474d-b403-1182b34547dd",
+        "date": "2025-11-21",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "App is slow and after payment it did not show and I ended up paying twice. later I raised ticket for refund. they agreed that payment happened twice but did not give refund. very bad customer service and also auto guy did not refund after receiving twice.",
+        "vaf_never_display_ads_experience": null,
+        "vaf_never_display_ease_of_use": null
+    },
+    {
+        "id": "b74eb896-a773-48a1-b83f-e38d5869b64b",
+        "date": "2025-11-21",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good service"
+    },
+    {
+        "id": "4eaec0ac-e861-4734-8d2f-f3296e625e59",
+        "date": "2025-11-21",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Cost shown is high and no one accept ride request."
+    },
+    {
+        "id": "45efa93f-b618-426e-8a54-ac71a9689cf8",
+        "date": "2025-11-21",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "useless overpriced. suitable for auto mafia. useless support system.",
+        "vaf_never_display_meet_expectations": 2,
+        "vaf_never_display_visually_bad": 1,
+        "vaf_never_display_deceptive_ads": 1
+    },
+    {
+        "id": "43025562-38b6-4488-a8c5-e4362bba9b25",
+        "date": "2025-11-21",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "\ud83d\udc4c"
+    },
+    {
+        "id": "29f2fa37-02cb-4e63-8595-e55e7694ca73",
+        "date": "2025-11-21",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very trustworthy and very disciplined driver"
+    },
+    {
+        "id": "1b13387b-3293-43e9-91bc-6ce9f561ec27",
+        "date": "2025-11-21",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "best"
+    },
+    {
         "id": "ed9b8007-1a20-4b26-83e1-09a76682d730",
         "date": "2025-11-20",
         "score": 1,
         "scoreText": "1",
         "title": null,
         "text": "there are several invoice missing those that need to use invoice for reimbursement should especially not use this app"
+    },
+    {
+        "id": "e74ac131-0e91-4964-a100-15ff441d2c8f",
+        "date": "2025-11-20",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "I have posted 2 complaints and the customer service is unresponsive. How can I escalate my issue... Is there an office telephone number or email Id?"
     },
     {
         "id": "de8c0449-d70d-4711-88c9-e31e30f51e90",
@@ -33,12 +118,28 @@
         "vaf_never_display_ease_of_use": null
     },
     {
+        "id": "b1460f09-c86b-4480-9618-76155bed0beb",
+        "date": "2025-11-20",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
         "id": "aaf76ac8-aa7e-4959-9a06-6afd382a02dd",
         "date": "2025-11-20",
         "score": 5,
         "scoreText": "5",
         "title": null,
         "text": "fulll best appp for everyone"
+    },
+    {
+        "id": "a9566ee9-4eac-441c-baa0-806b3e277d0b",
+        "date": "2025-11-20",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "it's so good"
     },
     {
         "id": "a7e8a3d1-54c8-426f-95b0-bc850bacfa81",
