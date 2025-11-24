@@ -1,5 +1,71 @@
 [
     {
+        "id": "f1010508-c1c8-41fb-8be2-3f3608f01444",
+        "date": "2025-11-23",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "best in cab service.. recommended"
+    },
+    {
+        "id": "de4a8a8d-5de7-44f9-9464-4f9ca071b780",
+        "date": "2025-11-23",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Only one issue user interface could be better I have not been able to book cab for additional trips which has made me to book rapido",
+        "vaf_never_display_ease_of_use": null,
+        "vaf_never_display_ads_experience": null
+    },
+    {
+        "id": "c04801fa-5a4b-4783-baf3-20d43f5097b3",
+        "date": "2025-11-23",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "9399ac7f-3c88-43a8-99d7-1dd9bcd95c68",
+        "date": "2025-11-23",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "service is very good"
+    },
+    {
+        "id": "7e72ef8c-ea3b-4199-b421-f58997c4b7ee",
+        "date": "2025-11-23",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good \ud83d\ude0a"
+    },
+    {
+        "id": "51c26e00-a483-4858-8193-195a4155d9af",
+        "date": "2025-11-23",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Very Nice"
+    },
+    {
+        "id": "1c5e61ad-f0f3-4920-bce8-a2c0e8247861",
+        "date": "2025-11-23",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "nice"
+    },
+    {
+        "id": "0559507a-ef87-4838-bac0-28e655cee0d7",
+        "date": "2025-11-23",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "worst app, customer service is pathetic and every time drivers ask you extra.. and customer service get their hands off"
+    },
+    {
         "id": "f74c0eda-3059-4947-bc65-a2cbcca1ee23",
         "date": "2025-11-22",
         "score": 1,
@@ -86,6 +152,17 @@
         "scoreText": "5",
         "title": null,
         "text": "good"
+    },
+    {
+        "id": "0d204ff5-d55a-4cd7-8e54-c4583185cbeb",
+        "date": "2025-11-22",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Final 'Continue' button doesn't even work while login! Basic bug!",
+        "vaf_never_display_inappropriate_ads": 3,
+        "vaf_never_display_visually_bad": 3,
+        "vaf_never_display_useful_notifications": 2
     },
     {
         "id": "eafe9086-2402-489a-a02d-240fb9f140f6",
