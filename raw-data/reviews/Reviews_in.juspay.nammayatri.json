@@ -1,5 +1,136 @@
 [
     {
+        "id": "fea09aad-3e77-41b6-bc75-b239ef1cd199",
+        "date": "2025-11-26",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good service"
+    },
+    {
+        "id": "d91e86b2-07d0-4bb0-a923-9b0dfaa442a7",
+        "date": "2025-11-26",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Almost Every time drops at the wrong location"
+    },
+    {
+        "id": "89f82582-a1bd-4c93-bd18-cbe7bbce47be",
+        "date": "2025-11-26",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "excellent"
+    },
+    {
+        "id": "87d10c25-af59-4cea-b07d-250d3de7d179",
+        "date": "2025-11-26",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "excellent app"
+    },
+    {
+        "id": "790406ec-8c1c-4a2b-92ef-2e67c83f844f",
+        "date": "2025-11-26",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "very bad, cannot report any issues either says loading or just doesn't accept the messages, drivers are very unsafe, puts extra fair and when we file a report the app shuts down, Very very bad experience"
+    },
+    {
+        "id": "6f7b5252-2a7d-4560-8bdd-60ea656493e1",
+        "date": "2025-11-26",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super app"
+    },
+    {
+        "id": "6890aaa2-1dc8-4ba5-aae5-8c97dd2d50da",
+        "date": "2025-11-26",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "62868a1a-3323-4642-9f5f-954467d4d409",
+        "date": "2025-11-26",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "best app for low price ride.. i was Happy"
+    },
+    {
+        "id": "53e8fc85-43df-40f2-ab17-75e3bf8feff9",
+        "date": "2025-11-26",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "no support or customer care. app suddenly increased price my recent trip.I was traveling from my house in BTM Layout to the metro and the distance is 1.1 km. However, the app showed a wrong / higher amount. The app was wrongly showing an additional 1.5 km distance traveled, whereas the total distance of the entire trip was less than 1.1 km. The driver also confirmed that we did not travel more, but still the app no support from customer care. the app doesn't take the request at all.",
+        "vaf_never_display_ease_of_use": null,
+        "vaf_never_display_ads_experience": null
+    },
+    {
+        "id": "517caa9f-c82e-4e5b-bdbd-9be7f3e8e16f",
+        "date": "2025-11-26",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "while canceling the ride, it denies?!! says \"driver assignment in progress,\" though it won't be assigned even after 5 mins. If I want it to be canceled, then it has to be canceled.",
+        "vaf_never_display_ease_of_use": null
+    },
+    {
+        "id": "43a6d764-51e6-4a63-8435-a9e39f2fd2cb",
+        "date": "2025-11-26",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice \ud83d\udc4d"
+    },
+    {
+        "id": "42b9fa65-acf6-4fa2-bada-c17dcedf65d2",
+        "date": "2025-11-26",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "40ea49f2-ea37-4b8c-ab00-977d6d885739",
+        "date": "2025-11-26",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good nice drive"
+    },
+    {
+        "id": "3b330955-8d6b-4009-8792-dade5e35188a",
+        "date": "2025-11-26",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "348de5bf-4961-4ed0-aa68-20a01f16bf90",
+        "date": "2025-11-26",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very nice \ud83d\udc4d"
+    },
+    {
+        "id": "119220ef-a722-48b0-9b9e-3372c4d8939a",
+        "date": "2025-11-26",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "it's like tamil nadu India gov very slow but expensive"
+    },
+    {
         "id": "f2eefe73-fed5-449c-8fb7-713f2118adf4",
         "date": "2025-11-25",
         "score": 4,

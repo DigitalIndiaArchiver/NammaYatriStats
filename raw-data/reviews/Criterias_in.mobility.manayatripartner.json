@@ -1,9 +1,11 @@
 {
+    "vaf_never_display_content_language": 2,
+    "vaf_never_display_spend_more_time": 1,
+    "vaf_never_display_app_description": 1,
     "vaf_never_display_ease_of_use": 1,
     "vaf_never_display_ads_experience": 1,
     "vaf_never_display_inappropriate_ads": 2,
     "vaf_never_display_easy_to_use": 1,
     "vaf_never_display_make_you_happy": 1,
-    "vaf_never_display_useful_notifications": 1,
-    "vaf_never_display_content_language": 1
+    "vaf_never_display_useful_notifications": 1
 }

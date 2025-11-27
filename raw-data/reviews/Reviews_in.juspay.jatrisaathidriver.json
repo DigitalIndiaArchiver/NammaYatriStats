@@ -1,5 +1,26 @@
 [
     {
+        "id": "e29ab9b3-fe61-4084-8356-aac9b2cb65e4",
+        "date": "2025-11-26",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "very badly yatri sathi application I get 2 orders on Yatri Sathi in a day and even if I get another order, it is useless for 1 second. Yatri Sathi application",
+        "vaf_never_display_ease_of_use": null,
+        "vaf_never_display_ads_experience": null
+    },
+    {
+        "id": "4c3f74da-c35c-4432-9a08-bd7542a6e2ce",
+        "date": "2025-11-26",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "not getting new update",
+        "vaf_never_display_spend_more_time": 1,
+        "vaf_never_display_difficult_to_use": 1,
+        "vaf_never_display_content_language": 1
+    },
+    {
         "id": "5c646689-f772-4c72-bdc2-e0f907b7e9cf",
         "date": "2025-11-25",
         "score": 3,
