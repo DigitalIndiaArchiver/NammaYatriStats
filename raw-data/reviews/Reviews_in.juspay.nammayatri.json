@@ -1,5 +1,161 @@
 [
     {
+        "id": "dc7f9acc-7c50-4e0e-bb23-4325297b1660",
+        "date": "2025-11-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice app"
+    },
+    {
+        "id": "db7997c4-f281-46be-8227-c37eeb355150",
+        "date": "2025-11-27",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "This App Does Not Work In Delhi."
+    },
+    {
+        "id": "d98ddaed-e8ea-4ad3-9129-232e6431569d",
+        "date": "2025-11-27",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "don't book one way ride from namma yatri. these people display one rate , all the drivers cancelled ride till ride date and riding time and they are demanding more money for one way trip. your whole plan will be cancelled because of this. don't believe these people and book intercity rides"
+    },
+    {
+        "id": "d8baae8a-985d-42a6-80d4-39ba3631ba27",
+        "date": "2025-11-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "\ud83d\ude0d\ud83e\udd70\ud83d\ude0d\ud83d\ude0d",
+        "vaf_never_display_ads_experience": null,
+        "vaf_never_display_ease_of_use": null
+    },
+    {
+        "id": "beefe327-2033-48ce-9e7d-c5049752b2c5",
+        "date": "2025-11-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good survice"
+    },
+    {
+        "id": "a137f289-fa46-4a35-a760-3b7b2cdeb23c",
+        "date": "2025-11-27",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "why is this map in dark mode and the entire interface in light mode, please make the map go to light mode, it just feels broken"
+    },
+    {
+        "id": "8efe1a84-b7d1-4b72-894a-a220abf23b44",
+        "date": "2025-11-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "\ud83d\udc8e"
+    },
+    {
+        "id": "8b97725d-5760-4fbc-b105-9ccd6421a8f9",
+        "date": "2025-11-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good"
+    },
+    {
+        "id": "82356790-d501-4d15-a382-ce845f61c668",
+        "date": "2025-11-27",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "Good app"
+    },
+    {
+        "id": "74b76fc2-e17f-4343-807e-2d2ab99d8fed",
+        "date": "2025-11-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "A very good App for the city Rides."
+    },
+    {
+        "id": "693d87ab-39a6-47b1-b6dd-e5d696edb7e0",
+        "date": "2025-11-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good driver"
+    },
+    {
+        "id": "687dbb6a-f299-4113-8f94-930c4bda6c2b",
+        "date": "2025-11-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "easy, accessible, affordable, reliable"
+    },
+    {
+        "id": "6462cedb-8449-4e98-84c5-7794cf6baaa1",
+        "date": "2025-11-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Iam happy so comfortable with auto driver"
+    },
+    {
+        "id": "5c88dc0f-2e57-466d-b81c-8b9a49f3887c",
+        "date": "2025-11-27",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "in my opinion these people are overpriced. 2 days back also I tried to book at night, uber was showing almost half the price what namma yatri wash showing, i saw in multiple occasions that namma yatri is overpriced than other app."
+    },
+    {
+        "id": "4a175563-c318-4d31-9edb-5814d4b13359",
+        "date": "2025-11-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice"
+    },
+    {
+        "id": "3df34acf-7740-431b-96c1-2f041c0ab8b8",
+        "date": "2025-11-27",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good",
+        "vaf_never_display_app_description": 3,
+        "vaf_never_display_positive_impact": 3
+    },
+    {
+        "id": "0c8d23df-c600-4b2e-b655-2fc111f63d6d",
+        "date": "2025-11-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good app"
+    },
+    {
+        "id": "087c29cb-11cc-48b3-8bcd-ec24c438fdce",
+        "date": "2025-11-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super"
+    },
+    {
+        "id": "03617bbc-5ecb-448c-9857-069e63a04c1c",
+        "date": "2025-11-27",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "Drivers are asking for more. additional charges of appx 200. Happened with 3 drivers."
+    },
+    {
         "id": "fea09aad-3e77-41b6-bc75-b239ef1cd199",
         "date": "2025-11-26",
         "score": 5,
