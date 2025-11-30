@@ -1,5 +1,156 @@
 [
     {
+        "id": "fa8a9a39-648e-432d-a9a1-5e0e2842e4c6",
+        "date": "2025-11-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "excellent"
+    },
+    {
+        "id": "f827cb3d-5125-4b89-a310-4ba78dc5fc3f",
+        "date": "2025-11-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good app"
+    },
+    {
+        "id": "e6ce30fa-14be-4447-9231-f7a503667877",
+        "date": "2025-11-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "it's very good app"
+    },
+    {
+        "id": "cbaf2e4d-d1a1-4868-8305-665894642915",
+        "date": "2025-11-29",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "third rate app now, it used to be good earlier. Now it books me a driver EVEN AFTER I EXPLICITLY CANCEL A REQUEST due to no one accepting a ride, and does not even update the GUI to let me know that a driver is coming. The drivers come and then fight with me for no fault of mine or theirs! This has happened so many times! They really have a lot of critical UI bugs to fix. And I have not had any positive experience with their online customer service so far.",
+        "vaf_never_display_negative_ads_impact": 1,
+        "vaf_never_display_considerate_of_time": 2
+    },
+    {
+        "id": "b13d2fd3-6b2c-4542-8a11-816d5239223f",
+        "date": "2025-11-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super"
+    },
+    {
+        "id": "af96475d-653c-4253-b2a8-d7efdd9f27a0",
+        "date": "2025-11-29",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Initially it was good but now it is similar to other similar apps like uber, ola and rapido. Even worse now, atleast in other apps all locations are allowed but in namma yatri even all the locations not allowed",
+        "vaf_never_display_meet_expectations": 2,
+        "vaf_never_display_easy_to_use": 2,
+        "vaf_never_display_inappropriate_ads": 3
+    },
+    {
+        "id": "a7324fd8-e133-4c36-aa65-9c1e1e908b91",
+        "date": "2025-11-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "fast conforming"
+    },
+    {
+        "id": "a579a9d5-614b-43d5-832c-2f992e348705",
+        "date": "2025-11-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good \ud83d\udc4d"
+    },
+    {
+        "id": "a2169e2d-d0b9-4ab6-a1e7-b637e974f71e",
+        "date": "2025-11-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "too much rate"
+    },
+    {
+        "id": "9c49b61d-2952-4efa-8766-35fa1cb02125",
+        "date": "2025-11-29",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Cab drivers in Chennai are still greedy. why would they register in this app if namma yatri's ad \"boasts\" the drivers never ask extra? these are beggars in drivers disguise. shame on them for such unethical practices. please don't install this app if you want to depend on it. go by uber other aggregators because they have better standards. what else can you expect from a government backed app ?Customer exploitation is their motto. goons to the core",
+        "vaf_never_display_ads_experience": null,
+        "vaf_never_display_ease_of_use": null
+    },
+    {
+        "id": "7b4c59b6-d194-4888-acfe-cd90eba952ad",
+        "date": "2025-11-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice good"
+    },
+    {
+        "id": "540241cf-5c5b-45d9-b5c7-45fa062375c5",
+        "date": "2025-11-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Great app, very good in Ernakulam location"
+    },
+    {
+        "id": "42dde467-12e5-4248-a35f-2e467579dfdd",
+        "date": "2025-11-29",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "3b42d508-c575-494b-92e6-2dd8d78dc690",
+        "date": "2025-11-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good \ud83d\udc4d"
+    },
+    {
+        "id": "1ace5293-b397-4d3e-b9fc-e527abf36b97",
+        "date": "2025-11-29",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Worst app. Driver will charge extra fare and customer support also not responding"
+    },
+    {
+        "id": "0f8c4380-cf1f-4afc-9e89-3ed2e1197ead",
+        "date": "2025-11-29",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "I booked metro ticket amount debited but it's showing you don't have any active tickets"
+    },
+    {
+        "id": "07cc5eec-c368-418f-a718-6473d9b76c10",
+        "date": "2025-11-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "ffed9612-9466-43d2-8e20-da660b22b172",
+        "date": "2025-11-28",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "awesome"
+    },
+    {
         "id": "fce2ece5-9e01-45bf-88f6-c0de48362c32",
         "date": "2025-11-28",
         "score": 5,
