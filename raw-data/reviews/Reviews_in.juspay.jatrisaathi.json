@@ -1,5 +1,104 @@
 [
     {
+        "id": "de99803f-b01a-49b4-a811-77a87adc5017",
+        "date": "2025-11-30",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "very bad service... extra money paid....",
+        "vaf_never_display_difficult_to_use": 2,
+        "vaf_never_display_inappropriate_ads": 1,
+        "vaf_never_display_visually_good": 2
+    },
+    {
+        "id": "d87080e2-4a2e-40f8-8a84-39580c627b97",
+        "date": "2025-11-30",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "81f3bb28-4e6d-4bea-a832-9e1be7c7c815",
+        "date": "2025-11-30",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Awesome experience"
+    },
+    {
+        "id": "77c71259-c256-4f69-9541-385fb0d60b70",
+        "date": "2025-11-30",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good \ud83d\udcaf"
+    },
+    {
+        "id": "480ae59c-a1dd-42cd-849c-0b810603c914",
+        "date": "2025-11-30",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "pickup takes more time after otp generation."
+    },
+    {
+        "id": "354aa4e0-557b-444a-a1a8-4ec7085d1bb4",
+        "date": "2025-11-30",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "ok"
+    },
+    {
+        "id": "316bf737-2b67-4f5f-92a6-6ab302cb2a98",
+        "date": "2025-11-30",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice one to travel in Kolkata"
+    },
+    {
+        "id": "307a0a52-0b26-421e-a5ba-63347d169bae",
+        "date": "2025-11-30",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "27afb5c9-c9cd-4122-be5f-734c6e68d301",
+        "date": "2025-11-30",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "Good service, but lack of availibilty of vehicle."
+    },
+    {
+        "id": "2671028c-9645-4333-9124-7eac61a0aa65",
+        "date": "2025-11-30",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice ride"
+    },
+    {
+        "id": "23d1ede4-7e2c-49c1-8af4-b31e85a287cf",
+        "date": "2025-11-30",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Yatri Sathi provides a good deal."
+    },
+    {
+        "id": "ed0f75b9-cad1-4daf-a1d7-0ccc86825ba5",
+        "date": "2025-11-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
         "id": "d50a8693-04fa-4f0a-9698-e572171564d0",
         "date": "2025-11-29",
         "score": 5,
