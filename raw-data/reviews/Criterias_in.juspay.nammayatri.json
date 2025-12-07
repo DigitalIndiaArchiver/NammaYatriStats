@@ -1,11 +1,11 @@
 {
+    "vaf_never_display_ads_experience": 338,
+    "vaf_never_display_ease_of_use": 368,
     "vaf_never_display_meet_expectations": 26,
     "vaf_never_display_visually_bad": 37,
     "vaf_never_display_deceptive_ads": 32,
     "vaf_never_display_visually_good": 31,
     "vaf_never_display_inappropriate_ads": 26,
-    "vaf_never_display_ease_of_use": 367,
-    "vaf_never_display_ads_experience": 336,
     "vaf_never_display_easy_to_use": 30,
     "vaf_never_display_useful_notifications": 25,
     "vaf_never_display_difficult_to_use": 37,
