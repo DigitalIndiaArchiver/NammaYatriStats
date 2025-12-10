@@ -1,5 +1,65 @@
 [
     {
+        "id": "f13b1ab0-9339-4d8f-9c4a-13a035702d6f",
+        "date": "2025-12-09",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super"
+    },
+    {
+        "id": "b3796559-7f36-4af9-904a-229fe9db3053",
+        "date": "2025-12-09",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "got cab without much delay., no bargaining from driver side which is common in other app drivers"
+    },
+    {
+        "id": "9f6e9602-0bb1-4d79-9ca9-59bf577359cd",
+        "date": "2025-12-09",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "the worst cab service in bangalore. drivers are goons. the application has the worst grievance redressal system. not recommended at all.",
+        "vaf_never_display_ads_experience": null,
+        "vaf_never_display_ease_of_use": null
+    },
+    {
+        "id": "78609bfc-aa66-4ff2-98f1-5f3bda8e2fd8",
+        "date": "2025-12-09",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super",
+        "vaf_never_display_app_description": 1,
+        "vaf_never_display_deceptive_ads": 1
+    },
+    {
+        "id": "6a1b41ab-39a5-4e55-86f3-416742760e61",
+        "date": "2025-12-09",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "First of all app doesn't show correct amount, it will show some range with lower and higher prices, but always end up paying higher prices always, above this idiot Drivers are charging more than app shown amount showing some screen shot govt announces 24/kms, and start fighting with customers, when we ask them they will tell to contact Namma yatri customer case and I raised the issue and no response from Namma Yatri team. I don't recommend this app at all. I'm native Kannadiga and I'm not Happy"
+    },
+    {
+        "id": "6203e717-91ee-4717-a528-9e8b55cdbd86",
+        "date": "2025-12-09",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good namma yatri"
+    },
+    {
+        "id": "4e7b3971-b0a0-48f0-aabc-1c6b57fb2577",
+        "date": "2025-12-09",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "rate high ,pasia high,"
+    },
+    {
         "id": "c805dbe8-2464-4b0d-9cff-c264030274f4",
         "date": "2025-12-08",
         "score": 2,
@@ -14,6 +74,14 @@
         "scoreText": "5",
         "title": null,
         "text": "thank you \ud83d\ude4f Namma Yatri n Driver Chakala Naresh ji"
+    },
+    {
+        "id": "c3479f06-87b6-48f6-aabb-a8be52bf048a",
+        "date": "2025-12-08",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good app"
     },
     {
         "id": "b9af371c-a118-4f7d-b025-99ed2c12f281",
@@ -89,6 +157,14 @@
         "scoreText": "5",
         "title": null,
         "text": "good fare charges no negotiate"
+    },
+    {
+        "id": "12f7847f-8bb5-4192-8de6-bc92128b1a36",
+        "date": "2025-12-08",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Easy to use, no extra charges just the perfect app for a Booking a ride"
     },
     {
         "id": "fedd6b29-9eca-44a7-8d3f-06aaa612a68f",
