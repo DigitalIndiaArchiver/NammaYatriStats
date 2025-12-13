@@ -1,5 +1,152 @@
 [
     {
+        "id": "d22ff67d-471c-45ad-af37-192c87308798",
+        "date": "2025-12-12",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "the app has no feedback on user interaction.. I don't understand this at all. I click on the refresh button, there is no change not even a scale down to at least show that it was clicked. your yellow metro line timing is off by a lot. maybe don't show \"live\" if it was not even real in the first place. maybe you need to have a serious talk with both your ui dev and the backend guy. also nobody calls it \"source\" destination .. is it so bad to use everyday common terms like \"from\" \"to\" ?"
+    },
+    {
+        "id": "c072ef09-839d-4b85-bc29-bdfe5811165d",
+        "date": "2025-12-12",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Fare prices,safe rides,simply awesome\ud83d\udc4c"
+    },
+    {
+        "id": "b7969bb7-dd5f-47d3-9d0b-778d4f50da36",
+        "date": "2025-12-12",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good and fast service thanks for namma yathri"
+    },
+    {
+        "id": "a87bb6eb-66ac-4800-8ab3-8b247ba9f811",
+        "date": "2025-12-12",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "Very nice"
+    },
+    {
+        "id": "a865607b-67e9-40ec-870b-ebebcb7a5ae8",
+        "date": "2025-12-12",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "worst",
+        "vaf_never_display_make_you_happy": 2,
+        "vaf_never_display_difficult_to_use": 2,
+        "vaf_never_display_deceptive_ads": 2
+    },
+    {
+        "id": "9a306c81-e65a-4fb8-8341-07d78671b2d5",
+        "date": "2025-12-12",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "chargers were too high that too for a small distance I'm never gonna get along with it"
+    },
+    {
+        "id": "90632caa-c208-42b2-859e-f342123d8114",
+        "date": "2025-12-12",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "give some offers"
+    },
+    {
+        "id": "725896bc-c2eb-4bbf-9232-e1fe861ec0cf",
+        "date": "2025-12-12",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "6d108cef-9e51-4f6b-9e4e-2889f7bbd7db",
+        "date": "2025-12-12",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "\ud83d\udcaf"
+    },
+    {
+        "id": "5db7f1dc-bd84-4490-9371-2895c81c1378",
+        "date": "2025-12-12",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good \ud83d\udc4d"
+    },
+    {
+        "id": "3febe441-8d6f-4898-a5fe-405878058d33",
+        "date": "2025-12-12",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "comes when searched namma metro... scammers"
+    },
+    {
+        "id": "3dce7175-8dbe-4548-8664-93f7b6a221a0",
+        "date": "2025-12-12",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "3-4 autos cancelled on me after coming 200m close to my location . and this happens almost all the time I try to use it . and I've been waiting for over an hour . and the management of this app is ABSOLUTELY RIDICULOUS."
+    },
+    {
+        "id": "2f794024-9733-45d1-9402-131fa9acef99",
+        "date": "2025-12-12",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super \ud83d\udcaf \ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25"
+    },
+    {
+        "id": "188568c6-c1f8-4288-95fd-fdd43eaf03e9",
+        "date": "2025-12-12",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "16a0961a-156b-4603-baa4-6437dca28149",
+        "date": "2025-12-12",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good services by Namma Yatri App. \ud83d\udc4d"
+    },
+    {
+        "id": "107ca1b7-1ed5-46d7-acf2-63e43decd7b8",
+        "date": "2025-12-12",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good service"
+    },
+    {
+        "id": "05b419a7-900a-41be-8830-40725ac76733",
+        "date": "2025-12-12",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super"
+    },
+    {
+        "id": "03de758c-4c73-405e-9a74-8bd94f8b4d43",
+        "date": "2025-12-12",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good service"
+    },
+    {
         "id": "ffc2b1d0-3313-4f77-a760-c6c8b591d562",
         "date": "2025-12-11",
         "score": 1,
