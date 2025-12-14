@@ -1,5 +1,152 @@
 [
     {
+        "id": "ff8d485f-4007-41e0-a1b9-2929f9c49298",
+        "date": "2025-12-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "ed0d0470-28da-4cd6-a06a-eca80f5a9a85",
+        "date": "2025-12-13",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "Good \ud83d\ude0a\ud83d\udc4d"
+    },
+    {
+        "id": "dd20af22-42be-4eec-8b56-4890a8a37731",
+        "date": "2025-12-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good"
+    },
+    {
+        "id": "d839e06c-6575-444d-b12a-58b24886a511",
+        "date": "2025-12-13",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "it's cheated,when I booked it's shown me 65 rupees when reached on my place it's showing 80 rupees \ud83d\ude21"
+    },
+    {
+        "id": "d3548cde-6149-4469-a95a-40b13725faa0",
+        "date": "2025-12-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "ok"
+    },
+    {
+        "id": "c615f5c7-1016-4dfc-8d03-731d01524688",
+        "date": "2025-12-13",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "While the application is useful, there's a serious flaw in how waiting time is calculated. I've noticed drivers start the waiting time counter when they are still 5-10 minutes away from the pickup location. This misuse of the system forces customers to pay an unwarranted extra fee. This loophole needs to be closed to ensure fair billing."
+    },
+    {
+        "id": "b9bff70a-7d7a-499f-9daa-8b7f1cc2375a",
+        "date": "2025-12-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "\u0ca8\u0cc8\u0cb8\u0ccd \u0ca1\u0ccd\u0cb0\u0cc8\u0cb5\u0cbf\u0c82\u0c97\u0ccd"
+    },
+    {
+        "id": "ae0d5a96-2a37-430a-a7ee-3a1c1a87ef16",
+        "date": "2025-12-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "He was a good driver"
+    },
+    {
+        "id": "a95df997-3d83-4bd2-be94-612844b424bd",
+        "date": "2025-12-13",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Routinely charged toll when toll roads not taken. Impossible to get support; tickets closed without any discussion or communication, forget about resolution.",
+        "vaf_never_display_meet_expectations": 2,
+        "vaf_never_display_visually_good": 2,
+        "vaf_never_display_negative_ads_impact": 3
+    },
+    {
+        "id": "92c0cddb-7bce-43ba-9759-e6874c1c3f11",
+        "date": "2025-12-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "ok"
+    },
+    {
+        "id": "888a4e46-e552-47e9-b610-d326cb9fbc6f",
+        "date": "2025-12-13",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "super"
+    },
+    {
+        "id": "5a4cd00e-c3b1-4441-a6db-55db2b9e7403",
+        "date": "2025-12-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Always on-time pickups and reasonable fare trip charges."
+    },
+    {
+        "id": "37df10c5-9be5-4175-b8f5-443ccf5c1ffe",
+        "date": "2025-12-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Reliable"
+    },
+    {
+        "id": "2fdc2dc6-5eb6-43c3-9e7a-004415ea2313",
+        "date": "2025-12-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good service"
+    },
+    {
+        "id": "2ee79e58-d9f4-4e4b-9c18-7b936ef05a7b",
+        "date": "2025-12-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good \ud83d\udc4d"
+    },
+    {
+        "id": "2ed60a66-73ec-4070-9910-2a7461b35067",
+        "date": "2025-12-13",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "very bad experience faced \ud83d\ude15 on ride today. I was behind the auto and waiting for the driver as he was turning the auto. mean time 2 ppl were coming and they have asked whether he can take them to drop. he immediately cancelled my ride and he took them to drop. He didn't eve care for me and showe some attitude as supposed to reach the office and login on time. as usually drivers won't accept the ride during weekends and they demand for more money. even after adding a tip he cancelled the ride."
+    },
+    {
+        "id": "14002235-37c6-4ac6-8e84-d9be57f39697",
+        "date": "2025-12-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good"
+    },
+    {
+        "id": "e1948e9b-3190-42d5-8681-54c43707ff1f",
+        "date": "2025-12-12",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "value for money"
+    },
+    {
         "id": "d22ff67d-471c-45ad-af37-192c87308798",
         "date": "2025-12-12",
         "score": 2,
