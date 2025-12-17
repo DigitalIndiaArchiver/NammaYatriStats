@@ -1,5 +1,256 @@
 [
     {
+        "id": "fa0a33d5-d656-49f5-9a4e-154626124e34",
+        "date": "2025-12-16",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "In mobile data, always say unable to fetch the latest ride details."
+    },
+    {
+        "id": "dea5e3ac-457d-482c-9ff7-1bce7ee3323a",
+        "date": "2025-12-16",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Always take the wrong pickup location. Also take opposite side of the road as location. How people have to cross highway and need to meet driver. pathetic"
+    },
+    {
+        "id": "9b644ce3-edb1-4f1b-b178-7a684b8e479c",
+        "date": "2025-12-16",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "polite driver"
+    },
+    {
+        "id": "90606c33-be3c-49d1-b728-76f21ba379a8",
+        "date": "2025-12-16",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good and best price"
+    },
+    {
+        "id": "8573d76f-0234-4308-9c19-8ea255ffb19b",
+        "date": "2025-12-16",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super"
+    },
+    {
+        "id": "80729c20-1e08-46a8-8089-14e30e5879a9",
+        "date": "2025-12-16",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "Though service is good I have issues with app: - Advertisement on notification. I gave acces for ride related NOT for advert which you send on same channel and cannot be blocked. (Reason enough for me to uninstall) - No credit card payment option. Edit after 4 months: Tried again, but still getting same notification adverts, nothing changed, even though 'concern was noted'"
+    },
+    {
+        "id": "7e3f3c10-7dbc-4136-82e4-657bb4c0df62",
+        "date": "2025-12-16",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very nice"
+    },
+    {
+        "id": "7698aecc-03e8-4546-a75d-1ca9c0a851f5",
+        "date": "2025-12-16",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "ok"
+    },
+    {
+        "id": "710fde5e-bf18-4b9d-b4ed-67d960eba985",
+        "date": "2025-12-16",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Smart Driver Hai \ud83e\udee1"
+    },
+    {
+        "id": "6df7dfe5-5112-4c65-9e0e-38d9a8e09ddd",
+        "date": "2025-12-16",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice"
+    },
+    {
+        "id": "62bf6620-18e7-46d4-aa05-f8807f48ad4a",
+        "date": "2025-12-16",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "yes surely will tell"
+    },
+    {
+        "id": "59818667-b756-4ab6-b485-899ba16999d0",
+        "date": "2025-12-16",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "high fare than other travel application"
+    },
+    {
+        "id": "4b7d54d5-71f2-43c3-a831-bf01c532aab4",
+        "date": "2025-12-16",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "ok"
+    },
+    {
+        "id": "35e4aa22-a679-4ef9-88e1-a34729c71caa",
+        "date": "2025-12-16",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "\u0ca8\u0cae\u0ccd\u0cae \u0caf\u0cbe\u0ca4\u0ccd\u0cb0\u0cc6 \u0c86\u0caa\u0ccd \u0ca4\u0cc1\u0c82\u0cac\u0cbe \u0c92\u0cb3\u0ccd\u0cb3\u0cc6\u0caf\u0ca6\u0cc1 \u0ca8\u0cae\u0c97\u0cc6 \u0ca4\u0cc1\u0c82\u0cac\u0cbe \u0c89\u0caa\u0caf\u0ccb\u0c97 \u0c86\u0c97\u0cc1\u0ca4\u0ccd\u0ca4\u0cbf\u0ca6\u0cc6 \u0ca7\u0ca8\u0ccd\u0caf\u0cb5\u0cbe\u0ca6\u0c97\u0cb3\u0cc1"
+    },
+    {
+        "id": "243516db-930d-46b5-bfd7-d3002e8a7a49",
+        "date": "2025-12-16",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "Even though your policy says that the drivers won't demand extra money, there are quite a few drivers who demand extra money. please correct this situation since it is damaging the image of this company.",
+        "vaf_never_display_deceptive_ads": 2,
+        "vaf_never_display_positive_impact": 1,
+        "vaf_never_display_easy_to_use": 1
+    },
+    {
+        "id": "f2e650fa-18ad-4169-ac4c-815d8fa62a83",
+        "date": "2025-12-15",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good service"
+    },
+    {
+        "id": "de1d5ca5-dcdb-43e3-868e-7383db475658",
+        "date": "2025-12-15",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "worst app. driver's almost ask double price for Mysore and bangalore drops. simply they accept ride waste customer time. cancel option resons also not there to complaint drivers"
+    },
+    {
+        "id": "d2cefcb8-d365-499e-919f-e683104ba5bd",
+        "date": "2025-12-15",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "removed the trust quote from the app and now showing the amount like 170-200 in normal time"
+    },
+    {
+        "id": "c5ccddb4-8ff4-4ee8-9021-acca97d6bb1a",
+        "date": "2025-12-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good \ud83d\udc4d\ud83d\udc4d"
+    },
+    {
+        "id": "ac922a20-12d7-4b52-b189-1ec90467dea9",
+        "date": "2025-12-15",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "rate is higher than ola rate"
+    },
+    {
+        "id": "84f988a3-1b78-4ea7-bd8f-17c3c9261d41",
+        "date": "2025-12-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super ride"
+    },
+    {
+        "id": "6d4fa749-f565-4c62-8519-f2439dbe7817",
+        "date": "2025-12-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good service. keep it up."
+    },
+    {
+        "id": "4d8fcad1-df50-46e2-8a66-a8b186ed347b",
+        "date": "2025-12-15",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "rides are loading from 2 days but not showing rides."
+    },
+    {
+        "id": "47cf9ae2-d8cd-4b3f-a379-406d52d12b2e",
+        "date": "2025-12-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "fair price"
+    },
+    {
+        "id": "45ab8d5a-bf3b-49f4-be3a-db86eca9608b",
+        "date": "2025-12-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very very so nice"
+    },
+    {
+        "id": "3e1f00b3-a9de-433f-84a6-d46caabcc7e0",
+        "date": "2025-12-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "helpful"
+    },
+    {
+        "id": "39d1f3be-8926-461a-bd72-7acd65e23433",
+        "date": "2025-12-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very Best app good service no 1 app in india"
+    },
+    {
+        "id": "34bd5c0d-f9d1-4480-8721-9eba02f93371",
+        "date": "2025-12-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good"
+    },
+    {
+        "id": "21d57f33-bd95-42ab-b1b8-a5415e379962",
+        "date": "2025-12-15",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "drivers scam"
+    },
+    {
+        "id": "20e1a005-be17-4228-9033-4fbf21913afa",
+        "date": "2025-12-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good service"
+    },
+    {
+        "id": "1f5c36f2-bf24-4d04-a337-236ad39b18f4",
+        "date": "2025-12-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
         "id": "e04874a4-23ae-478b-9e45-959fb3aecf5d",
         "date": "2025-12-14",
         "score": 5,
@@ -90,6 +341,14 @@
         "scoreText": "5",
         "title": null,
         "text": "good on-time"
+    },
+    {
+        "id": "3aae399f-f1b9-4131-af6a-2e3b2b86f688",
+        "date": "2025-12-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
     },
     {
         "id": "ff8d485f-4007-41e0-a1b9-2929f9c49298",
