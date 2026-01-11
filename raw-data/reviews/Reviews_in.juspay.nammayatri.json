@@ -1,5 +1,290 @@
 [
     {
+        "id": "fa76af13-4a1b-4f05-b0c2-ae60770c9dad",
+        "date": "2026-01-10",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Very nice app economical and best, Professional drivers"
+    },
+    {
+        "id": "dbfc4f6b-8f79-4c0f-98e1-78709c9eedaf",
+        "date": "2026-01-10",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "af88e99b-c6e8-4f4a-9912-9916b3ddb995",
+        "date": "2026-01-10",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "best appa"
+    },
+    {
+        "id": "a10699d8-baea-4233-95a0-deb9616e7170",
+        "date": "2026-01-10",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Excellent App & safety Driver's"
+    },
+    {
+        "id": "9a8b44af-36fa-44d1-9339-28cbc07dec57",
+        "date": "2026-01-10",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good service"
+    },
+    {
+        "id": "941ad4d2-db9f-4c7d-8a0f-772972c31fb1",
+        "date": "2026-01-10",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "9131874d-7e37-46b3-af42-b0274f0d7159",
+        "date": "2026-01-10",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super app namma yatri \ud83d\ude4f thanks too and very satisfied"
+    },
+    {
+        "id": "90347e27-469b-4d3d-8ef3-738229dbabe9",
+        "date": "2026-01-10",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "showing wrong pickup location and dropping location"
+    },
+    {
+        "id": "79149897-8321-4c7f-8dec-e8bbef9fa688",
+        "date": "2026-01-10",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Useless app ever seen Not even able to cancel a ride"
+    },
+    {
+        "id": "712a4549-9477-48ee-8dbe-3683311ee65a",
+        "date": "2026-01-10",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Best App based service in Bangalore"
+    },
+    {
+        "id": "439afb71-9463-4cbe-afe3-e14b69f8e3f2",
+        "date": "2026-01-10",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "feature request: send images to driver in chat to share maps when driver has trouble finding pickup location",
+        "vaf_never_display_ads_experience": null,
+        "vaf_never_display_ease_of_use": null
+    },
+    {
+        "id": "4346dab9-7f30-4c5f-bc61-9d54bc5425ed",
+        "date": "2026-01-10",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "mokka"
+    },
+    {
+        "id": "41e582cf-747a-41cc-a79d-f3b3fd8cb391",
+        "date": "2026-01-10",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "polite driver, moderate n safe speed, good control, not sure about the fairness of fare, maybe it is fair (My first trip)."
+    },
+    {
+        "id": "27c93605-5e8a-40f7-9ae9-ec7052f2d1bc",
+        "date": "2026-01-10",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "bakwas hai sab"
+    },
+    {
+        "id": "03a03a3a-ebae-44ac-b4fc-6c100772611c",
+        "date": "2026-01-10",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "wrost not accept ride",
+        "vaf_never_display_easy_to_use": 2,
+        "vaf_never_display_content_language": 1,
+        "vaf_never_display_make_you_happy": 2
+    },
+    {
+        "id": "d4cab93a-cbcf-4bd0-9eee-875dc61f8cad",
+        "date": "2026-01-09",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "best service"
+    },
+    {
+        "id": "d485ac04-2f01-4a1b-9d31-3020e07aa20f",
+        "date": "2026-01-09",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very professional driving app"
+    },
+    {
+        "id": "cc0a6fd3-9b36-4f52-a2e9-6e215e26d556",
+        "date": "2026-01-09",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "best"
+    },
+    {
+        "id": "c03e1bb9-9294-49d0-99ae-5abbbcfda059",
+        "date": "2026-01-09",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "the most worst app.drivers are very arguing,even charging extra every time,and dis locating the places in map.i had bad experience each and every time I used it.",
+        "vaf_never_display_ads_experience": null,
+        "vaf_never_display_ease_of_use": null
+    },
+    {
+        "id": "bd0c24a0-6fca-4529-848a-344c840a7ac0",
+        "date": "2026-01-09",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "thanks for the quick response"
+    },
+    {
+        "id": "a742ed2c-4667-4761-be66-e5dfd11bcf20",
+        "date": "2026-01-09",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Thank you"
+    },
+    {
+        "id": "a303e33a-55c9-4d6e-80a4-35f52d12fa5a",
+        "date": "2026-01-09",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good"
+    },
+    {
+        "id": "8d1a205f-e4ae-4de7-929e-6d228dda8acf",
+        "date": "2026-01-09",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "This app is not safety because they sharing our location to third-partys"
+    },
+    {
+        "id": "75714006-aeee-486a-bfeb-08cc785ffef4",
+        "date": "2026-01-09",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "another name of yatri sathi app. found out practically.",
+        "vaf_never_display_deceptive_ads": 3,
+        "vaf_never_display_easy_to_use": 3
+    },
+    {
+        "id": "6d5f03ee-c7ce-405c-a747-c34380a7f80c",
+        "date": "2026-01-09",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "55d7747f-adbd-423c-b152-40f3adffe55d",
+        "date": "2026-01-09",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good service"
+    },
+    {
+        "id": "459bfa6d-b34b-4c97-8694-ad2a50e97f4a",
+        "date": "2026-01-09",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good",
+        "vaf_never_display_ease_of_use": null,
+        "vaf_never_display_ads_experience": null
+    },
+    {
+        "id": "45189ac7-693c-4efc-a02b-17924ec42a69",
+        "date": "2026-01-09",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "should be more better"
+    },
+    {
+        "id": "33444561-d9d2-4eb3-9740-a3cfa459190d",
+        "date": "2026-01-09",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "it is good app"
+    },
+    {
+        "id": "2f92f27c-69d1-42b7-b1c9-5781e7dfa6e6",
+        "date": "2026-01-09",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice \ud83d\udc4d\ud83d\udc4d"
+    },
+    {
+        "id": "2c114b5c-1a9f-425a-89ae-7e4cde5ef025",
+        "date": "2026-01-09",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "easy ride"
+    },
+    {
+        "id": "25fd74e4-8f69-4eff-a244-d91431dc1062",
+        "date": "2026-01-09",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "demands more charges for some area",
+        "vaf_never_display_difficult_to_use": 1,
+        "vaf_never_display_visually_good": 1
+    },
+    {
+        "id": "217ab2b3-9850-49f6-903b-f6318975a86c",
+        "date": "2026-01-09",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "EASY BOOKING"
+    },
+    {
+        "id": "00682511-ca39-4da3-ac3d-6149cc2b479d",
+        "date": "2026-01-09",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Nice and safe drive"
+    },
+    {
         "id": "ddd18db3-c81f-40cf-b3f9-b325dc7ccc56",
         "date": "2026-01-08",
         "score": 5,
@@ -22,6 +307,14 @@
         "scoreText": "1",
         "title": null,
         "text": "Ride with pet is not working - Even when selected the ride gets booked without this option. Your in app support isn't responsive at all, I've raised 3 tickets for the same without any proper response at all. This is a very huge nuisance for a user. Why isn't there any response to support tickets ?"
+    },
+    {
+        "id": "4a5b9971-6f52-4393-9d98-8576102f0c7e",
+        "date": "2026-01-08",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super \ud83d\udc4d"
     },
     {
         "id": "155e5cdb-1d2a-4814-b325-52568599aa33",
