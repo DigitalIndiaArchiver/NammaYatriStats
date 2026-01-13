@@ -1,5 +1,210 @@
 [
     {
+        "id": "fe7dc6b6-7082-4306-9883-b66a5fb02b23",
+        "date": "2026-01-12",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "fd80f309-9833-4532-b68e-6ea12d226743",
+        "date": "2026-01-12",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "e57ec98d-721a-410a-a649-c916aea8c884",
+        "date": "2026-01-12",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Useless app,no drivers accept rides and it doesn't even allow you to cancel booking after searching saying wait,search in progress",
+        "vaf_never_display_content_language": 1,
+        "vaf_never_display_positive_impact": 2,
+        "vaf_never_display_disruptive_ads": 2
+    },
+    {
+        "id": "e332c75d-8132-4044-95c7-79c9fd6fed09",
+        "date": "2026-01-12",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "bda2e0b3-3ec9-409d-97fe-ee1662d7cbe6",
+        "date": "2026-01-12",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Nice app for travel in Bangalore"
+    },
+    {
+        "id": "83394f80-ebe7-4b2c-9d53-833737760cc8",
+        "date": "2026-01-12",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "unable to book metro tickets after the recent update and the train arrival timings differs"
+    },
+    {
+        "id": "61b74a95-25f1-4fcb-a48e-1becb5b8974b",
+        "date": "2026-01-12",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "5a7527a5-8950-41f1-a481-15a449ce9da8",
+        "date": "2026-01-12",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Thank you very much for your service"
+    },
+    {
+        "id": "4dddf9e1-c625-4a86-bed5-75d57b7669b5",
+        "date": "2026-01-12",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "Drivers are pol\u00ecte and respectful"
+    },
+    {
+        "id": "38202b4e-586f-4aa0-9918-4b14e1472846",
+        "date": "2026-01-12",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good service"
+    },
+    {
+        "id": "34f5108a-a7c9-40b0-bfce-90261b2c1f8f",
+        "date": "2026-01-12",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "the drivers just keep circling around and does not come directly to the pick up location. And had charged for cancelation fee even though they are the ones delaying my ride. Had to pay the cancelation fee three time in a row because of this. Worst experience, they could have asked the extra amount instead of wasting our time."
+    },
+    {
+        "id": "1f088531-1541-4cf5-8911-18c3dbaee855",
+        "date": "2026-01-12",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Reliable Service"
+    },
+    {
+        "id": "1ea22570-6550-4550-838f-fb1b19e90da8",
+        "date": "2026-01-12",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "first time travel super and enjoy the ride."
+    },
+    {
+        "id": "0956ae63-2c5a-40dc-9681-31b8f3223392",
+        "date": "2026-01-12",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "06ea6c05-d7e5-4f4a-b516-dfc576381dd0",
+        "date": "2026-01-12",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice"
+    },
+    {
+        "id": "c74723c6-1dd3-4e89-9567-f0835fc5103e",
+        "date": "2026-01-11",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good experience \ud83d\ude03"
+    },
+    {
+        "id": "b1bcb504-880e-462a-b5d4-b897bbbf87fb",
+        "date": "2026-01-11",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "gud"
+    },
+    {
+        "id": "9932c278-48c6-448e-a450-7ae96f11eaca",
+        "date": "2026-01-11",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good \ud83d\udc4d"
+    },
+    {
+        "id": "92ecdc4b-1701-499e-a55c-27af7ed09c25",
+        "date": "2026-01-11",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "6e2bd408-ae8c-48cd-8056-bd05245b1d5d",
+        "date": "2026-01-11",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "pls extend the rides as very less drivers are der in this app... it s very useful for all.."
+    },
+    {
+        "id": "5d493f35-b750-4cba-8dd0-d90cae2d48ce",
+        "date": "2026-01-11",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "great"
+    },
+    {
+        "id": "45ae7888-38e2-4a17-80f9-0fcfff487dd4",
+        "date": "2026-01-11",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "ticket rised nobody respond after 24 hour's. no customer friendly app. no safty.",
+        "vaf_never_display_ease_of_use": null,
+        "vaf_never_display_ads_experience": null
+    },
+    {
+        "id": "24004126-dc97-471d-891f-4efa2b49be26",
+        "date": "2026-01-11",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good app sending autos and cabs on time"
+    },
+    {
+        "id": "1405891a-ed53-435c-89c4-818f9f9f9a38",
+        "date": "2026-01-11",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "excellent"
+    },
+    {
+        "id": "012b4e62-b795-40df-a9d0-0c6c2e8a009e",
+        "date": "2026-01-11",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good service & timely"
+    },
+    {
         "id": "fa76af13-4a1b-4f05-b0c2-ae60770c9dad",
         "date": "2026-01-10",
         "score": 5,
