@@ -1,5 +1,458 @@
 [
     {
+        "id": "ff635ea9-0d5b-4f86-b83c-2e695742b296",
+        "date": "2026-01-13",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "worse app. not working. cannot edit, cancel app. neither make a complaint about a ride issue. soon as I want to upload the image, it crashes. When typing a complaint, cannot see what is being typed. most useless app. not user friendly",
+        "vaf_never_display_considerate_of_time": 2,
+        "vaf_never_display_visually_bad": 2,
+        "vaf_never_display_easy_to_use": 2
+    },
+    {
+        "id": "fedac9f0-9c20-4eba-9a93-4ed93985d1d0",
+        "date": "2026-01-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "fdcbd3cc-bdf1-46ef-b2f5-528069be102f",
+        "date": "2026-01-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Very decent driver"
+    },
+    {
+        "id": "d7059e09-6ccd-467b-a3cd-372ab47cb529",
+        "date": "2026-01-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good"
+    },
+    {
+        "id": "ccc446d0-b134-45e6-b932-c06c325afc45",
+        "date": "2026-01-13",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "okay"
+    },
+    {
+        "id": "c657708d-0f60-4409-9ef2-b5be862ac41b",
+        "date": "2026-01-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very nice"
+    },
+    {
+        "id": "bb92baa8-61ee-4827-8755-79f599c412bb",
+        "date": "2026-01-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "v good \ud83d\udc4d\ud83d\ude0a\ud83d\udc4d\ud83d\ude0a"
+    },
+    {
+        "id": "8cf03511-624b-42c2-a5b5-79274e41f84c",
+        "date": "2026-01-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "AMARNATH IS VERY GOOD DRIVER"
+    },
+    {
+        "id": "8309c673-3e8a-4e88-a6bc-10356f852654",
+        "date": "2026-01-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "5fe47726-63b3-4add-bf74-44c5659400a4",
+        "date": "2026-01-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "All systems are good"
+    },
+    {
+        "id": "5f7a22d9-57eb-4fd1-bb2c-42970e60c9bd",
+        "date": "2026-01-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Well designed. Excellent."
+    },
+    {
+        "id": "5f5c6617-58fb-464c-b264-6055557022c5",
+        "date": "2026-01-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Best App"
+    },
+    {
+        "id": "5c493fe3-7466-4c84-8c9f-3dce0350fb9d",
+        "date": "2026-01-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Excellent \ud83d\udc4d\ud83c\udffe"
+    },
+    {
+        "id": "f45ca814-e622-4e27-979d-1c87d20ad578",
+        "date": "2026-01-12",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "exclent app"
+    },
+    {
+        "id": "e99de9e7-7c3e-44d0-a822-d0ec503ea4f5",
+        "date": "2026-01-12",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "very nice"
+    },
+    {
+        "id": "a86bbb36-87c9-4f37-bc48-4b8a63ea84ee",
+        "date": "2026-01-12",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "ok"
+    },
+    {
+        "id": "9f4d3b43-0dd7-49bc-83e4-d9abc0cc9f95",
+        "date": "2026-01-12",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "897f776b-97ab-48db-8ced-d633e8b67885",
+        "date": "2026-01-12",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good app"
+    },
+    {
+        "id": "7e9c6483-2db1-4fd3-ae68-43be11819036",
+        "date": "2026-01-12",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good yatri sathi"
+    },
+    {
+        "id": "65a438dc-d19e-4ea5-80bf-64afd2d304bc",
+        "date": "2026-01-12",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Worst App, Don't Use It. Drivers Don't Accept Your Request Until You Add Extra Money.",
+        "vaf_never_display_make_you_happy": 2,
+        "vaf_never_display_easy_to_use": 2
+    },
+    {
+        "id": "637e0b0d-32df-409a-8919-a852c053c42b",
+        "date": "2026-01-12",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good"
+    },
+    {
+        "id": "03c91424-191e-4d43-b8a3-ede46606293f",
+        "date": "2026-01-12",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "its full of glitches.. useless.",
+        "vaf_never_display_considerate_of_time": 2
+    },
+    {
+        "id": "ed3afd4b-6b18-4e5e-879d-df21b4cd091b",
+        "date": "2026-01-11",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "Performed satisfactorily and wish widest service in future"
+    },
+    {
+        "id": "ea160c8e-cac7-4d08-86ef-3bec3b0a4e11",
+        "date": "2026-01-11",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "too long to pickup always disappoint"
+    },
+    {
+        "id": "e76cd0bd-003c-4037-8efd-baa1d3d74d11",
+        "date": "2026-01-11",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "d2ef2053-9473-4c98-8cb1-f9f0723bd14a",
+        "date": "2026-01-11",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good"
+    },
+    {
+        "id": "d0603387-443c-4019-9589-1231eb1f9130",
+        "date": "2026-01-11",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good"
+    },
+    {
+        "id": "c82e0a06-eb3e-4470-bae9-8156e04ba3be",
+        "date": "2026-01-11",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "reliable, reasonable"
+    },
+    {
+        "id": "ae5c66b3-ef3f-4c00-88e5-99357e3f2178",
+        "date": "2026-01-11",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Driver are so unprofessional picked up another passenger in front of me",
+        "vaf_never_display_ease_of_use": null,
+        "vaf_never_display_ads_experience": null
+    },
+    {
+        "id": "6c250975-e312-4ce5-8df0-7569f278b800",
+        "date": "2026-01-11",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "smooth ride"
+    },
+    {
+        "id": "3f10a962-fe5c-4d98-a5c8-9515ff5f6fa8",
+        "date": "2026-01-11",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good service"
+    },
+    {
+        "id": "0565b7f5-bd81-41ea-9999-dc4ece752da2",
+        "date": "2026-01-11",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good"
+    },
+    {
+        "id": "0035906f-4372-4df1-b82c-8fd8bbdac70e",
+        "date": "2026-01-11",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "b0662d31-c464-48e7-924d-09f9cb084720",
+        "date": "2026-01-10",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good",
+        "vaf_never_display_ads_experience": null,
+        "vaf_never_display_ease_of_use": null
+    },
+    {
+        "id": "8dbddebb-7281-4a94-a913-e5882dda183c",
+        "date": "2026-01-10",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "o.k"
+    },
+    {
+        "id": "8d6fee9d-6007-47f6-b080-ea9b9cf0206c",
+        "date": "2026-01-10",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice"
+    },
+    {
+        "id": "85e0b52a-7748-43f1-b6cf-8a3fe2013094",
+        "date": "2026-01-10",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good one"
+    },
+    {
+        "id": "6e2bf001-0fac-4944-be4a-16f05a5c792e",
+        "date": "2026-01-10",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "44c173f6-9040-45f5-af90-e200e9f7ff24",
+        "date": "2026-01-10",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Best"
+    },
+    {
+        "id": "2dbde09a-a7e8-4dac-9404-5fa4d95dc8e1",
+        "date": "2026-01-10",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Thank you"
+    },
+    {
+        "id": "12f3f01a-16a8-4418-a829-b0df148433ad",
+        "date": "2026-01-10",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "excellent"
+    },
+    {
+        "id": "fb04102e-cc46-488f-a2ff-583a04bfabdf",
+        "date": "2026-01-09",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good to choose for city and outstation commuting"
+    },
+    {
+        "id": "f94659e4-4f81-4ac9-8b81-8f43b1a46015",
+        "date": "2026-01-09",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "c78978ec-9e30-4cc4-a7ba-f942613b63cf",
+        "date": "2026-01-09",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very nice"
+    },
+    {
+        "id": "a2dc8493-06ca-4b3b-ab72-dce59843a7e6",
+        "date": "2026-01-09",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "98174566-7f6d-467d-a147-9dd58e0e4ef4",
+        "date": "2026-01-09",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "rate is going high day by day.....l am going to hospital 3 times a week....but get no discount \ud83d\ude14\ud83d\ude14"
+    },
+    {
+        "id": "8bed4c9e-b7eb-4ae7-91c9-685cb1b20adc",
+        "date": "2026-01-09",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "ok"
+    },
+    {
+        "id": "4e092371-e3b0-4d50-92ae-28557884cb88",
+        "date": "2026-01-09",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "My Father was admitted to hospital, I was traveling to Kolkata from Bangalore. I booked a cab from Kolkata Airport to the directly to the hospital. Fair was 549. When I reached hospital the Driver asked me the pay extra 100rs for Airport Parking. I was in hurry so I had to fulfill the nonsense demand. But it shows the both City Culture. mindset are so narrow, cheap that they can do fraud anywhere. I feel ashamed. When I try to report the incident to Yaatri Sathi the app is not working.",
+        "vaf_never_display_difficult_to_use": 1,
+        "vaf_never_display_positive_impact": 2
+    },
+    {
+        "id": "edbd0d7a-3940-4231-a745-2e688b2cd0d1",
+        "date": "2026-01-08",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good service"
+    },
+    {
+        "id": "cb8a38ec-17dd-474e-8bea-9fb7ec92321f",
+        "date": "2026-01-08",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Whenever I book, no ride gets booked, they make me wait a lot but it does not get booked, I had a very bad experience yatri sathi."
+    },
+    {
+        "id": "c2cc5c40-2975-44b8-8c8d-e5ae3bcafe23",
+        "date": "2026-01-08",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "why are the no of Bihari Drivers more than Bong Drivers for Yatrisathi? this creates disparity among the un employed local crowd.",
+        "vaf_never_display_content_language": 1
+    },
+    {
+        "id": "bdd0e317-4c52-456b-8c54-4096cb8d6574",
+        "date": "2026-01-08",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good service"
+    },
+    {
+        "id": "8f602327-18df-4a2c-bd84-70db4e956c5b",
+        "date": "2026-01-08",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "well done"
+    },
+    {
+        "id": "6f12f290-41f0-42dd-9a1c-940b683ce10f",
+        "date": "2026-01-08",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good service \ud83d\udc4d"
+    },
+    {
+        "id": "2e89a44d-0ad3-4b2d-b61f-6f76e6287db7",
+        "date": "2026-01-08",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good"
+    },
+    {
         "id": "f99f04fe-7f2a-4331-a047-435af810f321",
         "date": "2025-12-01",
         "score": 5,
