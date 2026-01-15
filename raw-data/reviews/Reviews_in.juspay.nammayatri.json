@@ -1,5 +1,170 @@
 [
     {
+        "id": "e36b12fb-5134-4a9d-8fd3-83aff460b763",
+        "date": "2026-01-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good app"
+    },
+    {
+        "id": "ca8fe9c3-04cf-4889-a184-4b4b4c339223",
+        "date": "2026-01-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "excellent",
+        "vaf_never_display_visually_good": 1,
+        "vaf_never_display_negative_ads_impact": 1,
+        "vaf_never_display_make_you_happy": 1
+    },
+    {
+        "id": "c23aeb9d-576f-40af-a227-6a25496c75ec",
+        "date": "2026-01-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very very good"
+    },
+    {
+        "id": "a6160620-54e5-4515-a2ce-0cf602637816",
+        "date": "2026-01-14",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "City fare not give the company bigg froud company Karnataka",
+        "vaf_never_display_ease_of_use": null,
+        "vaf_never_display_ads_experience": null
+    },
+    {
+        "id": "90ea0f05-7d60-4d06-bfdf-93d3528bb5ca",
+        "date": "2026-01-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "User friendly app. Drivers education is required in some routes as they were not frequent riders."
+    },
+    {
+        "id": "84c53752-8625-4c94-a3af-160ece6a2154",
+        "date": "2026-01-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "bahut bahut use full hai"
+    },
+    {
+        "id": "848ad799-6853-4f48-b32f-3cde3e106a10",
+        "date": "2026-01-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good clean vehicle, well behaved driver, on time arrival."
+    },
+    {
+        "id": "6c4e4dee-b2f9-45a4-a105-48d365a4f8c3",
+        "date": "2026-01-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "65075b21-f20a-4ed9-86b4-fe7e06cf777b",
+        "date": "2026-01-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "passenger centric approach and driver friendly policy makes this vehicle hiring service an enjoyable and relaxing experience transparency in trip fare is appreciated \ud83d\udc4f Namma yatri certainly stands to the name"
+    },
+    {
+        "id": "1a47a7ac-a581-4e7b-b7a3-5d69624dfbe6",
+        "date": "2026-01-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "better then ola its super"
+    },
+    {
+        "id": "152d8af5-1ac9-4e15-9d6a-060aadfd04a7",
+        "date": "2026-01-14",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "app doesnt work properly. it doesnt show active status. UI looks like nothing is happening but we think ride is cancelled but the driver comes to place."
+    },
+    {
+        "id": "0bd4926c-c667-4b7f-abfe-e95bfd1fa169",
+        "date": "2026-01-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "the auto number is not visible in my bookings. only state and rto kA 04 is visible. pl help."
+    },
+    {
+        "id": "08823a70-2121-44bf-9de0-3e4c00464d35",
+        "date": "2026-01-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "passenger friendly"
+    },
+    {
+        "id": "02c348c8-7fa5-435c-abd5-9a6556017e52",
+        "date": "2026-01-14",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "very bad I compiled about the driver he took extra money but still they didn't double payment was done still the driver dint return me and I complain namayatri too but I dint got any response from there too... I am sorry to say this being a women felt very bad. money doesn't easily."
+    },
+    {
+        "id": "d81bc3e6-7e79-4cde-9918-219ad0281c88",
+        "date": "2026-01-13",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Worst Ride Hailing app ever, hidden charges. will be my last option"
+    },
+    {
+        "id": "a34b300a-7059-4f13-8911-f1d6eaedb814",
+        "date": "2026-01-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "a1e92610-e98b-46f3-9467-1a8c9d0fef24",
+        "date": "2026-01-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super ride"
+    },
+    {
+        "id": "7936cf34-08b8-440c-bd51-ac7ff4ef453d",
+        "date": "2026-01-13",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Drivers are not notified when a pet ride is booked"
+    },
+    {
+        "id": "41522d48-fd27-4cc1-9683-e8941b420b67",
+        "date": "2026-01-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "045083d3-62cd-4dd0-a718-03f0d486d96e",
+        "date": "2026-01-13",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "unable to see auto number once ride got booked."
+    },
+    {
         "id": "fe7dc6b6-7082-4306-9883-b66a5fb02b23",
         "date": "2026-01-12",
         "score": 5,
