@@ -1,5 +1,187 @@
 [
     {
+        "id": "e2d79a9a-cccd-47e6-ac29-5cece70eda11",
+        "date": "2026-01-16",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "it's better"
+    },
+    {
+        "id": "a8ae4e7c-4451-4a4e-b4d9-53b46e288cdf",
+        "date": "2026-01-16",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good sarvice"
+    },
+    {
+        "id": "95495485-5d2b-4608-970a-7ed572281abf",
+        "date": "2026-01-16",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "741472c3-2ea5-4639-9085-e6fe275bf74f",
+        "date": "2026-01-16",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "6ab350b3-6154-4a54-946f-3cec5a3411e6",
+        "date": "2026-01-16",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "fantastic app"
+    },
+    {
+        "id": "560d9b18-b7e0-4faf-a222-9101f90fe7e4",
+        "date": "2026-01-16",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "0125475b-4a55-4e6b-9673-49e8aff38253",
+        "date": "2026-01-16",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "orient service fare should reduce for better option make safety for womens"
+    },
+    {
+        "id": "e558d84f-7504-49b8-9977-ba85bf4da39d",
+        "date": "2026-01-15",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "e17f1e74-8435-484f-8aed-f0f33264e26d",
+        "date": "2026-01-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super"
+    },
+    {
+        "id": "e0d478e9-9dda-433a-b321-3b359f4a5129",
+        "date": "2026-01-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Reliable and affordable."
+    },
+    {
+        "id": "d8270c3a-c068-4caa-a59e-268c700a2f07",
+        "date": "2026-01-15",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Worst app",
+        "vaf_never_display_ease_of_use": null,
+        "vaf_never_display_ads_experience": null
+    },
+    {
+        "id": "d60197af-1108-4cba-b80d-6ec6e3419731",
+        "date": "2026-01-15",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good service"
+    },
+    {
+        "id": "d577a17b-0e82-4fef-bc30-b74204273836",
+        "date": "2026-01-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "safe journey"
+    },
+    {
+        "id": "d2d8c66c-a677-4ca6-8eb7-205a047b9103",
+        "date": "2026-01-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very nice aap"
+    },
+    {
+        "id": "af834ad1-3dff-4a6c-b4cf-4d9de5c8a9c4",
+        "date": "2026-01-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good \u2728good"
+    },
+    {
+        "id": "878af08e-79c5-416a-8a3c-2e5e8ad56dfc",
+        "date": "2026-01-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "69b2ed68-f126-401e-827d-91bb56eabf79",
+        "date": "2026-01-15",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "i took ride from jayanagar to Bannerghatta park on 7 jan morning and total fare was Rs.356 but I paid 460 rs to driver via UPI by mistake it's been more than 6 to 7 working days , on same day I raised ticket on app and provided them upi screenshot as well but they did not refund remaining amount yet",
+        "vaf_never_display_make_you_happy": 2,
+        "vaf_never_display_easy_to_use": 2
+    },
+    {
+        "id": "66c6c3b7-5653-4a69-8156-7e293af95de1",
+        "date": "2026-01-15",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Extremely disappointed with Namma Yathri customer care, I recently purchased a Royal Enfield helmet and unfortunately left it behind in an Auto ride. When I contacted customer care expecting at least basic guidance or support, I was shocked by their irresponsible and careless response \u2014 I was simply told to \u201cfile an FIR\u201d and nothing more. No empathy. No attempt to help. No ownership. For a brand that talks about trust, legacy, and rider community, this level of customer handling is unacceptable",
+        "vaf_never_display_ads_experience": null,
+        "vaf_never_display_ease_of_use": null
+    },
+    {
+        "id": "64f50296-aae8-43ec-bf92-e3c5f7278579",
+        "date": "2026-01-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very unique auto + metro combination for last mile"
+    },
+    {
+        "id": "5a9b9172-f793-4e8f-ba2b-c76ad0d71b42",
+        "date": "2026-01-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "better than Uber"
+    },
+    {
+        "id": "4b37e6ef-cdae-4fb7-be66-64195a700665",
+        "date": "2026-01-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "easy to understand"
+    },
+    {
+        "id": "36bd7335-9374-4422-b3c6-af3575df476b",
+        "date": "2026-01-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice application"
+    },
+    {
         "id": "e36b12fb-5134-4a9d-8fd3-83aff460b763",
         "date": "2026-01-14",
         "score": 5,
