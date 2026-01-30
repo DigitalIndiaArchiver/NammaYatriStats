@@ -1,5 +1,421 @@
 [
     {
+        "id": "b5212c43-b477-4461-95fc-27b4560bd6d6",
+        "date": "2026-01-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice"
+    },
+    {
+        "id": "aab4ccd9-e063-4285-918f-ac7caf72e412",
+        "date": "2026-01-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good \ud83d\udc4d"
+    },
+    {
+        "id": "3904eaa1-8b4c-4bed-b22e-775de3db3fbe",
+        "date": "2026-01-29",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "I was not able to find the \"where is my bus\" service, has it been discontinued?"
+    },
+    {
+        "id": "1fc1c271-c512-435c-9692-7dad0dbcfb00",
+        "date": "2026-01-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Awesome \ud83d\ude0e"
+    },
+    {
+        "id": "0f6c01a9-6b98-4d39-834f-6a029df088ba",
+        "date": "2026-01-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "thank you"
+    },
+    {
+        "id": "03e1fed5-42f6-482e-bd4f-1ac9cec03ca6",
+        "date": "2026-01-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "d7d32e5f-c935-461e-830e-9356cf78ed99",
+        "date": "2026-01-28",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "app very slow"
+    },
+    {
+        "id": "7387e86d-76de-4a52-b45a-240b1ec58fa9",
+        "date": "2026-01-28",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good \ud83d\udc4d"
+    },
+    {
+        "id": "6be40680-a3b2-40bb-89e5-f03def943393",
+        "date": "2026-01-28",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "1bcefb6b-f30a-487c-8edb-29aac133dd6a",
+        "date": "2026-01-28",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "customer care services required"
+    },
+    {
+        "id": "1493b1c1-61af-4f7e-a7bc-fd65601fde64",
+        "date": "2026-01-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "\u09b8\u09a4\u09cd\u09af\u09bf \u0996\u09c1\u09ac\u0987 \u098f\u0995\u099f\u09bf \u099a\u09ae\u09ce\u0995\u09be\u09b0 \u0985\u09cd\u09af\u09be\u09aa \ud83d\udc4d\ud83d\udc4d \u09b8\u09ae\u09af\u09bc \u09b8\u09be\u09b6\u09cd\u09b0\u09af\u09bc\u09c0\u0964"
+    },
+    {
+        "id": "fe72f7fe-614f-4384-9c31-2d37de72bf57",
+        "date": "2026-01-27",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "There is a bug in the app for more than 2 weeks after the latest update and still it is not fixed, I am not able to book any cabs due to white page and not able to select the pickup or drop location. Kindly, fix this. still the issue is not fixed and no update on it.",
+        "vaf_never_display_difficult_to_use": 1,
+        "vaf_never_display_useful_notifications": 2,
+        "vaf_never_display_inappropriate_ads": 3
+    },
+    {
+        "id": "ed3f083d-7ea4-4e59-9e3a-25c348b71618",
+        "date": "2026-01-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very useful app"
+    },
+    {
+        "id": "ec389616-4aeb-4b5c-8670-4c74ffd59d6b",
+        "date": "2026-01-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good"
+    },
+    {
+        "id": "c991ce75-76a5-4127-b412-98383da34d30",
+        "date": "2026-01-27",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "4526e2ab-08cc-43e7-a83c-2195dbd5d442",
+        "date": "2026-01-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Excellent Service"
+    },
+    {
+        "id": "367d1a3d-0dee-443c-bd68-d3cd5bf9682e",
+        "date": "2026-01-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good & Friendly....but fare is bit higher in comparison with others."
+    },
+    {
+        "id": "2b966f69-66d0-46ec-bab6-fdbb5f377efa",
+        "date": "2026-01-27",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "This app sucks.people stays in queue for more then an hour .You can get cabs sometime or go ahead with uber or rapido..cabs are not ready whenever needed.This app provides 1 star rating service."
+    },
+    {
+        "id": "217af16f-b3e1-4ec6-aa27-c8995adfa555",
+        "date": "2026-01-27",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "did not know, help center is so useless in yatri sathi, not even able to raise a complaint either cannot select the option or unable to submit photo to complain for extra fare charged by the driver than shown in the app"
+    },
+    {
+        "id": "1b96cbb9-a469-4ad5-88fa-911ead1f5a48",
+        "date": "2026-01-27",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "worst app for cab services...we never find rides on time when it's required..when it is important you are never able to provide services..during an emergency or busy hours I never got a cab when required..most importantly your assigned drivers are so irresponsible and idiots they harass us for a period of time and then cancel the ride..please close the app if you are just putting it for some show that yes you successfully provide rides which you miserably fail at.",
+        "vaf_never_display_difficult_to_use": 1,
+        "vaf_never_display_meet_expectations": 2,
+        "vaf_never_display_negative_ads_impact": 2
+    },
+    {
+        "id": "15bb3041-b7c6-4e23-a4b9-7ec2240fab1c",
+        "date": "2026-01-27",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good 1"
+    },
+    {
+        "id": "10aac596-7ece-44d3-9fdd-8671fbdacf6b",
+        "date": "2026-01-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice jarni"
+    },
+    {
+        "id": "e139d391-b925-4489-963a-b8edab4f68db",
+        "date": "2026-01-26",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "Issues and complaints are shown \"resolved\" in the app without actually getting resolved! Presently, not even allowing to docket any issue for a chosen ride."
+    },
+    {
+        "id": "d5ba4447-37d5-4267-916e-1a6b07e8a4ec",
+        "date": "2026-01-26",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice app work smoothly"
+    },
+    {
+        "id": "cd6b305b-2eb5-4a69-bb38-88e523f0228c",
+        "date": "2026-01-26",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "why yatri cabs don't have cabs sooo much frustrating 1hr standing in line why it's happening this is the way u treat ur passengers",
+        "vaf_never_display_useful_notifications": 2,
+        "vaf_never_display_visually_bad": 1,
+        "vaf_never_display_inappropriate_ads": 1
+    },
+    {
+        "id": "bac6cf8d-18b7-4fe6-84d1-a6696527cd40",
+        "date": "2026-01-26",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Extremely bad experience with this app and the driver of last evening's ride. Very very rude and abusive behavior of the driver. He took a different route than what was been shown in the app and in the end charged much more extra than what was being shown before. Felt really unsafe. Never going to book Yatri Sathi again or even refer to anyone\ud83d\ude21",
+        "vaf_never_display_visually_bad": 1,
+        "vaf_never_display_make_you_happy": 2,
+        "vaf_never_display_app_description": 2
+    },
+    {
+        "id": "b27bf01f-7e51-4789-bc04-3f64b0007369",
+        "date": "2026-01-26",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good experience, Thank you"
+    },
+    {
+        "id": "9e93d7a3-8aac-421e-a599-0d62fc04ed44",
+        "date": "2026-01-26",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "ok"
+    },
+    {
+        "id": "3794d538-569c-48ae-93e2-72c7d5de540a",
+        "date": "2026-01-26",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "Nice"
+    },
+    {
+        "id": "23af0f03-3a82-43a3-8bfc-74771c520ab5",
+        "date": "2026-01-26",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "best"
+    },
+    {
+        "id": "20c6bead-b9f6-48fc-99a5-34e8131e8c58",
+        "date": "2026-01-26",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good App"
+    },
+    {
+        "id": "1b535ce7-fbf6-49e0-b0ff-812cde212db8",
+        "date": "2026-01-26",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "taken too long time for coming & not in time"
+    },
+    {
+        "id": "f1db1521-c46a-43ab-a6fc-ba282db26b61",
+        "date": "2026-01-25",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good"
+    },
+    {
+        "id": "e457aca4-9571-4fa6-bed1-495c9b0ae320",
+        "date": "2026-01-25",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Can't get any worse than this. This is after repeated denials while booking.",
+        "vaf_never_display_ads_experience": null,
+        "vaf_never_display_ease_of_use": null
+    },
+    {
+        "id": "cc1c658d-7318-4ff1-b70d-79fcace1395c",
+        "date": "2026-01-25",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "awesome"
+    },
+    {
+        "id": "c38c6e30-7a8b-42ca-8df6-e88781fe04c2",
+        "date": "2026-01-25",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "b3091858-d30a-486b-b7bb-13c33844ba96",
+        "date": "2026-01-25",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "too good drive \ud83d\ude97 save life"
+    },
+    {
+        "id": "af3d5484-76cb-4957-b779-101949e50d55",
+        "date": "2026-01-25",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good app"
+    },
+    {
+        "id": "ae01569e-6f74-450b-a7fd-fca6e17dee8a",
+        "date": "2026-01-25",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "ac813a1c-1c56-4d8a-9196-989fdf5a81ba",
+        "date": "2026-01-25",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "excelent behavior"
+    },
+    {
+        "id": "1a370480-a43f-415b-b0e6-a9a3da3caf53",
+        "date": "2026-01-25",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "excellent service."
+    },
+    {
+        "id": "18b59a1e-8be3-4364-92a5-7e98f72541c0",
+        "date": "2026-01-25",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good service"
+    },
+    {
+        "id": "ca346a21-138a-4b00-be00-3e49258861bb",
+        "date": "2026-01-24",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "A very good boy, very well behaved and drives a very nice car. And he knows the roads very well. Thank you from my side."
+    },
+    {
+        "id": "99806c53-5efc-45e0-85ea-dd8cdea4e4fb",
+        "date": "2026-01-24",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "verry good"
+    },
+    {
+        "id": "90008b22-9609-4f0d-bd94-0d1b93b0ed58",
+        "date": "2026-01-24",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "driver behaviour is very polite&cooperative&yatri sathi also very cheap&on time"
+    },
+    {
+        "id": "824fb29d-9e44-4f92-a66e-a7c5257562f8",
+        "date": "2026-01-24",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "nice \ud83d\udc4d"
+    },
+    {
+        "id": "7f5861dd-ffee-4d12-8e58-7dfca26b7cea",
+        "date": "2026-01-24",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "I am frequently riding yatri sathi.But when booked the driver respond and after talking to me cancelled the ride.This causes problems I couldn't reach the destination in time.Kindly solve this problem"
+    },
+    {
+        "id": "5fcff49b-c9d2-4199-a65c-86027f786b7e",
+        "date": "2026-01-24",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "every time the drivers are cancelling the rides which is a real harrasment on the way"
+    },
+    {
+        "id": "382242c7-3d38-4b88-9bd8-1f9cfd8b682a",
+        "date": "2026-01-24",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "great"
+    },
+    {
+        "id": "2e6bfce8-e1c0-48f9-93be-9b00d9f9a88c",
+        "date": "2026-01-24",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "App is not working.",
+        "vaf_never_display_ease_of_use": null,
+        "vaf_never_display_ads_experience": null
+    },
+    {
         "id": "ff635ea9-0d5b-4f86-b83c-2e695742b296",
         "date": "2026-01-13",
         "score": 1,
