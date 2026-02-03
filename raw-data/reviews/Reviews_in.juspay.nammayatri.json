@@ -1,5 +1,292 @@
 [
     {
+        "id": "f5de1ba7-4b51-47be-a852-303417b54e5d",
+        "date": "2026-02-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good \ud83d\udc4d\ud83d\ude0a yesterday night"
+    },
+    {
+        "id": "eaa7285e-c003-4350-b733-76bbd8a3722d",
+        "date": "2026-02-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Very good App"
+    },
+    {
+        "id": "c794b63e-0b4a-4005-8458-dbdc46672958",
+        "date": "2026-02-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "a good experience and helpful"
+    },
+    {
+        "id": "c4243585-36e0-4ce9-ba67-fe84a8ad0c80",
+        "date": "2026-02-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Namma Yatri is definitely a God Sent utility that helps us just when we need a desperate ride and want to commute hassle free. I, for one, strongly recommend Namma Yatri to other riding apps!!"
+    },
+    {
+        "id": "bcca40f3-f00c-4734-bb84-c690b658a2ca",
+        "date": "2026-02-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good"
+    },
+    {
+        "id": "b6678653-291a-4acc-9aa3-fb7e94e620d8",
+        "date": "2026-02-02",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "when we try to cancel the ride ,the app lags and does not allow to cancel it.",
+        "vaf_never_display_inappropriate_ads": 2,
+        "vaf_never_display_app_description": 1,
+        "vaf_never_display_considerate_of_time": 1
+    },
+    {
+        "id": "b2b56892-1546-41a6-8b3e-6af583ebd71b",
+        "date": "2026-02-02",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "it's not showing add to stop option very disappointing",
+        "vaf_never_display_ease_of_use": null
+    },
+    {
+        "id": "7ab9af33-e64f-4166-8cde-693769eb2640",
+        "date": "2026-02-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "First ride... AWESOME \ud83d\udc4d. Great Job."
+    },
+    {
+        "id": "76557eb2-387f-42fd-a6d8-05e388bac733",
+        "date": "2026-02-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "excellent behaviour"
+    },
+    {
+        "id": "76242bbe-6951-4bfe-8cac-321aa45a45d7",
+        "date": "2026-02-02",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "they are expensive than rapidi. but the customer support is non existent. if you are in trouble during a ride or if you have any issues, they don't give a damn about it"
+    },
+    {
+        "id": "6f65e024-ba37-4c02-8699-204661afb06d",
+        "date": "2026-02-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "great"
+    },
+    {
+        "id": "68d0802c-5205-4ef1-95a5-b2a74bbd9a8d",
+        "date": "2026-02-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice app"
+    },
+    {
+        "id": "6556f8f4-3459-4df9-b16a-0e30b615c6c5",
+        "date": "2026-02-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "no extra money"
+    },
+    {
+        "id": "633f06de-9536-4329-8d93-34893971dd16",
+        "date": "2026-02-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "6270da97-e443-4fd7-ada3-bb7627c6f31b",
+        "date": "2026-02-02",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Drivers always take extra and unnecessary claims waiting charges"
+    },
+    {
+        "id": "45e4a9b8-7b47-43c3-a667-112ee8f196be",
+        "date": "2026-02-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "thank you \ud83d\udc4d"
+    },
+    {
+        "id": "40f01ba7-7dba-4dbe-b99a-4988a7c1ec9c",
+        "date": "2026-02-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "fabulous fantabulous service"
+    },
+    {
+        "id": "18f6b8d8-a8cb-4b7c-963d-7fc5cb016539",
+        "date": "2026-02-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice driving good condition vehicle driver also good responce"
+    },
+    {
+        "id": "0c6ce96e-1fe3-4dc1-92b6-bd516d70b85a",
+        "date": "2026-02-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good aplication for public and charges is very good i like"
+    },
+    {
+        "id": "0aba05ad-8a16-46ad-a905-836e53e82eec",
+        "date": "2026-02-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "We had a good experience"
+    },
+    {
+        "id": "f33efa1b-2551-467e-8fe0-3d252ad21b4a",
+        "date": "2026-02-01",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "App Should improve",
+        "vaf_never_display_inappropriate_ads": 2,
+        "vaf_never_display_visually_good": 2,
+        "vaf_never_display_content_language": 1
+    },
+    {
+        "id": "f13d7547-d0eb-4613-8754-3986ee0146dc",
+        "date": "2026-02-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Express response"
+    },
+    {
+        "id": "e945e9ca-1ad6-4899-9b66-4a395a2a52e2",
+        "date": "2026-02-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "This travelling such as auto, cab Car, taxi booking app is for Karnataka state and Bangalore city only"
+    },
+    {
+        "id": "ae9ef254-af3f-4c36-ad8f-a13c9a1f541a",
+        "date": "2026-02-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Best Driving"
+    },
+    {
+        "id": "90611834-e79b-4f0e-b72b-6fed791c3005",
+        "date": "2026-02-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "888ec44f-f5d4-4d61-9efc-1274abdc3dfe",
+        "date": "2026-02-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "6b2eb5b9-2bbd-4fad-977d-9819dd016338",
+        "date": "2026-02-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Best app anytime helping \ud83d\ude4c"
+    },
+    {
+        "id": "46ef5e43-df13-4cee-9c17-585016b82113",
+        "date": "2026-02-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good service"
+    },
+    {
+        "id": "46217d98-4eb6-4647-ad12-224ce4c629fa",
+        "date": "2026-02-01",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "one of the worst apps ever!!! drivers are the rudest and non compliant, and no body cares.. wrong side driving and customer care is also not helpful. uninstalling this immediately.",
+        "vaf_never_display_make_you_happy": 2,
+        "vaf_never_display_difficult_to_use": 1,
+        "vaf_never_display_app_description": 2
+    },
+    {
+        "id": "38fbb5bd-6042-4af4-97bd-58797cbfaf40",
+        "date": "2026-02-01",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "worst service ever, needed a cab in emergency,I booked a priority cab with tips it took 45 mins and still have not received my booking ,so disgusting",
+        "vaf_never_display_positive_impact": 2,
+        "vaf_never_display_content_language": 1,
+        "vaf_never_display_negative_ads_impact": 2
+    },
+    {
+        "id": "27d902ee-0438-4c74-83c8-587d7f8aad64",
+        "date": "2026-02-01",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "not coming booking location and extra money asking for drop location don't use this application"
+    },
+    {
+        "id": "1305fe44-fe57-4a06-b51d-4f72c7f50fe6",
+        "date": "2026-02-01",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Pet toggle is not working most of the times.. Driver is not seeing that its been toggled. Looks like Some bug."
+    },
+    {
+        "id": "0831d0cd-9dbc-46c6-8cb6-3c57faab975e",
+        "date": "2026-02-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good service"
+    },
+    {
+        "id": "06ca9193-8371-4482-adc1-325f7e57e4ba",
+        "date": "2026-02-01",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Unable to submit a request to delete my account as the app is not offering any cab services in my area. Namma yatri should offer an option to check if they offering services in the specific zone before gathering customer data which they any deleting",
+        "vaf_never_display_ads_experience": null,
+        "vaf_never_display_ease_of_use": null
+    },
+    {
         "id": "f774705f-f513-4674-9bcf-5e904a138ffd",
         "date": "2026-01-31",
         "score": 4,
@@ -40,12 +327,28 @@
         "text": "GoodcService"
     },
     {
+        "id": "a904bba5-d20a-4698-8c42-e60fdab922b3",
+        "date": "2026-01-31",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "super"
+    },
+    {
         "id": "a2abe9d2-e071-43a3-adcd-3890b18d62c1",
         "date": "2026-01-31",
         "score": 5,
         "scoreText": "5",
         "title": null,
         "text": "good"
+    },
+    {
+        "id": "8d4c2993-2835-4bd0-9161-79bbee3ab74a",
+        "date": "2026-01-31",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super experience"
     },
     {
         "id": "50d465c0-668a-4ee9-b812-12bdb4fefa7a",
