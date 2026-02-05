@@ -1,5 +1,111 @@
 [
     {
+        "id": "f99d1b82-a4cc-4010-9a0a-1264ece21159",
+        "date": "2026-02-04",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "Driver told that this app is not good as he used. He was facing network problem, not getting call on time and messages. For my use it was ok."
+    },
+    {
+        "id": "f7e4cc52-4bd3-4f97-b5f8-a91ed2e8f43b",
+        "date": "2026-02-04",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "reliable service, keep up the good work better than Uber, who can cancel the ride after accepting it."
+    },
+    {
+        "id": "e4bd6c4e-3d80-43a1-ae7c-0fcb07e266fb",
+        "date": "2026-02-04",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "works great at Mangalore"
+    },
+    {
+        "id": "c44c6d8f-322c-478c-be90-21b35ed91fdf",
+        "date": "2026-02-04",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "First time using Namma Yatri. The driver wasted 12-15 mins. Said he comes in 10 mins, then told us to walk to him. The app showed \u20b91011 + toll (about \u20b91186), but he didn't come through the toll road. He said too little, it is 50 km and took \u20b91300 UPI. Booked AC cab but AC off the whole ride - very hot. No meter. Complained in app. Only the chatbot said the team called in 4 working hours. Now 24+ hours are gone, no reply. Very bad service and no help. Never use it again. Better take Uber or Ola.",
+        "vaf_never_display_content_language": 1,
+        "vaf_never_display_useful_notifications": 3
+    },
+    {
+        "id": "c17d1d1e-ac9f-4588-84a9-7fcbe4c60ea5",
+        "date": "2026-02-04",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "a5aad06b-47aa-47e4-b71b-16062bc9ce57",
+        "date": "2026-02-04",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "price very height"
+    },
+    {
+        "id": "8af59ff1-bb9b-4cb7-9fda-c55b33b885c8",
+        "date": "2026-02-04",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "very good service."
+    },
+    {
+        "id": "7dcc5889-43ac-483f-80d4-c443b942f24e",
+        "date": "2026-02-04",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "7af06460-0e74-4939-9513-8bfe71dd251f",
+        "date": "2026-02-04",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "not getting on time"
+    },
+    {
+        "id": "682e1ad2-b726-4bdd-810f-863d89359e00",
+        "date": "2026-02-04",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "efficient service"
+    },
+    {
+        "id": "592cce2d-307d-4293-b1e8-7819a513ebf8",
+        "date": "2026-02-04",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "very poor drivers and not friendly"
+    },
+    {
+        "id": "393fecd7-9d12-4f75-b6bb-7e4d98e6ba07",
+        "date": "2026-02-04",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good \ud83d\ude0a"
+    },
+    {
+        "id": "18e44d37-e720-4043-aed5-d672939b1ddc",
+        "date": "2026-02-04",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "\ud83d\udc4d"
+    },
+    {
         "id": "f2d1e130-04b3-4579-82bc-8a3b3ddc2c3b",
         "date": "2026-02-03",
         "score": 5,
@@ -38,6 +144,14 @@
         "scoreText": "1",
         "title": null,
         "text": "worst app"
+    },
+    {
+        "id": "54937043-3257-4e01-821c-0a7ee7a59bc7",
+        "date": "2026-02-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good service"
     },
     {
         "id": "2859fae4-eafe-4907-a405-30ab7ff55524",
