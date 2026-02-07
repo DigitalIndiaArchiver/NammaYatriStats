@@ -1,5 +1,112 @@
 [
     {
+        "id": "fa74e906-a8cd-4018-95dd-7f83b8052192",
+        "date": "2026-02-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "ok"
+    },
+    {
+        "id": "b7973b70-58b4-497d-b4ed-e1e0d50c7fd6",
+        "date": "2026-02-06",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "a9ceec6e-3192-473a-89f7-0027a6f0242c",
+        "date": "2026-02-06",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "timely pick & dropped."
+    },
+    {
+        "id": "677d5edb-367c-4ba8-97a8-5e70c05ec993",
+        "date": "2026-02-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "ok thanks"
+    },
+    {
+        "id": "60bafc74-a771-4a08-8163-d265417e7ebf",
+        "date": "2026-02-06",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "ok to book auto. Do not book cabs - there is almost no ac cab in their fleet (over 5 ac sedan bookings where driver said no to ac) and most of the non ac cabs are in pathetic, pan gutkha smelling quality.",
+        "vaf_never_display_ease_of_use": null,
+        "vaf_never_display_ads_experience": null
+    },
+    {
+        "id": "4d5d8b6a-34a6-4da5-83d0-039e0955f10d",
+        "date": "2026-02-06",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "\u0cac\u0cb3\u0c95\u0cc6 \u0cae\u0cbe\u0ca1\u0cbf\u0cb2\u0ccd\u0cb2 \u0caf\u0cbe\u0cb5\u0cbe\u0c97\u0cb2\u0cc1"
+    },
+    {
+        "id": "455b5b7c-1509-459b-8252-37db259e800c",
+        "date": "2026-02-06",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "over charge"
+    },
+    {
+        "id": "3583f342-0d9e-4166-b1e4-f9356548015a",
+        "date": "2026-02-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good sreve"
+    },
+    {
+        "id": "2c4941a1-2cb7-407b-a527-b3d63c9a62a1",
+        "date": "2026-02-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Very Good for local travels \ud83d\udc4f"
+    },
+    {
+        "id": "2495b8d6-7fdf-4bb6-85ec-4170bd1c3fa7",
+        "date": "2026-02-06",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "After waiting for 15 min. finally when called the driver he asked me to cancel the ride and did not even bothered to pickup the call again and there is no option to rate such drivers in the app. Pathetic.",
+        "vaf_never_display_ease_of_use": null
+    },
+    {
+        "id": "1ab0ceeb-eb6f-4331-afad-6fd8781b77f6",
+        "date": "2026-02-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good service"
+    },
+    {
+        "id": "1045d500-e3df-4722-8d48-eb7631ef2057",
+        "date": "2026-02-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "fine"
+    },
+    {
+        "id": "02f18906-5470-4398-ad8d-aeab3556af06",
+        "date": "2026-02-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
         "id": "c6fb582c-f4bf-4ada-9bdc-6924d8d61a2b",
         "date": "2026-02-05",
         "score": 5,
@@ -41,6 +148,14 @@
         "vaf_never_display_considerate_of_time": 2,
         "vaf_never_display_inappropriate_ads": 2,
         "vaf_never_display_visually_bad": 2
+    },
+    {
+        "id": "7cffd593-34ee-4112-bcd8-15afd12aa210",
+        "date": "2026-02-05",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "superb"
     },
     {
         "id": "6bce4388-99dd-4adb-85f3-0b78e052d899",
