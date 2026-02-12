@@ -1,5 +1,159 @@
 [
     {
+        "id": "fe7b98d0-88fd-4e38-ae70-01e39c90e439",
+        "date": "2026-02-11",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Namma yatri very happy."
+    },
+    {
+        "id": "cc7ab572-e552-423e-a2f9-0214c570a002",
+        "date": "2026-02-11",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very helpful \ud83d\udc4c"
+    },
+    {
+        "id": "b007ef2b-2719-483f-80a0-2a41cffaeaef",
+        "date": "2026-02-11",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "788d101a-c671-4cf5-90b4-50c57140d4a9",
+        "date": "2026-02-11",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "convenient for travel"
+    },
+    {
+        "id": "5afccdd7-bee9-4ad7-8a4e-664170c7f454",
+        "date": "2026-02-11",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super"
+    },
+    {
+        "id": "50a8d6f8-31a6-4f48-ac6a-3f991c14e6c5",
+        "date": "2026-02-11",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Namma yatri was a great idea - building drivers' own app, getting rid of commissions, plus for both drivers and commuters. But that's HISTORY, what it is NOW - Prices higher than competitors who charge 20-30% - Never's a ride booked without a tip - Worst! actually NO CUSTOMER SUPPORT. I booked an AC Cab but AC was OFF the entire ride effectively making it a NON AC ride which was 100-150 rs less at least. Team was supposed to get back in 4 hrs, it's more than 48 hrs, no sign of hearing back\ud83d\ude4f"
+    },
+    {
+        "id": "3c8ecd23-c0d2-4603-b258-c1c8d44ab168",
+        "date": "2026-02-11",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "wrost"
+    },
+    {
+        "id": "34ac117e-6566-4575-a038-606942e1a303",
+        "date": "2026-02-11",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Excellent \ud83d\udc4d\ud83d\udc4d\ud83d\udc4d"
+    },
+    {
+        "id": "34aa2f67-4ba0-4809-942c-8b632cce3cda",
+        "date": "2026-02-11",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "safety ride and use full app"
+    },
+    {
+        "id": "316387aa-e9ef-4dd8-8d1e-c7544b4391cb",
+        "date": "2026-02-11",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good",
+        "vaf_never_display_spend_more_time": 1
+    },
+    {
+        "id": "23ec8063-0a77-49fc-8c75-1a376a553fe5",
+        "date": "2026-02-11",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice"
+    },
+    {
+        "id": "175a863c-c752-44ac-af4e-b272ea7aaa0b",
+        "date": "2026-02-11",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "best service"
+    },
+    {
+        "id": "0751fcfd-9e13-48b1-8094-89b6dff5c4d7",
+        "date": "2026-02-11",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good for village people"
+    },
+    {
+        "id": "ccc55004-35b7-49a9-b8cc-97cfd81d4826",
+        "date": "2026-02-10",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "why does this app never confirms a ride and keeps telling you that ride has expired, becYse you didn't confirm a ride.?"
+    },
+    {
+        "id": "aeb90e96-cb39-42ff-b083-ea69e957b2be",
+        "date": "2026-02-10",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "no use",
+        "vaf_never_display_ads_experience": null
+    },
+    {
+        "id": "9b1f4b34-e378-4ac0-ba38-f339b6b15746",
+        "date": "2026-02-10",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good service"
+    },
+    {
+        "id": "4a632392-2995-4615-af03-5aa6db14df99",
+        "date": "2026-02-10",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "302c6c8c-1e65-40f4-9b51-033d08020dea",
+        "date": "2026-02-10",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "\ud83d\udc4c"
+    },
+    {
+        "id": "10d1af19-5fc7-4715-967a-6143ea4f710f",
+        "date": "2026-02-10",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
         "id": "fd280b57-b0a7-4930-980b-e6479b9a2df4",
         "date": "2026-02-09",
         "score": 5,
