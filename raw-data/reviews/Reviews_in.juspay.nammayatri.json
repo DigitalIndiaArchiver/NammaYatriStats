@@ -1,5 +1,88 @@
 [
     {
+        "id": "e8ac9a43-6f6c-4d22-a0f8-3d2c926443dc",
+        "date": "2026-02-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "dbedc8d3-02f9-4c76-8c35-0862ca2cc40c",
+        "date": "2026-02-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good",
+        "vaf_never_display_content_language": 1,
+        "vaf_never_display_visually_bad": 1,
+        "vaf_never_display_meet_expectations": 1
+    },
+    {
+        "id": "d34a65f2-5117-4cf3-b020-c2aa125038e7",
+        "date": "2026-02-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good one"
+    },
+    {
+        "id": "be1ef359-bf39-4296-ae39-da66ecd42cbc",
+        "date": "2026-02-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good"
+    },
+    {
+        "id": "7ec1db4a-f967-42ad-b19c-7f1a0c6649e5",
+        "date": "2026-02-14",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "customer care didn't help us very bad experience \ud83d\ude24"
+    },
+    {
+        "id": "73b23946-be6a-4d66-8436-cd80b57c8ffd",
+        "date": "2026-02-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "namma yatri is good app"
+    },
+    {
+        "id": "50560d82-5539-4e40-9b8b-2545ea9815a3",
+        "date": "2026-02-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Best For Cab And Auto (Affordable Best Price)"
+    },
+    {
+        "id": "480d578e-f3ab-44db-92e5-fe255b96c187",
+        "date": "2026-02-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "safe journey"
+    },
+    {
+        "id": "11aa87ff-e9a9-4903-bde3-6127c65cf42b",
+        "date": "2026-02-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice travel"
+    },
+    {
+        "id": "0d7e977b-d154-453f-80e7-672623ec6e48",
+        "date": "2026-02-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good \ud83d\udc4d"
+    },
+    {
         "id": "9221f290-e1f3-4185-a87b-df90d675ac62",
         "date": "2026-02-13",
         "score": 4,
@@ -22,6 +105,14 @@
         "scoreText": "1",
         "title": null,
         "text": "not good"
+    },
+    {
+        "id": "17e9801f-5bdd-4749-a8ac-d7a96da6e8bf",
+        "date": "2026-02-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very nice"
     },
     {
         "id": "0b814210-dc08-405a-8c16-9ffff61f83e4",
