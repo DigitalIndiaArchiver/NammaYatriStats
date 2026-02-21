@@ -1,5 +1,627 @@
 [
     {
+        "id": "fa4c923d-9914-4810-a536-997e67e332ce",
+        "date": "2026-02-20",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "f2b51afd-b61e-494f-8aac-6e58fb55fe7d",
+        "date": "2026-02-20",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "namma yatri thank you\ud83e\udd70"
+    },
+    {
+        "id": "f295120e-97ef-4d8c-9dd5-0b0b2d9d2b78",
+        "date": "2026-02-20",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "d4c8e941-a8ce-404e-b4de-f499d10532fb",
+        "date": "2026-02-20",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "On time, Reasonable fare,....."
+    },
+    {
+        "id": "d0fac047-0485-4085-b09d-b45b566a8c5f",
+        "date": "2026-02-20",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "safty.... ride"
+    },
+    {
+        "id": "cf57102a-fe07-4fc8-9463-aa75a240de80",
+        "date": "2026-02-20",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "app is super smooth and flawless without any issue \ud83d\udc4c\ud83c\udffb"
+    },
+    {
+        "id": "af8acf95-89de-40ac-bbd1-f0183bdca4dc",
+        "date": "2026-02-20",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "always on time..right fare"
+    },
+    {
+        "id": "79dddd68-be8a-487d-b2a3-e86d1e06fece",
+        "date": "2026-02-20",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "Drivers cancel midway, post booking"
+    },
+    {
+        "id": "3931f2c7-fc97-4c92-a53b-5255ea320853",
+        "date": "2026-02-20",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "not good duty orders very bad",
+        "vaf_never_display_ads_experience": null,
+        "vaf_never_display_ease_of_use": null
+    },
+    {
+        "id": "2b5536b0-cfca-47f9-8453-1a37f652b16d",
+        "date": "2026-02-20",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "No prompt responses from customer support in case of bad driver behaviour, no so feature, no accountability what so ever! Pathetic"
+    },
+    {
+        "id": "28fb552f-e397-4b20-bd38-0f9aab031bf9",
+        "date": "2026-02-20",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "I recently used Namma Yatri for an official airport trip. While the ride itself was fine, I was disappointed to learn that they do not issue a GST invoice or aggregator invoice. Since the payment is made directly to the driver, the platform does not provide any GST-compliant invoice with an invoice number. This creates a major inconvenience for business travelers who require proper GST invoices for reimbursement and official expense claims. I had to follow up with support, and the response was"
+    },
+    {
+        "id": "237d7e25-4521-4887-b635-13f7efab4031",
+        "date": "2026-02-20",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good service"
+    },
+    {
+        "id": "232114a6-3b16-42f0-9777-b64fe3a53c75",
+        "date": "2026-02-20",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "location was showing wrong."
+    },
+    {
+        "id": "13426482-f2ae-403b-9d70-fd116035ed10",
+        "date": "2026-02-20",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "e9c81d7b-2230-4ce5-ae6a-1bc462d71616",
+        "date": "2026-02-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "e453b911-0105-484d-93b0-d98a573c2a5e",
+        "date": "2026-02-19",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "very bad \ud83d\ude1e we don't get Auto in emergency situation they will tell us to increase money very worst"
+    },
+    {
+        "id": "e11fd5f7-ea96-4781-9b8f-c916a960c5f4",
+        "date": "2026-02-19",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "I should give zero. if you can't manage google map you can shut the business."
+    },
+    {
+        "id": "e0254051-6fde-48ef-a091-90dd3fa542de",
+        "date": "2026-02-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice but Auto anna very roood"
+    },
+    {
+        "id": "d2ed336c-aea2-4b1f-b1d6-9924699344b1",
+        "date": "2026-02-19",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "service is required in emergency and is not accepted by cab drivers even though they are nearby..."
+    },
+    {
+        "id": "ca7500b0-61ad-4051-82cb-6a751f8d8e7a",
+        "date": "2026-02-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice experience"
+    },
+    {
+        "id": "b9af371c-a118-4f7d-b025-99ed2c12f281",
+        "date": "2026-02-19",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "showing too much high fair 13 km 26min you are changing 317Rs. for Auto but in ola its showing 247Rs. for Auto 70Rs. High fair \ud83d\ude21",
+        "vaf_never_display_spend_more_time": 2,
+        "vaf_never_display_difficult_to_use": 2,
+        "vaf_never_display_visually_bad": 2
+    },
+    {
+        "id": "a8941344-f8c7-4305-b334-94b2808105a5",
+        "date": "2026-02-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Very convenient to local public. Increase the number of namma yatri autos"
+    },
+    {
+        "id": "a454d855-d020-44e0-b0b7-d95051e15665",
+        "date": "2026-02-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good \ud83d\udc4d"
+    },
+    {
+        "id": "964e0aee-e8ac-4a25-8e95-e9fda9e023b2",
+        "date": "2026-02-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super \ud83d\udcaf super"
+    },
+    {
+        "id": "8490af9a-b495-451b-a1d5-5ccf27cbd9c6",
+        "date": "2026-02-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good appa",
+        "vaf_never_display_content_language": 1
+    },
+    {
+        "id": "6dd4aa0f-b5b9-404a-b85e-e2c8c7715266",
+        "date": "2026-02-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "essy to use"
+    },
+    {
+        "id": "47cc98d0-86a8-4cad-9560-754bdc3bd6f1",
+        "date": "2026-02-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super Namma yatre"
+    },
+    {
+        "id": "43a413f1-81ea-49e5-8509-fd04f7c0e464",
+        "date": "2026-02-19",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Based on my repeated experiences, this appears to be a failed business model in terms of customer safety, accountability, and service reliability. Given the lack of effective corrective action, I strongly believe it is better to opt for alternative services.",
+        "vaf_never_display_ease_of_use": null,
+        "vaf_never_display_ads_experience": null
+    },
+    {
+        "id": "312833da-3c34-4539-9020-43d37bcf5d98",
+        "date": "2026-02-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "0ea51336-835a-4195-8983-7b7be6c1ca51",
+        "date": "2026-02-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "0b12bc25-377e-40b3-bad8-ec3eb1b7358c",
+        "date": "2026-02-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "superb Journey very nice good price."
+    },
+    {
+        "id": "feea9191-109e-4d01-9e83-02b7c86f717c",
+        "date": "2026-02-18",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "The reason for 3 stars is enormous waiting time when booking autos they are so adament in accepting rides from railway stations and peak hrs even it's from the namma Karnataka app."
+    },
+    {
+        "id": "e17999e3-8636-4bf2-b9de-a941832797f8",
+        "date": "2026-02-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "c5440967-2bfc-44aa-8706-b40b3b327fdc",
+        "date": "2026-02-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good service"
+    },
+    {
+        "id": "bae941d0-d918-44ba-bf07-24c28463e3c4",
+        "date": "2026-02-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super"
+    },
+    {
+        "id": "a724a3f5-87fc-499c-8009-0e0d03c80798",
+        "date": "2026-02-18",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "Good"
+    },
+    {
+        "id": "9625ef96-c79d-4fad-86a7-643b5bd727d9",
+        "date": "2026-02-18",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "\u2764\ufe0f\u2764\ufe0f"
+    },
+    {
+        "id": "85da5f95-4c7d-4560-ab89-ed7927e0da44",
+        "date": "2026-02-18",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "It takes a lot of time to book a ride. After messaging the driver he cancels the ride. Very worst app, in the morning about 8:30 to 9 am the cab doesn't book at all. It's a waste of time in the morning"
+    },
+    {
+        "id": "73ba781f-c2f6-4d10-a697-a275e43c56d0",
+        "date": "2026-02-18",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "Few drivers asking extra charge. for that reason only first auto cancelled"
+    },
+    {
+        "id": "677bceba-27a8-4feb-8a7f-aa94a5993b77",
+        "date": "2026-02-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "55562892-b43f-4ba3-bb3c-0b625dff5511",
+        "date": "2026-02-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "it's like my personal vehicle app"
+    },
+    {
+        "id": "5314b4fc-8dc3-4cc9-929a-44856c658c39",
+        "date": "2026-02-18",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "not so good."
+    },
+    {
+        "id": "3a4410d8-e5de-46d0-9731-0d2bb4f7a09a",
+        "date": "2026-02-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Better than other cabs.Quick bookings."
+    },
+    {
+        "id": "2ff7b16f-6d71-4b27-9020-6fb650d34993",
+        "date": "2026-02-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very nice \ud83d\udc4c"
+    },
+    {
+        "id": "fd6665cb-2319-44fb-b453-31b712a661c8",
+        "date": "2026-02-17",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "My mom uses namma yarti auto every for school prices stay consistent sometimes rarely increases. Polite drivers and accurate GPS location for home so the driver don't keep searching around Simple ui and important consistent notification for trip start,driver on the way,trip end etc. Overall really good experience.",
+        "vaf_never_display_ease_of_use": null
+    },
+    {
+        "id": "e3de28bc-0704-4779-b4ba-df903bb4a92f",
+        "date": "2026-02-17",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "drivers demanding extra cash and refusing to even turn on AC for AC rides."
+    },
+    {
+        "id": "dab55162-d498-43ef-9b36-03b83630f3cc",
+        "date": "2026-02-17",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Worst experience. I have uninstalled app. They have charged extra for a ride and support team closed ticket without proper response. They don't have intentions to support just pure money minded peoples. Don't install this app, go for other better ride apps."
+    },
+    {
+        "id": "bcbb2e89-fec4-48ba-a587-e909b9722eed",
+        "date": "2026-02-17",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Best app in the world \ud83c\udf0e \ud83d\udc4c \ud83d\ude4c \ud83d\udc4f \ud83d\ude0d \u2764\ufe0f"
+    },
+    {
+        "id": "b6d77a7a-fc57-42da-99d1-41d8cd5350d8",
+        "date": "2026-02-17",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "better service then any other operator in Bangalore specially late night airport pickups."
+    },
+    {
+        "id": "a4f007b4-fdd7-4450-99ae-200977d9ac52",
+        "date": "2026-02-17",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Excellent trip"
+    },
+    {
+        "id": "97e9f3c5-8ac2-4385-92db-980d8c0eccd0",
+        "date": "2026-02-17",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "it is good but no cab facility is provided in kalaburagi only auto is available but in summer it is problematic"
+    },
+    {
+        "id": "6d49d14b-3c43-43af-92d7-ab9a265ebb4d",
+        "date": "2026-02-17",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Travellers beware: the app requires an Indian (+91) phone number, you cannot even open the app without one."
+    },
+    {
+        "id": "6bd1b0b8-d2e4-4b8d-8edf-ec683ed637ef",
+        "date": "2026-02-17",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "It's a good alternative for ola , but need to work on ux for better user experience."
+    },
+    {
+        "id": "68e0184e-6b4e-4356-8718-56fcc989e786",
+        "date": "2026-02-17",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good very helpful at the right time whenever needed \ud83d\udcaf"
+    },
+    {
+        "id": "510d7f50-bfaf-4ee1-88b2-35ecdf8cccec",
+        "date": "2026-02-17",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super good app to commute faster in Bangalore if u avail an Auto, and last minute change of location also allowed which is great \ud83d\udc4d",
+        "vaf_never_display_make_you_happy": 1,
+        "vaf_never_display_difficult_to_use": 2,
+        "vaf_never_display_disruptive_ads": 2
+    },
+    {
+        "id": "41fe19a6-2377-4cae-897a-dfa6e6f0f9d6",
+        "date": "2026-02-17",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "worst app not taking ride bookings"
+    },
+    {
+        "id": "3133b481-f42a-4c88-9e1d-9398dd9f6ace",
+        "date": "2026-02-17",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "reasonable price"
+    },
+    {
+        "id": "305eeb62-f22d-4b0a-868c-6569211cd0c0",
+        "date": "2026-02-17",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "useful"
+    },
+    {
+        "id": "20f7150a-e82e-4668-b10a-70125aa09cb0",
+        "date": "2026-02-17",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "useless at times"
+    },
+    {
+        "id": "1e46fd4f-7703-44bd-a379-fc94de9d99db",
+        "date": "2026-02-17",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good driving"
+    },
+    {
+        "id": "b4a0b2cf-f0e0-423c-bcbd-caf62fbb2363",
+        "date": "2026-02-16",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "driver friendly helps to pickup my bagages"
+    },
+    {
+        "id": "b0545820-6cd0-4edd-a7c7-a8ae57fe5900",
+        "date": "2026-02-16",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very nice"
+    },
+    {
+        "id": "7bc848e8-1ba1-4787-b08b-67afe9f72450",
+        "date": "2026-02-16",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good \ud83d\udc4d"
+    },
+    {
+        "id": "6c005527-9cf6-4ff8-bb0c-31db11bea783",
+        "date": "2026-02-16",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super app"
+    },
+    {
+        "id": "50090c0d-8b5a-40ae-b017-49d3ab2eca99",
+        "date": "2026-02-16",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d"
+    },
+    {
+        "id": "4e0481eb-5344-4b99-894a-a16523070abc",
+        "date": "2026-02-16",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "32440874-3ce6-4d6a-b822-11e4b5d6c874",
+        "date": "2026-02-16",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good polite driver"
+    },
+    {
+        "id": "1ed8ca26-b48f-43b4-b194-09ff6516a9c0",
+        "date": "2026-02-16",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super \ud83d\udc4c"
+    },
+    {
+        "id": "190d3265-b07a-46d5-8e2c-3bf5f527d215",
+        "date": "2026-02-16",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super"
+    },
+    {
+        "id": "d117d61b-4f49-46ca-8c55-8d551ec16e18",
+        "date": "2026-02-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "no ext fare asked by driver"
+    },
+    {
+        "id": "c2b37ce9-b473-4a3f-83d0-750c52eb8b9f",
+        "date": "2026-02-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "quick and affordable."
+    },
+    {
+        "id": "a3c81326-5193-4d40-917e-2cd8c665c68d",
+        "date": "2026-02-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "a0153f18-ffd9-4482-ab9e-2422e11af112",
+        "date": "2026-02-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "6c792987-b7d8-4f57-a629-ccdc84f0aaa2",
+        "date": "2026-02-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "41d23884-5f61-482a-920c-995ac0f604f9",
+        "date": "2026-02-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "3961c15d-8aa2-4a4e-b927-504e5459ad42",
+        "date": "2026-02-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "auto raja",
+        "vaf_never_display_ease_of_use": null,
+        "vaf_never_display_ads_experience": null
+    },
+    {
         "id": "e8ac9a43-6f6c-4d22-a0f8-3d2c926443dc",
         "date": "2026-02-14",
         "score": 5,
