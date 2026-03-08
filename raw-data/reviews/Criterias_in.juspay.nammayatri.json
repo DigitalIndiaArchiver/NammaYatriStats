@@ -1,9 +1,9 @@
 {
+    "vaf_never_display_spend_more_time": 29,
+    "vaf_never_display_difficult_to_use": 48,
+    "vaf_never_display_visually_bad": 45,
     "vaf_never_display_ads_experience": 376,
     "vaf_never_display_ease_of_use": 412,
-    "vaf_never_display_spend_more_time": 28,
-    "vaf_never_display_difficult_to_use": 47,
-    "vaf_never_display_visually_bad": 44,
     "vaf_never_display_content_language": 41,
     "vaf_never_display_make_you_happy": 29,
     "vaf_never_display_disruptive_ads": 29,
