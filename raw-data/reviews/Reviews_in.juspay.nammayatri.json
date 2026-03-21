@@ -1,5 +1,509 @@
 [
     {
+        "id": "fd08e84f-406e-400d-8f85-19843aff72e4",
+        "date": "2026-03-20",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "worst service"
+    },
+    {
+        "id": "e3705e8f-19b3-42c6-8596-eaea60c97d4c",
+        "date": "2026-03-20",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good service"
+    },
+    {
+        "id": "ae099f0d-0498-4c95-99b3-ef812aea7e46",
+        "date": "2026-03-20",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "fr booking takes too much time it would be good if happens booking soon"
+    },
+    {
+        "id": "994a0fcc-c6ac-4e0d-8501-1c59ee46480a",
+        "date": "2026-03-20",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "Good and affordable service, Thank you for the service."
+    },
+    {
+        "id": "6ebc5930-8bf0-42bd-a2e4-01d237aad8fe",
+        "date": "2026-03-20",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "6224818a-e408-486b-8aac-5dac570a0630",
+        "date": "2026-03-20",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "5aea518e-6280-46b0-8596-8a34ba49476b",
+        "date": "2026-03-20",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very nice Namma yatri apps"
+    },
+    {
+        "id": "55b937a9-a251-4dc9-a2c4-eced4bd56a58",
+        "date": "2026-03-20",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "worst app, doesn't showing one location to another location. car's fare's are very high."
+    },
+    {
+        "id": "51708f78-d23a-4ff2-87e7-f924a4ee8805",
+        "date": "2026-03-20",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "f1e697d9-f3ef-4458-b08b-6d5b1ac00a81",
+        "date": "2026-03-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "\ud83d\udc4c"
+    },
+    {
+        "id": "dc5b9a32-1c44-4ce5-9e0b-f39317c4cb9a",
+        "date": "2026-03-19",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Give me a fixed fare for rides. I refuse to add tips to be able to get a ride. If a ride costs 200 w/tips, show the fare as 200. If drives get 100%, what is the point of tips aside from misrepresentation of fare? Edit: Ever since an update on 19th March 2026, I could not log in after multiple attempts. In then manually cleared my data and tried again. I got logged in but it tells me that my account is blocked."
+    },
+    {
+        "id": "9b8a023c-18c7-412a-bfc9-d5c24744cc23",
+        "date": "2026-03-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good"
+    },
+    {
+        "id": "939a2514-5a0a-4a84-9f64-dce2fd56d70e",
+        "date": "2026-03-19",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "7dde4cef-5d29-4031-8733-b90a5dc87ca2",
+        "date": "2026-03-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good service. despite rains he came. thank you"
+    },
+    {
+        "id": "63119691-92ca-4f34-8c0f-1271ef3a586e",
+        "date": "2026-03-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Nice appa"
+    },
+    {
+        "id": "5d213892-9d88-4028-8042-de46a87209df",
+        "date": "2026-03-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very nice app thank you number you are always on time"
+    },
+    {
+        "id": "eddb4227-d8df-4514-b043-d23df8a8a93f",
+        "date": "2026-03-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "e3f13dac-8b60-4fd1-b245-a3c3b79e31ad",
+        "date": "2026-03-18",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "the driver didn't even drop near the location, took the wrong turn and I had to be pay full amount despite dropping me far away."
+    },
+    {
+        "id": "e2be4baa-495f-4de8-9036-6d9dff783040",
+        "date": "2026-03-18",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "driver only high amount ride"
+    },
+    {
+        "id": "af5b40f9-6f5e-4e87-9282-28818c734096",
+        "date": "2026-03-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "excellent experience"
+    },
+    {
+        "id": "9e530a9d-a40c-4a91-8004-17cbde24d2fb",
+        "date": "2026-03-18",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Bangalore cab driver charging extra for tolls. even if the toll is included in bills. inspite of arguments driver denies the toll fare is included. Deleting app."
+    },
+    {
+        "id": "7d710f4c-8377-4db6-97b8-8e972acbc95f",
+        "date": "2026-03-18",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "cost is high"
+    },
+    {
+        "id": "76935500-0df0-49b8-9eb5-7d1dad90f1d3",
+        "date": "2026-03-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good service"
+    },
+    {
+        "id": "4b47f826-7830-45c8-8dbb-4b47b40b276e",
+        "date": "2026-03-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good. But you have to improve GPS"
+    },
+    {
+        "id": "2ec250c5-6d84-4f1e-a96a-58ea643da750",
+        "date": "2026-03-18",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Very bad app. Being a kannada girl I'm saying this namma yatri is useless. Their help and support team never resolve your issues or won't help you if something happens with you. It's very sad."
+    },
+    {
+        "id": "186bc1bb-5eeb-427c-ab6d-de3416aaf878",
+        "date": "2026-03-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "167734f4-6f31-4dde-9683-6a5be082dcf2",
+        "date": "2026-03-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good experience so far"
+    },
+    {
+        "id": "00bac626-3b9e-4e96-9084-f3fc4fa40482",
+        "date": "2026-03-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good service. Reliable. Safety."
+    },
+    {
+        "id": "f58f216b-a05f-4c22-b14c-a0307714284e",
+        "date": "2026-03-17",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice"
+    },
+    {
+        "id": "a9174485-c796-4021-b6c9-224463b36486",
+        "date": "2026-03-17",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "Never ever use this app for namma metro ticket booking. It literally told me the ticket has expired for a few minutes before showing it again. always use apps which allow you to add ticket to google wallet app, so that your ticket can be shown, irrespective of the app after booking ticket."
+    },
+    {
+        "id": "799ece12-0a3c-493a-adbb-0851172bfd8e",
+        "date": "2026-03-17",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice"
+    },
+    {
+        "id": "58e784af-be66-4124-abc6-9b80d2db5cbb",
+        "date": "2026-03-17",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good driving and super parson"
+    },
+    {
+        "id": "57caf2ed-8516-4993-bdc5-5bd4c1b1a81e",
+        "date": "2026-03-17",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "cheaper and faster ride booking app"
+    },
+    {
+        "id": "31358729-c302-41cd-98de-6164b143ccb6",
+        "date": "2026-03-17",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good Service"
+    },
+    {
+        "id": "28e0deee-1318-4822-aaae-b5daf0385a2c",
+        "date": "2026-03-17",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "helping app"
+    },
+    {
+        "id": "28e0af5c-b7a8-486c-b26e-38b713840189",
+        "date": "2026-03-17",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good app"
+    },
+    {
+        "id": "0c0fa1fa-a7ec-40c4-857f-68745dfa7cfd",
+        "date": "2026-03-17",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "eeb52a9d-4dd0-45b2-9baa-f8c71f176540",
+        "date": "2026-03-16",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good job"
+    },
+    {
+        "id": "c9a099b3-5684-41e3-a8a1-527af3ab023d",
+        "date": "2026-03-16",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "worst app ever !! just because it is cheap and arrives early that doesn't mean that it's a good app , today literally I had the worst experience ever . the worst thing about this app is that it doesn't take proper location"
+    },
+    {
+        "id": "b9f2bf69-b3c5-4c9e-9cb3-10c4f52d9d8c",
+        "date": "2026-03-16",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "b3401b6c-1cd7-4358-8c90-4458a5b50a06",
+        "date": "2026-03-16",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "MOST of the drivers demand and cancel trips ....."
+    },
+    {
+        "id": "728d736c-6bcc-4506-a1d0-da7c4efbe70c",
+        "date": "2026-03-16",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "All good"
+    },
+    {
+        "id": "6231e845-1869-47e1-8793-308efa9e4e5f",
+        "date": "2026-03-16",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super \ud83d\udc4d\ud83c\udffc\ud83d\ude0a"
+    },
+    {
+        "id": "35813629-3f1a-46d5-b8a4-f162f800d98b",
+        "date": "2026-03-16",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "prices are too high compared to uber"
+    },
+    {
+        "id": "250654e6-d139-4417-9952-6aa25c7b35eb",
+        "date": "2026-03-16",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "GOOD"
+    },
+    {
+        "id": "222db18c-34cb-448f-9404-39fd5fb705c1",
+        "date": "2026-03-16",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "it was a excellent \ud83e\udd70\ud83e\udd70\ud83e\udd70"
+    },
+    {
+        "id": "20ca0476-07ea-4032-94b3-a49d2cd34e74",
+        "date": "2026-03-16",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Happy in riding"
+    },
+    {
+        "id": "1a276041-1b19-48ef-b669-4909030ecb00",
+        "date": "2026-03-16",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "price is high"
+    },
+    {
+        "id": "07a6117a-8983-42c9-a6fc-253b186a8afb",
+        "date": "2026-03-16",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Excellent"
+    },
+    {
+        "id": "f7f70851-18ad-4ff4-8855-9476ab4c099a",
+        "date": "2026-03-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good \ud83d\udc4d"
+    },
+    {
+        "id": "f7c8e31b-88bb-4ee0-b73b-8c3d7380d6cd",
+        "date": "2026-03-15",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "ca117921-52de-4105-ba6c-9b9c892bd0da",
+        "date": "2026-03-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "ca07bc88-a241-49d7-80ba-1459612c4226",
+        "date": "2026-03-15",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "It takes a lot of time when required in urgency,But still the cab hasn't booked. So I have to go with other applications."
+    },
+    {
+        "id": "aca2bb05-96a5-4d67-911d-71f9807a96ce",
+        "date": "2026-03-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good"
+    },
+    {
+        "id": "aa43f19a-cf94-4adb-8503-ff8d290311ec",
+        "date": "2026-03-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "VERY GOOD APP FOR TRAVELING AT BIDAR"
+    },
+    {
+        "id": "8dae3a9e-f25a-4792-988d-f5d2e32fc782",
+        "date": "2026-03-15",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "keep more polite driver"
+    },
+    {
+        "id": "849deb0d-1838-4125-b3fa-96d27af18d04",
+        "date": "2026-03-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "6a2c89cb-a854-4311-bde6-7ff1b658b30e",
+        "date": "2026-03-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good"
+    },
+    {
+        "id": "5af9d4e2-dbc4-4fdc-a976-97b1f538308d",
+        "date": "2026-03-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Simply super n good"
+    },
+    {
+        "id": "55ae2a0b-5ffc-4327-af0b-7165d67947a4",
+        "date": "2026-03-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super is super"
+    },
+    {
+        "id": "550729d9-40e1-488f-99f3-538de346af8b",
+        "date": "2026-03-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good"
+    },
+    {
+        "id": "31c1aa7b-ece3-42e8-af1d-960c1e2470a2",
+        "date": "2026-03-15",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "smooth driving"
+    },
+    {
+        "id": "2bd1ae9b-6dcd-4c82-8518-bcde935f5b5f",
+        "date": "2026-03-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good \ud83d\udc4d"
+    },
+    {
         "id": "fed99370-e36d-4efa-b0c0-3ca2037fb728",
         "date": "2026-03-14",
         "score": 5,
