@@ -1,5 +1,349 @@
 [
     {
+        "id": "d549e38d-ce5f-4f84-b1aa-edca4a5b8aa0",
+        "date": "2026-03-31",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "d3bef7a0-1115-4426-a35d-bb62e5e5818d",
+        "date": "2026-03-31",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "ride was comfortable"
+    },
+    {
+        "id": "c1c0c757-a575-4b71-9a5a-768cffbaf72a",
+        "date": "2026-03-31",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "horrible atleast 3 cancellations every time"
+    },
+    {
+        "id": "98b10ab8-8efd-415c-9853-9c972c7d32aa",
+        "date": "2026-03-31",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "51a1c74e-b7e2-4834-8289-de94d7a5dd5a",
+        "date": "2026-03-31",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "MashallahMashallah"
+    },
+    {
+        "id": "477f18a9-b4ed-4015-8ed6-58df8f1d9674",
+        "date": "2026-03-31",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "ok nice app"
+    },
+    {
+        "id": "3e5d56c2-61e4-4075-aa5b-8470f5c9685d",
+        "date": "2026-03-31",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "the best thing to have happened to Hubballi...! thank you \ud83d\udc4d"
+    },
+    {
+        "id": "35eb9b6a-c733-4a07-95ba-26f0eb55bc56",
+        "date": "2026-03-31",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "best"
+    },
+    {
+        "id": "340a0c1a-c851-4652-a943-4300ca700124",
+        "date": "2026-03-31",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "pathetic useless app. should shut off business. when a customer is in trouble and connecting with their customer support all are offline on chat. then searched their number from google and called them same response. worst app."
+    },
+    {
+        "id": "126f4e6c-0e1d-4764-974c-311b09ba4f97",
+        "date": "2026-03-31",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "awesome"
+    },
+    {
+        "id": "ee80a8cb-9252-4127-9c42-5b60df32653b",
+        "date": "2026-03-30",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "best service"
+    },
+    {
+        "id": "e930f7e5-5257-424a-8a64-2d3eb5556307",
+        "date": "2026-03-30",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "c521bf92-f613-4806-9875-fdcaa891d703",
+        "date": "2026-03-30",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "thank you \ud83d\ude4f"
+    },
+    {
+        "id": "be0e2199-44b6-4487-8446-7e26909bc3a3",
+        "date": "2026-03-30",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "a5cbc6bd-37cb-4a87-b2c1-7e0dbd61d7ea",
+        "date": "2026-03-30",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good Services"
+    },
+    {
+        "id": "791f03ce-3688-44fb-8223-f3229259cdea",
+        "date": "2026-03-30",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "6eda9fe1-0cb2-4abf-9bac-d4aecbb03685",
+        "date": "2026-03-30",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "68356feb-7562-4a79-b19f-e22ea8c54418",
+        "date": "2026-03-30",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good reasonable price"
+    },
+    {
+        "id": "3ce0b69f-ed34-45c0-b06a-e6e5f59ccbf4",
+        "date": "2026-03-30",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "nice ride"
+    },
+    {
+        "id": "15aef717-3d57-43fd-8d17-b0ccd92f9ca3",
+        "date": "2026-03-30",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good sever"
+    },
+    {
+        "id": "0a7d9953-a013-4677-96ba-a985f6c623ba",
+        "date": "2026-03-30",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Fully satisfied for ride from Dadarahalli Metro to Somasetty Halli near Yasas Vidya Kendra."
+    },
+    {
+        "id": "bc7ae0d2-b2f0-42e3-add3-ccf89c6ef9c2",
+        "date": "2026-03-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good"
+    },
+    {
+        "id": "644c62e7-3308-4137-a8e0-b90645bdd465",
+        "date": "2026-03-29",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "selected location doesn't take properly...App should be further developed"
+    },
+    {
+        "id": "51552b5b-3424-4a49-8e43-8371b5d2e162",
+        "date": "2026-03-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "4f3f32ea-efcd-46f8-a403-8a34777aad60",
+        "date": "2026-03-29",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "sometimes they charge extra money, more than the price given in the app"
+    },
+    {
+        "id": "2519e1e0-42ce-4ce3-84f5-c91c9457a33c",
+        "date": "2026-03-29",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "It seems like people dont use this app much in Chennai, it is very hard to get drivers especially autos with this app even for emergency.. the drivers are also asking for tips and unnecessary extra fare"
+    },
+    {
+        "id": "ecb34b54-87b5-440a-91d7-45d4c95355ca",
+        "date": "2026-03-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "I raised concerns after paying twice for a single ride . customer care helped me to get a refund."
+    },
+    {
+        "id": "c8ea8694-c052-428e-853e-1fcd8c22edc5",
+        "date": "2026-03-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "bc957691-6770-4bc6-baca-f6fbb23219dd",
+        "date": "2026-03-28",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "it's very convenient and easy and prices are very affordable according to the location we provide compair to other's"
+    },
+    {
+        "id": "b66bcc23-0841-4a01-9267-f02918ced70c",
+        "date": "2026-03-28",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "I am having the worst experience with the Namma Yatri in Mysore. Every time I book a ride I am cancelling it either because the driver is not responding or responding but not moving or not cancelling on their own if not willing. I can share a screen shot of my booked rides if the authority needs. I just gave one star because I had to rate it to post the review, otherwise it is a big zero."
+    },
+    {
+        "id": "aa3c8970-557b-4001-be98-e1eb78077d07",
+        "date": "2026-03-28",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "75ca427a-e149-4608-8258-e671db5b9903",
+        "date": "2026-03-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "5f1ebfa1-08ec-433f-bf69-57e2b22ccb51",
+        "date": "2026-03-28",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "I\u2019m quite disappointed with the service. Even when drivers are very close to the pickup location, they are not accepting ride requests. This causes unnecessary delays and makes the app unreliable, especially during urgent situations. What actions have you taken to address this issue? There should be proper monitoring and penalties to prevent drivers from not accepting rides. Kindly look into this matter."
+    },
+    {
+        "id": "43a64c20-7d8d-4709-83ca-9ea1697dc666",
+        "date": "2026-03-28",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "very arguing drivers"
+    },
+    {
+        "id": "309d6aca-b737-436b-8965-e21e34f6de3a",
+        "date": "2026-03-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "2e93e5de-929b-4572-aad2-f8a0f60b9b74",
+        "date": "2026-03-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "11b6c4e4-045b-46bc-bb3f-0f3d18aa1993",
+        "date": "2026-03-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good app for india"
+    },
+    {
+        "id": "114f8180-91e2-4fd3-95c4-eeab4a4caa9b",
+        "date": "2026-03-28",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "supar"
+    },
+    {
+        "id": "0d7a6e8c-88cf-4c1b-aecb-21ef14be5492",
+        "date": "2026-03-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "some times it is very critical"
+    },
+    {
+        "id": "92c51c0f-db34-4ed1-a334-b6e260a281e3",
+        "date": "2026-03-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "best app"
+    },
+    {
+        "id": "1471d2ca-169f-4e90-8d90-f7f00e0d4d49",
+        "date": "2026-03-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "c539287f-be2c-4eda-8bfe-d6eea4d17a7c",
+        "date": "2026-03-26",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice ride..polite driver"
+    },
+    {
+        "id": "013e8598-b356-4dbe-99f2-df5797fc5881",
+        "date": "2026-03-26",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "rate is some high"
+    },
+    {
         "id": "fd08e84f-406e-400d-8f85-19843aff72e4",
         "date": "2026-03-20",
         "score": 1,
