@@ -1,5 +1,485 @@
 [
     {
+        "id": "e67f7c4d-6ffa-418a-b59f-d4002a181d8b",
+        "date": "2026-04-05",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good \ud83d\udc4d & quick response save driving reached a comfortable destination thank you \ud83d\ude4f affordable price"
+    },
+    {
+        "id": "d2208cff-a9c4-4824-b671-d5ef622313d5",
+        "date": "2026-04-05",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good very exlent"
+    },
+    {
+        "id": "d0f6b593-d13a-4d14-a799-03f7484faa2c",
+        "date": "2026-04-05",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "cbc14c0d-ab75-4849-b1dd-d8799756d4b8",
+        "date": "2026-04-05",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "often autos accept rides and cancel so I had to drop the rating, believe that they are not finding autos for cancellations"
+    },
+    {
+        "id": "a91db6ca-c5a5-4232-ad55-55adb96608dc",
+        "date": "2026-04-05",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "a82e106a-ad73-4b4e-8483-72331d23d26a",
+        "date": "2026-04-05",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "best service"
+    },
+    {
+        "id": "a050bad7-5700-4534-9c0e-a4ecad65b88d",
+        "date": "2026-04-05",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "economical decent safe journey"
+    },
+    {
+        "id": "9779130e-7c0f-4761-8f98-97741907b33d",
+        "date": "2026-04-05",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "We will not get bookings frequently."
+    },
+    {
+        "id": "7434bc3f-2291-4fbf-a735-3d6fea4a13aa",
+        "date": "2026-04-05",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "4921ee76-c930-462d-8767-c6aba79bb1ec",
+        "date": "2026-04-05",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "Real time booking"
+    },
+    {
+        "id": "0670e914-486d-46cd-a661-9d736f23035d",
+        "date": "2026-04-05",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good"
+    },
+    {
+        "id": "e9712c32-79e4-47bc-b018-d11d3258cb49",
+        "date": "2026-04-04",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "dangerous app no safety for people driver can do anything to you they reveal the users phone numbers as well very very dangerous don't use this save yourselves"
+    },
+    {
+        "id": "db17bbd1-fca7-4928-ae87-f6841841592d",
+        "date": "2026-04-04",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "ce6d331e-3c0a-4c84-a315-928f3d5e1cde",
+        "date": "2026-04-04",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good .but a bit charges are high."
+    },
+    {
+        "id": "cc6fc69b-48f9-4e12-8a2c-18a91865e44d",
+        "date": "2026-04-04",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Nice travel"
+    },
+    {
+        "id": "bde0a98b-98fa-4dd1-a660-732e4d149f78",
+        "date": "2026-04-04",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice"
+    },
+    {
+        "id": "8b7b5842-bf0a-4cea-8e05-52277526a039",
+        "date": "2026-04-04",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "I had a terrible experience with a driver who tried to verbally accuse.The support team contacted post 48 hours and said they would talk to the driver!Safety is a joke! I wouldn't recommend this experience for any elderly or child!"
+    },
+    {
+        "id": "810cfde4-b67e-4f26-8fb7-3508d035d7b3",
+        "date": "2026-04-04",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "sometimes drives come late and take extra charges"
+    },
+    {
+        "id": "7321d04a-d092-42c5-8759-e64b72b1cd4d",
+        "date": "2026-04-04",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "\ud83d\udc4d \ud83d\udc4d \ud83d\udc4d \ud83d\udc4d"
+    },
+    {
+        "id": "69c2ed43-87fb-4d8e-9bc7-653d2534d5c1",
+        "date": "2026-04-04",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good"
+    },
+    {
+        "id": "55679db6-5f83-4932-a6fc-2ef1e56bc024",
+        "date": "2026-04-04",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "ride happy"
+    },
+    {
+        "id": "43fcc58b-216d-4d36-bc26-2bd21d5d3025",
+        "date": "2026-04-04",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "best app"
+    },
+    {
+        "id": "3433f40a-d7f7-4f6d-b374-03854dab3c27",
+        "date": "2026-04-04",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "not working"
+    },
+    {
+        "id": "285e3637-c6ff-4742-9b6d-9b988cc68008",
+        "date": "2026-04-04",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Too Helpful ,& Perfect....."
+    },
+    {
+        "id": "20a76c9d-3253-4efe-9ca3-1062a5573c44",
+        "date": "2026-04-04",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "0 success rate on booking anything lol. failing business"
+    },
+    {
+        "id": "1e5804b4-5ad1-42d7-a2ff-123da4c652f6",
+        "date": "2026-04-04",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Customer friendly service indeed"
+    },
+    {
+        "id": "0e61acf5-2e1a-4efa-8949-e8b601b3ff4e",
+        "date": "2026-04-04",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "little bit than more waiting"
+    },
+    {
+        "id": "0812c4ee-1ba5-4059-ab0e-660313f812c3",
+        "date": "2026-04-04",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "f14ecd4b-2d95-4bdc-92f7-4c8cbb936db7",
+        "date": "2026-04-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "best"
+    },
+    {
+        "id": "a234ef96-7ff0-4750-a992-ced40505aa76",
+        "date": "2026-04-03",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "worst app"
+    },
+    {
+        "id": "85717c26-acfd-4932-bf58-b605a7a14d64",
+        "date": "2026-04-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "6bd427cf-1cd1-49b9-94f6-299465027884",
+        "date": "2026-04-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "46247219-478b-4026-a52e-5aca5eb9b771",
+        "date": "2026-04-03",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "\u0c85\u0ca4\u0cbf \u0c95\u0cc6\u0c9f\u0ccd\u0c9f\u0ca6\u0cbe\u0c97\u0cbf\u0cb0\u0cc1\u0cb5 \u0ca1\u0ccd\u0cb0\u0cc8\u0cb5\u0cb0\u0ccd...\u0cb8\u0cc6\u0caa\u0ccd\u0c9f\u0cbf \u0c87\u0cb2\u0ccd\u0cb2...\u0c92\u0c9f\u0ccd\u0c9f\u0cbe\u0cb0\u0cc6 \u0c95\u0cc6\u0c9f\u0ccd\u0c9f\u0ca6\u0cbe\u0c97\u0cbf\u0cb0\u0cc1\u0cb5 \u0cb5\u0ccd\u0caf\u0cb5\u0cb8\u0ccd\u0ca5\u0cc6..."
+    },
+    {
+        "id": "350150ff-3ced-47a3-8515-24af3a0af5e9",
+        "date": "2026-04-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good app for ride"
+    },
+    {
+        "id": "10e30538-3e78-4246-b00a-7fc4ca12f524",
+        "date": "2026-04-03",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "ride costs are more than Uber and Rabido"
+    },
+    {
+        "id": "fd2fb3f6-52d5-4254-a5f3-0e9cf8b9815c",
+        "date": "2026-04-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very nice apps"
+    },
+    {
+        "id": "ed25451e-41ef-477b-8695-16d1c0957bbb",
+        "date": "2026-04-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good experience"
+    },
+    {
+        "id": "d7c617b5-883e-443f-87f2-f9830401afc2",
+        "date": "2026-04-02",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "One thing I don't like is they are blocking the account if we cancel or drivers cancel.i am not getting what is the use the app is it designed for usage or blocking,if they keep doing like this they can't survive in the field.As a service provider,customer care people saying this time we are unblock next time we can't do.Your app can't survive without user be careful while talking to customer."
+    },
+    {
+        "id": "b32429d9-5762-4ef1-bf3f-858d7271560b",
+        "date": "2026-04-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "86b3b432-81a5-42a6-a4d6-2eb6dd28e9bb",
+        "date": "2026-04-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "I am happy"
+    },
+    {
+        "id": "7ae48924-d8d1-4955-874d-880f2c1ca6b0",
+        "date": "2026-04-02",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "really bad service in gulbarga with waste of time and ride even offering more money at night then even getting more arrogant and rude manner"
+    },
+    {
+        "id": "5feba468-3b4b-4354-9c0f-fddf14176ee9",
+        "date": "2026-04-02",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "very poor in getting booked it's taking longer time to book"
+    },
+    {
+        "id": "5c99a84c-1c7a-42dc-a0e9-f33f127cf194",
+        "date": "2026-04-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good and use full appa"
+    },
+    {
+        "id": "5a8fcdcc-1f90-4e4b-8177-90c269d2e4aa",
+        "date": "2026-04-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "great"
+    },
+    {
+        "id": "44b76508-9a23-47d7-9e3e-3a98bf61719b",
+        "date": "2026-04-02",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "best"
+    },
+    {
+        "id": "2e4f5a53-7efe-4991-942b-cb080f8a440f",
+        "date": "2026-04-02",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "repido is best option for us .."
+    },
+    {
+        "id": "2cca577f-a0ec-486e-a03a-f7fc5005403e",
+        "date": "2026-04-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "No ride available in the evening and very rare availability of drivers. Constant cancellation"
+    },
+    {
+        "id": "20f1e694-b1b8-4733-9b83-3e8b5149708f",
+        "date": "2026-04-02",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Booking an auto or taxi is a challenge with namna yatri. Other applications are better. You book and they cancel. Waste of time and energy. Better try other options."
+    },
+    {
+        "id": "1e4d48dd-cfa6-454f-80f1-1796cc279963",
+        "date": "2026-04-02",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "it is good transportation app"
+    },
+    {
+        "id": "0edfb2dc-4b68-47a2-aefb-95c7830586be",
+        "date": "2026-04-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Great app"
+    },
+    {
+        "id": "0d56f71a-8999-4ca7-9dfd-1ef50893e9d3",
+        "date": "2026-04-02",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "speed rider"
+    },
+    {
+        "id": "0340c748-b348-485d-b58d-93335486c592",
+        "date": "2026-04-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good app compare to ola uber"
+    },
+    {
+        "id": "ec20ad09-6022-40aa-beef-8647c1a7ac30",
+        "date": "2026-04-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good"
+    },
+    {
+        "id": "e34dea13-2518-4046-9c68-a23ba36d1e9c",
+        "date": "2026-04-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "da18ddd9-f7d8-4160-820f-10cea2995b93",
+        "date": "2026-04-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good app, good experience, fast availability of Autos, very good drivers, reasonable and low price, all was very smooth and very good. Note - Don't stand near the auto stands and book the rides most of the time it would get cancelled due to issues."
+    },
+    {
+        "id": "b0127e16-003b-4af4-b66c-c36c8b93d217",
+        "date": "2026-04-01",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "9ff07e4b-accd-4d4a-a735-16ddb6bdb66a",
+        "date": "2026-04-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "752f6fa0-c80e-4db1-ae2b-e124dffbc431",
+        "date": "2026-04-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "it is a goood app but could you add a rotating map feature to the maps because while going to the destination it is a bit confusing"
+    },
+    {
+        "id": "57537f31-4122-42fd-b026-b188454fc257",
+        "date": "2026-04-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "location improvement"
+    },
+    {
+        "id": "50459df7-99e7-483a-b6eb-aa30353da5b5",
+        "date": "2026-04-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "please travel with cash. No online payments only white \ud83d\udcb0"
+    },
+    {
         "id": "d549e38d-ce5f-4f84-b1aa-edca4a5b8aa0",
         "date": "2026-03-31",
         "score": 5,

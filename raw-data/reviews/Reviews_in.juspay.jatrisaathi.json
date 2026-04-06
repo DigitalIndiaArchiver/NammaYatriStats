@@ -1,5 +1,421 @@
 [
     {
+        "id": "eddca993-1b5b-4240-b303-dc9024c56f29",
+        "date": "2026-04-05",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "Good apps no doubt but sometimes take long away to book the ride. otherwise all good and convenient fare prize."
+    },
+    {
+        "id": "ebec4ea4-502f-4fc7-8527-7ce6dca7ca2c",
+        "date": "2026-04-05",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice way to handle"
+    },
+    {
+        "id": "eabfba0b-259e-4aec-89af-b9dcf125302d",
+        "date": "2026-04-05",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Quick Service."
+    },
+    {
+        "id": "e8b81b33-dae1-452c-acf9-188b2599c73b",
+        "date": "2026-04-05",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "I had a worst experience. 15days ago booked a cab from airport,booked by their own official. He put completely other dropping point not the said one. In between the way driver refused to drop and charging more money ,due to dropping point is different. said him to edit the address, told me not possible .but edit option is there.A scam is running between driver and yatrisathi officials. Driver throwing water from mouth through window, coming at my face .worst behavior I received from driver."
+    },
+    {
+        "id": "a32b4e15-11eb-44c0-ab1d-4154c9d8dd67",
+        "date": "2026-04-05",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Fare is exorbitantly high"
+    },
+    {
+        "id": "9d193bb1-9629-416e-8524-d7886bf01923",
+        "date": "2026-04-05",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good \ud83d\ude0a"
+    },
+    {
+        "id": "9a628c03-dbad-44e4-8d02-a59bf582dbc1",
+        "date": "2026-04-05",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "ok"
+    },
+    {
+        "id": "73fe27ce-9a78-4900-af4e-2195ae40c2d0",
+        "date": "2026-04-05",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "2f68dcf5-1885-4d9a-8e26-7cfd4ab438bd",
+        "date": "2026-04-05",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "doesn't have many drivers"
+    },
+    {
+        "id": "2f684d41-31f2-4c1f-afc0-30a481492438",
+        "date": "2026-04-05",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "The drivers do not switch the AC if Sedan comes instead of Mini.... rude drivers .... full of attitude....."
+    },
+    {
+        "id": "13275732-1caf-4d45-a6ed-9d1796a7e508",
+        "date": "2026-04-05",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good experience"
+    },
+    {
+        "id": "0e0d7f3f-1188-4e30-a9ca-0a9b61d36d6f",
+        "date": "2026-04-05",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good \ud83d\udc4d"
+    },
+    {
+        "id": "e2d45da2-ae1f-446e-b98b-e901a2fbbc45",
+        "date": "2026-04-04",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "cab clininess is poor"
+    },
+    {
+        "id": "d0ea5b2c-bc4d-4cd3-a312-097d528a1687",
+        "date": "2026-04-04",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Very good app."
+    },
+    {
+        "id": "ab4caa5a-46c7-4b62-bca9-7ab013c1ce79",
+        "date": "2026-04-04",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "high fare"
+    },
+    {
+        "id": "ab4855cb-edd4-4cac-8aa6-794cdc880c2c",
+        "date": "2026-04-04",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Most drivers charge extra. One is required to pay toll taxes, even though the app clearly states that the Vidyasagar Bridge toll is already included in the fare. Whenever they pick up a solo female passenger, they immediately strike up a conversation! It is a truly annoying experience."
+    },
+    {
+        "id": "9bec1f67-4413-42fd-9f38-f83c06eb8cad",
+        "date": "2026-04-04",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "best cab"
+    },
+    {
+        "id": "9423a651-771a-4dd4-9599-34e876cb24c3",
+        "date": "2026-04-04",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Yatri Sathi is good for nothing, thrice they rejected my trip n till day i opened account i never get a single trip from them,even after raising tips they cancelled my bookings.I hate Yatri Sathi once was most reliable ow absolutely unreliable.I live on property for area on road its prime position,Yatri satho stands here in d morning still rejections over app unforgivable n it like always as I say \ud83d\ude14\ud83d\ude12"
+    },
+    {
+        "id": "706933f1-a6d8-4bef-9c25-1a470d5f6fc5",
+        "date": "2026-04-04",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "high cab fare, bus tracking features not work, unreliable service in busy area like howrah, airport"
+    },
+    {
+        "id": "6987b8f4-38ac-4138-ade1-6e0bfcea2af6",
+        "date": "2026-04-04",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "gud"
+    },
+    {
+        "id": "5c478af2-ddf9-4ca4-bbe2-6ce884d159ff",
+        "date": "2026-04-04",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "22ebb177-3891-4fae-9ac1-4c6a1f05286c",
+        "date": "2026-04-04",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "excellent initiative"
+    },
+    {
+        "id": "216dbf87-f3c1-4534-8320-d2407bafbf4c",
+        "date": "2026-04-04",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "cool mind driver"
+    },
+    {
+        "id": "0525d7a1-22ff-4d3b-8c62-9f3198c13c9f",
+        "date": "2026-04-04",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good Service"
+    },
+    {
+        "id": "04ae87c7-9e54-4408-a4a4-9e319c047b62",
+        "date": "2026-04-04",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "dc1cb552-6bb6-48f6-a54e-c00691ff15a1",
+        "date": "2026-04-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Reasonable and easy to book"
+    },
+    {
+        "id": "d1300a0d-56b2-498a-b885-4b6c11b632fa",
+        "date": "2026-04-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "honest man"
+    },
+    {
+        "id": "a93eb632-6744-4776-b753-c66b5bfd58ac",
+        "date": "2026-04-03",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "91d34636-2ec8-44a1-9184-3dcf0988a598",
+        "date": "2026-04-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "7b0ff8de-ed9f-4a95-9c6f-b515b582b77d",
+        "date": "2026-04-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good"
+    },
+    {
+        "id": "769abb9d-0421-4251-b70e-88ed72fd03ee",
+        "date": "2026-04-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good service"
+    },
+    {
+        "id": "6777a53e-e286-40e7-9702-046eb48dcacf",
+        "date": "2026-04-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Best apps for driver .. Fare us good .. but Booking is Little much low ...dont worry but good apps hai"
+    },
+    {
+        "id": "5fa77fd0-16c9-49ea-94c2-d327da8df1fc",
+        "date": "2026-04-03",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "very good"
+    },
+    {
+        "id": "545491bb-13c4-4886-83ce-183876606b11",
+        "date": "2026-04-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Service is good"
+    },
+    {
+        "id": "45fe409f-9271-46a2-95fc-450f4bd260e2",
+        "date": "2026-04-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Fare rate is reasonable"
+    },
+    {
+        "id": "438b3506-0dc2-46f8-8746-04704851b215",
+        "date": "2026-04-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Excellent app for travel"
+    },
+    {
+        "id": "101e7625-632a-4b1e-924f-a067a3083133",
+        "date": "2026-04-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super"
+    },
+    {
+        "id": "fa8fdab7-9462-4bd5-8316-1b0632311b11",
+        "date": "2026-04-02",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "jo driver sab hai bangal mei iss aap ke through booking leta ye log itna badmashi krta hai passengers ko dekh kr ki agr 150\u20b9 ka booking kiya hu kisi ek jagah se dusre jagah ka aise baat krta hai ki 150-200\u20b9 kuch hai hi nhi isslye aaj feed back mei one star de rha hu mnn to tha hi nhi koi star dene ka agr yatri sathi se koi mere iss message Ko padh rha hai to iss pr kaam kro or apne drivers ko bolo ki agr 10\u20b9 ka ho 1000\u20b9 ka taxi booking ho aache se baat kre or pickup and drop dono aache se kre"
+    },
+    {
+        "id": "d140cc28-d628-46f0-8ac9-0e7ec92891e1",
+        "date": "2026-04-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "\u09a7\u09a8\u09cd\u09af\u09ac\u09be\u09a6\ud83d\ude4f\ud83d\udc95"
+    },
+    {
+        "id": "9c0e3413-a8a8-4702-a534-8276bda29bbc",
+        "date": "2026-04-02",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "It's the worst app ever...app has features like edit trip which doesn't work, driver doesn't arrive but the app shows waiting and we are charged waiting charges. Route distance is wrong."
+    },
+    {
+        "id": "9a1ad87d-033e-4b00-896a-e89402dbcf37",
+        "date": "2026-04-02",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "maintain timing and well behaved"
+    },
+    {
+        "id": "7335f7fe-ec0c-4807-a326-d264f1052185",
+        "date": "2026-04-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good service"
+    },
+    {
+        "id": "68a3d47e-f657-4bd3-a276-00b8b64a3337",
+        "date": "2026-04-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "government of West Bengal \u2764\ufe0f"
+    },
+    {
+        "id": "32651a75-31e6-4bb0-9200-e7adf9e2c2f4",
+        "date": "2026-04-02",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "such a bad app service . reported one concern long back no one contacted me and closed the issue without resolving and took my money."
+    },
+    {
+        "id": "08e0b8a9-c039-468c-89c5-0976c63ce74a",
+        "date": "2026-04-02",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "time taking in the queue but cheap"
+    },
+    {
+        "id": "ec0857ec-0138-43bc-98de-3bda273631a6",
+        "date": "2026-04-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "I stucked at Kolkata Airport at 1 am when no other apps like Uber or Ola or Rapido was accepting my ride. At the peak Moment,Yatri Sathi was booked in a matter of seconds with no extra charges\ud83d\ude07\ud83d\ude07 Thanks West Bengal Govt. for taking such an important step in savings the drivers as well as riders from exploitation \ud83d\ude4f\ud83d\ude4f"
+    },
+    {
+        "id": "b92ae0c8-592d-4d5e-8554-52564a542ff1",
+        "date": "2026-04-01",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "waiting charge is excessive...they charge for every 1min standing... literally not fair...please correct this!! For every 5mins they literally increase fair by 6 rupees ...no other platform charge that much money"
+    },
+    {
+        "id": "69d2e6c5-339b-45a7-83bd-1c158a14f63e",
+        "date": "2026-04-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good"
+    },
+    {
+        "id": "663a3046-73e0-47b7-a06c-41396e706c3f",
+        "date": "2026-04-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "driver reached on time"
+    },
+    {
+        "id": "40ba9dd7-3dec-4818-b6ca-ac3d57946955",
+        "date": "2026-04-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good service"
+    },
+    {
+        "id": "22fa2db9-317f-4070-b186-c4f19ea2ff98",
+        "date": "2026-04-01",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "Why are some invoices missing? How can I retrieve them?"
+    },
+    {
+        "id": "16cbbe82-a9c5-49c2-880d-1a517b3e060e",
+        "date": "2026-04-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
         "id": "ef93c4dd-bafb-4357-b8c1-bec0de638844",
         "date": "2026-03-31",
         "score": 5,
