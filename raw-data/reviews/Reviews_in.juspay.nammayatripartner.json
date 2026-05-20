@@ -1,5 +1,319 @@
 [
     {
+        "id": "77da290f-feb9-4a0d-a0c7-8200fbddf3e5",
+        "date": "2026-05-19",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "very bad. 120 270 Toll 120 Pick up charges 270 Customer payment 1076. Driver earnings 686 only very bad \ud83d\udc4e"
+    },
+    {
+        "id": "298f0fb0-9bea-4e6e-b06e-dfbe3bf2778e",
+        "date": "2026-05-19",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super \ud83d\udc4d"
+    },
+    {
+        "id": "d08ad12e-e446-4df6-87ef-d1a1467426e0",
+        "date": "2026-05-18",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "\u0cb8\u0cc2\u0caa\u0ccd\u0caa\u0cb0\u0ccd"
+    },
+    {
+        "id": "c48280ee-e78f-47c3-9777-7190bcd10d74",
+        "date": "2026-05-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice"
+    },
+    {
+        "id": "a1cdd53d-cc45-41e5-8f51-01e66b4e1969",
+        "date": "2026-05-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice"
+    },
+    {
+        "id": "1f03cb5b-e45e-486a-aa86-dbce20e0571e",
+        "date": "2026-05-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good"
+    },
+    {
+        "id": "11023db8-e41b-486a-93d3-0f54a64c8808",
+        "date": "2026-05-18",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "e1326b10-c0a1-4a0a-a619-f3a01e25d407",
+        "date": "2026-05-17",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "b42f0555-a5a3-4099-865e-660a8c25b5a7",
+        "date": "2026-05-17",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "superb"
+    },
+    {
+        "id": "8b6ebe5e-56ce-46a8-bdaa-07e5b34f6fec",
+        "date": "2026-05-17",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "725133c9-ea62-4fe9-af3b-b301675d7246",
+        "date": "2026-05-17",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Nice"
+    },
+    {
+        "id": "098a9547-dcc0-41d3-83d5-f27a95723ed6",
+        "date": "2026-05-17",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "ok"
+    },
+    {
+        "id": "e92fa794-b055-4fea-8c7d-fcb98b4ada64",
+        "date": "2026-05-16",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "d4184fb5-a6ed-4784-a1f2-b40038c3fc03",
+        "date": "2026-05-16",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super"
+    },
+    {
+        "id": "c2451e9f-1823-493e-8f1b-f8dc4a4e1410",
+        "date": "2026-05-16",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good service"
+    },
+    {
+        "id": "addd7af1-cfe0-4bb6-a068-b1241ffc83a9",
+        "date": "2026-05-16",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "No trips, no customers only advertisement, 4 months once one trip received, picup distance is long drop distance is short so sad......",
+        "vaf_never_display_ads_experience": null,
+        "vaf_never_display_ease_of_use": null
+    },
+    {
+        "id": "8a1b395c-1800-4a36-a5db-2a860dbdd471",
+        "date": "2026-05-16",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "778b503b-49fb-4dd1-9359-a13bf207f99e",
+        "date": "2026-05-16",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super"
+    },
+    {
+        "id": "765cf0e6-8e0b-4867-9bd4-142c3421510f",
+        "date": "2026-05-16",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "548662f7-6477-41c6-a4cb-d14950496185",
+        "date": "2026-05-16",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good"
+    },
+    {
+        "id": "2f7bb265-96c0-415c-9570-0d83d7b547da",
+        "date": "2026-05-16",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "ok"
+    },
+    {
+        "id": "fd6f24ef-164e-4271-8b45-020089b5b6fe",
+        "date": "2026-05-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good"
+    },
+    {
+        "id": "ea179d53-e5c4-427e-b28f-3d39000c0b89",
+        "date": "2026-05-15",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "very very low bookings"
+    },
+    {
+        "id": "ddc1e11e-8f86-43ea-bf9b-f64edb0ddc4a",
+        "date": "2026-05-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice"
+    },
+    {
+        "id": "d0f08be9-8b50-418f-bbbe-2f7398938730",
+        "date": "2026-05-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Namma yatri made me live good because before I was struggling job and work very very thanks to all unit of namma yatri and I have one request for the unit of namma yatri I need same sticker and curtains of namma yatri I am going namma yatri office but i didn't got any sticker I am happy because I completed 1000 trips of namma yatri this was great for me thanks again to namma yatri"
+    },
+    {
+        "id": "8e2a1d4f-1f09-4963-a835-3242dc4195c8",
+        "date": "2026-05-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good"
+    },
+    {
+        "id": "8cfb24c7-81ab-4e53-af3d-971a4d283ac3",
+        "date": "2026-05-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice app"
+    },
+    {
+        "id": "6987857d-736c-41bd-a697-faaa40d234aa",
+        "date": "2026-05-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "49f1d859-a145-422d-a1d2-42e6822ef53b",
+        "date": "2026-05-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "44c4a784-7089-4fd5-b466-ba2c87a27884",
+        "date": "2026-05-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "ok"
+    },
+    {
+        "id": "0c103e64-988b-4aee-8119-341bed21051c",
+        "date": "2026-05-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "f5023ede-e866-49f2-8e3e-833bc82b9e0b",
+        "date": "2026-05-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good service"
+    },
+    {
+        "id": "e38ab7df-459d-4b23-85ea-223fe5704775",
+        "date": "2026-05-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "badaf073-cc1f-4fc1-980c-a49a20765dc8",
+        "date": "2026-05-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice"
+    },
+    {
+        "id": "b93309ea-824b-46e7-bcda-efd5584ccce5",
+        "date": "2026-05-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "715e9902-42e5-40eb-bc12-fb77f0d6596d",
+        "date": "2026-05-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good \ud83d\udc4d"
+    },
+    {
+        "id": "66f3d031-701b-4b2a-8a73-54bc4d564b1d",
+        "date": "2026-05-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super hero"
+    },
+    {
+        "id": "5a9e0c6a-2f17-458b-8eba-19735989064b",
+        "date": "2026-05-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "ok"
+    },
+    {
+        "id": "53b3c369-e2e8-4d53-bbba-84ceb5c2276f",
+        "date": "2026-05-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Most of public still don't know about this app.Kindly implement in all cities."
+    },
+    {
         "id": "f7cb55d1-d8a3-4b1b-8232-37868f036bbd",
         "date": "2026-03-31",
         "score": 5,
