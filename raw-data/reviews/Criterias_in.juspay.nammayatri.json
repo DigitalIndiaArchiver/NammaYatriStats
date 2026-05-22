@@ -1,4 +1,7 @@
 {
+    "vaf_app_quality_performance": 1,
+    "vaf_app_quality_battery_heat": 1,
+    "vaf_app_quality_stability": 1,
     "vaf_never_display_spend_more_time": 29,
     "vaf_never_display_difficult_to_use": 48,
     "vaf_never_display_visually_bad": 45,
