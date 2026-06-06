@@ -1,6 +1,7 @@
 {
-    "vaf_app_quality_stability": 2,
-    "vaf_app_quality_ads_frequency": 1,
+    "vaf_app_quality_stability": 3,
+    "vaf_app_quality_battery_efficiency": 1,
+    "vaf_app_quality_ads_frequency": 2,
     "vaf_app_quality_performance": 3,
     "vaf_app_quality_usability": 1,
     "vaf_app_quality_ads_intrusiveness": 1,
