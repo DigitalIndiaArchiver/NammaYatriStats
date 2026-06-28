@@ -1,10 +1,10 @@
 {
-    "vaf_app_quality_visual_appeal": 1,
+    "vaf_app_quality_visual_appeal": 2,
+    "vaf_app_quality_stability": 6,
+    "vaf_app_quality_performance": 5,
     "vaf_app_quality_ads_intrusiveness": 2,
-    "vaf_app_quality_stability": 5,
     "vaf_app_quality_battery_heat": 3,
     "vaf_app_quality_ads_presence": 1,
-    "vaf_app_quality_performance": 4,
     "vaf_app_quality_battery_efficiency": 1,
     "vaf_app_quality_ads_frequency": 2,
     "vaf_app_quality_usability": 1,
