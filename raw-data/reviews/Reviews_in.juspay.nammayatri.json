@@ -1,5 +1,526 @@
 [
     {
+        "id": "f9f5c155-50ca-415e-b2f0-0e3b396e8a4c",
+        "date": "2026-07-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good service"
+    },
+    {
+        "id": "d7999fd8-2c5a-41a5-9aa3-a3bd75397a5d",
+        "date": "2026-07-28",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Driver behaviour is not good"
+    },
+    {
+        "id": "d5c7a3a2-e34a-498e-822a-33ced8c401e3",
+        "date": "2026-07-28",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "thanks \ud83d\ude4f\ud83d\ude4f\ud83d\ude4f namma yatri app"
+    },
+    {
+        "id": "c3e736fb-00b6-444d-b85f-e9aa39e4fd9a",
+        "date": "2026-07-28",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "now Namma Yatri has done some good things on this like faster bookings compar to ola and this show some affordable booking price which is nice."
+    },
+    {
+        "id": "b16c5bd5-3bf1-489b-a401-eb515a58d33b",
+        "date": "2026-07-28",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "sometimes fare is higher than other apps"
+    },
+    {
+        "id": "9d04f687-1688-428b-87cf-e30f6cbe12a8",
+        "date": "2026-07-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "wow"
+    },
+    {
+        "id": "7dc3ed5d-d1ad-46a6-9a3b-895a4c596c68",
+        "date": "2026-07-28",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "please improve your technology and server map is not showing correct to arriving everytime is technical issue"
+    },
+    {
+        "id": "5f176c8f-959b-4ef3-acde-1ea66ba0ce9a",
+        "date": "2026-07-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good service"
+    },
+    {
+        "id": "3abd5954-f21e-4c11-80ed-96eec0dfdad0",
+        "date": "2026-07-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good driving"
+    },
+    {
+        "id": "269e42ab-e1d0-4229-b7c5-900ceef5af46",
+        "date": "2026-07-28",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "I dont get why ppl just agree n then we have to just naturally wait n ltr they randomly cancel it.. bad .. and even the location address is given wrongly n those auto drivers randomly scold us \ud83d\ude44 I hope this issue resolves",
+        "vaf_app_quality_visual_appeal": 2,
+        "vaf_app_quality_stability": 1,
+        "vaf_app_quality_usability": 1
+    },
+    {
+        "id": "17e83a64-6811-4e52-8b55-10a5b0e67308",
+        "date": "2026-07-28",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "0109dfd3-202e-431d-bd2f-a59fc6d0a3d5",
+        "date": "2026-07-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "helpful app"
+    },
+    {
+        "id": "fdfb5c32-68ea-4a2c-8d8e-ddfe08049646",
+        "date": "2026-07-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good \ud83d\udc4d"
+    },
+    {
+        "id": "fd55e0a7-e1a0-4217-9730-53e9b293b62e",
+        "date": "2026-07-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good best for"
+    },
+    {
+        "id": "ddc179b0-eeb9-4bf2-b4b7-c36777cda21b",
+        "date": "2026-07-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super"
+    },
+    {
+        "id": "d70e8ac6-7568-476f-a80c-541a40ad4bc2",
+        "date": "2026-07-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "c75cb599-a16d-4863-82c0-a0d9ff0def0a",
+        "date": "2026-07-27",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "very nice"
+    },
+    {
+        "id": "a6ec7a2f-02ab-4c3d-9399-eda00567a34e",
+        "date": "2026-07-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good comfortable"
+    },
+    {
+        "id": "90ac9bc0-c169-4f1a-9b44-9184879635ef",
+        "date": "2026-07-27",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "very useful \ud83d\ude42 sarvice thanks \ud83d\ude4f"
+    },
+    {
+        "id": "90002192-ec28-4d92-bbeb-c6398d3f9c8f",
+        "date": "2026-07-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good service"
+    },
+    {
+        "id": "85e016f2-56cf-44eb-ba04-4e7cc8cb978e",
+        "date": "2026-07-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good \ud83d\udc4d"
+    },
+    {
+        "id": "710ee7a5-9dfe-418f-a8f5-fa57e8f738d1",
+        "date": "2026-07-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Nice app .Fast response and helps with customization"
+    },
+    {
+        "id": "603f36d9-318b-40fb-b6c7-c9000ec10fbc",
+        "date": "2026-07-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "fastest cab booking app , I'm really impressed"
+    },
+    {
+        "id": "4207573e-2057-44af-9313-8d7d6d73e01a",
+        "date": "2026-07-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice"
+    },
+    {
+        "id": "3e557913-2ac9-4483-83a8-468464d8d308",
+        "date": "2026-07-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "1b59416b-9298-4fcf-bed6-9b623a9ddcfd",
+        "date": "2026-07-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice for tourists travels"
+    },
+    {
+        "id": "c0a681bc-73a2-4ab1-8399-203fe11ae6ad",
+        "date": "2026-07-26",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Application is crashing moments after its being opened. I can't able to use the app at all"
+    },
+    {
+        "id": "be311d2f-d1cc-43a6-b583-28364aa27a76",
+        "date": "2026-07-26",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good Service"
+    },
+    {
+        "id": "7b338c46-2c5e-4b32-b59d-73df1126e9eb",
+        "date": "2026-07-26",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good \ud83d\udc4d"
+    },
+    {
+        "id": "4267737e-4b3f-4c75-a493-a07ea523d251",
+        "date": "2026-07-26",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Excellent car & comfortable driving. Like individualized otp ."
+    },
+    {
+        "id": "ee5385bb-b6ee-47b8-a9e9-65bc3b9fa2a1",
+        "date": "2026-07-25",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "too much of coast"
+    },
+    {
+        "id": "ddc43a7c-0eef-4f42-ac04-a337dd313fab",
+        "date": "2026-07-25",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "b9c33e5f-a169-4d87-9211-4c77cd60839f",
+        "date": "2026-07-25",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "very nice"
+    },
+    {
+        "id": "aff060a2-3d8e-4e50-bac2-a7b85fd038cd",
+        "date": "2026-07-25",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "hoo good X"
+    },
+    {
+        "id": "89654bf4-08cb-40e7-828f-a2528afc0532",
+        "date": "2026-07-25",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good service"
+    },
+    {
+        "id": "84dbaade-80b1-4c92-8092-0c740de62715",
+        "date": "2026-07-25",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very nice"
+    },
+    {
+        "id": "6de12103-0e54-44aa-81e2-e155ba99b649",
+        "date": "2026-07-25",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "the most horrible experience i had in the taxi booking. initially the fare shown was 413rs and a route in namma yatri app. later the driver decided to go on his own route using the google maps(which is not our fault). later toll came and he told its customer who has to pay,we can't argue with driver midway. toll fee was 55rs. what shocked me was when I arrived at destination the price in app shows 574rs. nicely scammed by app saying we traveled extra distance and put that charge on us.",
+        "vaf_app_quality_performance": 2,
+        "vaf_app_quality_stability": 2,
+        "vaf_app_quality_ads_presence": 1
+    },
+    {
+        "id": "207d8456-5226-43b5-a6be-b62e1219e459",
+        "date": "2026-07-25",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good \ud83d\udc4d"
+    },
+    {
+        "id": "0e9d5108-d7ed-42d5-8286-d417e263aeb6",
+        "date": "2026-07-25",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "0673e4c3-30e6-41eb-9b6a-60f34c6eef1f",
+        "date": "2026-07-25",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good. service"
+    },
+    {
+        "id": "ddbe9f22-7803-495f-88f2-25ee2056c05f",
+        "date": "2026-07-24",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "high price"
+    },
+    {
+        "id": "c28abae0-dcad-4a5b-a24c-d245a7e1a538",
+        "date": "2026-07-24",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good aap \ud83d\ude03\ud83d\ude00"
+    },
+    {
+        "id": "c10fef08-286f-48b0-ad50-1e851d9064c1",
+        "date": "2026-07-24",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good service for passengers...."
+    },
+    {
+        "id": "b5d971cc-b257-463b-ac7f-f794a1a5c983",
+        "date": "2026-07-24",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Worst app ever. I got cheated by driver . He asked 4900 for 3008 bill. He told it's Permit bill for TN permit. when I checked it's only 390 only. He refused to share inter state Permit bill and also the toll charges. He blankly demanded money and ask to raise complaint. Horrible experience with Namma Yatri, doesn't have dedicated phone line to raise issue , there chat line is off since a week. no replies at all. Such a frustrating experience this is . Call back else am raising this issue to"
+    },
+    {
+        "id": "a3432547-bf80-4bc9-a68b-cd1f58064cd8",
+        "date": "2026-07-24",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "9dea4c7a-a97a-47c1-8216-b58c811bd43a",
+        "date": "2026-07-24",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Drivers are arguing if we are not able to cancel the ride"
+    },
+    {
+        "id": "820da8d1-1790-497a-a73f-9a2c9f5b6fe3",
+        "date": "2026-07-24",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice app"
+    },
+    {
+        "id": "546a96bc-453a-4ccd-8a65-756039ccc328",
+        "date": "2026-07-24",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "thank you for your service provider"
+    },
+    {
+        "id": "246df2b7-43f8-4e76-a5a9-bf81186073c8",
+        "date": "2026-07-24",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good \ud83d\udc4d"
+    },
+    {
+        "id": "223f1732-eb19-4e82-a9dd-ebb7583c1d02",
+        "date": "2026-07-24",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good rides every day and time i have taken but the problem is that the price is increasing every day and perhaps it is challenging for the reason this app exists."
+    },
+    {
+        "id": "0a77cf7e-d822-41d2-a5a9-09c18f9a9d66",
+        "date": "2026-07-24",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "had a very good ride!"
+    },
+    {
+        "id": "f0dc05ad-ceee-4bcb-9f06-1a0b187bfbe9",
+        "date": "2026-07-23",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good but rate extra"
+    },
+    {
+        "id": "b36840e2-047b-4f7d-9076-5375090aade7",
+        "date": "2026-07-23",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very easily booked, very very polite driver and supporting staff at airport too. thanks to namma yatri"
+    },
+    {
+        "id": "b184302e-126a-434c-b59c-c0f8f255e336",
+        "date": "2026-07-23",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good"
+    },
+    {
+        "id": "9e9d60e1-b133-48d2-9d49-4eaece43f405",
+        "date": "2026-07-23",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Such a useless app,It's become same like other Taxi apps, same drama, same cancelations, same unwanted waiting and same waste of time. From best to Worst. Now I am switching back to Uber, which seems far better responsive."
+    },
+    {
+        "id": "985ff1b5-96ca-453d-be98-3b3cb4a6c85c",
+        "date": "2026-07-23",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice"
+    },
+    {
+        "id": "73663cd6-f25b-4b34-9a3f-755c35d4fd66",
+        "date": "2026-07-23",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice experience"
+    },
+    {
+        "id": "5ad1cd22-ae31-4c23-8e71-dcb76b17a70e",
+        "date": "2026-07-23",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "waste app in india only hidden and more charges compare to others waste app ,faulty ceo and founder n teams"
+    },
+    {
+        "id": "4cc7d157-4b0f-47f6-94a4-e6130cf94934",
+        "date": "2026-07-23",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "3f933b06-925f-4f2f-996e-ce5ff430eb38",
+        "date": "2026-07-23",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good ..need to get drivers quickly for ride.."
+    },
+    {
+        "id": "1c7333ea-8d9c-4916-9794-551c6e496da7",
+        "date": "2026-07-23",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "Certain locations are shown incorrectly to drivers despite my pinning the point accurately. I have had to pay extra multiple times due to this. For remote areas and by lanes, this is still acceptable, but certainly not for areas like Manyata Tech Park. Also, if a booking takes a long time, the fact of whether or not a ride has been confirmed vs the user having to re-initiate a booking, needs improvement; it's not always clear on the UI.",
+        "vaf_app_quality_ads_presence": 1,
+        "vaf_app_quality_usability": 1,
+        "vaf_app_quality_battery_efficiency": 3
+    },
+    {
+        "id": "115039c9-f588-43d2-9a91-3f75536fedaf",
+        "date": "2026-07-23",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good yatra"
+    },
+    {
+        "id": "0a2e42dd-879e-4b55-a631-c9d9e55b8ee2",
+        "date": "2026-07-23",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good"
+    },
+    {
+        "id": "0770bde1-7b57-4d4f-81eb-10af32f86304",
+        "date": "2026-07-23",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
         "id": "98023fae-75ba-42c7-a8a0-a6f8642e55df",
         "date": "2026-07-21",
         "score": 5,
