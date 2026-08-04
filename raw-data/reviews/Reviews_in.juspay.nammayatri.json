@@ -1,11 +1,379 @@
 [
     {
+        "id": "dda94acb-ca47-4699-9302-51360d2fc294",
+        "date": "2026-08-03",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "There is a terrible bug. When I add a destination 1 then click add stop. Destination 2. Then swapnil destination 1 and 2 and book ride. it still takes the first setting before swap. This can cause huge problems."
+    },
+    {
+        "id": "dcf3bf21-ea46-44a9-8dba-9cd53e9e4c3c",
+        "date": "2026-08-03",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "it's not about launching the app alone you must be capable of providing the support as well at the right time. a driver took an additional 1000 rupees and while reporting, it's been 4 days so far no reply."
+    },
+    {
+        "id": "d09c7c19-63a4-48cc-8f8e-4eaf817a4844",
+        "date": "2026-08-03",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "ok service is better"
+    },
+    {
+        "id": "9f076eda-5ade-482a-8ec8-1b963fdf69d5",
+        "date": "2026-08-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "best experience"
+    },
+    {
+        "id": "825c1a36-ede0-4a0d-a1b3-25c85bcdbce1",
+        "date": "2026-08-03",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "auto are coming very fast"
+    },
+    {
+        "id": "0e666cba-9e46-4b12-a0b4-bf6ae24545b9",
+        "date": "2026-08-03",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "fa243063-ca1d-4b3e-9e10-f22a6c4c3074",
+        "date": "2026-08-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice"
+    },
+    {
+        "id": "f5d9f1df-d3df-48cd-9cd8-96a9ae7276c2",
+        "date": "2026-08-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Awesome"
+    },
+    {
+        "id": "f55102c1-7fda-4097-815d-589ee5e19be5",
+        "date": "2026-08-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice \ud83d\udc4d"
+    },
+    {
+        "id": "ed82fdde-a475-4f6e-aac1-0e7c901d5670",
+        "date": "2026-08-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "superb"
+    },
+    {
+        "id": "ab8ba2f5-f943-4244-8899-bea079cd4951",
+        "date": "2026-08-02",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "Namma yatri don't have a recourse mechanism. Drivers have started the habit of dropping people in the middle of the trip."
+    },
+    {
+        "id": "9d010a6b-ebd3-40e8-aed4-fcd86980d571",
+        "date": "2026-08-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super"
+    },
+    {
+        "id": "9c9cf2bd-d4e2-4a07-979c-3679ab469053",
+        "date": "2026-08-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super \ud83d\udc4d"
+    },
+    {
+        "id": "99330ef5-eea2-4afe-9588-2a72ffb3d925",
+        "date": "2026-08-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good \ud83d\udc4d ride on time"
+    },
+    {
+        "id": "8420f0df-fcbc-45a5-bcbf-1e29ec6d40ed",
+        "date": "2026-08-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "7749d3a1-d029-46c7-acda-ac714a9dd93d",
+        "date": "2026-08-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Excellent"
+    },
+    {
+        "id": "73138045-931a-45a1-bf7e-88bbae4dc74f",
+        "date": "2026-08-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "6e3c8788-7492-4a18-9ca5-1b17f051eb3c",
+        "date": "2026-08-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good person \ud83d\udc4d"
+    },
+    {
+        "id": "6a159465-00c6-4eb8-9b86-5fee3e92bfcd",
+        "date": "2026-08-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good"
+    },
+    {
+        "id": "591fc7a4-a53c-43ff-bef8-2c43d1a93501",
+        "date": "2026-08-02",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "waste customer care , they will. not solve your problem."
+    },
+    {
+        "id": "2654f5f2-ebc4-43b2-be45-583a7637ffd0",
+        "date": "2026-08-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "0fe9baf7-9060-4eb1-89ab-a06d6f17d4eb",
+        "date": "2026-08-02",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good app for riding"
+    },
+    {
+        "id": "0de16d12-fa96-45a5-bd3f-ed12443f9586",
+        "date": "2026-08-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nise \ud83d\ude42"
+    },
+    {
+        "id": "0d59fc3c-63b1-40cc-9de3-c0bc1b7c9165",
+        "date": "2026-08-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "please be strict on ride cancellation always ride cancellation done by drivers without reason and we are waiting for them simple waisting time"
+    },
+    {
+        "id": "09047aee-fef8-4d67-8875-d08589b5d776",
+        "date": "2026-08-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Nice app. Drivers prefer namma yatri so you can book a ride sooner here."
+    },
+    {
+        "id": "ef9c3ac7-d194-41d1-b04f-8e0b62a02678",
+        "date": "2026-08-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "I always got an auto. never got a rejection \ud83d\udc4d. very nice."
+    },
+    {
+        "id": "df9fe4aa-9fe1-4620-a983-4dda87c3fde4",
+        "date": "2026-08-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very patient drivers"
+    },
+    {
+        "id": "dd65a02b-b54f-4eeb-bf27-d8be7d505cfb",
+        "date": "2026-08-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "\ud83d\ude0a\ud83d\ude0a"
+    },
+    {
+        "id": "d0bc2159-0062-4135-acbc-6846105e0a0f",
+        "date": "2026-08-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "cc983425-f8e2-447d-a2bb-d0d4b5c7b93b",
+        "date": "2026-08-01",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "add extra waiting time"
+    },
+    {
+        "id": "bd207777-5bc7-40e5-89be-8476646ef570",
+        "date": "2026-08-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "a4d17614-dda0-45e2-8600-e4e675d856d9",
+        "date": "2026-08-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very nice service"
+    },
+    {
+        "id": "a2e7c577-1d83-4c1d-8db8-912eb4250c9b",
+        "date": "2026-08-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice \ud83d\udc4d\ud83d\ude42 my favourite yatri"
+    },
+    {
+        "id": "9a4a2935-1f3f-42d9-8987-a51390ada52f",
+        "date": "2026-08-01",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "expensive"
+    },
+    {
+        "id": "812951e6-6e1c-472a-8619-db836287273d",
+        "date": "2026-08-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "7821f132-980c-4e50-8f8c-07655097db3b",
+        "date": "2026-08-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "73c64be4-9e11-4692-bd56-2834101863e2",
+        "date": "2026-08-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "best"
+    },
+    {
+        "id": "70b53b25-23c7-45dc-909f-68add0c47f02",
+        "date": "2026-08-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice"
+    },
+    {
+        "id": "5f705695-6c9e-4020-911c-0e743a2d8cd3",
+        "date": "2026-08-01",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "very very poor ride app anytime anyway any location not driver not auto waiting for many more Times wait for very very worst for the this ride app"
+    },
+    {
+        "id": "547ed16f-527c-46a9-b750-e2aa75119488",
+        "date": "2026-08-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good service, good experience"
+    },
+    {
+        "id": "50ba85b1-92a5-4a91-ada0-8554518eb584",
+        "date": "2026-08-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good service"
+    },
+    {
+        "id": "3d1aabdf-a974-4176-920d-021dfb040b43",
+        "date": "2026-08-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice"
+    },
+    {
+        "id": "10d29452-03b7-4443-8ce2-867b96d4df0c",
+        "date": "2026-08-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "074d0875-dd84-497f-ab18-0ff8883e2f38",
+        "date": "2026-08-01",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good\ud83d\udc4d"
+    },
+    {
+        "id": "06c5838b-3bc5-471e-bbea-4446b0b174e8",
+        "date": "2026-08-01",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "It is very Low cost and they will pick and drop on the time and suitable to travel they take very care fully and I was very happy to ride on nammayatri \u2764\ud83d\udc90\ud83d\ude07\ud83d\ude07\u2764"
+    },
+    {
         "id": "d541e41a-bdc9-4b1e-8718-a8cbb4855265",
         "date": "2026-07-31",
         "score": 5,
         "scoreText": "5",
         "title": null,
         "text": "very \ud83d\udc4d"
+    },
+    {
+        "id": "d220a136-d7f6-4fda-9ff1-9c677e0357e9",
+        "date": "2026-07-31",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very helpfull and no time wasted Great Experience.. \ud83d\udc4d"
     },
     {
         "id": "abb2c8d2-b2bc-455f-a7fd-181d4f7066dd",
