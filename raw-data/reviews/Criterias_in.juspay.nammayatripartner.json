@@ -1,4 +1,11 @@
 {
+    "vaf_app_quality_ads_presence": 1,
+    "vaf_app_quality_battery_heat": 2,
+    "vaf_app_quality_ads_intrusiveness": 3,
+    "vaf_app_quality_performance": 2,
+    "vaf_app_quality_usability": 1,
+    "vaf_app_quality_ads_frequency": 2,
+    "vaf_app_quality_stability": 1,
     "vaf_never_display_ads_experience": 102,
     "vaf_never_display_ease_of_use": 104,
     "vaf_never_display_app_description": 7,
