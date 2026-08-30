@@ -1,11 +1,376 @@
 [
     {
+        "id": "f9a5faae-3dfa-479c-bcd5-c6b9155deec5",
+        "date": "2026-08-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "f1114d62-4e97-467d-bcf5-74e3ee15101b",
+        "date": "2026-08-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good aap"
+    },
+    {
+        "id": "d37778f6-73f9-45ea-a0a8-195fb841e086",
+        "date": "2026-08-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice service"
+    },
+    {
+        "id": "c9eac265-0a42-434a-aa91-b42e134f6f3b",
+        "date": "2026-08-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super ride"
+    },
+    {
+        "id": "c7beccff-9b8a-4e01-9f05-0efc82cb6263",
+        "date": "2026-08-29",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Worst app trying to book since 45 mins not one auto comes and multiple drivers cancel"
+    },
+    {
+        "id": "c5cba358-1e30-4f31-a261-79b2363d3c00",
+        "date": "2026-08-29",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good \ud83d\udc4d"
+    },
+    {
+        "id": "379129de-d2b1-40c5-9882-6a27a0cf855c",
+        "date": "2026-08-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Best and good good"
+    },
+    {
+        "id": "31cd697b-a7ec-4e79-bb05-c2cff740cf36",
+        "date": "2026-08-29",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "once cab is booked, my parents boarded gave otp travelled to some distance and then driver said the app has cancelled the ride. so I will take you to the address mentioned. pay me the same amount which was prescribed in the app... is this a new scam??? how are we sure that the driver will take the ride safe? how can we track something which we booked? how will the ride gets cancelled once boarded and gone to some extent? pls hire drivers who are worth!! these scams are getting too much nammayatr"
+    },
+    {
+        "id": "293bd2a9-1f92-420a-aef0-ab283f6b38c8",
+        "date": "2026-08-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "First impression is the best impression.. keep going... \u2764\ufe0f"
+    },
+    {
+        "id": "1fd95458-c995-4654-ae6e-7a7bd618a9e0",
+        "date": "2026-08-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "sometimes the ride is asked to be canceled"
+    },
+    {
+        "id": "1099a712-aa01-4b51-b0d7-67e8e679a618",
+        "date": "2026-08-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "ok"
+    },
+    {
+        "id": "0de66889-3211-4afb-a4c1-593a4ab00da1",
+        "date": "2026-08-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "0c720b33-1b91-4307-8c43-954c2d792db9",
+        "date": "2026-08-29",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "thank"
+    },
+    {
+        "id": "f45fb025-3a87-432f-9234-e2c7ce6f4649",
+        "date": "2026-08-28",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "super"
+    },
+    {
+        "id": "e9a3902e-b16e-4219-9564-5c5366ef3d79",
+        "date": "2026-08-28",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "had worst experience drivers accept our requests only to cancel after 20 minutes of waiting"
+    },
+    {
+        "id": "d9481451-97a3-4423-a7dd-0a668b069c0d",
+        "date": "2026-08-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Very good service"
+    },
+    {
+        "id": "cdf46554-16c1-4eb5-a8c1-b3f20feeec73",
+        "date": "2026-08-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very nice"
+    },
+    {
+        "id": "c4852cee-c0d5-4b1a-8cfb-cdcf718300b2",
+        "date": "2026-08-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "supervb app"
+    },
+    {
+        "id": "bc27dc02-8983-454b-a9ea-381fd5263ff0",
+        "date": "2026-08-28",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Bad Experience I had a very unpleasant experience with the driver. The fare shown in the app was \u20b9251, but the driver demanded \u20b9280 and insisted on taking the additional amount. Despite the hot weather, the driver did not switch on the AC during the ride. When requested, he refused to turn it on. It was disappointing to be charged more than the fare shown in the app and, at the same time, not receive the basic service expected from an AC ride. I request Namma Yatri to look into thi"
+    },
+    {
+        "id": "ba5fae7e-508a-4d32-9b25-358416c13aeb",
+        "date": "2026-08-28",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "This comment is in 2023: The prices are increased drastically and no support too. It's best to go with other apps. Today Aug'26: Even today the prices are sooper high compared to all the app based service providers."
+    },
+    {
+        "id": "b3769375-1cdc-41be-8c67-1e2bd51c9135",
+        "date": "2026-08-28",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "no one does not pick up",
+        "vaf_app_quality_performance": 2,
+        "vaf_app_quality_battery_heat": 1,
+        "vaf_app_quality_ads_frequency": 1
+    },
+    {
+        "id": "ad24583c-1391-4b60-94d4-afec3c95c6c0",
+        "date": "2026-08-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "ok"
+    },
+    {
+        "id": "5d0d215a-7f2a-48b9-9241-afa01cc35b68",
+        "date": "2026-08-28",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "very bad there is a huge cheating going on by the some drivers operaating specially in Kalburgi"
+    },
+    {
+        "id": "50e85d67-28ab-4414-96af-1e24a4aadf50",
+        "date": "2026-08-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super"
+    },
+    {
+        "id": "4c6cf238-39f1-4e2a-bc9b-4f12b589140a",
+        "date": "2026-08-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good behavior happy"
+    },
+    {
+        "id": "466752af-4c86-4047-a724-a53934aaf87d",
+        "date": "2026-08-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "41e11006-72c8-4a3d-9704-ba4536636121",
+        "date": "2026-08-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "3a3eb523-1991-4b60-8ba0-fdfc7c7796a4",
+        "date": "2026-08-28",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "Taking too long to confirm the trip, and once taken cancelled by the drivers. wasting my time"
+    },
+    {
+        "id": "3a0e4e08-d904-4960-81bb-5b629610797a",
+        "date": "2026-08-28",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Worst customer care.They don't respond. Unsafe practices Help Section doesn't respond"
+    },
+    {
+        "id": "35975310-74e9-48dd-b18c-6bdb4bd2f739",
+        "date": "2026-08-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "yeah sure"
+    },
+    {
+        "id": "242c9be4-cdde-4788-8a22-5c0df23248bf",
+        "date": "2026-08-28",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "need lots of improvements in service. 1. The refund given gets added as wallet cash which can't be used for booking the next rides which makes the money useless 2. The autowalas are still asking for more money than the amount shown when booked 3. Getting a ride in 5 mins isn't correct"
+    },
+    {
+        "id": "1508824a-0931-428a-825d-01c9c2974d8d",
+        "date": "2026-08-28",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good human being. best wishes to come and earn properly and positively with customer friendly always. keep going and best wishes to him."
+    },
+    {
+        "id": "fad3da1a-99bd-4bbf-848e-16573b3f07e1",
+        "date": "2026-08-27",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "\ud83d\udc4e"
+    },
+    {
+        "id": "f816b631-d98a-466f-b0a0-3eab43b3b573",
+        "date": "2026-08-27",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good",
+        "vaf_app_quality_performance": 1,
+        "vaf_app_quality_stability": 2
+    },
+    {
+        "id": "e1861ed1-4ba9-4f0d-a7ae-fbd0fb04e7ac",
+        "date": "2026-08-27",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Timepass drivers and the worst service. They cancel the ride as soon as they reach the pickup location, making us wait for 15\u201320 minutes. Imagine not being able to find an auto or any other ride in Basavanagudi after that."
+    },
+    {
+        "id": "cd857384-29b9-4d73-8c5d-a9acf4dd94ae",
+        "date": "2026-08-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "b776be92-0e41-43ad-bfcb-0a291ca526bd",
+        "date": "2026-08-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good service"
+    },
+    {
+        "id": "acd5a922-a4ed-4440-9ebb-32d23d8f02a9",
+        "date": "2026-08-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "8dd5a873-71f9-4e68-93ff-b13f81a96deb",
+        "date": "2026-08-27",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "more bugs than features"
+    },
+    {
         "id": "85e96e25-5d82-4a20-93c7-76b3a4f7142b",
         "date": "2026-08-27",
         "score": 4,
         "scoreText": "4",
         "title": null,
         "text": "good"
+    },
+    {
+        "id": "6791d540-3cf9-44b5-a2e3-193eef12f280",
+        "date": "2026-08-27",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Auto driver will not pickup the ride in peak hours like school time, office time, for rs 51 ride rs 55 tips are suggested in the app. Totally passenger must suffer. No more motto of customer are important, making money is important."
+    },
+    {
+        "id": "5a0d2ec0-6beb-4d96-8b84-b5ce972a728e",
+        "date": "2026-08-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good experience"
+    },
+    {
+        "id": "4dd46c22-6758-4298-a361-5751e9522c09",
+        "date": "2026-08-27",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "drop off not updated"
+    },
+    {
+        "id": "3d00e87a-823e-44a9-8776-fbcb783a9348",
+        "date": "2026-08-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "1bf346eb-7507-4e73-b442-2b5e933eeb91",
+        "date": "2026-08-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Very much competitive prices. service is very Good."
+    },
+    {
+        "id": "18be80ac-3d9d-43b2-b2b5-78e7e01d418a",
+        "date": "2026-08-27",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very helpful job"
     },
     {
         "id": "0f7223e9-99e5-4f81-896e-e27fcbbea6fb",
