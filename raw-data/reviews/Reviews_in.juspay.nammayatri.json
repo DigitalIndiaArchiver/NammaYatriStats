@@ -1,5 +1,592 @@
 [
     {
+        "id": "fb205c51-a9c6-4b86-8e19-23179552e07e",
+        "date": "2026-09-07",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "fast and easy"
+    },
+    {
+        "id": "d3adde85-f467-4e05-b290-31c33fddbf6b",
+        "date": "2026-09-07",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "When Namma Yatri started, the driver said he wouldn't charge Rs 1 from the fare, but now he's charging Rs 25. It's all business."
+    },
+    {
+        "id": "bf6202db-375a-4202-b757-bfa107818b3d",
+        "date": "2026-09-07",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good safe ride and on time reached"
+    },
+    {
+        "id": "bdf37708-f8ca-47ad-8ada-8aff089d8fa6",
+        "date": "2026-09-07",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good app."
+    },
+    {
+        "id": "ba7eb517-7b36-4b7c-92f3-5b25e3afe096",
+        "date": "2026-09-07",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "the prices are too expensive and autos take too much time to accept rides",
+        "vaf_app_quality_performance": 2,
+        "vaf_app_quality_ads_intrusiveness": 1,
+        "vaf_app_quality_stability": 1
+    },
+    {
+        "id": "a13c2cd6-4487-46ed-8b11-ed0c16d8ef2c",
+        "date": "2026-09-07",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good \ud83d\udc4d"
+    },
+    {
+        "id": "9babaaaf-19a2-4684-8353-2a107dc9431b",
+        "date": "2026-09-07",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice \ud83d\udc4d"
+    },
+    {
+        "id": "8cb37655-c7ea-4c13-90ce-783f8f962ccb",
+        "date": "2026-09-07",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "auto come only in once other than it auto expired come why? find out the solution."
+    },
+    {
+        "id": "7ac7ac45-21e7-487e-bb03-783fa9c994d1",
+        "date": "2026-09-07",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "The app seems to be giving competitive price but most of the drivers demand atleast 50 Rs extra offline.. Drivers rule here.. Namma Yatri doesn't have any control over driver's behaviour.. I had an incident with an arrogant driver who was abusing me coz the app pinned the pick up location behind the building I was waiting at. I have given the proof and raised a complaint and explained in detail in the call.. they closed the incident stating they will take \"appropriate steps\" for avoid in future"
+    },
+    {
+        "id": "758f3d0a-10f4-4901-9100-5c73c1f913cb",
+        "date": "2026-09-07",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "excellent service"
+    },
+    {
+        "id": "717a4024-8610-49fb-bae3-a1b31be700a3",
+        "date": "2026-09-07",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "no problem in extra amount."
+    },
+    {
+        "id": "6452c64b-27aa-4392-9899-186ac4f871e7",
+        "date": "2026-09-07",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good \ud83d\udc4d"
+    },
+    {
+        "id": "585be2cd-3afb-44d1-ac96-8eb00b454538",
+        "date": "2026-09-07",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super"
+    },
+    {
+        "id": "5715df1c-8633-409b-a70e-57f9ab132bb7",
+        "date": "2026-09-07",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "thank you"
+    },
+    {
+        "id": "56641558-8012-4000-bd2e-694b185f9a7a",
+        "date": "2026-09-07",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "4db03d8a-6a04-49b2-83ee-faf9d92af030",
+        "date": "2026-09-07",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good service"
+    },
+    {
+        "id": "44e96345-eb16-4e68-980f-fc1551945aec",
+        "date": "2026-09-07",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "ok"
+    },
+    {
+        "id": "3d878cc9-b596-419a-9ba8-8015517d8a56",
+        "date": "2026-09-07",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "overall good. but few drivers are demanding extra money"
+    },
+    {
+        "id": "200ce5aa-1e74-471b-98f3-fdbecc0c9178",
+        "date": "2026-09-07",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "15caaca8-195a-43cb-bf4b-fad8896bd581",
+        "date": "2026-09-07",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "0aa1c3df-18d1-4ce5-bffa-7e9ed2e9c065",
+        "date": "2026-09-07",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "your pricer are becoming exorbitant. like 30 to 40 rupees more compared to rides on other services for the same exact route. sometimes more. this is during peak hours. not how you acquire market share."
+    },
+    {
+        "id": "bdac70a5-2ce3-4d21-9c69-a1cd38c10206",
+        "date": "2026-09-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Every Thing ok"
+    },
+    {
+        "id": "a882160c-4d2a-4f40-ba2f-8ba5a7bb32e7",
+        "date": "2026-09-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "thanku so much namma yatri ur nice \ud83d\udc4d"
+    },
+    {
+        "id": "8ae43f27-8492-483f-a773-2a2028f20ae9",
+        "date": "2026-09-06",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "i didn't show many locations"
+    },
+    {
+        "id": "6dc0d673-e37e-4293-bd93-f54ce5291035",
+        "date": "2026-09-06",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "drivers don't ever take rides through this app. sometimes I wonder why I downloaded it to begin with."
+    },
+    {
+        "id": "53f0ac21-d384-4bc7-8ba6-4d3a5fdc8920",
+        "date": "2026-09-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "46441058-4d07-4b2b-8afe-e155fcfc644b",
+        "date": "2026-09-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice super"
+    },
+    {
+        "id": "42ecdfd2-71a5-4345-aa3a-fc4cf6d6f964",
+        "date": "2026-09-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "first response,less charges compair to other."
+    },
+    {
+        "id": "3ee919e4-6815-40e3-8372-6a281998f692",
+        "date": "2026-09-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "ok good"
+    },
+    {
+        "id": "3e727e7b-3722-44af-ad5d-19a10b9d7c55",
+        "date": "2026-09-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "121a9e0a-975a-49b3-ad04-4b049319e664",
+        "date": "2026-09-06",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good Service"
+    },
+    {
+        "id": "ea8a2078-b79b-41e2-9869-8896d2a556db",
+        "date": "2026-09-05",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "worst app"
+    },
+    {
+        "id": "e92fc15e-59e8-4f42-8fdc-a09cbeae8e12",
+        "date": "2026-09-05",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super drivar"
+    },
+    {
+        "id": "e700380c-5b58-4f1b-b0a7-a819d081a1ec",
+        "date": "2026-09-05",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice \u263a\ufe0f"
+    },
+    {
+        "id": "e22776d3-67d6-4aff-9207-09d09622f387",
+        "date": "2026-09-05",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "never book auto in namma yatri frauds,"
+    },
+    {
+        "id": "df61615a-b427-4d2d-9107-f27b4d4ae22c",
+        "date": "2026-09-05",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "d6ce28b8-a0b8-4a0c-abc4-0e8b0d2264f6",
+        "date": "2026-09-05",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "drivers don't accept the rides"
+    },
+    {
+        "id": "a83fec3f-9859-409a-bd6a-7be397a1a43a",
+        "date": "2026-09-05",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "fares aren't dynamic which is good, unlike other services where extra charges come as a surprise, so, keep it up!"
+    },
+    {
+        "id": "80112a32-62d0-4303-9d99-dcfe00709df9",
+        "date": "2026-09-05",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "poor experience. could not book a single driver"
+    },
+    {
+        "id": "729d9d37-e69a-4b87-ba8b-522906d04351",
+        "date": "2026-09-05",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "\ud83d\udc4d\ud83d\ude0a good sarves"
+    },
+    {
+        "id": "6ee5660a-a15b-4735-8d53-318e31760ad0",
+        "date": "2026-09-05",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good for commute"
+    },
+    {
+        "id": "4d4799d3-a510-4df4-9fcd-5ad03d3f3d2d",
+        "date": "2026-09-05",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "4b6c3088-000b-401e-9af2-3fc0c376d5af",
+        "date": "2026-09-05",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "extra charge"
+    },
+    {
+        "id": "2c5e7165-809d-4ef1-8486-6f9fa01fb430",
+        "date": "2026-09-05",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "This app is waste whn it's emergency no one is accepting the orders"
+    },
+    {
+        "id": "174ed901-3941-4fa4-919f-9fbb1d9acb58",
+        "date": "2026-09-05",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Waste app not a single ride booked",
+        "vaf_app_quality_performance": 2,
+        "vaf_app_quality_ads_presence": 1,
+        "vaf_app_quality_stability": 2
+    },
+    {
+        "id": "17049d7f-ebbd-42bd-9a66-d2827a5a3c59",
+        "date": "2026-09-05",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good service"
+    },
+    {
+        "id": "eb038b7e-97a9-494b-8834-57bd57bc2984",
+        "date": "2026-09-04",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "EXCELLENT GREAT SERVICE FRIENDLY SERVICE"
+    },
+    {
+        "id": "e4a1c897-e7fb-45de-86aa-4c64f1935d2c",
+        "date": "2026-09-04",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "best app for cab"
+    },
+    {
+        "id": "c96425aa-854d-4206-b700-b38457d443e4",
+        "date": "2026-09-04",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "not good"
+    },
+    {
+        "id": "a6abf159-6453-4bfd-ba77-c8be57ff6c90",
+        "date": "2026-09-04",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "giving fast ride"
+    },
+    {
+        "id": "7c3c60d1-19b2-4457-b057-dfce927a40ee",
+        "date": "2026-09-04",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good"
+    },
+    {
+        "id": "59e46df2-7f3c-4394-88d8-1641c997b421",
+        "date": "2026-09-04",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "3f5b5403-02a4-495b-b5b2-5d8956dc2615",
+        "date": "2026-09-04",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good service"
+    },
+    {
+        "id": "fe6c817d-7796-4cfe-9fc8-30b02229b448",
+        "date": "2026-09-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "its very useful and good"
+    },
+    {
+        "id": "f6345984-b107-44e5-aa75-f242ef3f307d",
+        "date": "2026-09-03",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "c64c6186-f88f-4f0b-837f-08d8a77cc90a",
+        "date": "2026-09-03",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good us full for mee"
+    },
+    {
+        "id": "7ffdd6f1-eb18-4577-8b31-9ef5e65173d9",
+        "date": "2026-09-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good"
+    },
+    {
+        "id": "1b9e6f59-fee5-4d30-82ad-5cd9a6512314",
+        "date": "2026-09-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good service"
+    },
+    {
+        "id": "1aad9897-dbda-414e-bb7c-ca72b1bbe6dc",
+        "date": "2026-09-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super rider Driver discipline,"
+    },
+    {
+        "id": "1371ea46-81c0-42b0-84ca-374d3d8f6ed6",
+        "date": "2026-09-03",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice"
+    },
+    {
+        "id": "fa40644c-8f1a-4ff3-8185-fb3f0cffdd0a",
+        "date": "2026-09-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "The best \ud83d\udc4c"
+    },
+    {
+        "id": "fa29b85d-98c3-4e69-8d8c-4f4df30ccb59",
+        "date": "2026-09-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "cd8b9e81-6be4-409a-8906-79575294dc2c",
+        "date": "2026-09-02",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "this namma yatri auto drivers are taking to much time and he is also collecting more amounts\ud83d\ude21very bad"
+    },
+    {
+        "id": "c6dbf246-2ee3-4005-a004-c544ca2b564a",
+        "date": "2026-09-02",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "auto doesn't book waiting period is longer n app demanding high price"
+    },
+    {
+        "id": "af12eb9f-dac6-42d8-ab6f-d4bdc257876e",
+        "date": "2026-09-02",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good \ud83d\udc4d"
+    },
+    {
+        "id": "a34ead11-0767-451a-94be-884db00732dd",
+        "date": "2026-09-02",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "9a9a5c20-29b5-4496-8f45-fd20d93abea1",
+        "date": "2026-09-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good",
+        "vaf_app_quality_visual_appeal": 1,
+        "vaf_app_quality_ads_intrusiveness": 1,
+        "vaf_app_quality_ads_frequency": 1
+    },
+    {
+        "id": "73e200de-e136-4c3a-b147-7976985a3673",
+        "date": "2026-09-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good \ud83d\udc4d",
+        "vaf_app_quality_battery_efficiency": 1,
+        "vaf_app_quality_ads_frequency": 2
+    },
+    {
+        "id": "5da2616d-2435-45e1-a082-879c450d5bb3",
+        "date": "2026-09-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "ok"
+    },
+    {
+        "id": "4743bb8d-ee72-4f91-b197-0f51746d4776",
+        "date": "2026-09-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good ride"
+    },
+    {
+        "id": "287308d2-be2e-425a-b672-a1eb2aecc01f",
+        "date": "2026-09-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "best app"
+    },
+    {
+        "id": "019d39aa-ab60-4580-bbec-507274e5e0f8",
+        "date": "2026-09-02",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
         "id": "f9a5faae-3dfa-479c-bcd5-c6b9155deec5",
         "date": "2026-08-29",
         "score": 5,
