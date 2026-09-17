@@ -1,5 +1,562 @@
 [
     {
+        "id": "a52f5e89-64f1-4a7e-b269-79a7d3f02bbd",
+        "date": "2026-09-16",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "96028f3d-8a12-4fb6-804b-2e252bdabc22",
+        "date": "2026-09-16",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "It's the taking the longest path possible to increase the rates . clown app . don't use. no bike rides also . slow and sluggish. Thier auto driver's are so rude .",
+        "vaf_app_quality_visual_appeal": 2,
+        "vaf_app_quality_battery_efficiency": 1,
+        "vaf_app_quality_performance": 2
+    },
+    {
+        "id": "9310b97d-bf24-4f90-872a-b9d8a492a8e6",
+        "date": "2026-09-16",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "In bangalore at peak time they send only priority request to drivers/captains. Captains used to complain about this. Not serving people genuinely, bad experience."
+    },
+    {
+        "id": "8f8d452e-dc2b-46a4-9c68-305618c550f6",
+        "date": "2026-09-16",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "upcharging too much during non-peak hours"
+    },
+    {
+        "id": "7ae2af2d-d86d-4851-a8ab-cabf8517e318",
+        "date": "2026-09-16",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "map problem"
+    },
+    {
+        "id": "79db0f7a-1c96-4707-a804-b13916fe085e",
+        "date": "2026-09-16",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "download nahi ho raha hai",
+        "vaf_app_quality_battery_heat": 2
+    },
+    {
+        "id": "77ad92c6-f60d-41cd-8366-f67ff0480e0d",
+        "date": "2026-09-16",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Worst drivers in Namma Yatri. I have selected the drop location, driver has asked me to go from other route I agreed for it, and then after 5 minutes he stopped auto and asked me more money when I questioned him he started fighting with me, I said whatever will app shows after ride complete I will pay to you and then started shouting at me and , he abused me and then dropped me in the mid of way. I was with my 2year old kid. I have raised this complain to app but till now no resolution happened."
+    },
+    {
+        "id": "673b2042-ad46-4515-aa54-4e8768c68e82",
+        "date": "2026-09-16",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "always prices are too high as compared to rapido and uber,cannot think of booking in this app"
+    },
+    {
+        "id": "52726514-8b17-45d7-ae58-40590e79bdf5",
+        "date": "2026-09-16",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "sugar"
+    },
+    {
+        "id": "38a8bc5b-88df-42da-a457-be50f44888dc",
+        "date": "2026-09-16",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "very bad app",
+        "vaf_app_quality_usability": 2,
+        "vaf_app_quality_stability": 1,
+        "vaf_app_quality_ads_presence": 1
+    },
+    {
+        "id": "37148e98-f3cd-4b7e-a07f-19c951ac7c75",
+        "date": "2026-09-16",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "book at your own risk,if you get any issue with the ride ,there is no customer support option to get that resolved,no one answered back till now in my case"
+    },
+    {
+        "id": "12fe7a74-0b4c-468a-95f9-cad1e7d38398",
+        "date": "2026-09-16",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice driver"
+    },
+    {
+        "id": "e2c2133c-09fe-4ca0-a031-a23d55f2db4b",
+        "date": "2026-09-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "b960e809-9d5d-4250-a742-29367586fe5d",
+        "date": "2026-09-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good Service"
+    },
+    {
+        "id": "8618717d-05a7-4eed-82a2-a5529f221071",
+        "date": "2026-09-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good app"
+    },
+    {
+        "id": "83344a65-44be-4f58-a911-95a6320214a9",
+        "date": "2026-09-15",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "Auto malfunctioned at k r puram.. and I am charged only 50 rs less then actual fare(458 rs out of 512)... I had to book another ride for 250+ rs again to reach my destination. How is it fair? help and support section of app is useless. it doesn't even let me raise a concern."
+    },
+    {
+        "id": "68084c2d-b1a1-4058-9686-fa933b36c1ef",
+        "date": "2026-09-15",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "poor app never gets book"
+    },
+    {
+        "id": "56e93530-4cc8-41a7-975c-6a4cd5042c21",
+        "date": "2026-09-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "on time and driver Anna good \ud83d\udc4d\ud83d\udc4d"
+    },
+    {
+        "id": "3cf2caea-f1ea-4a3c-b94b-4908d7a0750c",
+        "date": "2026-09-15",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "it happened twice if the raider accepts he won't come to the pickup point and when called either phone will be switched off or not reachable and if they pick up and we need to change drop location by 500m to 1 km they won't accept or it won't reflect to the, and they will accept and when called they will say can't come to your location cancel raid and sometimes they ask for extra money very bad experience compared to other apps",
+        "vaf_app_quality_ads_intrusiveness": 2,
+        "vaf_app_quality_usability": 2
+    },
+    {
+        "id": "2927a727-52f8-4a5f-a9aa-863403177790",
+        "date": "2026-09-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice"
+    },
+    {
+        "id": "147433c8-8d62-405a-8943-77a36c83cad1",
+        "date": "2026-09-15",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good for poor people"
+    },
+    {
+        "id": "135d5f25-75ad-4082-8d84-056f2082f1c9",
+        "date": "2026-09-15",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "pathetic app.It shows wrong location to driver and these illiterates argue and abuse customers about not using correct location. First fix the location accuracy. Even when we put exact place and building name,drivers are not able come to exact location. They have audacity to argue with customer even when our app shows that their are not at correct place"
+    },
+    {
+        "id": "12eca539-ef73-4018-8270-aac29881951e",
+        "date": "2026-09-15",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "High rate"
+    },
+    {
+        "id": "fb5fd9f4-2d0c-4beb-8c54-71477ae25e8c",
+        "date": "2026-09-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Best drive"
+    },
+    {
+        "id": "eed68990-f64e-4d67-beeb-1b638780f875",
+        "date": "2026-09-14",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "e418e92c-a733-4dff-a102-f34cd508dd17",
+        "date": "2026-09-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super"
+    },
+    {
+        "id": "ddbe9f22-7803-495f-88f2-25ee2056c05f",
+        "date": "2026-09-14",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "All the drivers are here at 4 am near Majestic but no one accepts the trip because they demand a higher price. Is the services only for auto drivers only?"
+    },
+    {
+        "id": "cd97ccec-1a2f-4e03-92de-ca7194c41c73",
+        "date": "2026-09-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good work"
+    },
+    {
+        "id": "c3d2feb6-b41c-4885-a122-af53c57594ad",
+        "date": "2026-09-14",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "I book an auto through the app and waited for around 10 minutes for the driver to arrive. However, after reaching my destination, the app showed that I had to pay additional waiting charges. If the driver had actually been waiting for me for 10 minutes, I would understand and be willing to pay the extra amount. But in this case, I was the one waiting for the driver, and I was still charged waiting fees. This is completely unfair and frustrating. Please check your waiting-time calculation system",
+        "vaf_app_quality_performance": 2
+    },
+    {
+        "id": "a7b78c8b-7205-44bc-9fcb-eaea4ac90e2c",
+        "date": "2026-09-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good alternative to the dominant ride-hailing apps with reasonable fares."
+    },
+    {
+        "id": "985ee955-8893-4d37-b2c7-c218e8645415",
+        "date": "2026-09-14",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Horrible experience with the app. would NEVER recommend. Booked a trip 24 hours prior, and Driver was allotted the next day (boasted the usual 0% cancelations etc.) And then they canceled 15 mins before the ride. With no alternate arrangements in place. No alternate driver/ ride on place. I missed my flight because l couldn't find another arrangement. And there's not even a forum to complain or seek redressal because they do not have cancelation issues, they claim. Have some shame."
+    },
+    {
+        "id": "6a024c4d-7557-47e6-8625-8ee80a71087c",
+        "date": "2026-09-14",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "Recently a new issue has come up with this app. If the driver send a message as arrived in the app, then automatically Waiting charge starts to calculate. This problem I faced 2 times in a week. the ride was away in the tracker, but driver sent message as arrived and waiting charges started increasing. Second problem is that it automatically starts booking ride if I cancel the ride due to some reason. Therefore now I have uninstalled the app."
+    },
+    {
+        "id": "63219ef6-9071-42aa-8fc2-a79c4bdb5816",
+        "date": "2026-09-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "3dd29af2-d40b-4582-8979-6a3b7cbf076f",
+        "date": "2026-09-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Good, reaches in time"
+    },
+    {
+        "id": "29e1860d-e0ea-45b7-b26f-e582a8811fcf",
+        "date": "2026-09-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "2914ab81-2c80-4b1e-b807-2efcbb886fc7",
+        "date": "2026-09-14",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "250a37b1-4d60-4621-bcd0-337beab98aee",
+        "date": "2026-09-14",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good response"
+    },
+    {
+        "id": "1d98d666-7dd1-4963-88ce-ac64871413d8",
+        "date": "2026-09-14",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "There is an auto charge involved, and the driver asks for an extra amount."
+    },
+    {
+        "id": "e2be1e77-77cb-4fe4-87ee-92bf2da0681b",
+        "date": "2026-09-13",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "ae773e92-95b5-4f96-8c8e-408fa54e033b",
+        "date": "2026-09-13",
+        "score": 3,
+        "scoreText": "3",
+        "title": null,
+        "text": "good ride"
+    },
+    {
+        "id": "a7be3944-c7e3-48d4-871d-71927837d684",
+        "date": "2026-09-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Every Bangalorean must take a ride with NAMMA YATRI"
+    },
+    {
+        "id": "8f017634-a885-49af-b849-50480f2dab1f",
+        "date": "2026-09-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "Very good experience \ud83d\udc4c\ud83d\udc4c\ud83d\udc4c\ud83d\udc4c\ud83d\udc4c"
+    },
+    {
+        "id": "8b488d37-ea4f-4dfa-ad8f-16b153ef4a01",
+        "date": "2026-09-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good \ud83d\ude0a"
+    },
+    {
+        "id": "876ace52-4b8d-4cb0-8ad9-f612c3b474dc",
+        "date": "2026-09-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very very good in namma yatri"
+    },
+    {
+        "id": "7acb2c2b-b861-4607-97c7-941b0d7363dd",
+        "date": "2026-09-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "\u0cb8\u0cc2\u0caa\u0cb0\u0ccd \u0cb8\u0cb0\u0ccd\u0cb5\u0cbf\u0cb8\u0ccd"
+    },
+    {
+        "id": "7773bed8-e62d-4a81-8e40-1ba3d4701ee6",
+        "date": "2026-09-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "nice"
+    },
+    {
+        "id": "76ef1ade-36c0-43b1-b4e1-ec6654f91ac3",
+        "date": "2026-09-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "best price available for good \ud83d\ude0a"
+    },
+    {
+        "id": "2bb05a8e-2dc4-4e54-bb37-cd4ef6db2e89",
+        "date": "2026-09-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good app"
+    },
+    {
+        "id": "1bc30bb9-5b0d-483e-b117-62a4902cd9b1",
+        "date": "2026-09-13",
+        "score": 2,
+        "scoreText": "2",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "1a2818da-5d04-4e1f-ad5e-393771f4c5d7",
+        "date": "2026-09-13",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good \ud83d\udc4d"
+    },
+    {
+        "id": "e3645515-18a0-492d-a9fe-d87a7db7cca9",
+        "date": "2026-09-12",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "b4ebc340-1ea1-4659-bd18-58189e27968e",
+        "date": "2026-09-12",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good work"
+    },
+    {
+        "id": "b41497a5-cd89-42d9-ac61-13c4e5aba59b",
+        "date": "2026-09-12",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good \ud83d\udc4d",
+        "vaf_app_quality_stability": 1,
+        "vaf_app_quality_visual_appeal": 1,
+        "vaf_app_quality_ads_frequency": 1
+    },
+    {
+        "id": "a6ef337c-a973-487a-a416-1bee658c0015",
+        "date": "2026-09-12",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good app"
+    },
+    {
+        "id": "8634cf15-3a60-48ab-830c-dbaecb7a115b",
+        "date": "2026-09-12",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "\u0c86 \u0c85\u0ca8\u0cbf\u0caf\u0c82\u0ca4\u0ccd\u0cb0\u0cbf\u0ca4 \u0c97\u0cc1\u0c82\u0caa\u0cc1\u0c97\u0cb3 \u0ca8\u0ca1\u0cc1\u0cb5\u0cc6 \u0ca8\u0cbf\u0cb0\u0ccd\u0ca7\u0cbe\u0cb0\u0cbf\u0ca4 \u0ca6\u0cc1\u0ca1\u0ccd\u0ca1\u0cc1 \u0ca4\u0cc6\u0c97\u0cc6\u0ca6\u0cc1\u0c95\u0cca\u0c82\u0ca1\u0cc1 \u0cb8\u0cc7\u0cb5\u0cc6 \u0c95\u0cca\u0ca1\u0cb2\u0cc1 \u0cac\u0c82\u0ca6 \u0c88 \u0cb5\u0ccd\u0caf\u0cb5\u0cb8\u0ccd\u0ca5\u0cc6 \u0cac\u0cc6\u0c82\u0c97\u0cb3\u0cc2\u0cb2\u0cc7\u0ca4\u0cb0 \u0cae\u0cb9\u0cbe\u0ca8\u0c97\u0cb0\u0c97\u0cb3\u0cbf\u0c97\u0cc6 \u0cb8\u0ccd\u0cae\u0cbe\u0cb0\u0ccd\u0c9f\u0ccd \u0cab\u0ccb\u0ca8\u0ccd \u0ca4\u0c82\u0ca4\u0ccd\u0cb0\u0c9c\u0ccd\u0c9e\u0cbe\u0ca8 \u0c95\u0cca\u0c9f\u0ccd\u0c9f \u0c85\u0ca4\u0ccd\u0caf\u0c82\u0ca4 \u0c85\u0cae\u0cc2\u0cb2\u0ccd\u0caf \u0caf\u0cbe\u0caa\u0cc1 \u0c87\u0ca6\u0cc7."
+    },
+    {
+        "id": "1958ccfd-4d77-40b2-b737-c5235a6261a3",
+        "date": "2026-09-12",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "047ac8f6-8379-4eac-aef0-39b39ccf3f9d",
+        "date": "2026-09-12",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "good \ud83d\udc4d"
+    },
+    {
+        "id": "ebfe094f-9ead-43d3-8342-005477958c17",
+        "date": "2026-09-11",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "The best app, simple and easy to use. love it\ud83d\ude0d"
+    },
+    {
+        "id": "d813cfac-f384-4f37-9fcb-f6ac17fe5461",
+        "date": "2026-09-11",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "super"
+    },
+    {
+        "id": "d1c94111-b75a-4198-92f8-e228c4449c19",
+        "date": "2026-09-11",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "best app"
+    },
+    {
+        "id": "cb8eaef5-3dff-4889-b232-929ad49f53d0",
+        "date": "2026-09-11",
+        "score": 1,
+        "scoreText": "1",
+        "title": null,
+        "text": "This was my go to app before but now most of my bookings get cancelled. The worst experience was, I booked a return trip to my home on a friday evening and as the wait time was long it got cancelled. But after about half hour, it started to book by itself by the time I had alredy booked and started in another. It was booked 3 times out of which 2 times I got yelled at badly as they thought i was double booking. It only stopped after i logged out of my profile. Please see this does not happen"
+    },
+    {
+        "id": "c7311fe6-80f0-4b27-91d9-3b1ea8504ca0",
+        "date": "2026-09-11",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "good"
+    },
+    {
+        "id": "c404eca5-5513-4bbf-861a-ecf7c509f582",
+        "date": "2026-09-11",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "very good"
+    },
+    {
+        "id": "b26b3b5f-bb8d-47fe-9479-f936b2747ff7",
+        "date": "2026-09-11",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "ok"
+    },
+    {
+        "id": "8b41cf91-24cf-407d-afa5-820c4a5baa4f",
+        "date": "2026-09-11",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "NammaYatriAuto.C...ON.\u26a1"
+    },
+    {
+        "id": "5cb92666-fb5d-456a-a4b7-a8a65b8dfcdd",
+        "date": "2026-09-11",
+        "score": 4,
+        "scoreText": "4",
+        "title": null,
+        "text": "App is great but intercity round trip pickup date and time , Return date and time not mentioned. Only one Way Trip mentioned , Please update okay. Add multiple stops option for tea break in hotel for passenger and driver if needed.For upcoming update."
+    },
+    {
+        "id": "1e6be045-eaf0-49c2-aae4-3b4ad17b0e73",
+        "date": "2026-09-11",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "great initiative, thank you"
+    },
+    {
+        "id": "09ab2d56-57ff-41bb-84c1-95505e8579d9",
+        "date": "2026-09-11",
+        "score": 5,
+        "scoreText": "5",
+        "title": null,
+        "text": "safe driving"
+    },
+    {
         "id": "b9d04c63-c1ce-4bb2-ac4f-5a1b787b424c",
         "date": "2026-09-08",
         "score": 5,
